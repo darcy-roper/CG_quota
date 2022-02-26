@@ -1,4 +1,5 @@
 # opens event lists and writed into new txt file
+# this combines only the male event ranking data into 1 txt file 
 
 path = "/Users/newmac/Desktop/Programs and Code/"
 

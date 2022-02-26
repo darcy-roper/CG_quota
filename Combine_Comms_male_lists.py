@@ -1,4 +1,5 @@
 # opens event lists and writes into new txt file
+# this combines only the female comms ranking data into 1 txt file 
 
 path = "/Users/newmac/Desktop/Programs and Code/"
 
