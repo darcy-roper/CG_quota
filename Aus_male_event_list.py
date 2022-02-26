@@ -40,7 +40,7 @@ event_list = [event100, event200, event400, event800, event1500, eventSC, event5
 while True:
     for item in event_list:
         event = item
-        sys.stdout = open('/Users/newmac/Desktop/NFT collection/Programs and Code/AUS_male' + '_' + event + '.txt', 'wt')
+        sys.stdout = open('/Users/newmac/Desktop/Programs and Code/AUS_male' + '_' + event + '.txt', 'wt')
         #print("Athlete Name", ":", "DOB", ":", "Event List", ":", "Event Score", ":", "Event Rank in Australia", ":", "Perf_1", ":", "Perf_2", ":", "Perf_3", ":", "Perf_4", ":", "Perf_5", ":", "Dt_1", ":", "Dt_2", ":", "Dt_3", ":", "Dt_4", ":", "Dt_5")
         #bot for clicking cookie button and opening row1
         PATH = Service("/Applications/chromedriver")
