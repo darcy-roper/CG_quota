@@ -35,6 +35,8 @@ eventX7 = str("heptathlon")
 event20kw = str("10000-metres-race-walk")
 eventMAR = str("marathon")
 # make list from variables [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, eventX7, event20kw, eventMAR
+# we use this comment list above to quickly paste in or over below list to begin running program from an event 
+# without rewriting all the events starting from event100 if that event executed correctly
 event_list = [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, eventX7, event20kw, eventMAR]
 
 
@@ -79,6 +81,8 @@ while True:
                 nat_check = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text
             except:
                 break
+            # these if/try statements check the athlete is Australian
+            # If false add 1 to the counter in order to move through the list to the next ranked athlete
             if nat_check == "AUS":
                 try:
                     clicked_row = athlete_tab.click()

@@ -34,7 +34,9 @@ eventHT = str("hammer-throw")
 eventX10 = str("decathlon")
 event20kw = str("20km-race-walking")
 eventMAR = str("marathon")
-# make list from variables [
+# make list from variables [ ]
+# we use this comment list above to quickly paste in or over below list to begin running program from an event 
+# without rewriting all the events starting from event100 if that event executed correctly
 event_list = [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event110H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, eventX10, event20kw, eventMAR]
 
 
@@ -46,7 +48,7 @@ while True:
         #bot for clicking cookie button and opening row1
         PATH = Service("/Applications/chromedriver")
         driver = webdriver.Chrome(service=PATH)
-        driver.get("https://www.worldathletics.org/world-rankings/" + event + "/men?regionType=country-group&region=commonwealth%20games&page=1&rankDate=&limitByCountry=3")  # EVENT URL LIMITED TO 4 PER COUNTRY
+        driver.get("https://www.worldathletics.org/world-rankings/" + event + "/men?regionType=country-group&region=commonwealth%20games&page=1&rankDate=&limitByCountry=3")  # URL filters 4 per country
         time.sleep(0.5)
         cookie_button = driver.find_element(By.XPATH, '/html/body/div[7]/div')
         cookie_button.click()
