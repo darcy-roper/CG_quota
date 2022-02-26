@@ -13,3 +13,5 @@ Objectives for project development:
   - fully automate above processes to achieve the desired results. Reducing margin for human error and data sorting mistakes
   - update webscraping program files to pull data from https://www.worldathletics.org/records/toplists/ 
   - better reflect the selection policy rules instead of relying on world ranking points system 
+
+Adding new line on VS code
