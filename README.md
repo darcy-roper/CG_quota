@@ -14,4 +14,3 @@ Objectives for project development:
   - update webscraping program files to pull data from https://www.worldathletics.org/records/toplists/ 
   - better reflect the selection policy rules instead of relying on world ranking points system 
 
-Adding new line on VS code
