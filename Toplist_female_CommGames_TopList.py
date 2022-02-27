@@ -88,9 +88,9 @@ while True:
             event_num = "22"
 
 
-        sys.stdout = open('/Users/newmac/Desktop/Programs and Code/Toplist_female' + '_' + event + '_CommsRank' + '.txt', 'wt')
+        sys.stdout = open('/Users/newmac/Desktop/Programs and Code/Toplist_female' + '_' + event + '_CommsRank' + '.txt', 'wt') # want to automate the folder selection process
         #bot for clicking cookie button and opening row1
-        PATH = Service("/Applications/chromedriver")
+        PATH = Service("/Applications/chromedriver") # want to find chromedriver on local device runnig program
         driver = webdriver.Chrome(service=PATH)
         driver.get("https://www.worldathletics.org/records/toplists/")  # EVENT URL fetching commonwealth toplist for 2022
         time.sleep(1)
