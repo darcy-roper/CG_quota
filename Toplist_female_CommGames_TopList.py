@@ -8,7 +8,7 @@ import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import NoSuchElementException
-from selenium.common.exceptions import ElementNotInteractableException
+from selenium.common.exceptions import StaleElementReferenceException
 import sys
 
 #options for events
@@ -34,16 +34,16 @@ eventHT = str("hammer-throw")
 eventX7 = str("heptathlon")
 event20kw = str("race-walking")
 eventMAR = str("marathon")
-# make list from variables [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, eventX7, event20kw, eventMAR
+# make list from variables [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, event20kw, eventMAR #eventX7 seperate
 # we use this comment list above to quickly paste in or over below list to begin running program from an event 
 # without rewriting all the events starting from event100 if that event executed correctly
-event_list = [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, eventX7, event20kw, eventMAR]
+event_list = [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, event20kw, eventMAR]
 
 
 while True:
     for item in event_list:
         event = item
-        # grouping events by numbers for the selection in the dropdown filter list
+        # grouping events by numbers for the selection in the dropdown filter list the number becomes the option when the list drops down after click()
         if event == "100m":
             event_num = "2"
         elif event == "200m":
@@ -161,28 +161,57 @@ while True:
                     grab_rank = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[1]').text
                     
                     # fetaching names based on event
-                    if event == "100m" or event == "200m" or event == "100mh":
-                        grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 4th column for sprints
-                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh":
-                        grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[3]').text  # 3rd column for middle-long dist
-                    
-                    # fetching DOB based on event
-                    if event == "100m" or event == "200m":
-                        grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[5]').text  # 5th column for sprints
-                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh":
-                        grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 5th column for middle-long dist
-                    
-                    # fetching score based on event
-                    if event == "100m" or event == "200m":
-                        grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[11]').text  # 11th column for sprints
-                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh":
-                        grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[10]').text  # 10th column for middle-long dist
+                    if event == "100m" or event == "200m" or event == "100mh" or event == "long-jump" or event == "triple-jump":
+                        while True: 
+                            try:
+                                grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 4th column for sprints
+                            except NoSuchElementException or StaleElementReferenceException:
+                                time.sleep(1.5)  # should attempt a time sleep then retry the loop if errors experienced
+                            break
+                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon":
+                        while True:    
+                            try:    
+                                grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[3]').text  # 3rd column for middle-long dist
+                            except NoSuchElementException or StaleElementReferenceException:
+                                time.sleep(1.5)  # should attempt a time sleep then retry the loop if errors experienced
+                            break
 
+                    # fetching DOB based on event
+                    if event == "100m" or event == "200m" or event == "100mh" or event == "long-jump" or event == "triple-jump":
+                        while True:
+                            try:
+                                grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[5]').text  # 5th column for sprints
+                            except NoSuchElementException or StaleElementReferenceException:
+                                time.sleep(1.5)  # should attempt a time sleep then retry the loop if errors experienced
+                            break
+                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon":
+                        while True:
+                            try:
+                                grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 4th column for middle-long dist
+                            except NoSuchElementException or StaleElementReferenceException:
+                                time.sleep(1.5)  # should attempt a time sleep then retry the loop if errors experienced
+                            break
+
+                    # fetching score based on event
+                    if event == "100m" or event == "200m" or event == "100mh" or event == "long-jump" or event == "triple-jump":
+                        while True:
+                            try:
+                                grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[11]').text  # 11th column for sprints
+                            except NoSuchElementException or StaleElementReferenceException:
+                                time.sleep(1.5)  # should attempt a time sleep then retry the loop if errors experienced
+                            break
+                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon":
+                        while True:
+                            try:
+                                grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[10]').text  # 10th column for middle-long dist
+                            except NoSuchElementException or StaleElementReferenceException:
+                                time.sleep(1.5)  # should attempt a time sleep then retry the loop if errors experienced
+                            break
 
                     print(grab_name, ":", event, ":", grab_DOB, ":", grab_score, ":", grab_rank)
                     counter = counter + 1  # prints to txt file then adds 1 to counter to move down list
                 except NoSuchElementException:
-                    break
+                    break 
 
             else:
                 counter = counter + 1
