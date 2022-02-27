@@ -96,7 +96,8 @@ while True:
         time.sleep(1)
         cookie_button = driver.find_element(By.XPATH, '/html/body/div[7]/div')
         cookie_button.click()
-        #Apply filters 
+        
+        #Apply filters for XPATHs based on the event
         #selecting senior
         age_category = driver.find_element(By.XPATH, '//*[@id="ageCategory"]')
         age_category.click()
@@ -122,7 +123,7 @@ while True:
         event_filter.click()
         event_variable = driver.find_element(By.XPATH, '//*[@id="disciplineCode"]/option['+event_num+']') #this should be determined by the event variables 
         event_variable.click()
-        time.sleep(1) # allows for loading
+        time.sleep(1.5) # allows for loading table data if stale element error produced
         countries = driver.find_element(By.XPATH, '//*[@id="regionType"]')  # only after this is clicked can we get the dropdown for groups
         countries.click()
         group_countries = driver.find_element(By.XPATH, '//*[@id="regionType"]/option[4]')
@@ -132,7 +133,7 @@ while True:
         group_click.click()
         commgames = driver.find_element(By.XPATH, '//*[@id="region"]/option[6]')
         commgames.click()
-        time.sleep(1)
+        time.sleep(1.5) # allowing for table load time
 
 
         
@@ -142,26 +143,49 @@ while True:
         counter = 1
         str(counter)
         while counter < 101:
-            try:                                           
-                athlete_tab = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']')  # tr1 needs to increase each run
-                nat_check = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[6]').text  # checking tr6 for AUS
+            try:  # Nationality IF statements are unique to the envent because the columnb ordering changes between events
+                #athlete_tab = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']')  # tr1 needs to increase each run
+                if event == "100m" or event == "200m" or event == "100mh":
+                    nat_check = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[6]').text  # checking tr6 for AUS
+                elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh":
+                    nat_check = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[5]').text  # checking tr5 for AUS
+                
+
             except:
                 break
             # these if/try statements check the athlete is Australian
             # If false add 1 to the counter in order to move through the list to the next ranked athlete
             if nat_check == "AUS":
                 try:
+                    # rank will always be in column 1 so this dosen't need to be determed with an IF statement
                     grab_rank = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[1]').text
-                    grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text
-                    grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[5]').text
-                    grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[11]').text
+                    
+                    # fetaching names based on event
+                    if event == "100m" or event == "200m" or event == "100mh":
+                        grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 4th column for sprints
+                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh":
+                        grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[3]').text  # 3rd column for middle-long dist
+                    
+                    # fetching DOB based on event
+                    if event == "100m" or event == "200m":
+                        grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[5]').text  # 5th column for sprints
+                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh":
+                        grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 5th column for middle-long dist
+                    
+                    # fetching score based on event
+                    if event == "100m" or event == "200m":
+                        grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[11]').text  # 11th column for sprints
+                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh":
+                        grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[10]').text  # 10th column for middle-long dist
+
+
                     print(grab_name, ":", event, ":", grab_DOB, ":", grab_score, ":", grab_rank)
-                    counter = counter + 1
+                    counter = counter + 1  # prints to txt file then adds 1 to counter to move down list
                 except NoSuchElementException:
                     break
 
             else:
                 counter = counter + 1
-                # add 1 to the counter to move down list is athlete not AUS
+                # add 1 to the counter to move down list if athlete not AUS
 
     break
