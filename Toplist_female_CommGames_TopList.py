@@ -133,7 +133,7 @@ while True:
         group_click.click()
         commgames = driver.find_element(By.XPATH, '//*[@id="region"]/option[6]')
         commgames.click()
-        time.sleep(1.5) # allowing for table load time
+        time.sleep(3) # allowing for table load time
 
 
         
@@ -150,15 +150,16 @@ while True:
                     nat_check = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[5]').text  # checking tr5 for AUS
             except:
                 break
+                # this will break and skip to new event
 
             # these if/try statements check the athlete is Australian
             # If false add 1 to the counter in order to move through the list to the next ranked athlete
             if nat_check == "AUS":
                 while True:
                     try:
+
                         # rank will always be in column 1 so this dosen't need to be determed with an IF statement
                         grab_rank = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[1]').text
-                        time.sleep(.2)  # had troubles with txt file returning wrong rank but correct in all others adding timesleep fixed issues....[not ideal!]
 
                         # fetaching names based on event
                         if event == "100m" or event == "200m" or event == "100mh" or event == "long-jump" or event == "triple-jump":
@@ -178,7 +179,7 @@ while True:
                         elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon":
                             grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[10]').text  # 10th column for middle-long dist
 
-                        print(grab_name, ":", event, ":", grab_DOB, ":", grab_score, ":", str(grab_rank))
+                        print(grab_name, ":", event, ":", grab_DOB, ":", grab_score, ":", grab_rank)
                         counter = counter + 1  # prints to txt file then adds 1 to counter to move down list
                         break
                     except NoSuchElementException or StaleElementReferenceException:
