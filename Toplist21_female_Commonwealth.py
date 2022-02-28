@@ -88,7 +88,7 @@ while True:
             event_num = "22"
 
 
-        sys.stdout = open('/Users/newmac/Desktop/Programs and Code/Toplist_female' + '_' + event + '_CommsRank' + '.txt', 'wt') # want to automate the folder selection process
+        sys.stdout = open('/Users/newmac/Desktop/Programs and Code/Toplist21_female' + '_' + event + '_CommsRank' + '.txt', 'wt') # want to automate the folder selection process
         #bot for clicking cookie button and opening row1
         PATH = Service("/Applications/chromedriver") # want to find chromedriver on local device runnig program
         driver = webdriver.Chrome(service=PATH)
@@ -109,9 +109,9 @@ while True:
         outdoor = driver.find_element(By.XPATH, '//*[@id="environment"]/option[2]')
         outdoor.click()
         #selecting season
-        season = driver.find_element(By.XPATH, '//*[@id="season"]')  # change this in some way to grab 2021 data then merge/match the two 
+        season = driver.find_element(By.XPATH, '//*[@id="season"]')  
         season.click()
-        year = driver.find_element(By.XPATH, '//*[@id="season"]/option[1]')  # option 2 is the previous year
+        year = driver.find_element(By.XPATH, '//*[@id="season"]/option[2]')  # change this for a different year
         year.click()
         #selecting gender
         gender = driver.find_element(By.XPATH, '//*[@id="gender"]')
