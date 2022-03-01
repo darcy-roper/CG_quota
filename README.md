@@ -10,13 +10,26 @@ Also check you have installed selenium to run the webdriver:
 ## Current workflow process to update www.commonwealthgames-quota.com.au:
   1. Run main program files to fetch data:
       
-      a. `Aus_male_event_list.py` -> this obtains Aus male rankings in all events by Av. points score and prints to txt file
+      a. `Aus_male21_event_Toplist.py` -> this obtains Aus 2021 male rankings in all events by best performance on Toplist and prints to txt file
       
-      b. `Aus_female_event_list.py` -> this obtains Aus female rankings in all events by Av. points score and prints to txt file
+      b. `Aus_male22_event_Toplist.py` -> this obtains Aus 2022 male rankings in all events by best performance on Toplist and prints to txt file
+
+      c. `Aus_female21_event_Toplist.py` -> this obtains Aus 2021 female rankings in all events by best performance on Toplist and prints to txt file
+
+      d. `Aus_female22_event_Toplist.py` -> this obtains Aus 2022 female rankings in all events by best performance on Toplist and prints to txt file
+
+      e. `Toplist21_male_Commonwealth.py` -> this obtains 2021 male Comminwealth rankings in all events by best performance on Toplist and prints to txt file
+
+      f. `Toplist22_male_Commonwealth.py` -> this obtains 2022 male Comminwealth rankings in all events by best performance on Toplist and prints to txt file
+
+      g. `Toplist21_female_Commonwealth.py` -> this obtains 2021 female Comminwealth rankings in all events by best performance on Toplist and prints to txt file
+
+      h. `Toplist22_female_Commonwealth.py` -> this obtains 2022 female Comminwealth rankings in all events by best performance on Toplist and prints to txt file
+
+      i. `Aus_male_event_list.py` -> this obtains Aus male rankings in all events by Av. points score and prints to txt file (Using this to check Autos as it returns multiple performance per athlete)
       
-      c. `Aus_male_CommGames_list.py` -> this obtains top 3 Aus male athletes in commonwealth by Av. points score and prints to txt file
-      
-      d. `Aus_female_CommGames_list.py` -> this obtains top 3 Aus female athletes in commonwealth by Av. points score and prints to txt file
+      j.`Aus_female_event_list.py` -> this obtains Aus female rankings in all events by Av. points score and prints to txt file (Using this to check Autos as it returns multiple performance per athlete)
+
   2. Combine individual event txt files:
       
       a. `Combine_male_list.py` -> this combines all Aus male events into one txt file
