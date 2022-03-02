@@ -7,6 +7,8 @@ Download links are available here: https://chromedriver.chromium.org/downloads
 Also check you have installed selenium to run the webdriver:
 - use pip to install selenium 
 
+As noted in issues you will have to edit file save/print paths and folder names of stored txt files for the program to run without errors (because I am yet to discover how to run a python script that identifies a local device username then determines subsequent folder pathways...?)
+
 ## Current workflow process to update www.commonwealthgames-quota.com.au:
   1. Run main program files to fetch data:
       
