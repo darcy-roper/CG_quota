@@ -9,6 +9,8 @@ Also check you have installed selenium to run the webdriver:
 
 As noted in issues you will have to edit file save/print paths and folder names of stored txt files for the program to run without errors (because I am yet to discover how to run a python script that identifies a local device username then determines subsequent folder pathways...?)
 
+P.S. I apologise in advance if anything is unclear. I've never worked on any collaborative projects before having only completed introductory programming courses at uni as electives for a bit of fun. 
+
 ## Current workflow process to update www.commonwealthgames-quota.com.au:
   1. Run main program files to fetch data:
       
