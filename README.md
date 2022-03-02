@@ -40,22 +40,25 @@ Also check you have installed selenium to run the webdriver:
 
       d. `Combine22_AUS_female_list.py` -> this combines all `AUS_female22_event_Toplist` individual event txt files into one txt file to serve as a data source for the xls.
 
-#continue from here
-      e. `Combine21_Comms_male_list.py` -> this combines all Aus male commonwealth ranked athletes into one txt file
+      e. `Combine21_Comms_male_list.py` -> this combines all `Toplist21_male_event_CommsRank` individual event txt files into one txt file to serve as a data source for the xls
       
-      d. `Combine_Comms_female_list.py` -> this combines all Aus female commonwealth ranked athletes into one txt file
+      f. `Combine22_Comms_male_list.py` -> this combines all `Toplist22_male_event_CommsRank` individual event txt files into one txt file to serve as a data source for the xls
+      
+      g. `Combine21_Comms_female_list.py` -> this combines all `Toplist21_female_event_CommsRank` individual event txt files into one txt file to serve as a data source for the xls
+      
+      h. `Combine22_Comms_female_list.py` -> this combines all `Toplist22_female_event_CommsRank` individual event txt files into one txt file to serve as a data source for the xls
 
-a. `Combine_male_list.py` -> this combines all Aus male events into one txt file
+      i. `Combine_male_list.py` -> this combines all `AUS_male_event_list` individual event txt files with Av. points information into one txt file to serve as a data source for the xls ONLY to check for an Auto Qual. 
       
-b. `Combine_female_list.py` -> this combines all Aus female events into one txt file
+      j. `Combine_female_list.py` -> this combines all `AUS_female_event_list` individual event txt files with Av. points information into one txt file to serve as a data source for the xls ONLY to check for an Auto Qual. 
       
      
-  3. Open `Commonwealth Ranking Variables.xlsx` and connect sheets to their respective (Combined) txt files using 'Get data from txt file query'.
-  4. Reorder columns in Aus_male_list & Aus_female_list in Av. score ascending order
-  5. Copy top 75 in male and female lists in columns B-F then paste (values only) into 'Final List' sheet green columns C-G. Reorder C-G in ascending order again once Final list contains top 75 male and female athletes. 
+  3. Open `Comms_Quota_NEW.xlsx` and connect sheets to their respective (Combined) txt files using 'Get data from txt file query'.
+  4. Reorder columns in Aus_male_points_list & Aus_female_points_list in Av. score ascending order to see if new Auto Quals have been identified
+  5. Copy top ALL in 2021 male and female top lists columns A-E then paste (values only) into 'Final List' sheet green columns C-G. 
       
-      **Note:** Blue coloured columns contain formulae to match athlete and pull their commonwealth rank and auto qual information. 
-  6. Insert calculated age column next to DOB column.
+      **Note:** Orange coloured columns contain formulae to match athlete and pull their toplist rank, commonwealth rank and auto qual information. 
+  6. Move calculated age column next to DOB column.
   4. Save sheet as .html file under a new name for final formatting of cell colour and style. Don't forget to save the original spreadsheet file back to .xls workbook format
   5. Copy html file code from the saved sheet and pase in Wordpress webpage editor before Thursday 12pm.  
 
