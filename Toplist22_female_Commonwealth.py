@@ -1,6 +1,6 @@
 # program for scraping the WA site for results
 # Commonwealth event rank data
-# only returns AUS athletes in top 100 in each event limited to 3 per country
+# Returning ALL!! athletes in top 100 in each event
 
 
 from selenium import webdriver
@@ -37,7 +37,7 @@ eventMAR = str("marathon")
 # make list from variables [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, event20kw, eventMAR #eventX7 seperate
 # we use this comment list above to quickly paste in or over below list to begin running program from an event 
 # without rewriting all the events starting from event100 if that event executed correctly
-event_list = [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, event20kw, eventMAR]
+event_list = [eventX7]
 
 
 while True:
@@ -109,9 +109,9 @@ while True:
         outdoor = driver.find_element(By.XPATH, '//*[@id="environment"]/option[2]')
         outdoor.click()
         #selecting season
-        season = driver.find_element(By.XPATH, '//*[@id="season"]')  # change this in some way to grab 2021 data then merge/match the two 
+        season = driver.find_element(By.XPATH, '//*[@id="season"]')  
         season.click()
-        year = driver.find_element(By.XPATH, '//*[@id="season"]/option[1]')  # option 2 is the previous year
+        year = driver.find_element(By.XPATH, '//*[@id="season"]/option[1]')  # change this for a different year
         year.click()
         #selecting gender
         gender = driver.find_element(By.XPATH, '//*[@id="gender"]')
@@ -136,57 +136,53 @@ while True:
         time.sleep(3) # allowing for table load time
 
 
-        
-        #driver.get("https://www.worldathletics.org/records/toplists/" + event_group + "/" + event + "/outdoor/women/senior/2022?regionType=country-group&region=commonwealth%20games")  # EVENT URL fetching commonwealth toplist for 2022
 
-        # now retrieve only AUS athlete data
+        # now get all athletes
         counter = 1
         str(counter)
         while counter < 101:
             try:  # Nationality IF statements are unique to the envent because the columnb ordering changes between events
                 if event == "100m" or event == "200m" or event == "100mh" or event == "long-jump" or event == "triple-jump":
                     nat_check = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[6]').text  # checking tr6 for AUS
-                elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh"  or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon":
+                elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh"  or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon" or event == "heptathlon":
                     nat_check = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[5]').text  # checking tr5 for AUS
             except:
                 break
                 # this will break and skip to new event
 
-            # these if/try statements check the athlete is Australian
             # If false add 1 to the counter in order to move through the list to the next ranked athlete
-            if nat_check == "AUS":
-                while True:
-                    try:
+        
+            while True:
+                try:
 
-                        # rank will always be in column 1 so this dosen't need to be determed with an IF statement
-                        grab_rank = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[1]').text
+                    # rank will always be in column 1 so this dosen't need to be determed with an IF statement
+                    grab_rank = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[1]').text
 
-                        # fetaching names based on event
-                        if event == "100m" or event == "200m" or event == "100mh" or event == "long-jump" or event == "triple-jump":
-                            grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 4th column for sprints
-                        elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon": 
-                            grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[3]').text  # 3rd column for middle-long dist
+                    # fetaching names based on event
+                    if event == "100m" or event == "200m" or event == "100mh" or event == "long-jump" or event == "triple-jump":
+                        grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 4th column for sprints
+                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon" or event == "heptathlon": 
+                        grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[3]').text  # 3rd column for middle-long dist
 
-                        # fetching DOB based on event
-                        if event == "100m" or event == "200m" or event == "100mh" or event == "long-jump" or event == "triple-jump":
-                            grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[5]').text  # 5th column for sprints
-                        elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon":
-                            grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 4th column for middle-long dist
+                    # fetching DOB based on event
+                    if event == "100m" or event == "200m" or event == "100mh" or event == "long-jump" or event == "triple-jump":
+                        grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[5]').text  # 5th column for sprints
+                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon" or event == "heptathlon":
+                        grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 4th column for middle-long dist
 
-                        # fetching score based on event
-                        if event == "100m" or event == "200m" or event == "100mh" or event == "long-jump" or event == "triple-jump":
-                            grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[11]').text  # 11th column for sprints
-                        elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon":
-                            grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[10]').text  # 10th column for middle-long dist
+                    # fetching score based on event
+                    if event == "100m" or event == "200m" or event == "100mh" or event == "long-jump" or event == "triple-jump":
+                        grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[11]').text  # 11th column for sprints
+                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "race-walking" or event == "marathon" or event == "heptathlon":
+                        grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[10]').text  # 10th column for middle-long dist
 
-                        print(grab_name, ":", event, ":", grab_DOB, ":", grab_score, ":", grab_rank)
-                        counter = counter + 1  # prints to txt file then adds 1 to counter to move down list
-                        break
-                    except NoSuchElementException or StaleElementReferenceException:
-                        time.sleep(1.5)
-
-            else:
-                counter = counter + 1
-                # add 1 to the counter to move down list if athlete not AUS
+                    print(nat_check, ":", grab_name, ":", event, ":", grab_DOB, ":", grab_score, ":", grab_rank)
+                    if event == "heptathlon":
+                        counter = counter + 2  # prints to txt file then adds 2 to counter to move down list for multi events
+                    else:
+                        counter = counter + 1
+                    break
+                except NoSuchElementException or StaleElementReferenceException:
+                    time.sleep(1.5)
 
     break
