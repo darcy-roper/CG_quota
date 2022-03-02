@@ -67,8 +67,8 @@ As noted in issues you will have to edit file save/print paths and folder names 
 
 ## Objectives for project development:
   - [ ] fully automate above processes to achieve the desired results. Reducing margin for human error and data sorting mistakes
-  - [ ] update webscraping program files to pull data from https://www.worldathletics.org/records/toplists/ 
-  - [ ] better reflect the selection policy rules instead of relying on world ranking points system 
+  - [X] update webscraping program files to pull data from https://www.worldathletics.org/records/toplists/ 
+  - [X] better reflect the selection policy rules instead of relying on world ranking points system 
   - [ ] edit main program files to be able to save files on any device. Currently file paths are saving to my desktop (/Users/`my laptop`/Desktop/`my folder name`/)
   - [ ] edit main program files to run chrome driver on any device. Currently it runs chromedriver by finding the application in my laptop Application folder 
 
