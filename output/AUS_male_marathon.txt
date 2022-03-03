@@ -1,0 +1,15 @@
+Liam ADAMS : marathon : 04 SEP 1986 : 1106 : 1 : 1147 : 1065 :  :  :  : 08 MAR 2020 : 08 AUG 2021 :  :  : 
+Reece EDWARDS : marathon :  : 1105 : 2 : 1105 : 1104 :  :  :  : 24 OCT 2021 : 23 MAY 2021 :  :  : 
+Brett ROBINSON : marathon : 08 MAY 1991 : 1068 : 3 : 1188 : 939 :  :  :  : 02 FEB 2020 : 08 AUG 2021 :  :  : 
+Michael ROEGER : marathon : 14 MAY 1988 : 1012 : 4 : 1018 : 1007 :  :  :  : 25 APR 2021 : 19 JAN 2020 :  :  : 
+Dean MENZIES : marathon : 04 FEB 1988 : 1011 : 5 : 1020 : 1001 :  :  :  : 17 OCT 2021 : 08 MAR 2020 :  :  : 
+Ben ST. LAWRENCE : marathon : 07 NOV 1981 : 970 : 6 : 1063 : 877 :  :  :  : 13 JUN 2021 : 08 MAR 2020 :  :  : 
+Brett ELLIS : marathon : 23 JUN 1994 : 904 : 7 : 927 : 880 :  :  :  : 13 DEC 2020 : 04 APR 2021 :  :  : 
+Tom MIDDLETON : marathon : 24 JUN 1986 : 900 : 8 : 919 : 882 :  :  :  : 16 JAN 2022 : 13 JUN 2021 :  :  : 
+Daniel HART : marathon :  : 862 : 9 : 940 : 785 :  :  :  : 08 MAR 2020 : 04 APR 2021 :  :  : 
+Nicholas LEE : marathon :  : 830 : 10 : 857 : 799 :  :  :  : 06 JUN 2021 : 28 MAR 2021 :  :  : 
+Lachlan OAKES : marathon : 02 SEP 1987 : 825 : 11 : 859 : 790 :  :  :  : 25 APR 2021 : 09 JAN 2022 :  :  : 
+Chris RANCIE : marathon : 1984 : 817 : 12 : 920 : 715 :  :  :  : 08 MAR 2020 : 04 APR 2021 :  :  : 
+Wayne SPIES : marathon :  : 808 : 13 : 836 : 776 :  :  :  : 09 JAN 2022 : 13 DEC 2020 :  :  : 
+Derrick LEAHY : marathon :  : 764 : 14 : 800 : 726 :  :  :  : 09 JAN 2022 : 28 MAR 2021 :  :  : 
+Peter BRACKEN : marathon :  : 726 : 15 : 740 : 712 :  :  :  : 28 MAR 2021 : 09 JAN 2022 :  :  : 

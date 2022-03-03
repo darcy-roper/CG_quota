@@ -1,14 +1,15 @@
 # program for scraping the WA site for results
 # AUS event rank data
 # only returns AUS each event
-import selenium.common.exceptions
+
+
 from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import ElementNotInteractableException
 import sys
+from webdriver_manager.chrome import ChromeDriverManager
 
 #options for events
 # put this in a list to read item in list so bot operated through items automatically
@@ -33,7 +34,7 @@ eventHT = str("hammer-throw")
 eventX10 = str("decathlon")
 event20kw = str("20km-race-walking")
 eventMAR = str("marathon")
-# make list from variables [ ]
+# make list from variables [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event110H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, eventX10, event20kw, eventMAR ]
 # we use this comment list above to quickly paste in or over below list to begin running program from an event 
 # without rewriting all the events starting from event100 if that event executed correctly
 event_list = [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event110H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, eventX10, event20kw, eventMAR]
@@ -42,13 +43,12 @@ event_list = [event100, event200, event400, event800, event1500, eventSC, event5
 while True:
     for item in event_list:
         event = item
-        sys.stdout = open('/Users/newmac/Desktop/Programs and Code/AUS_male' + '_' + event + '.txt', 'wt')
+        sys.stdout = open('output/AUS_male' + '_' + event + '.txt', 'wt')
         #print("Athlete Name", ":", "DOB", ":", "Event List", ":", "Event Score", ":", "Event Rank in Australia", ":", "Perf_1", ":", "Perf_2", ":", "Perf_3", ":", "Perf_4", ":", "Perf_5", ":", "Dt_1", ":", "Dt_2", ":", "Dt_3", ":", "Dt_4", ":", "Dt_5")
         #bot for clicking cookie button and opening row1
-        PATH = Service("/Applications/chromedriver")
-        driver = webdriver.Chrome(service=PATH)
+        driver = webdriver.Chrome(ChromeDriverManager().install())  # should install chromedriver if not found
         driver.get("https://www.worldathletics.org/world-rankings/" + event + "/men?regionType=countries&region=aus&page=1&rankDate=")  # URL already filters for AUS only
-        time.sleep(0.5)
+        time.sleep(1)
         cookie_button = driver.find_element(By.XPATH, '/html/body/div[7]/div')
         cookie_button.click()
 
