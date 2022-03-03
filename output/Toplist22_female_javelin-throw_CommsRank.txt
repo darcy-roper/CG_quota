@@ -1,0 +1,68 @@
+NZL : Tori PEETERS : javelin-throw : 17 MAY 1994 : 1087 : 1
+AUS : Mackenzie LITTLE : javelin-throw : 22 DEC 1996 : 1014 : 2
+GBR : Rebekah WALTON : javelin-throw : 20 SEP 1999 : 998 : 3
+SRI : Dilhani LEKAMGE : javelin-throw : 14 OCT 1987 : 961 : 4
+AUS : Mackenzie MIELCZAREK : javelin-throw : 06 FEB 2003 : 955 : 5
+IND : Karishma SANIL : javelin-throw : 04 JUN 2000 : 941 : 6
+IND : Sanjana CHOUDHARY : javelin-throw : 09 JUL 1999 : 938 : 7
+GBR : Emma HAMPLETT : javelin-throw : 27 JUL 1998 : 935 : 8
+AUS : Alexandra ROBERTS : javelin-throw : 09 APR 2001 : 922 : 9
+IND : Sharmila KUMARI : javelin-throw : 02 MAR 1995 : 919 : 10
+GBR : Emily DIBBLE : javelin-throw : 17 SEP 1999 : 912 : 11
+SRI : Nadeeka LAKMALI : javelin-throw : 18 SEP 1981 : 895 : 12
+AUS : Kiarna WOOLLEY-BLAIN : javelin-throw : 16 APR 2002 : 883 : 13
+IND : Pushpa JAKHAR : javelin-throw : 29 NOV 1997 : 876 : 14
+KEN : Martha Nthanze MUSAI : javelin-throw : 20 DEC 2002 : 866 : 15
+SRI : Dayana HARSHANI MADUWANTHI : javelin-throw : 06 MAR 1991 : 857 : 16
+RSA : Clarissa WEYER : javelin-throw : 03 DEC 2001 : 855 : 17
+AUS : Tori WEST : javelin-throw : 14 OCT 1995 : 851 : 18
+NZL : Abbey MOODY : javelin-throw : 18 JAN 2004 : 836 : 19
+GBR : Lauren FARLEY : javelin-throw : 16 SEP 2001 : 833 : 20
+NZL : Caitlin BONNE : javelin-throw : 23 FEB 2000 : 833 : 21
+IND : . JYOTI : javelin-throw : 01 APR 2002 : 833 : 21
+AUS : Jess BELL : javelin-throw : 13 JAN 2000 : 827 : 23
+AUS : Christina GRUN : javelin-throw : 03 SEP 1993 : 825 : 24
+RSA : Savannah COMBRINK : javelin-throw : 17 APR 2001 : 824 : 25
+IND : Shakshi SHARMA : javelin-throw : 09 FEB 2002 : 819 : 26
+RSA : Leandri LAMPRECHT : javelin-throw : 15 MAR 1999 : 816 : 27
+AUS : Teya SAVILLE : javelin-throw : 29 JAN 2003 : 812 : 28
+AUS : Karen CLARKE : javelin-throw : 23 JUN 1990 : 811 : 29
+AUS : Angelina TIGNANI : javelin-throw : 2004 : 802 : 30
+GBR : Bethany MOULE : javelin-throw : 21 NOV 2001 : 801 : 31
+AUS : Jade PATCHING : javelin-throw : 2004 : 796 : 32
+AUS : Alysha BURNETT : javelin-throw : 04 JAN 1997 : 795 : 33
+IND : . ARTI : javelin-throw :  : 791 : 34
+KEN : Salome MORAA : javelin-throw : 04 MAR 1998 : 787 : 35
+KEN : Gladys JEPKEMBOI : javelin-throw : 09 SEP 2002 : 787 : 35
+RSA : Nicole LINDEQUE : javelin-throw : 12 MAY 2003 : 785 : 37
+GBR : Sophie HAMILTON : javelin-throw : 06 MAY 2004 : 783 : 38
+IND : . HARITA : javelin-throw : 04 DEC 2001 : 778 : 39
+ZAM : Mary FWAMBO : javelin-throw : 12 OCT 1998 : 776 : 40
+IND : Kajal PARMAR : javelin-throw : 01 JUN 1999 : 773 : 41
+AUS : Emma COTGROVE : javelin-throw : 31 AUG 2003 : 773 : 42
+IND : Priya ATTRI : javelin-throw : 01 MAY 2000 : 772 : 43
+AUS : Phoebe MARSH : javelin-throw : 2003 : 765 : 44
+AUS : Bianca PACKER : javelin-throw : 2004 : 762 : 45
+IND : Manu KUMARI : javelin-throw : 07 FEB 1996 : 762 : 46
+IND : Uma CHOUDHARY : javelin-throw : 04 OCT 1999 : 757 : 47
+AUS : Claudia LEGGE : javelin-throw : 2004 : 750 : 48
+AUS : Tiana PAVLOVICH : javelin-throw : 2005 : 747 : 49
+KEN : Jemimah NDANU : javelin-throw :  : 745 : 50
+NZL : Holly ROBINSON : javelin-throw : 10 DEC 1994 : 741 : 51
+IND : Diksha DWIVEDI : javelin-throw : 24 JUN 2001 : 740 : 52
+AUS : Elly READ : javelin-throw : 28 MAR 2003 : 739 : 53
+IND : . TANU : javelin-throw : 14 NOV 2002 : 739 : 54
+IND : Vishakha PANWAR : javelin-throw :  : 731 : 55
+AUS : Emma BUTLER : javelin-throw : 16 JAN 1999 : 730 : 56
+AUS : Chloe METCALF : javelin-throw : 07 SEP 1999 : 729 : 57
+IND : Solanki AMISHA : javelin-throw : 23 OCT 2002 : 729 : 58
+AUS : Kajsa SHIELD : javelin-throw : 02 JUL 2004 : 724 : 59
+IND : Arti MAHATMA : javelin-throw :  : 723 : 60
+MAS : Nur Ayna Nuha MATON : javelin-throw : 11 AUG 2000 : 722 : 61
+IND : . NEHA : javelin-throw : 28 JUL 2002 : 720 : 62
+IND : . NEELAM : javelin-throw :  : 717 : 63
+GRN : Jamora ALVES : javelin-throw : 12 SEP 2003 : 716 : 64
+TTO : Kenika CASSAR : javelin-throw : 2006 : 716 : 64
+GBR : Hollie ARNOLD : javelin-throw : 26 JUN 1994 : 714 : 66
+AUS : Amie BOWREY : javelin-throw : 15 NOV 2001 : 711 : 67
+SRI : S.P.H. SEWWANDI : javelin-throw :  : 710 : 68

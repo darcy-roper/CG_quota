@@ -1,0 +1,42 @@
+AUS : Celeste MUCCI : 100mh : 11 AUG 1999 : 1151 : 1
+AUS : Abbie TADDEO : 100mh : 08 FEB 1994 : 1147 : 2
+AUS : Liz CLAY : 100mh : 09 MAY 1995 : 1133 : 3
+AUS : Michelle JENNEKE : 100mh : 23 JUN 1993 : 1109 : 4
+AUS : Danielle SHAW : 100mh : 06 AUG 1998 : 1090 : 5
+AUS : Taneille CRASE : 100mh : 16 OCT 1994 : 1088 : 6
+IND : Jyothi YARRAJI : 100mh : 28 AUG 1999 : 1071 : 7
+NZL : Amy ROBERTSON : 100mh : 01 DEC 1999 : 1057 : 8
+JAM : Oneka WILSON : 100mh : 09 JUN 2003 : 1054 : 9
+AUS : Delta AMIDZOVSKI : 100mh : 23 AUG 2006 : 1027 : 10
+IND : Aparna ROY : 100mh : 31 MAY 2001 : 1038 : 11
+JAM : Alexis JAMES : 100mh : 09 APR 2004 : 1020 : 12
+JAM : Asharria ULETT : 100mh : 22 NOV 2004 : 1019 : 13
+IND : S. NANDHINI : 100mh : 12 DEC 1998 : 1016 : 14
+AUS : Sophia CIBEI : 100mh : 25 MAR 2002 : 997 : 15
+AUS : Tori WEST : 100mh : 14 OCT 1995 : 996 : 16
+AUS : Emily BRITTON : 100mh :  : 996 : 16
+IND : Moumita MONDAL : 100mh : 09 DEC 2001 : 997 : 18
+AUS : Emelia SURCH : 100mh : 29 JUN 2003 : 988 : 19
+JAM : Janela SPENCER : 100mh : 14 NOV 2002 : 984 : 20
+JAM : Essence BURBRIDGE : 100mh : 18 JAN 2004 : 997 : 21
+IND : Ann Rose TOMY : 100mh : 25 MAY 2002 : 979 : 22
+AUS : Alessia WYNNE : 100mh : 15 DEC 2003 : 978 : 23
+AUS : Nicolette D'ONOFRIO : 100mh : 05 APR 2002 : 978 : 23
+AUS : Alexandra RICHARDS : 100mh :  : 977 : 25
+AUS : Georgia FICHARDT : 100mh : 21 FEB 2004 : 976 : 26
+AUS : Keely BOYNE : 100mh : 11 JAN 2002 : 979 : 27
+AUS : Ebony NEWTON : 100mh : 2005 : 972 : 28
+RSA : Inge VAN DER MERWE : 100mh : 09 SEP 1999 : 972 : 28
+IND : Nandhini KONGAN : 100mh : 13 JUL 1999 : 969 : 30
+AUS : Margaret GAYEN : 100mh : 10 JUL 1994 : 968 : 31
+AUS : Abbey BADROCK : 100mh : 17 NOV 1999 : 964 : 32
+JAM : Shaneil LYSIGHT : 100mh : 22 JAN 2003 : 956 : 33
+JAM : Kay-Lagay CLARKE : 100mh : 27 FEB 2004 : 954 : 34
+JAM : Patreece CLARKE : 100mh : 24 APR 2003 : 964 : 34
+IND : Medha KAMATH : 100mh : 04 DEC 1997 : 947 : 36
+AUS : Shauna HERBST : 100mh : 17 AUG 1996 : 943 : 37
+AUS : Tara WYLLIE : 100mh : 02 NOV 2003 : 929 : 38
+IND : S. SRIIRESHMA : 100mh : 04 MAY 2001 : 932 : 38
+AUS : Rachel LIMBURG : 100mh : 07 JUL 1997 : 923 : 40
+NZL : Christina RYAN : 100mh : 15 FEB 1998 : 930 : 41
+AUS : Alyssa LOWE : 100mh : 29 JUN 2003 : 925 : 42

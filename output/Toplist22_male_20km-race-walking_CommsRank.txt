@@ -1,0 +1,16 @@
+AUS : Declan TINGAY : 20km-race-walking : 06 FEB 1999 : 1170 : 1
+AUS : Kyle SWAN : 20km-race-walking : 28 MAR 1999 : 1155 : 2
+AUS : Rhydian COWLEY : 20km-race-walking : 04 JAN 1991 : 1108 : 3
+NZL : Quentin REW : 20km-race-walking : 16 JUL 1984 : 1103 : 4
+AUS : Will THOMPSON : 20km-race-walking : 18 NOV 2002 : 1085 : 5
+AUS : Mitchell BAKER : 20km-race-walking : 06 JUL 2001 : 1064 : 6
+AUS : Tyler JONES : 20km-race-walking : 08 APR 1998 : 1058 : 7
+AUS : Carl GIBBONS : 20km-race-walking : 19 JUN 1996 : 1025 : 8
+AUS : Tim FRASER : 20km-race-walking : 2000 : 1003 : 9
+GBR : Christopher SNOOK : 20km-race-walking : 14 JAN 2000 : 984 : 10
+AUS : Tristan CAMILLERI : 20km-race-walking : 14 FEB 2001 : 974 : 11
+AUS : Corey DICKSON : 20km-race-walking : 19 JUL 2002 : 968 : 12
+AUS : Kim MOTTROM : 20km-race-walking : 27 SEP 1984 : 965 : 13
+AUS : Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 924 : 14
+GBR : Tom PARTINGTON : 20km-race-walking : 18 JUL 1999 : 911 : 15
+CAN : Evan DUNFEE : 20km-race-walking : 28 SEP 1990 : 870 : 16

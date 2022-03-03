@@ -1,0 +1,50 @@
+TTO : Tyra GITTENS : heptathlon : 06 JUN 1998 : 1157 : 1
+CAN : Georgia ELLENWOOD : heptathlon : 05 AUG 1995 : 1137 : 2
+GBR : Holly MILLS : heptathlon : 15 APR 2000 : 1116 : 3
+GBR : Jade O'DOWDA : heptathlon : 09 SEP 1999 : 1084 : 4
+GBR : Ellen BARBER : heptathlon : 05 DEC 1997 : 1080 : 5
+GBR : Jodie SMITH : heptathlon : 02 NOV 2001 : 1052 : 6
+GBR : Katie STAINTON : heptathlon : 08 JAN 1995 : 1048 : 7
+AUS : Taneille CRASE : heptathlon : 16 OCT 1994 : 1030 : 8
+GBR : Emma NWOFOR : heptathlon : 22 AUG 1996 : 1013 : 9
+IND : Swapna BARMAN : heptathlon : 29 OCT 1996 : 1004 : 10
+CAN : Skylar SIEBEN : heptathlon : 06 DEC 2000 : 1004 : 11
+GBR : Abigail PAWLETT : heptathlon : 14 JAN 2003 : 995 : 12
+GBR : Zoe HUGHES : heptathlon : 09 DEC 1997 : 985 : 13
+IND : George MAREENA : heptathlon : 02 APR 1995 : 980 : 14
+GBR : Amaya SCOTT-RULE : heptathlon : 15 FEB 2001 : 980 : 14
+TTO : Saﬁya JOHN : heptathlon : 2001 : 968 : 16
+CAN : Dallyssa HUGGINS : heptathlon : 31 OCT 1998 : 965 : 17
+GBR : Alix STILL : heptathlon : 15 MAR 2000 : 952 : 18
+GBR : Ella RUSH : heptathlon : 08 APR 2004 : 952 : 19
+CAN : Jansen ZIOLA : heptathlon : 1999 : 950 : 20
+GBR : Natasha SMITH : heptathlon : 10 OCT 1999 : 942 : 21
+AUS : Rachel LIMBURG : heptathlon : 07 JUL 1997 : 936 : 22
+SKN : Kieshonna BROOKS : heptathlon : 20 MAR 1998 : 932 : 23
+GBR : Lauren EVANS : heptathlon : 07 AUG 2000 : 930 : 24
+GRN : Joniar THOMAS : heptathlon : 30 APR 2001 : 930 : 24
+NZL : Kayla GOODWIN : heptathlon : 24 APR 2001 : 917 : 26
+GBR : Lauryn DAVEY : heptathlon : 27 MAR 1999 : 915 : 27
+AUS : Tiana MORRISON : heptathlon : 08 JAN 1998 : 909 : 28
+NZL : Christina RYAN : heptathlon : 15 FEB 1998 : 908 : 29
+GBR : Olivia DOBSON : heptathlon : 27 MAR 2001 : 908 : 30
+AUS : Tiana SOLLEY : heptathlon :  : 902 : 31
+GBR : Ashleigh SPILIOPOULOU : heptathlon : 02 APR 1999 : 901 : 32
+GBR : Emily TYRRELL : heptathlon : 04 JAN 2002 : 896 : 33
+AUS : Emelia SURCH : heptathlon : 29 JUN 2003 : 895 : 34
+GBR : Emma CANNING : heptathlon : 07 MAR 1997 : 895 : 35
+CAN : Jorden HALL : heptathlon : 1999 : 890 : 36
+IND : Sonu KUMARI : heptathlon : 23 NOV 2000 : 890 : 37
+CAN : Sienna MACDONALD : heptathlon : 2002 : 890 : 38
+GBR : Zara TYAS : heptathlon : 29 APR 2003 : 885 : 39
+CAN : Megan DUNN : heptathlon : 1999 : 883 : 40
+AUS : Christine GAYEN : heptathlon : 20 OCT 1996 : 880 : 41
+CAN : Kristen O'HANDLEY : heptathlon : 1999 : 879 : 42
+NZL : Alessandra MACDONALD : heptathlon : 01 JUL 2000 : 873 : 43
+NZL : Maddie WILSON : heptathlon : 05 APR 2002 : 870 : 44
+GBR : Olivia JONES : heptathlon : 20 FEB 2000 : 855 : 45
+IND : . KAJAL : heptathlon : 21 FEB 2000 : 852 : 46
+AUS : Hannah TAIT : heptathlon : 20 MAR 2003 : 851 : 47
+GBR : Jordanna MORRISH : heptathlon : 19 OCT 1995 : 848 : 48
+GBR : Katie CHAPMAN : heptathlon : 20 SEP 2003 : 847 : 49
+GBR : Madison HUTTON : heptathlon : 15 JAN 2003 : 843 : 50

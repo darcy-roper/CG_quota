@@ -51,7 +51,7 @@ while True:
         cookie_button = driver.find_element(By.XPATH, '/html/body/div[7]/div')
         cookie_button.click()
 
-        # now retrieve only AUS athlete data
+        # now retrieve only AUS athlete data as this is Av. points so only used for Aus Quals checker
         counter = 1
         str(counter)
         while counter < 101:

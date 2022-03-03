@@ -1,0 +1,87 @@
+KEN : John Nzau MWANGANGI : marathon : 11 JAN 1990 : 1175 : 1
+KEN : Ronald KORIR : marathon : 10 APR 1991 : 1170 : 2
+KEN : Douglas CHEBII : marathon : 01 NOV 1993 : 1169 : 3
+KEN : Vincent Kipsang RONO : marathon : 10 NOV 1990 : 1169 : 4
+KEN : Victor KIPCHIRCHIR : marathon : 05 DEC 1987 : 1158 : 5
+KEN : Samwel KIPTOO : marathon : 1992 : 1153 : 6
+KEN : James NGANDU : marathon : 02 APR 1990 : 1143 : 7
+KEN : Amos KIPLAGAT : marathon :  : 1140 : 8
+KEN : Elisha Kiprop BARNO : marathon : 1985 : 1139 : 9
+GBR : Joshua GRIFFITHS : marathon : 03 NOV 1993 : 1136 : 10
+GBR : Luke CALDWELL : marathon : 02 AUG 1991 : 1135 : 11
+GBR : Mohamud Ibrahim AADAN : marathon : 01 JAN 1990 : 1117 : 12
+KEN : David Barmasai TUMO : marathon : 1987 : 1101 : 13
+KEN : James Gitahi RUNGARU : marathon : 14 JAN 1993 : 1099 : 14
+KEN : Eliud Kibet TOO : marathon :  : 1098 : 15
+GBR : Andrew DAVIES : marathon : 30 OCT 1979 : 1089 : 16
+KEN : Emmanuel NAIBEI : marathon : 20 JUL 1983 : 1084 : 17
+KEN : Rodgers GESABWA : marathon : 14 OCT 1987 : 1082 : 18
+KEN : Thomas KIBET : marathon :  : 1076 : 19
+KEN : Gilbert MASAI : marathon : 16 DEC 1989 : 1070 : 20
+GBR : Adam CLARKE : marathon : 03 APR 1991 : 1069 : 21
+KEN : Alfred KOECH : marathon :  : 1069 : 22
+KEN : Julius TUWEI : marathon : 26 SEP 1993 : 1066 : 23
+KEN : Felix KIRWA : marathon : 08 OCT 1995 : 1064 : 24
+KEN : Ezekiel KOECH : marathon :  : 1060 : 25
+IND : Bugatha SRINU : marathon : 16 JUN 1992 : 1056 : 26
+GBR : Ross BRADEN : marathon : 17 JUN 1993 : 1050 : 27
+KEN : John LANGAT : marathon : 02 OCT 1993 : 1034 : 28
+KEN : Japhet KIPKOECH : marathon : 1990 : 1017 : 29
+KEN : Robert KWAMBAI : marathon : 22 NOV 1985 : 1014 : 30
+NZL : Daniel JONES : marathon : 26 SEP 1990 : 1000 : 31
+IND : Arjun PRADHAN : marathon :  : 999 : 32
+IND : Appachangada BELLIAPPA : marathon : 11 FEB 1992 : 997 : 33
+RWA : Jean Baptiste SIMUKEKA : marathon : 08 FEB 1980 : 994 : 34
+GBR : Jonathan GLEN : marathon : 05 OCT 1996 : 986 : 35
+RSA : Sithembiso MQHELE : marathon : 18 FEB 1991 : 970 : 36
+KEN : David KIBET : marathon : 1988 : 965 : 37
+IND : Bahadur SINGH DHONI : marathon : 02 MAY 1987 : 961 : 38
+GBR : Gary PRIESTLEY : marathon : 02 SEP 1988 : 953 : 39
+RSA : Pfarelo MATHADA : marathon : 02 AUG 1989 : 948 : 40
+KEN : Cornelius KIBIWOTT : marathon :  : 942 : 41
+KEN : Solomon KOECH : marathon :  : 937 : 42
+GBR : Chris PHILLIPS-HART : marathon :  : 927 : 43
+GBR : Sean CHALMERS : marathon : 07 OCT 1995 : 924 : 44
+AUS : Tom MIDDLETON : marathon : 24 JUN 1986 : 919 : 45
+CAN : Steve LAWRENCE : marathon : 20 JAN 1978 : 918 : 46
+GBR : Harry LAUSTE : marathon :  : 914 : 47
+CMR : Justin FOAMI : marathon :  : 913 : 48
+KEN : Hillary Kipkoech BETT : marathon : 24 JUL 1990 : 910 : 49
+GBR : Richard JOHNSTON : marathon :  : 909 : 50
+KEN : Mike CHESIRE : marathon : 1996 : 903 : 51
+RSA : Thulane MAGAULA : marathon :  : 903 : 52
+KEN : Nathan KIOKO : marathon :  : 898 : 53
+BAN : Het RAM : marathon :  : 893 : 54
+GBR : Matthew DICKINSON : marathon : 12 MAR 1996 : 889 : 55
+GBR : Nick BOWKER : marathon :  : 889 : 55
+NZL : Cameron GRAVES : marathon : 01 FEB 1992 : 885 : 57
+NGR : Shehu MUAZU : marathon : 11 MAY 1988 : 882 : 58
+GIB : Arnold ROGERS : marathon : 04 SEP 1990 : 879 : 59
+GBR : Thomas GEORGE : marathon : 06 FEB 1996 : 876 : 60
+KEN : Joseph MWANGI : marathon :  : 874 : 61
+MLT : Stefan AZZOPARDI : marathon : 12 DEC 1982 : 867 : 62
+RSA : Ismail SADEK : marathon :  : 865 : 63
+SRI : Sivarajan MUTHUSAMY : marathon :  : 855 : 64
+GBR : Benjamin HOWE : marathon :  : 855 : 64
+GBR : Paul LUNN : marathon :  : 854 : 66
+KEN : Sylvester Kimeli TEIMET : marathon : 04 JUN 1984 : 837 : 67
+AUS : Wayne SPIES : marathon :  : 836 : 68
+NZL : Ciaran FAHERTY : marathon : 23 FEB 1988 : 836 : 68
+SRI : Kelum Sampath GANEHI : marathon : 24 JUN 1980 : 831 : 70
+GBR : Rob PAYNE : marathon :  : 830 : 71
+RSA : Siyabonga SAKWE : marathon :  : 829 : 72
+NZL : Nathan TSE : marathon : 17 NOV 1995 : 821 : 73
+BAN : Narendra RAWAT : marathon :  : 821 : 74
+GBR : Bradley COURTNEY-PINN : marathon :  : 815 : 75
+GBR : Stuart SPENCER : marathon : 11 NOV 1982 : 812 : 76
+NGR : Mwanta ILLIYA PAM : marathon :  : 809 : 77
+GBR : Thomas PERKINS : marathon :  : 808 : 78
+CAN : Robert NEWTON : marathon :  : 807 : 79
+GBR : Andrew GRIGG : marathon :  : 806 : 80
+GBR : Geraint WILLIAMS : marathon :  : 802 : 81
+AUS : Derrick LEAHY : marathon :  : 800 : 82
+AUS : Lachlan OAKES : marathon : 02 SEP 1987 : 790 : 83
+NGR : Peter MAHAN ISTIFANUS : marathon :  : 790 : 83
+GBR : Ben WILLIAMS : marathon :  : 787 : 85
+AUS : Will NEWTON : marathon :  : 784 : 86
+RSA : Craig CYNKIN : marathon : 19 JUL 1985 : 783 : 87

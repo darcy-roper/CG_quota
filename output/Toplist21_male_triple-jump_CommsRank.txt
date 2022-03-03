@@ -1,0 +1,100 @@
+JAM : O'Brien WASOME : triple-jump : 24 JAN 1997 : 1170 : 1
+BER : Jahnhai PERINCHIEF : triple-jump : 31 DEC 1997 : 1168 : 2
+JAM : Jordan SCOTT : triple-jump : 29 JUN 1997 : 1160 : 3
+IND : Praveen CHITHRAVEL : triple-jump : 05 JUN 2001 : 1153 : 4
+IND : Abdulla ABOOBACKER : triple-jump : 17 JAN 1996 : 1150 : 5
+IND : Karthik UNNIKRISHNAN : triple-jump : 03 JUN 1993 : 1144 : 6
+IND : Eldhose PAUL : triple-jump : 07 NOV 1996 : 1124 : 7
+JAM : Clive PULLEN : triple-jump : 18 OCT 1994 : 1120 : 8
+JAM : Clayton BROWN : triple-jump : 08 DEC 1996 : 1120 : 9
+CMR : Raymond NKWEMY TCHOMFA : triple-jump : 29 MAY 1995 : 1122 : 10
+RSA : Lleyton DAVIDS : triple-jump : 12 SEP 2001 : 1109 : 11
+BAH : Kaiwan CULMER : triple-jump : 25 OCT 1996 : 1120 : 12
+JAM : Owayne OWENS : triple-jump : 08 MAR 2000 : 1106 : 13
+AUS : Julian KONLE : triple-jump : 04 JUN 1997 : 1103 : 14
+GBR : Michael PUPLAMPU : triple-jump : 11 JAN 1990 : 1103 : 14
+JAM : Clayton BROWN : triple-jump :  : 1102 : 16
+JAM : Carey MCLEOD : triple-jump : 14 APR 1998 : 1101 : 17
+NGR : Pius NZUBE THEZUA : triple-jump : 24 DEC 1998 : 1098 : 18
+GBR : Benjamin WILLIAMS : triple-jump : 25 JAN 1992 : 1098 : 18
+BAH : Tamar GREENE : triple-jump : 21 AUG 1998 : 1104 : 18
+IND : T. VIMAL MUGESH : triple-jump : 25 MAR 1996 : 1096 : 21
+CMR : Marcel Richard MAYACK : triple-jump : 17 NOV 1990 : 1092 : 22
+GUY : Domon WILLIAMS : triple-jump : 16 FEB 1996 : 1090 : 23
+AUS : Shemaiah JAMES : triple-jump : 12 JUL 1997 : 1088 : 24
+AUS : Connor MURPHY : triple-jump : 22 OCT 2001 : 1083 : 25
+BOT : Thalosang TSHIRELETSO : triple-jump : 14 MAY 1991 : 1086 : 26
+GBR : Efe UWAIFO : triple-jump : 15 MAY 1995 : 1080 : 26
+IND : Gaily Venister DEVASAHAYAM : triple-jump : 31 JAN 2000 : 1080 : 26
+AUS : Ayo ORE : triple-jump : 23 APR 1997 : 1076 : 29
+JAM : Apalos EDWARDS : triple-jump : 18 OCT 2001 : 1086 : 29
+NGR : Ineh Emmeanuel ORITSEMEYIWA : triple-jump : 17 MAR 2001 : 1067 : 31
+SRI : T.G.Vinod SANDARUWAN : triple-jump :  : 1073 : 31
+GBR : Julian REID : triple-jump : 23 SEP 1988 : 1066 : 33
+NGR : Chidozie Ikenga KALU : triple-jump : 2001 : 1065 : 34
+BAR : Jadon BROME : triple-jump : 21 FEB 2002 : 1064 : 35
+BAH : LaQuarn NAIRN : triple-jump : 31 JUL 1996 : 1064 : 35
+BAH : Latario COLLIE-MINNS : triple-jump : 10 MAR 1994 : 1064 : 35
+JAM : Jaydon HIBBERT : triple-jump : 17 JAN 2005 : 1064 : 35
+IND : Tejaswin SHANKAR : triple-jump : 21 DEC 1998 : 1058 : 39
+BAR : Jonathan Edward MILLER : triple-jump : 22 AUG 2000 : 1058 : 39
+IND : Aravinth EZHILARASAN : triple-jump : 30 JUN 2000 : 1056 : 41
+IND : Punit KUMAR : triple-jump : 02 FEB 1994 : 1054 : 42
+SRI : Shreshan Dhananjaya LIYANAPEDIGE : triple-jump : 07 JUN 1997 : 1057 : 42
+GBR : Nathan DOUGLAS : triple-jump : 04 DEC 1982 : 1052 : 44
+MRI : Jonathan DRACK : triple-jump : 06 NOV 1988 : 1052 : 44
+GBR : Jonathan ILORI : triple-jump : 14 AUG 1993 : 1052 : 44
+JAM : Aubrey ALLEN : triple-jump : 19 JUL 1994 : 1051 : 47
+IND : Arpinder SINGH : triple-jump : 30 DEC 1992 : 1049 : 48
+JAM : Luke BROWN : triple-jump : 29 OCT 2002 : 1048 : 49
+IND : Sonu KUMAR : triple-jump : 21 JAN 1999 : 1048 : 50
+NAM : Roger HAITENGI : triple-jump : 17 SEP 1983 : 1047 : 50
+GBR : Bera AJALA : triple-jump : 26 AUG 2002 : 1047 : 50
+GBR : Jude BRIGHT-DAVIES : triple-jump : 27 MAR 1999 : 1047 : 50
+SRI : M.N.Safree AHAMED : triple-jump : 07 JUN 1997 : 1054 : 54
+IND : Krishna SINGH : triple-jump : 18 JUL 1998 : 1045 : 54
+AUS : Aiden HINSON : triple-jump : 05 JUN 2003 : 1044 : 56
+AUS : Emmanuel FAKIYE : triple-jump : 27 JAN 1997 : 1041 : 57
+NZL : Welrè OLIVIER : triple-jump : 04 NOV 2002 : 1041 : 57
+CAN : Femi AKINDURO : triple-jump : 19 NOV 2000 : 1041 : 57
+IND : Donald MAKIMAIRAJ : triple-jump : 15 JUN 2002 : 1040 : 60
+GBR : Daniel FALODE : triple-jump : 27 NOV 2002 : 1038 : 61
+IND : C.D.Akhil KUMAR : triple-jump : 26 JUN 2001 : 1040 : 62
+JAM : Shemar MILLER : triple-jump : 24 JUN 1999 : 1036 : 63
+SRI : Sanjaya JAYASINGHE : triple-jump : 20 APR 1982 : 1046 : 64
+IND : Mohammed Salahuddin SHARFUDEEN NIZAMUDDIN : triple-jump : 24 MAR 1994 : 1034 : 65
+IND : Jay Shah PRADEEP : triple-jump : 11 OCT 1997 : 1036 : 65
+ANT : Taeco O'GARRO : triple-jump : 03 SEP 2001 : 1034 : 67
+NGR : Blessing OLUWAYEMI : triple-jump : 13 FEB 1997 : 1032 : 67
+AUS : Dylan JAMES : triple-jump : 02 MAR 2002 : 1031 : 69
+CYP : Grigoris NIKOLAOU : triple-jump : 22 JAN 2003 : 1031 : 69
+IND : C. SUNDAR : triple-jump : 15 JAN 1997 : 1030 : 71
+GBR : Sean OKOME : triple-jump : 26 MAR 1995 : 1029 : 71
+IND : D. ARIYUSELVAM : triple-jump : 28 MAY 1991 : 1029 : 71
+GBR : Daniel IGBOKWE : triple-jump : 28 JUN 1998 : 1028 : 74
+JAM : Malik CUNNINGHAM : triple-jump : 17 NOV 1999 : 1026 : 75
+CMR : Derrick GAMA : triple-jump : 15 SEP 1996 : 1027 : 75
+JAM : Nicholas DOUGLAS : triple-jump : 11 JUN 1995 : 1029 : 77
+GUY : Lloyd MCCURDY : triple-jump : 30 NOV 1997 : 1041 : 77
+IND : Kamal RAJ : triple-jump : 10 MAR 1999 : 1024 : 79
+NGR : Monday Charles GODWIN : triple-jump : 04 APR 1999 : 1024 : 79
+BOT : Tshwanelo AABOBE : triple-jump : 31 JAN 1991 : 1051 : 81
+JAM : Terrol WILSON : triple-jump : 02 JAN 2000 : 1020 : 81
+AUS : Grant SZALEK : triple-jump : 02 MAY 1998 : 1019 : 83
+MAS : Muhd Hakimi ISMAIL : triple-jump : 08 APR 1991 : 1018 : 84
+JAM : Shakwon COKE : triple-jump : 07 OCT 1999 : 1016 : 85
+PNG : Peniel RICHARD : triple-jump : 14 JUN 1994 : 1015 : 86
+JAM : Andre DOUGLAS : triple-jump :  : 1015 : 86
+SRI : Chamal K.L. WADUGE : triple-jump : 02 FEB 1998 : 1015 : 86
+RSA : Menzi MTHEMBU : triple-jump : 07 FEB 1995 : 1013 : 89
+RSA : Sefako MOKHOSOA : triple-jump : 13 MAR 1996 : 1034 : 89
+RSA : Junior MPEFU : triple-jump : 18 JUL 1998 : 1012 : 91
+JAM : Jhavor BENNETT : triple-jump : 19 MAR 2002 : 1012 : 91
+JAM : Safin WILLS : triple-jump : 21 AUG 2000 : 1012 : 91
+BOT : Norman CHIBANE : triple-jump : 1999 : 1012 : 91
+IND : P. Kapil ANAND : triple-jump : 31 DEC 1995 : 1011 : 95
+RSA : Ethan OLIVIER : triple-jump :  : 1010 : 96
+GBR : Aidan QUINN : triple-jump : 10 FEB 2000 : 1010 : 96
+JAM : Tevin DUNN : triple-jump : 1998 : 1008 : 98
+IND : V. DINESH : triple-jump : 03 MAY 1997 : 1008 : 98
+IND : S. ROBINSON : triple-jump : 03 MAR 2001 : 1007 : 100

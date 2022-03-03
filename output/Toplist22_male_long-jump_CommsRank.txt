@@ -1,0 +1,49 @@
+AUS : Christopher MITREVSKI : long-jump : 12 JUL 1996 : 1149 : 1
+BOT : Thapelo MONAIWA : long-jump : 18 FEB 1998 : 1127 : 2
+GUY : Emanuel ARCHIBALD : long-jump : 09 SEP 1994 : 1101 : 3
+SRI : Janaka PRASAD : long-jump : 08 SEP 1992 : 1099 : 4
+AUS : Sam TAYLOR : long-jump : 22 MAY 2001 : 1088 : 5
+MLT : Jeremy ZAMMIT : long-jump : 02 SEP 2004 : 1079 : 6
+AUS : Zane BRANCO : long-jump : 04 JAN 2000 : 1079 : 6
+AUS : Alec DIAMOND : long-jump : 09 AUG 1997 : 1075 : 8
+SRI : Hirusha Hashen WALIMUNI MENDIS ABESEKARA : long-jump : 25 MAR 2003 : 1071 : 9
+AUS : Amiru CHANDRASENA : long-jump : 02 AUG 2002 : 1060 : 10
+AUS : Aiden HINSON : long-jump : 05 JUN 2003 : 1053 : 11
+NZL : Felix MCDONALD : long-jump : 30 APR 1998 : 1053 : 11
+SRI : Shreshan Dhananjaya LIYANAPEDIGE : long-jump : 07 JUN 1997 : 1059 : 13
+AUS : Liam FAIRWEATHER : long-jump : 23 JUL 2002 : 1047 : 14
+AUS : Liam ADCOCK : long-jump : 21 JUN 1996 : 1042 : 15
+NZL : Shay VEITCH : long-jump : 17 DEC 2000 : 1038 : 16
+SRI : Dhanuka Liyana PATHIRANA : long-jump : 25 JUN 1993 : 1044 : 17
+SRI : Mahesh KUMARA : long-jump :  : 1034 : 18
+JAM : Aubrey ALLEN : long-jump : 19 JUL 1994 : 1030 : 19
+AUS : Blake SHAW : long-jump :  : 1025 : 20
+SRI : H.B.M. HERATH : long-jump :  : 1025 : 20
+AUS : Tristan SCHEIRS : long-jump : 20 APR 2000 : 1004 : 22
+SRI : Pasindu Malshan KUMARAPELI ARACHCHIGE : long-jump : 15 FEB 2003 : 999 : 23
+JAM : Royan WALTERS : long-jump : 02 APR 2004 : 1000 : 24
+BOT : Norman CHIBANE : long-jump : 1999 : 991 : 24
+AUS : Mackenzie LIDDELOW : long-jump : 22 DEC 1997 : 982 : 26
+AUS : Thomas PITTS : long-jump : 29 SEP 2000 : 978 : 27
+SRI : W.I.K. PIYASIRI : long-jump :  : 978 : 27
+AUS : Ryan HATCH : long-jump : 19 JAN 2000 : 976 : 29
+VIN : Uroy RYAN : long-jump : 22 MAR 2004 : 971 : 30
+AUS : William FREYER : long-jump : 26 OCT 1999 : 971 : 30
+AUS : Nicholas VAN GELDER : long-jump : 01 FEB 1995 : 969 : 32
+AUS : Jacob HRISTIANOPOULOS : long-jump : 2003 : 969 : 32
+AUS : Benan OZTORUN : long-jump : 17 NOV 1998 : 977 : 34
+BOT : Pushudi TSHIRELETSO : long-jump : 1999 : 963 : 34
+AUS : Jalen RUCKER : long-jump : 18 FEB 1997 : 961 : 36
+AUS : Angus GOULD : long-jump : 08 JAN 1994 : 958 : 37
+AUS : Ethan PETCOS : long-jump : 14 FEB 2003 : 958 : 37
+AUS : Brandon CLARK : long-jump : 17 MAY 1993 : 958 : 37
+NZL : Lewis ARTHUR : long-jump : 20 SEP 1999 : 954 : 40
+TTO : Aaron ANTOINE : long-jump : 2004 : 960 : 40
+GUY : Micaiah WASHINGTON : long-jump : 09 MAR 1997 : 952 : 42
+AUS : Oli CALLAHAN : long-jump : 22 DEC 1997 : 950 : 43
+AUS : Dean PASTRELLO : long-jump : 05 MAY 1999 : 950 : 43
+AUS : Liam MULLEN : long-jump : 14 AUG 2001 : 946 : 45
+AUS : Oscar MIERS : long-jump : 21 NOV 2001 : 939 : 46
+NZL : Angus LYVER : long-jump : 22 APR 2004 : 937 : 47
+JAM : Lansford CUNNINGHAM : long-jump : 28 DEC 2003 : 924 : 48
+ZAM : Bernard KALALE : long-jump : 2002 : 922 : 49

@@ -1,0 +1,100 @@
+JAM : Carey MCLEOD : long-jump : 14 APR 1998 : 1212 : 1
+JAM : Tajay GAYLE : long-jump : 02 AUG 1996 : 1201 : 2
+CAN : Damian WARNER : long-jump : 04 NOV 1989 : 1199 : 3
+RSA : Cheswill JOHNSON : long-jump : 30 SEP 1997 : 1194 : 4
+IND : . SREESHANKAR : long-jump : 27 MAR 1999 : 1194 : 4
+JAM : Shakwon COKE : long-jump : 07 OCT 1999 : 1173 : 6
+RSA : Ruswahl SAMAAI : long-jump : 25 SEP 1991 : 1173 : 6
+NGR : Ineh Emmeanuel ORITSEMEYIWA : long-jump : 17 MAR 2001 : 1173 : 6
+GUY : Emanuel ARCHIBALD : long-jump : 09 SEP 1994 : 1160 : 9
+JAM : Wayne PINNOCK : long-jump : 24 OCT 2000 : 1155 : 10
+GHA : Abraham SEANEKE : long-jump : 1996 : 1152 : 11
+BAH : LaQuarn NAIRN : long-jump : 31 JUL 1996 : 1146 : 12
+RSA : Divan MANUEL : long-jump : 15 SEP 1996 : 1146 : 12
+AUS : Christopher MITREVSKI : long-jump : 12 JUL 1996 : 1146 : 12
+JAM : Ryan BROWN : long-jump : 11 OCT 1998 : 1146 : 12
+RSA : Jovan VAN VUUREN : long-jump : 17 JUL 1996 : 1144 : 16
+BER : Tyrone SMITH : long-jump : 07 AUG 1984 : 1144 : 16
+AUS : Darcy ROPER : long-jump : 31 MAR 1998 : 1143 : 18
+NGR : Fabian Ime EDOKI : long-jump : 30 MAR 1998 : 1140 : 19
+GBR : Alex FARQUHARSON : long-jump : 09 JUN 1997 : 1140 : 19
+IND : Muhammed Anees YAHIYA : long-jump : 03 DEC 1995 : 1138 : 21
+BOT : Norman CHIBANE : long-jump : 1999 : 1133 : 22
+IND : J.Jeswin ALDRIN : long-jump : 24 DEC 2001 : 1131 : 23
+AUS : Henry FRAYNE : long-jump : 14 APR 1990 : 1131 : 23
+NGR : David Oke EJUMETA : long-jump : 26 OCT 1997 : 1131 : 23
+JAM : Damar FORBES : long-jump : 11 SEP 1990 : 1131 : 23
+AUS : Joshua COWLEY : long-jump : 13 MAR 2001 : 1129 : 27
+JAM : Jullane WALKER : long-jump : 30 DEC 1995 : 1129 : 27
+NGR : Tobechukwu NWOKOCHA : long-jump : 10 JUL 1998 : 1129 : 27
+GHA : Mohammed ABUBAKAR : long-jump : 05 MAR 1991 : 1125 : 30
+BOT : Thapelo MONAIWA : long-jump : 18 FEB 1998 : 1116 : 31
+JAM : Kavian KERR : long-jump : 10 FEB 2002 : 1116 : 31
+TTO : Kelsey DANIEL : long-jump : 17 APR 2001 : 1116 : 31
+GBR : Reynold BANIGO : long-jump : 13 AUG 1998 : 1112 : 34
+CMR : Marcel Richard MAYACK : long-jump : 17 NOV 1990 : 1112 : 34
+CAN : Scott JOSEPH : long-jump : 2001 : 1112 : 34
+CMR : Raymond NKWEMY TCHOMFA : long-jump : 29 MAY 1995 : 1109 : 37
+IND : Yugant Shekhar SINGH : long-jump : 02 OCT 1997 : 1105 : 38
+DMA : Tristan JAMES : long-jump : 28 AUG 1997 : 1105 : 38
+AUS : Zane BRANCO : long-jump : 04 JAN 2000 : 1103 : 40
+CMR : Appollinaire YINRA : long-jump : 01 JAN 1998 : 1103 : 40
+AUS : Jalen RUCKER : long-jump : 18 FEB 1997 : 1101 : 42
+JAM : Jordan TURNER : long-jump : 12 SEP 2002 : 1099 : 43
+BAH : Holland MARTIN : long-jump : 07 JUN 1998 : 1099 : 43
+JAM : Shawn D. THOMPSON : long-jump : 20 JAN 1997 : 1096 : 45
+BER : Jahnhai PERINCHIEF : long-jump : 31 DEC 1997 : 1096 : 45
+SRI : G.K.D.S. PIYARATHNA : long-jump : 15 APR 1994 : 1096 : 45
+GBR : Timothy DUCKWORTH : long-jump : 18 JUN 1996 : 1094 : 48
+SRI : Janaka PRASAD : long-jump : 08 SEP 1992 : 1094 : 48
+NZL : Shay VEITCH : long-jump : 17 DEC 2000 : 1094 : 48
+CAN : Jesse THIBODEAU : long-jump : 17 MAR 1997 : 1092 : 51
+IND : Nirmal SABU : long-jump : 11 MAY 1999 : 1092 : 51
+SRI : K.K.M.K. KARUNASEKARA : long-jump :  : 1090 : 53
+SRI : Shreshan Dhananjaya LIYANAPEDIGE : long-jump : 07 JUN 1997 : 1097 : 53
+TKS : Ifeanyichukwu OTUONYE : long-jump : 27 JUN 1994 : 1088 : 55
+GBR : James LELLIOTT : long-jump : 11 FEB 1993 : 1088 : 55
+SRI : H.B.M. HERATH : long-jump :  : 1088 : 55
+JAM : O'Brien WASOME : long-jump : 24 JAN 1997 : 1086 : 58
+GBR : Alessandro SCHENINI : long-jump : 28 APR 2000 : 1086 : 58
+AUS : Alec DIAMOND : long-jump : 09 AUG 1997 : 1081 : 60
+IND : Sidharth MOHAN NAIK : long-jump : 08 SEP 1995 : 1081 : 60
+NZL : Christopher GOODWIN : long-jump : 16 JUL 1998 : 1079 : 62
+IND : R. SWAMINATHAN : long-jump : 31 MAR 1994 : 1085 : 62
+JAM : Apalos EDWARDS : long-jump : 18 OCT 2001 : 1077 : 64
+AUS : Ashley MOLONEY : long-jump : 13 MAR 2000 : 1077 : 64
+IND : Vimoth KUMAR : long-jump : 26 SEP 1994 : 1077 : 64
+IND : Lokesh SATHYANATHAN : long-jump : 21 DEC 1999 : 1075 : 67
+AUS : Zachary NUNIS : long-jump : 04 NOV 1999 : 1075 : 67
+JAM : Adrian RILEY : long-jump : 22 JAN 1994 : 1073 : 69
+AUS : Jeremy ANDREWS : long-jump : 03 NOV 1992 : 1071 : 70
+JAM : Safin WILLS : long-jump : 21 AUG 2000 : 1070 : 70
+RSA : Abdud-Daiyaan WYNGAARD : long-jump : 04 JUN 2002 : 1074 : 72
+GBR : Jacob FINCHAM-DUKES : long-jump : 12 JAN 1997 : 1066 : 73
+JAM : Aubrey ALLEN : long-jump : 19 JUL 1994 : 1066 : 73
+AUS : William FREYER : long-jump : 26 OCT 1999 : 1065 : 75
+CMR : Fredy Kevin OYONO : long-jump : 23 JUL 1997 : 1064 : 75
+GBR : Samuel KHOGALI : long-jump : 15 JUL 1997 : 1062 : 77
+CAN : Pierce LEPAGE : long-jump : 22 JAN 1996 : 1062 : 77
+RSA : Jason Donovan TITO : long-jump : 10 FEB 2002 : 1057 : 79
+NAM : Sandro DIERGAARDT : long-jump : 07 AUG 1999 : 1057 : 79
+IND : Sahil MAHABALI : long-jump : 27 DEC 1997 : 1057 : 79
+BOT : Thalosang TSHIRELETSO : long-jump : 14 MAY 1991 : 1055 : 82
+RSA : Karabo SATEKGE : long-jump : 07 OCT 2000 : 1055 : 82
+MLT : Jeremy ZAMMIT : long-jump : 02 SEP 2004 : 1055 : 82
+GHA : Peter ACKAH : long-jump :  : 1054 : 85
+AUS : Henry SMITH : long-jump : 09 APR 1996 : 1051 : 86
+AUS : Cedric DUBLER : long-jump : 13 JAN 1995 : 1049 : 87
+IND : P.Asadullah MUJAHITH : long-jump : 17 JAN 2002 : 1049 : 87
+SRI : J.H.G. SAMPATH : long-jump :  : 1047 : 89
+SKN : Kizan DAVID : long-jump : 11 AUG 1998 : 1045 : 90
+GUY : Domon WILLIAMS : long-jump : 16 FEB 1996 : 1045 : 90
+GUY : Micaiah WASHINGTON : long-jump : 09 MAR 1997 : 1045 : 90
+AUS : Dylan JAMES : long-jump : 02 MAR 2002 : 1042 : 93
+AUS : Liam FAIRWEATHER : long-jump : 23 JUL 2002 : 1042 : 93
+GBR : Brad DAVIES-PUGHE : long-jump : 16 FEB 2003 : 1042 : 93
+IND : Bhupender SINGH : long-jump : 13 NOV 2001 : 1042 : 93
+NGR : Afoke Simon OSHASHA : long-jump : 1995 : 1040 : 97
+NZL : Felix MCDONALD : long-jump : 30 APR 1998 : 1041 : 97
+RSA : Sifiso MIYA : long-jump : 01 JUN 2001 : 1038 : 99
+NAM : Chenault Lionel COETZEE : long-jump : 06 MAY 1997 : 1038 : 99

@@ -1,0 +1,100 @@
+NGR : Ese BRUME : long-jump : 20 JAN 1996 : 1255 : 1
+IVB : Chantel MALONE : long-jump : 02 DEC 1991 : 1236 : 2
+TTO : Tyra GITTENS : long-jump : 06 JUN 1998 : 1209 : 3
+GBR : Lorraine UGEN : long-jump : 22 AUG 1991 : 1205 : 4
+GBR : Jazmin SAWYERS : long-jump : 21 MAY 1994 : 1196 : 5
+AUS : Brooke STRATTON : long-jump : 12 JUL 1993 : 1183 : 6
+GHA : Deborah ACQUAH : long-jump : 23 MAY 1996 : 1176 : 7
+BAR : Akela JONES : long-jump : 22 APR 1995 : 1174 : 8
+JAM : Chanice PORTER : long-jump : 25 MAY 1994 : 1167 : 9
+GBR : Shara PROCTOR : long-jump : 16 SEP 1988 : 1167 : 9
+NGR : Ruth USORO : long-jump : 08 OCT 1997 : 1165 : 11
+GBR : Abigail IROZURU : long-jump : 03 JAN 1990 : 1163 : 12
+CAN : Christabel NETTEY : long-jump : 02 JUN 1991 : 1160 : 13
+JAM : Sabina ALLEN : long-jump : 27 DEC 1994 : 1138 : 14
+GBR : Lucy HADAWAY : long-jump : 11 JUN 2000 : 1136 : 15
+DMA : Thea LAFOND : long-jump : 05 APR 1994 : 1123 : 16
+GBR : Jahisha THOMAS : long-jump : 22 NOV 1994 : 1123 : 16
+JAM : Nia ROBINSON : long-jump : 08 DEC 2001 : 1131 : 18
+JAM : Taishia PRYCE : long-jump : 14 JUL 1997 : 1117 : 19
+NGR : Mercy Uyoyo ABIRE : long-jump : 20 JUL 1997 : 1112 : 20
+IND : B. AISHWARYA : long-jump : 15 JUN 1997 : 1119 : 20
+CYP : Filippa FOTOPOULOU : long-jump : 20 DEC 1996 : 1108 : 22
+AUS : Tomysha CLARK : long-jump : 12 NOV 2002 : 1106 : 23
+IND : Shaili SINGH : long-jump : 07 JAN 2004 : 1103 : 24
+SRI : S.L.Sarangi SILVA : long-jump : 27 OCT 1996 : 1108 : 24
+GUY : Chantoba BRIGHT : long-jump : 04 APR 2000 : 1101 : 26
+JAM : Shantae FOREMAN : long-jump : 22 OCT 2002 : 1101 : 26
+IND : Sherin Abdul GAFFOOR : long-jump : 24 FEB 2000 : 1097 : 28
+CYP : Nektaria PANAGI : long-jump : 20 MAR 1990 : 1092 : 29
+NGR : Ruth AGADAMA : long-jump : 17 APR 2002 : 1090 : 30
+AUS : Annie MCGUIRE : long-jump : 13 JUN 2001 : 1090 : 30
+PNG : Rellie KAPUTIN : long-jump : 12 MAR 1993 : 1090 : 30
+GBR : Alice HOPKINS : long-jump : 30 DEC 1998 : 1092 : 33
+BAH : Tamara MYERS : long-jump : 27 JUL 1993 : 1086 : 34
+AUS : Mietta RUSSELL : long-jump : 08 FEB 2002 : 1086 : 34
+AUS : Jessie HARPER : long-jump : 18 APR 1996 : 1084 : 36
+JAM : Amanda CARTY : long-jump :  : 1084 : 36
+BAH : Bianca STUART : long-jump : 17 MAY 1988 : 1084 : 36
+GBR : Rebecca CHAPMAN : long-jump : 27 SEP 1992 : 1084 : 36
+RSA : Eljonè KRUGER : long-jump : 16 APR 1998 : 1077 : 40
+CAN : Baileh SIMMS : long-jump : 26 APR 1995 : 1077 : 40
+AUS : Samantha DALE : long-jump : 30 JUN 2001 : 1068 : 42
+GBR : Charlotte JONES : long-jump : 06 SEP 1999 : 1068 : 42
+GBR : Holly MILLS : long-jump : 15 APR 2000 : 1068 : 42
+RSA : Lene PEENS : long-jump : 05 APR 1995 : 1062 : 45
+RSA : Karmen FOUCHE : long-jump : 02 JAN 2003 : 1067 : 45
+IND : Sandra BABU : long-jump : 03 JUL 2001 : 1062 : 45
+IND : Ancy SOJAN : long-jump : 01 MAR 2001 : 1065 : 48
+GBR : Funminiyi OLAJIDE : long-jump : 04 JUN 2002 : 1060 : 48
+RSA : Renate VAN TONDER : long-jump : 10 APR 1998 : 1060 : 48
+SKN : Kieshonna BROOKS : long-jump : 20 MAR 1998 : 1057 : 51
+JAM : Shemonique HAZLE : long-jump : 14 JAN 2007 : 1057 : 51
+AUS : Tay-Leiha CLARK : long-jump : 08 FEB 1998 : 1055 : 53
+SRI : Anjani PULWANSA : long-jump : 02 FEB 1992 : 1055 : 53
+CAN : Georgia ELLENWOOD : long-jump : 05 AUG 1995 : 1074 : 53
+AUS : Delta AMIDZOVSKI : long-jump : 23 AUG 2006 : 1053 : 56
+GBR : Jodie SMITH : long-jump : 02 NOV 2001 : 1051 : 57
+JAM : Tissanna HICKLING : long-jump : 07 JAN 1998 : 1049 : 58
+CAN : Jasmine SCOTT-KILGO : long-jump : 2000 : 1047 : 59
+IND : Pooja SAINI : long-jump : 10 OCT 1999 : 1047 : 59
+NGR : Precious OKORONKWOR : long-jump : 19 OCT 1996 : 1044 : 61
+CAN : Aasha MARLER : long-jump : 24 DEC 1992 : 1042 : 62
+JAM : Leone FARQUHARSON : long-jump : 19 JAN 1999 : 1042 : 62
+JAM : Serena COLE : long-jump : 26 JUN 2004 : 1040 : 64
+RSA : Patience NTSHINGILA : long-jump : 26 AUG 1989 : 1036 : 65
+GBR : Ore ADAMSON : long-jump : 29 OCT 2001 : 1036 : 65
+IND : Renu GREWAL : long-jump : 21 DEC 1998 : 1036 : 65
+BAH : Alexis TILFORD-RUTHERFORD : long-jump : 22 NOV 2002 : 1033 : 68
+BAH : Bria SANDS : long-jump :  : 1033 : 68
+NGR : Tina SAMSON : long-jump : 12 OCT 1996 : 1033 : 68
+GBR : Molly PALMER : long-jump : 27 AUG 2003 : 1031 : 71
+AUS : Chloe GRENADE : long-jump : 15 DEC 1999 : 1031 : 71
+JAM : Velecia WILLIAMS : long-jump : 09 JUL 2002 : 1029 : 73
+GBR : Jade O'DOWDA : long-jump : 09 SEP 1999 : 1029 : 73
+JAM : Ackelia SMITH : long-jump : 05 FEB 2002 : 1027 : 75
+GBR : Katie STAINTON : long-jump : 08 JAN 1995 : 1027 : 75
+NGR : Ubongabasi Ini OKOPIDO : long-jump :  : 1025 : 77
+DMA : Mariah TOUSSAINT : long-jump : 06 NOV 1992 : 1025 : 77
+AUS : Taneille CRASE : long-jump : 16 OCT 1994 : 1025 : 77
+IND : George MAREENA : long-jump : 02 APR 1995 : 1023 : 80
+CAN : Tatiana AHOLOU : long-jump : 26 NOV 2000 : 1023 : 80
+NGR : Esther ISA : long-jump : 09 SEP 1999 : 1023 : 80
+IND : Priyanka KERKETTA : long-jump : 13 OCT 1998 : 1020 : 83
+AUS : Bethany KRANENDONK : long-jump : 26 JAN 2000 : 1020 : 83
+PNG : Annie TOPAL : long-jump : 1996 : 1020 : 83
+IND : Nandini AGASARA : long-jump : 07 AUG 2003 : 1020 : 83
+GBR : Katarina JOHNSON-THOMPSON : long-jump : 09 JAN 1993 : 1020 : 83
+AUS : Abbie FRENCH : long-jump : 26 MAR 2004 : 1018 : 88
+GHA : Jacqueline POKUAAH : long-jump :  : 1019 : 88
+GBR : Amy LAUREN ROLFE : long-jump : 12 DEC 2001 : 1018 : 88
+JAM : Jodian STEWART : long-jump : 22 AUG 2001 : 1018 : 88
+GBR : Abigail PAWLETT : long-jump : 14 JAN 2003 : 1018 : 88
+AUS : Mia SCERRI : long-jump : 26 MAR 2005 : 1016 : 93
+AUS : Katie GUNN : long-jump : 02 JAN 2003 : 1016 : 93
+CMR : Pauline RAISSA NGOUOPOU : long-jump : 03 JAN 1999 : 1019 : 93
+GBR : Ellen BARBER : long-jump : 05 DEC 1997 : 1016 : 93
+IND : Rintu MATHEW : long-jump : 27 MAY 1992 : 1016 : 97
+GRN : Joniar THOMAS : long-jump : 30 APR 2001 : 1014 : 97
+AUS : Caitlin BLACKMAN : long-jump : 17 DEC 2000 : 1012 : 99
+TTO : Janae DE GANNES : long-jump : 2006 : 1012 : 99

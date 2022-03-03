@@ -1,0 +1,70 @@
+AUS : Jack RAYNER : 10000m : 19 DEC 1995 : 1106 : 1
+AUS : David MCNEILL : 10000m : 06 OCT 1986 : 1098 : 2
+AUS : Liam ADAMS : 10000m : 04 SEP 1986 : 1062 : 3
+AUS : Joel TOBIN-WHITE : 10000m : 02 MAR 1994 : 1059 : 4
+KEN : Mathew SAMPERU : 10000m : 01 JUL 1993 : 1034 : 5
+KEN : Isaac TOO : 10000m :  : 1033 : 6
+KEN : Pius KARANJA : 10000m : 1992 : 1023 : 7
+IND : . ADESH : 10000m : 03 FEB 1999 : 1019 : 8
+IND : Arif ALI : 10000m :  : 1014 : 9
+AUS : Matthew CLARKE : 10000m : 29 APR 1995 : 1003 : 10
+KEN : Nelson MANDELA : 10000m : 30 DEC 2004 : 1003 : 11
+KEN : Cosmas MWANGI : 10000m : 12 MAR 2003 : 1002 : 12
+AUS : Jack BRUCE : 10000m : 31 AUG 1994 : 993 : 13
+AUS : Andre WARING : 10000m : 18 AUG 1993 : 990 : 14
+KEN : Simon EKIDOR : 10000m :  : 985 : 15
+KEN : Stanley NJIHIA : 10000m :  : 983 : 16
+KEN : Joseph KIMUTAI : 10000m :  : 982 : 17
+KEN : Peter KAMAU : 10000m : 27 NOV 2003 : 979 : 18
+KEN : Peter RUTO : 10000m :  : 975 : 19
+IND : Shubham SINDHU : 10000m :  : 974 : 20
+KEN : Patrick KOSGEI : 10000m :  : 969 : 21
+KEN : Issac CHELUGO : 10000m :  : 968 : 22
+KEN : Solomon GACHOKA : 10000m :  : 965 : 23
+AUS : Michael KERNAHAN : 10000m : 08 MAY 1996 : 962 : 24
+KEN : Simon MWANGI : 10000m :  : 961 : 25
+AUS : Jacob COCKS : 10000m : 19 MAY 1994 : 960 : 26
+IND : Raj Shekhar PATHAK : 10000m : 01 DEC 2000 : 959 : 27
+KEN : Leonard BOR : 10000m :  : 959 : 28
+IND : Rohit KUMAR : 10000m :  : 958 : 29
+IND : Rohit YADAV : 10000m : 02 JUL 1998 : 955 : 30
+AUS : Louis MCAFEE : 10000m : 23 AUG 1996 : 954 : 31
+AUS : Andrew BUCHANAN : 10000m : 10 APR 1991 : 953 : 32
+AUS : Liam BOUDIN : 10000m : 03 SEP 1997 : 952 : 33
+KEN : Stephen Omiso ARITA : 10000m : 26 JUN 1988 : 952 : 34
+IND : . HARISH : 10000m :  : 947 : 35
+GBR : Nick EARL : 10000m : 22 SEP 1984 : 947 : 36
+KEN : Ezekiel CHEROP : 10000m : 1985 : 945 : 37
+KEN : Nehemiah MAKORI : 10000m :  : 944 : 38
+KEN : Mogeni Benuel MAGOMA : 10000m : 11 MAR 2001 : 943 : 39
+KEN : Peter WANGARI : 10000m : 17 JAN 1987 : 943 : 40
+AUS : Archie REID : 10000m : 19 JUN 2001 : 943 : 41
+KEN : Johnathan SEMANAYO : 10000m :  : 942 : 42
+KEN : Daniel MANTHI : 10000m :  : 940 : 43
+AUS : Guy WALTERS : 10000m : 12 SEP 1994 : 939 : 44
+KEN : Paul LEMUYA : 10000m :  : 938 : 45
+IND : Hariom TIWARI : 10000m :  : 938 : 46
+AUS : Alastair CHRISTY : 10000m : 23 NOV 1997 : 935 : 47
+AUS : Adrian POTTER : 10000m : 09 MAR 1995 : 933 : 48
+KEN : Isaac MUKUNDI : 10000m : 1987 : 924 : 49
+KEN : Shadrack KORIR : 10000m :  : 924 : 49
+AUS : Tim VINCENT : 10000m : 06 SEP 1998 : 924 : 51
+AUS : Seth O'DONNELL : 10000m : 2001 : 924 : 52
+KEN : Nicholas KIPKEMOI : 10000m :  : 923 : 53
+IND : Hemraj GURJAR : 10000m :  : 920 : 54
+KEN : Joel Maina MWANGI : 10000m : 03 JUN 1985 : 917 : 55
+AUS : Benjamin BEISCHER : 10000m : 20 SEP 2001 : 914 : 56
+AUS : Nick BAGGOTT : 10000m : 27 DEC 1991 : 912 : 57
+AUS : Nathan STOATE : 10000m :  : 910 : 58
+IND : Bhupendra SINGH : 10000m :  : 909 : 59
+IND : Shivam YADAV : 10000m : 16 JAN 2001 : 903 : 60
+IND : Anand KRISHNA : 10000m :  : 899 : 61
+KEN : Henry MWANGI : 10000m :  : 896 : 62
+KEN : Jessei MJOROGE : 10000m :  : 893 : 63
+AUS : Jesse DUNSMORE : 10000m : 30 OCT 1999 : 889 : 64
+KEN : Simon KAMAU : 10000m : 1983 : 883 : 65
+ZAM : Edward MWANZA : 10000m : 10 MAR 1989 : 881 : 66
+AUS : Matthew SCHAUMBERG : 10000m :  : 879 : 67
+IND : Reenu KUMAR : 10000m :  : 877 : 68
+IND : Shadab AYUB : 10000m :  : 876 : 69
+KEN : Elisha TARBEI : 10000m :  : 873 : 70

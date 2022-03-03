@@ -1,0 +1,84 @@
+SRI : S.L.Sarangi SILVA : long-jump : 27 OCT 1996 : 1149 : 1
+JAM : Tissanna HICKLING : long-jump : 07 JAN 1998 : 1095 : 2
+JAM : Jodian STEWART : long-jump : 22 AUG 2001 : 1066 : 3
+AUS : Samantha DALE : long-jump : 30 JUN 2001 : 1053 : 4
+AUS : Annie MCGUIRE : long-jump : 13 JUN 2001 : 1051 : 5
+AUS : Tomysha CLARK : long-jump : 12 NOV 2002 : 1051 : 5
+AUS : Brittany CARROLL : long-jump : 30 NOV 2000 : 1051 : 5
+AUS : Katie GUNN : long-jump : 02 JAN 2003 : 1044 : 8
+SRI : Anjani PULWANSA : long-jump : 02 FEB 1992 : 1043 : 9
+AUS : Chloe GRENADE : long-jump : 15 DEC 1999 : 1029 : 10
+IND : Saravanan HARSHINI : long-jump : 10 AUG 1999 : 1023 : 11
+AUS : Margaret GAYEN : long-jump : 10 JUL 1994 : 1020 : 12
+AUS : Caitlin BLACKMAN : long-jump : 17 DEC 2000 : 1016 : 13
+AUS : Abbie FRENCH : long-jump : 26 MAR 2004 : 1016 : 13
+AUS : Mia SCERRI : long-jump : 26 MAR 2005 : 1016 : 13
+RSA : Danielle NOLTE : long-jump : 11 JAN 2002 : 1014 : 16
+AUS : Delta AMIDZOVSKI : long-jump : 23 AUG 2006 : 1012 : 17
+NZL : Mariah RIRINUI : long-jump : 29 JUN 1992 : 1010 : 18
+IND : Sruthi LAKSHMI : long-jump : 04 APR 1996 : 1016 : 19
+AUS : Alyssa LOWE : long-jump : 29 JUN 2003 : 1003 : 20
+IND : Sandra BABU : long-jump : 03 JUL 2001 : 999 : 21
+AUS : Jessie HARPER : long-jump : 18 APR 1996 : 992 : 22
+IND : A. SHERIN : long-jump :  : 1000 : 22
+NZL : Ashleigh BENNETT : long-jump : 12 JAN 1999 : 1000 : 24
+AUS : Bethany KRANENDONK : long-jump : 26 JAN 2000 : 977 : 25
+IND : Bhagavathi BHAVANI : long-jump :  : 984 : 25
+AUS : Brittany BURKITT : long-jump : 11 JAN 1995 : 975 : 27
+AUS : Emilaya ELLIS : long-jump : 14 JUN 2002 : 970 : 28
+AUS : Mietta RUSSELL : long-jump : 08 FEB 2002 : 968 : 29
+JAM : Serena COLE : long-jump : 26 JUN 2004 : 968 : 29
+AUS : Alessia WYNNE : long-jump : 15 DEC 2003 : 985 : 31
+MLT : Claire AZZOPARDI : long-jump : 29 SEP 1999 : 962 : 32
+NZL : Christina RYAN : long-jump : 15 FEB 1998 : 968 : 33
+NZL : Kelsey BERRYMAN : long-jump : 04 FEB 1992 : 960 : 33
+AUS : Montana DJATSCHENKO : long-jump : 29 AUG 2001 : 955 : 35
+NZL : Anna GRIMALDI : long-jump : 12 FEB 1997 : 953 : 36
+AUS : Sophie KAVANAGH : long-jump : 2004 : 951 : 37
+AUS : Sienna BOND : long-jump : 2005 : 951 : 37
+AUS : Claire ROBERTS : long-jump : 01 JUL 2003 : 949 : 39
+SRI : M.H.N. HERATH : long-jump : 2005 : 947 : 40
+IND : . SUSMITA : long-jump : 23 DEC 2004 : 951 : 41
+AUS : Grace BRENNAN : long-jump : 05 NOV 1999 : 938 : 42
+AUS : Alysha BURNETT : long-jump : 04 JAN 1997 : 941 : 42
+AUS : Lara CHECK : long-jump : 2003 : 938 : 42
+AUS : Sinta WARDANA : long-jump : 18 NOV 1991 : 938 : 42
+AUS : Christine GAYEN : long-jump : 20 OCT 1996 : 936 : 46
+JAM : Doniellia LEWIS : long-jump : 03 DEC 2005 : 945 : 47
+IND : Manisha MEREL : long-jump : 05 JUL 2001 : 946 : 47
+AUS : Kaitlin LIM : long-jump : 2006 : 932 : 49
+AUS : Tiana BORAS : long-jump : 04 MAR 2005 : 932 : 49
+AUS : Leila CROKER : long-jump : 2006 : 933 : 51
+AUS : Petra EDWARDS : long-jump : 2004 : 941 : 51
+JAM : Shania MYERS : long-jump : 25 AUG 2005 : 927 : 53
+AUS : Melissa FOSTER : long-jump : 08 SEP 1978 : 927 : 53
+AUS : Francesca SUGIAMAN : long-jump : 30 JAN 2002 : 927 : 53
+AUS : Katherine BAYNES : long-jump : 2005 : 925 : 56
+AUS : Sophie ZARAFA : long-jump : 2005 : 923 : 57
+NZL : Helena DINNISSEN : long-jump : 13 OCT 1984 : 923 : 58
+JAM : Paula-Ann CHAMBERS : long-jump : 03 MAR 2003 : 919 : 59
+AUS : Eleanor COONEY-HUNT : long-jump : 1999 : 919 : 59
+AUS : Nakeisha BRIMBLE : long-jump : 08 MAR 2004 : 916 : 61
+AUS : Geena DAVY : long-jump : 2007 : 914 : 62
+IND : M. KAVIYA : long-jump :  : 919 : 63
+AUS : Corinna MINKO : long-jump : 13 DEC 1989 : 912 : 63
+AUS : Grace KRAUSE : long-jump : 2007 : 911 : 65
+AUS : Tara WEBB : long-jump : 2006 : 910 : 65
+AUS : Brianna LEUNG : long-jump : 2005 : 911 : 67
+JAM : Alicia SEWELL : long-jump : 24 JAN 2003 : 908 : 67
+AUS : Jane HICKIE : long-jump : 07 MAY 2000 : 914 : 67
+NZL : Hannah MALONEY : long-jump : 06 DEC 1996 : 907 : 70
+AUS : Olivia YACONO : long-jump : 18 JAN 2002 : 901 : 71
+JAM : Kavel RITCHIE : long-jump : 21 JUN 2004 : 901 : 71
+JAM : Kay-Lagay CLARKE : long-jump : 27 FEB 2004 : 897 : 73
+JAM : Dejanae NEMBHARD : long-jump :  : 897 : 73
+AUS : Tahla PONT : long-jump : 03 AUG 2000 : 897 : 73
+JAM : Rohanna SUDLOW : long-jump : 2006 : 895 : 76
+IND : Divyanshi SHUKLA : long-jump : 12 MAR 2000 : 902 : 76
+JAM : Chloe PALMER : long-jump : 06 OCT 2005 : 893 : 78
+NZL : Sophie HANCOCK : long-jump : 11 MAY 2006 : 893 : 78
+AUS : Charlotte WOODWARD : long-jump : 2005 : 893 : 78
+AUS : Madison WRIGHT : long-jump : 2005 : 893 : 78
+AUS : Jamison TOWERS : long-jump :  : 891 : 82
+AUS : Teresa ANTHONY : long-jump : 2006 : 891 : 82
+AUS : Aranya MANCHANAYAKE : long-jump : 2005 : 891 : 82

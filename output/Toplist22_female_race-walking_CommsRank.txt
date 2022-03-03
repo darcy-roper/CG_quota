@@ -1,0 +1,16 @@
+AUS : Jemima MONTAG : race-walking : 15 FEB 1998 : 1170 : 1
+AUS : Rebecca HENDERSON : race-walking : 04 JUL 2001 : 1073 : 2
+AUS : Olivia SANDERY : race-walking : 22 JAN 2003 : 1072 : 3
+AUS : Clara SMITH : race-walking : 09 MAR 1998 : 1065 : 4
+GBR : Heather LEWIS : race-walking : 25 OCT 1993 : 1024 : 5
+GBR : Bethan DAVIES : race-walking : 07 NOV 1990 : 973 : 6
+AUS : Alanna PEART : race-walking : 06 SEP 2003 : 973 : 7
+AUS : Allanah PITCHER : race-walking : 19 SEP 2003 : 941 : 8
+GBR : Erika KELLY : race-walking : 06 DEC 1982 : 864 : 9
+GBR : Abigail JENNINGS : race-walking : 10 JUL 2000 : 862 : 10
+AUS : Hannah MISON : race-walking : 14 NOV 2001 : 844 : 11
+AUS : Emma BLANCH : race-walking : 01 APR 2003 : 840 : 12
+AUS : Samantha FINDLAY : race-walking : 1997 : 830 : 13
+AUS : Nellie LANGFORD : race-walking :  : 797 : 14
+AUS : Hannah BOLTON : race-walking : 29 DEC 2003 : 783 : 15
+GBR : Millie MORRIS : race-walking : 2003 : 767 : 16

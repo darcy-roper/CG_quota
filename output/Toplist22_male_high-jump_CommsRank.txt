@@ -1,0 +1,53 @@
+NZL : Hamish KERR : high-jump : 17 AUG 1996 : 1179 : 1
+AUS : Joel BADEN : high-jump : 01 FEB 1996 : 1152 : 2
+AUS : Yual REATH : high-jump : 18 MAY 2000 : 1099 : 3
+AUS : Oscar MIERS : high-jump : 21 NOV 2001 : 1046 : 4
+SGP : Kampton KAM : high-jump : 06 MAR 2001 : 1046 : 4
+AUS : Michael CHRISTIE : high-jump : 07 MAY 2002 : 1019 : 6
+IND : Kaustabha JAISWAL : high-jump : 28 JAN 2000 : 1011 : 7
+IND : Pedakama RAJU : high-jump :  : 1011 : 7
+KEN : Asbel KIPROP : high-jump : 1998 : 1002 : 9
+AUS : Darcy HOLMES : high-jump : 18 FEB 2004 : 1002 : 9
+AUS : Angus CLARK : high-jump : 08 FEB 2001 : 1002 : 9
+AUS : Lachlan O'KEEFE : high-jump : 05 FEB 2005 : 1002 : 9
+IND : Chetan BALASUBRAMANYA : high-jump : 18 AUG 1992 : 993 : 13
+IND : Manu FRANCIS : high-jump : 11 APR 1998 : 993 : 13
+IND : Swadhin KUMAR MAJHI : high-jump : 04 OCT 2000 : 993 : 13
+IND : Kaushik RAJENDRA : high-jump : 21 DEC 2002 : 984 : 16
+IND : Deva KARTHICK : high-jump : 03 JUL 2002 : 984 : 16
+NZL : Marcus WOLTON : high-jump : 29 APR 1995 : 984 : 16
+AUS : Alex PERIN : high-jump : 26 NOV 2004 : 984 : 16
+SRI : S.A.Tharinda DASUN : high-jump : 1999 : 984 : 16
+AUS : Nicholas KOLLIAS : high-jump : 05 JUN 2001 : 967 : 21
+AUS : Matthew TILLEY : high-jump : 16 DEC 1996 : 967 : 21
+IND : . DEEPANSHU : high-jump : 21 DEC 2004 : 958 : 23
+IND : Uchchaal KUMAR ROY : high-jump : 11 OCT 2002 : 958 : 23
+RSA : Usaamah VALLY : high-jump : 10 JAN 2001 : 958 : 23
+SGP : Abel LEE : high-jump : 2004 : 958 : 23
+JAM : Aaron MCKENZIE : high-jump : 09 APR 2006 : 958 : 23
+NZL : Adam STACK : high-jump : 19 JAN 2003 : 958 : 23
+SRI : Indika UDAYA : high-jump :  : 949 : 29
+NZL : Jayden WILLIAMSON : high-jump : 30 JAN 2003 : 940 : 30
+IND : Abhar ATUL : high-jump : 22 OCT 2002 : 940 : 30
+AUS : Christian PAYNTER : high-jump : 23 APR 1997 : 932 : 32
+SRI : Udil TENNAKOON : high-jump : 2004 : 932 : 32
+SRI : Manjula Kumara WIJESEKARA : high-jump : 30 JAN 1984 : 923 : 34
+NZL : Mate PODUJE : high-jump :  : 923 : 34
+AUS : Zane PATERSON : high-jump : 2003 : 923 : 34
+BOT : Karabo SELEKA : high-jump : 2002 : 923 : 34
+AUS : Jackson MCMENAMIN : high-jump : 29 MAR 2004 : 923 : 34
+NZL : Rafe COIUILLAULT : high-jump : 26 APR 2003 : 923 : 34
+IND : Muhammed JASEEM : high-jump : 06 MAR 2000 : 914 : 40
+IND : MD. Asraf ALI : high-jump : 16 JAN 2003 : 914 : 40
+IND : T.N DILSHITH : high-jump : 13 AUG 2000 : 914 : 40
+IND : Muthu JENITHARA : high-jump :  : 914 : 40
+IND : J. ARVINDD : high-jump :  : 914 : 40
+JAM : Corey OTTEY : high-jump : 19 NOV 2002 : 914 : 40
+BOT : Mothomme Blessing THUTO : high-jump : 2002 : 914 : 40
+KEN : Edwin TOO : high-jump :  : 914 : 40
+AUS : Liam TULLY : high-jump : 11 DEC 2001 : 914 : 40
+RSA : Ryan STOCKHIL : high-jump : 13 NOV 2004 : 914 : 40
+TTO : Aaron ANTOINE : high-jump : 2004 : 914 : 40
+GUY : Mark JHALU : high-jump : 04 OCT 1994 : 914 : 40
+AUS : Bradley CARRUTHERS : high-jump :  : 914 : 40
+IND : Chandra MOHAN : high-jump : 10 JAN 2000 : 914 : 40

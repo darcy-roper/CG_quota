@@ -1,0 +1,44 @@
+KEN : Amos SEREM : 3000msc : 28 AUG 2002 : 1105 : 1
+AUS : Matthew CLARKE : 3000msc : 29 APR 1995 : 1092 : 2
+KEN : Vincent KIPCHUMBA : 3000msc : 26 DEC 2001 : 1077 : 3
+KEN : Wesley LANGAT : 3000msc : 1995 : 1068 : 4
+AUS : Ben BUCKINGHAM : 3000msc : 08 NOV 1991 : 1056 : 5
+KEN : Kipsambu KIMAKAI : 3000msc :  : 1054 : 6
+KEN : Elkana CHEROP : 3000msc :  : 1049 : 7
+KEN : Isaac KIRWA : 3000msc :  : 1042 : 8
+KEN : James MWANZIA : 3000msc : 20 DEC 2002 : 1036 : 9
+IND : Lokesh CHAUDHARY : 3000msc : 01 JUL 1999 : 1031 : 10
+KEN : Lawi KIPNGENO : 3000msc : 01 JUN 2000 : 1027 : 11
+AUS : Max STEVENS : 3000msc : 16 NOV 1994 : 1020 : 12
+KEN : Nicholas Kiptonui BETT : 3000msc : 20 DEC 1996 : 1018 : 13
+IND : Prince RAJ : 3000msc : 01 MAR 1999 : 1013 : 14
+AUS : Liam CASHIN : 3000msc : 06 OCT 1997 : 1012 : 15
+AUS : Luke GRAVES : 3000msc : 18 MAR 1999 : 1008 : 16
+IND : Sumit KUMAR : 3000msc : 04 JUL 2000 : 1005 : 17
+AUS : Archie NOAKES : 3000msc : 09 DEC 2004 : 1004 : 18
+AUS : Joe BURGESS : 3000msc : 27 DEC 1996 : 996 : 19
+AUS : Aidan HOBBS : 3000msc : 06 OCT 1986 : 980 : 20
+KEN : Elisha KIBET : 3000msc :  : 979 : 21
+AUS : Christopher DALE : 3000msc : 29 DEC 1991 : 978 : 22
+IND : Shubham BHANDARE : 3000msc :  : 956 : 23
+KEN : Peter RONO : 3000msc :  : 955 : 24
+SRI : Udaya Bandara HERATH : 3000msc : 30 AUG 1995 : 952 : 25
+AUS : Jordan WILLIAMSZ : 3000msc : 21 AUG 1992 : 948 : 26
+KEN : Erick KIPLANGAT : 3000msc :  : 947 : 27
+IND : . RAVI : 3000msc :  : 935 : 28
+IND : Pujari SIDDHANT : 3000msc :  : 933 : 29
+NZL : George GUERIN : 3000msc : 19 JUN 2001 : 933 : 30
+SRI : W.P.M. SAMARAWEERA : 3000msc :  : 933 : 31
+KEN : Philemon KOSGEI : 3000msc : 1993 : 933 : 32
+SRI : T.M.L.C. GUNARATHNE : 3000msc :  : 929 : 33
+SRI : H.M.S.Karunarathna BANDA : 3000msc :  : 927 : 34
+AUS : Toby O'BRIEN : 3000msc : 22 OCT 1995 : 923 : 35
+NZL : Ieuan VAN DER PEET : 3000msc : 12 AUG 1996 : 921 : 36
+KEN : Cosmas KOECH : 3000msc :  : 917 : 37
+KEN : Festus KORIR : 3000msc :  : 913 : 38
+AUS : Nathan PEARCE : 3000msc : 01 JUN 1996 : 912 : 39
+IND : Goyal KUMAR : 3000msc :  : 909 : 40
+IND : R. RAGHAV : 3000msc : 01 FEB 2002 : 903 : 41
+IND : Suraj PAL : 3000msc : 20 MAY 2002 : 897 : 42
+IND : . SAURABH : 3000msc : 14 OCT 1999 : 887 : 43
+AUS : Alexander KWA : 3000msc :  : 878 : 44

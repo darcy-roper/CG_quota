@@ -1,0 +1,100 @@
+KEN : Titus EKIRU : marathon : 02 JAN 1992 : 1280 : 1
+KEN : Reuben Kiprop KIPYEGO : marathon : 21 AUG 1996 : 1263 : 2
+KEN : Marius KIPSEREM : marathon : 17 MAY 1988 : 1261 : 3
+KEN : Bernard Kiprop KOECH : marathon : 31 JAN 1988 : 1259 : 4
+KEN : Barnabas KIPTUM : marathon : 08 DEC 1986 : 1257 : 5
+KEN : Elisha ROTICH : marathon : 12 APR 1990 : 1256 : 6
+KEN : Vincent KIPCHUMBA : marathon : 03 AUG 1990 : 1254 : 7
+KEN : Eliud KIPCHOGE : marathon : 05 NOV 1984 : 1253 : 8
+KEN : Jonathan KORIR : marathon : 20 NOV 1986 : 1253 : 9
+KEN : Hillary KIPSAMBU : marathon : 04 FEB 1985 : 1249 : 10
+KEN : Barselius KIPYEGO : marathon : 22 JUL 1993 : 1248 : 11
+TAN : Gabriel Gerald GEAY : marathon : 10 SEP 1996 : 1246 : 12
+KEN : Nicholas KIRWA : marathon : 16 JUN 1994 : 1244 : 13
+KEN : Morris Munene GACHAGA : marathon : 07 APR 1995 : 1242 : 14
+KEN : Lawrence CHERONO : marathon : 07 AUG 1988 : 1241 : 15
+KEN : Joel Kemboi KIMURER : marathon : 21 JAN 1988 : 1239 : 16
+KEN : Philemon KACHERAN : marathon : 04 JUL 1992 : 1239 : 16
+KEN : Moses KIBET : marathon : 04 FEB 1997 : 1239 : 18
+KEN : Titus KIPRUTO : marathon : 25 JUN 1998 : 1238 : 19
+KEN : Geoffrey KAMWOROR : marathon : 22 NOV 1992 : 1238 : 20
+KEN : Evans CHEBET : marathon : 10 NOV 1988 : 1232 : 21
+KEN : Eric KIPTANUI : marathon : 19 APR 1990 : 1231 : 22
+KEN : Emmanuel SAINA : marathon : 06 SEP 1992 : 1230 : 23
+KEN : Samuel Kiplimo KOSGEI : marathon : 20 JAN 1986 : 1227 : 24
+KEN : Kenneth KETER : marathon : 04 AUG 1996 : 1226 : 25
+KEN : Bethwel YEGON : marathon : 05 JAN 1993 : 1224 : 26
+KEN : Silas TOO : marathon : 13 JAN 1988 : 1218 : 27
+KEN : Bernard Kiprop KIPYEGO : marathon : 16 JUL 1986 : 1218 : 27
+KEN : Solomon Kirwa YEGO : marathon : 10 MAY 1987 : 1216 : 29
+KEN : Kipkemoi KIPRONO : marathon : 12 SEP 1995 : 1215 : 30
+KEN : Abel KIRUI : marathon : 04 JUN 1982 : 1213 : 31
+KEN : Martin KIPRUGUT KOSGEY : marathon : 21 MAR 1989 : 1212 : 32
+KEN : Timothy KIPLAGAT : marathon :  : 1210 : 33
+KEN : Simon KIPKOSGEI : marathon : 03 MAY 1998 : 1209 : 34
+KEN : Mike KIPTUM : marathon : 14 SEP 1992 : 1209 : 34
+KEN : Simon KARIUKI : marathon : 01 APR 1996 : 1205 : 36
+KEN : Reuben KERIO : marathon : 02 JUN 1994 : 1205 : 36
+KEN : Bernard Kipkemoi NGENO : marathon :  : 1205 : 36
+UGA : Filex CHEMONGES : marathon : 19 AUG 1993 : 1205 : 39
+KEN : Lucas Kimeli ROTICH : marathon : 16 APR 1990 : 1204 : 40
+KEN : Mark KORIR : marathon : 10 JAN 1985 : 1200 : 41
+KEN : Bethwell KIPKEMBOI : marathon : 06 APR 1993 : 1199 : 42
+KEN : Kennedy CHEBOROR : marathon : 26 APR 1990 : 1199 : 43
+TAN : Alphonce Felix SIMBU : marathon : 14 FEB 1992 : 1196 : 44
+KEN : Edwin KOSGEI : marathon : 17 SEP 1989 : 1196 : 45
+KEN : Michel GITHAE : marathon : 26 AUG 1994 : 1196 : 45
+KEN : Albert KANGOGO : marathon : 16 AUG 1987 : 1196 : 47
+KEN : Laban Kipngetich KORIR : marathon : 30 JUN 1985 : 1195 : 48
+KEN : Vincent RONO : marathon : 10 NOV 1990 : 1190 : 49
+KEN : Edwin KIPLAGAT : marathon : 19 FEB 1993 : 1189 : 50
+KEN : Albert KORIR : marathon : 02 MAR 1994 : 1187 : 51
+KEN : Clement Kiprono LANGAT : marathon : 18 DEC 1991 : 1187 : 52
+UGA : Fred MUSOBO : marathon : 12 AUG 1996 : 1187 : 53
+KEN : James Gitahi RUNGARU : marathon : 14 JAN 1993 : 1187 : 54
+KEN : Michael KUNYUGA : marathon : 27 JUL 1987 : 1186 : 55
+KEN : Emmanuel NAIBEI : marathon : 20 JUL 1983 : 1186 : 55
+UGA : Jackson KIPROP : marathon : 20 OCT 1986 : 1186 : 55
+KEN : Wilson Kwambai CHEBET : marathon : 12 JUL 1985 : 1183 : 58
+KEN : Cosmas MATOLO : marathon :  : 1181 : 59
+KEN : Stephen CHEBOGUT : marathon : 09 JAN 1985 : 1180 : 60
+KEN : Thomas KIBET : marathon :  : 1180 : 60
+KEN : Stanley BETT : marathon : 13 DEC 1986 : 1178 : 62
+KEN : Zablon CHUMBA : marathon : 1991 : 1177 : 63
+KEN : CyBrian KOTUT : marathon : 06 JUN 1992 : 1177 : 64
+KEN : Alfred KOECH : marathon :  : 1177 : 65
+UGA : Stephen KIPROTICH : marathon : 27 FEB 1989 : 1176 : 66
+KEN : Shadrack Kimutai KOECH : marathon : 28 DEC 1999 : 1176 : 66
+KEN : Barnaba KIPKOECH : marathon : 27 APR 1993 : 1174 : 68
+KEN : Leonard LANGAT : marathon : 02 AUG 1996 : 1170 : 69
+KEN : Dominic NYAIRO : marathon : 22 AUG 1997 : 1167 : 70
+KEN : Edwin KOECH : marathon : 25 MAR 1992 : 1165 : 71
+KEN : Bernard KIPROTICH : marathon :  : 1165 : 72
+KEN : Ezekiel KOECH : marathon :  : 1165 : 73
+KEN : David KIPRONO : marathon : 1990 : 1164 : 74
+UGA : Geofrey KUSURO : marathon : 12 FEB 1989 : 1162 : 75
+KEN : Raymond Kipchumba CHOGE : marathon : 02 JAN 1988 : 1162 : 75
+KEN : Mathew Sang KIBIWOT : marathon : 1986 : 1162 : 77
+KEN : Samuel LOMOI : marathon :  : 1162 : 77
+KEN : Bethwel KIBET : marathon : 1991 : 1161 : 79
+RSA : Stephen MOKOKA : marathon : 31 JAN 1985 : 1160 : 80
+KEN : Laban MUTAI : marathon : 15 JAN 1988 : 1160 : 81
+CAN : Cameron LEVINS : marathon : 28 MAR 1989 : 1156 : 82
+UGA : Martin MUSAU : marathon : 05 OCT 1998 : 1156 : 83
+KEN : Gilbert CHUMBA : marathon : 06 JUL 1986 : 1156 : 84
+KEN : Benson KIPRUTO : marathon : 17 MAR 1991 : 1156 : 84
+UGA : Victor KIPLANGAT : marathon : 10 NOV 1999 : 1155 : 86
+KEN : Robert KIPKEMBOI : marathon : 19 JUN 1988 : 1154 : 87
+NAM : Tomas Hilifa RAINHOLD : marathon : 07 FEB 1991 : 1154 : 88
+LES : Tebello RAMAKONGOANA : marathon : 13 OCT 1996 : 1154 : 88
+UGA : Solomon MUTAI : marathon : 22 OCT 1992 : 1153 : 90
+KEN : Dickson CHUMBA : marathon : 27 OCT 1986 : 1153 : 91
+KEN : Nobert KIGEN : marathon : 24 JAN 1993 : 1153 : 92
+KEN : Moses KEMEI : marathon : 03 SEP 1993 : 1152 : 93
+KEN : Elkanah LANGAT : marathon : 1996 : 1151 : 94
+KEN : Charles JUMA : marathon : 10 JAN 1993 : 1148 : 95
+KEN : John LANGAT : marathon : 02 OCT 1993 : 1148 : 95
+KEN : Felix KIMUTAI : marathon : 12 FEB 1989 : 1147 : 97
+KEN : Benard KIMELI : marathon : 10 SEP 1995 : 1146 : 98
+GBR : Chris THOMPSON : marathon : 17 APR 1981 : 1146 : 99
+KEN : Leonard LANGAT : marathon : 07 AUG 1990 : 1145 : 100

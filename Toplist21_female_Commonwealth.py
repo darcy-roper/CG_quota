@@ -6,10 +6,11 @@
 from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import StaleElementReferenceException
 import sys
+from webdriver_manager.chrome import ChromeDriverManager
+
 
 #options for events
 # put this in a list to read item in list so bot operated through items automatically
@@ -34,10 +35,10 @@ eventHT = str("hammer-throw")
 eventX7 = str("heptathlon")
 event20kw = str("race-walking")
 eventMAR = str("marathon")
-# make list from variables [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, event20kw, eventMAR #eventX7 seperate
+# make list from variables [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, event20kw, eventMAR, eventX7
 # we use this comment list above to quickly paste in or over below list to begin running program from an event 
 # without rewriting all the events starting from event100 if that event executed correctly
-event_list = [eventX7, eventMAR]
+event_list = [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, event20kw, eventMAR, eventX7]
 
 
 while True:
@@ -88,10 +89,9 @@ while True:
             event_num = "22"
 
 
-        sys.stdout = open('/Users/newmac/Desktop/Programs and Code/Toplist21_female' + '_' + event + '_CommsRank' + '.txt', 'wt') # want to automate the folder selection process
+        sys.stdout = open('output/Toplist21_female' + '_' + event + '_CommsRank' + '.txt', 'wt') # saves into repo folder
         #bot for clicking cookie button and opening row1
-        PATH = Service("/Applications/chromedriver") # want to find chromedriver on local device runnig program
-        driver = webdriver.Chrome(service=PATH)
+        driver = webdriver.Chrome(ChromeDriverManager().install())  # should install chromedriver if not found
         driver.get("https://www.worldathletics.org/records/toplists/")  # EVENT URL fetching commonwealth toplist for 2022
         time.sleep(1)
         cookie_button = driver.find_element(By.XPATH, '/html/body/div[7]/div')
@@ -133,7 +133,7 @@ while True:
         group_click.click()
         commgames = driver.find_element(By.XPATH, '//*[@id="region"]/option[6]')
         commgames.click()
-        time.sleep(3) # allowing for table load time
+        time.sleep(4) # allowing for table load time
 
 
 

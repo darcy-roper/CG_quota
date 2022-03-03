@@ -1,0 +1,100 @@
+JAM : Shanieka RICKETTS : triple-jump : 02 FEB 1992 : 1218 : 1
+JAM : Kimberly WILLIAMS : triple-jump : 03 NOV 1988 : 1188 : 2
+DMA : Thea LAFOND : triple-jump : 05 APR 1994 : 1179 : 3
+NGR : Ruth USORO : triple-jump : 08 OCT 1997 : 1169 : 4
+GBR : Naomi OGBETA : triple-jump : 18 APR 1998 : 1140 : 5
+JAM : Sabina ALLEN : triple-jump : 27 DEC 1994 : 1138 : 6
+JAM : Kimberly WILLIAMSON : triple-jump : 02 OCT 1993 : 1144 : 7
+GHA : Deborah ACQUAH : triple-jump : 23 MAY 1996 : 1131 : 8
+BAH : Tamara MYERS : triple-jump : 27 JUL 1993 : 1115 : 9
+GUY : Natricia HOOPER : triple-jump : 24 NOV 1998 : 1109 : 10
+VIN : Mikeisha WELCOME : triple-jump : 06 AUG 2000 : 1091 : 11
+LCA : Sandisha ANTOINE : triple-jump : 05 NOV 1991 : 1093 : 12
+RSA : Zinzi XULU : triple-jump : 28 SEP 1996 : 1080 : 13
+BAH : Charisma TAYLOR : triple-jump : 03 SEP 1999 : 1080 : 13
+GBR : Temitope OJORA : triple-jump : 24 JAN 2002 : 1079 : 15
+IND : B. AISHWARYA : triple-jump : 15 JUN 1997 : 1080 : 16
+GUY : Chantoba BRIGHT : triple-jump : 04 APR 2000 : 1069 : 17
+IND : Renu GREWAL : triple-jump : 21 DEC 1998 : 1076 : 18
+CAN : Caroline EHRHARDT : triple-jump : 06 FEB 1992 : 1066 : 19
+JAM : Ackelia SMITH : triple-jump : 05 FEB 2002 : 1064 : 20
+NGR : Onaara OBAMUWAGUN : triple-jump : 09 JAN 1999 : 1064 : 21
+NGR : Blessing IBRAHIM : triple-jump : 11 OCT 1992 : 1046 : 22
+AUS : Aliyah PARKER : triple-jump : 16 DEC 1996 : 1043 : 23
+JAM : Lamara DISTIN : triple-jump : 03 MAR 2000 : 1046 : 24
+RSA : Patience NTSHINGILA : triple-jump : 26 AUG 1989 : 1037 : 25
+JAM : Rhianna PHIPPS : triple-jump : 11 FEB 2001 : 1036 : 26
+CMR : Véronique KOSSENDA REY : triple-jump : 23 SEP 1996 : 1036 : 27
+LES : Lerato SECHELE : triple-jump : 10 MAR 1994 : 1042 : 27
+AUS : Desleigh OWUSU : triple-jump : 20 SEP 2001 : 1032 : 29
+NGR : Ese BRUME : triple-jump : 20 JAN 1996 : 1031 : 30
+IND : Bhairabi DAS : triple-jump : 02 FEB 1995 : 1037 : 31
+AUS : Chloe GRENADE : triple-jump : 15 DEC 1999 : 1027 : 32
+NGR : Esther ISA : triple-jump : 09 SEP 1999 : 1027 : 32
+GBR : Jahisha THOMAS : triple-jump : 22 NOV 1994 : 1027 : 32
+IND : Sandra BABU : triple-jump : 03 JUL 2001 : 1027 : 32
+GHA : Nadia EKE : triple-jump : 11 JAN 1993 : 1029 : 36
+NZL : Anna THOMSON : triple-jump : 14 MAY 1995 : 1022 : 37
+IND : R. AISHWARYA : triple-jump : 03 JAN 2000 : 1028 : 38
+AUS : Tiana BORAS : triple-jump : 04 MAR 2005 : 1021 : 38
+NGR : Victory GEORGE : triple-jump : 25 JUL 2001 : 1021 : 38
+NGR : Mercy HONEST PETER : triple-jump : 28 AUG 1993 : 1030 : 38
+IND : Vinija VIJAYAN : triple-jump : 11 OCT 1996 : 1028 : 42
+NZL : Atipa MABONGA : triple-jump : 29 NOV 1998 : 1017 : 43
+GBR : Lia STEPHENSON : triple-jump : 04 MAR 1996 : 1015 : 44
+CMR : Pauline RAISSA NGOUOPOU : triple-jump : 03 JAN 1999 : 1013 : 45
+IND : I. ASHA : triple-jump : 18 JUN 1999 : 1022 : 45
+IND : K.M. SONAM : triple-jump : 15 MAY 1998 : 1011 : 47
+JAM : Velecia WILLIAMS : triple-jump : 09 JUL 2002 : 1020 : 48
+AUS : Kayla CUBA : triple-jump : 06 AUG 1999 : 1008 : 49
+JAM : D'Andra MORRIS : triple-jump : 1998 : 1006 : 50
+CAN : Tamara GRAHOVAC : triple-jump : 2000 : 1005 : 51
+IND : Sharvari PARULEKAR : triple-jump : 21 MAR 2002 : 1003 : 52
+AUS : Charlotte MCGILL : triple-jump : 15 JAN 2002 : 1003 : 53
+PNG : Annie TOPAL : triple-jump : 1996 : 1002 : 53
+AUS : Caitlin BLACKMAN : triple-jump : 17 DEC 2000 : 998 : 55
+MLT : Claire AZZOPARDI : triple-jump : 29 SEP 1999 : 998 : 55
+AUS : Annabelle PARMEGIANI : triple-jump : 13 NOV 1997 : 997 : 57
+JAM : Amanda CARTY : triple-jump :  : 995 : 58
+CAN : Kayla BUSHEY : triple-jump :  : 994 : 59
+RSA : Maruska JANSE VAN RENSBURG : triple-jump :  : 995 : 60
+AUS : Erin GUY : triple-jump : 20 JUL 1993 : 992 : 61
+AUS : Tierra EXUM : triple-jump : 13 JUL 1995 : 997 : 61
+KEN : Winny Chepngetich BII : triple-jump : 27 DEC 2003 : 992 : 61
+JAM : Shardia LAWRENCE : triple-jump : 31 DEC 1995 : 995 : 64
+CYP : Filippa FOTOPOULOU : triple-jump : 20 DEC 1996 : 990 : 64
+SRI : K.A.T. LAKSHANI : triple-jump : 13 MAY 1993 : 988 : 66
+SRI : K.P.S.R.R. SEWWANDI : triple-jump : 2004 : 988 : 66
+AUS : Zoe CHESTER : triple-jump : 2006 : 987 : 68
+AUS : Emilaya ELLIS : triple-jump : 14 JUN 2002 : 986 : 69
+GBR : Nony MORDI : triple-jump : 25 JUL 1987 : 986 : 69
+IND : Melva GEORGE : triple-jump :  : 995 : 69
+AUS : Tahla PONT : triple-jump : 03 AUG 2000 : 983 : 72
+IND : Gothandapni KARTHIKA : triple-jump : 02 JAN 1996 : 995 : 72
+SRI : Randi HEMASHA COORAY : triple-jump :  : 987 : 74
+NZL : Kayla GOODWIN : triple-jump : 24 APR 2001 : 980 : 75
+GBR : Ore ADAMSON : triple-jump : 29 OCT 2001 : 980 : 75
+IND : J. COLESHIYA : triple-jump : 24 NOV 2002 : 979 : 77
+SRI : D.R.Hoshim NIRODHA : triple-jump : 18 DEC 1999 : 989 : 77
+JAM : Hanifah ABDUL-QADIR : triple-jump :  : 978 : 79
+JAM : Danielle SPENCE : triple-jump : 01 SEP 1998 : 977 : 80
+MLT : Rachela PACE : triple-jump : 15 JUN 2003 : 977 : 80
+GUY : Natrena HOOPER : triple-jump : 02 FEB 1991 : 976 : 82
+IND : Arshdeep KAUR : triple-jump : 02 NOV 1999 : 975 : 83
+AUS : Tara WYLLIE : triple-jump : 02 NOV 2003 : 974 : 84
+SRI : Neha HETTIARACHCHI : triple-jump : 2003 : 974 : 84
+IND : Gayathry SIVAKUMAR : triple-jump : 26 FEB 2001 : 974 : 84
+BAH : Amelia PETERSON : triple-jump : 13 APR 2000 : 973 : 87
+CAN : Mandy BRUNET : triple-jump : 2000 : 973 : 87
+GBR : Chloe VERNON-HAMILTON : triple-jump : 11 OCT 1992 : 972 : 89
+SRI : Mudiyanselage EKANAYAKA : triple-jump : 06 JAN 1998 : 970 : 90
+SRI : N.A.Y. SEWWANDI : triple-jump :  : 970 : 90
+BAR : Katrina SMALL : triple-jump :  : 970 : 90
+IND : Athira SURENDRAN : triple-jump : 21 SEP 1996 : 970 : 90
+SGP : Tia Louise ROZARIO : triple-jump : 14 OCT 2000 : 969 : 94
+CAN : Isabella GOUDROS : triple-jump : 12 AUG 2003 : 969 : 94
+BAR : Aria SMALL : triple-jump : 23 JUL 1999 : 968 : 96
+GBR : Angela BARRETT : triple-jump : 25 DEC 1985 : 968 : 96
+GBR : Eavion RICHARDSON : triple-jump : 17 JUN 1998 : 967 : 98
+NGR : Fejiro DJOMA : triple-jump :  : 966 : 99
+GHA : Jacqueline POKUAAH : triple-jump :  : 966 : 99

@@ -1,0 +1,100 @@
+AUS : Brandon STARC : high-jump : 24 NOV 1993 : 1224 : 1
+CAN : Django LOVETT : high-jump : 06 JUL 1992 : 1206 : 2
+NZL : Hamish KERR : high-jump : 17 AUG 1996 : 1188 : 3
+SRI : Ushan Thiwanka PERERA : high-jump : 22 JAN 1998 : 1179 : 4
+CAN : Michael MASON : high-jump : 30 SEP 1986 : 1179 : 4
+IND : Tejaswin SHANKAR : high-jump : 21 DEC 1998 : 1161 : 6
+BAH : Donald THOMAS : high-jump : 01 JUL 1984 : 1161 : 6
+GBR : Tom GALE : high-jump : 18 DEC 1998 : 1161 : 6
+RSA : Mpho LINKS : high-jump : 20 JUN 1996 : 1152 : 9
+AUS : Brenton FOSTER : high-jump : 26 FEB 1998 : 1152 : 9
+MAS : Nauraj Singh RANDHAWA : high-jump : 27 JAN 1992 : 1152 : 9
+AUS : Oscar MIERS : high-jump : 21 NOV 2001 : 1135 : 12
+KEN : Mathew SAWE : high-jump : 02 JUL 1988 : 1135 : 12
+GBR : William GRIMSEY : high-jump : 14 DEC 1996 : 1135 : 12
+AUS : Yual REATH : high-jump : 18 MAY 2000 : 1135 : 12
+AUS : Joel BADEN : high-jump : 01 FEB 1996 : 1126 : 16
+JAM : Clayton BROWN : high-jump : 08 DEC 1996 : 1126 : 16
+CAN : Derek DROUIN : high-jump : 06 MAR 1990 : 1126 : 16
+CYP : Vasilios KONSTANTINOU : high-jump : 13 SEP 1992 : 1126 : 16
+BAH : Jamal WILSON : high-jump : 01 SEP 1988 : 1126 : 16
+NGR : Mike EDWARDS : high-jump : 11 JUL 1990 : 1117 : 21
+RSA : Breyton POOLE : high-jump : 23 MAR 2000 : 1117 : 21
+GBR : David SMITH : high-jump : 14 JUL 1991 : 1117 : 21
+GBR : Chris BAKER : high-jump : 02 FEB 1991 : 1108 : 24
+GBR : Joel KHAN : high-jump : 30 SEP 1999 : 1099 : 25
+BAH : Shaun MILLER : high-jump : 30 JUL 2001 : 1099 : 25
+JAM : Romaine BECKFORD : high-jump : 09 JUL 2002 : 1090 : 27
+AUS : Simioluwa THOMSEN-AJAYI : high-jump : 12 APR 2000 : 1090 : 27
+RSA : Keegan FOURIE : high-jump : 07 SEP 1991 : 1090 : 27
+NGR : Omamuyovwi ERHIRE : high-jump : 16 AUG 2002 : 1090 : 27
+BOT : Tshwanelo AABOBE : high-jump : 31 JAN 1991 : 1090 : 27
+RSA : Brian RAATS : high-jump : 17 JAN 2004 : 1090 : 27
+BAH : Trevor BARRY : high-jump : 14 JUN 1983 : 1090 : 27
+JAM : Lushane WILSON : high-jump : 11 SEP 1998 : 1090 : 27
+CAN : Aiden GROUT : high-jump : 25 JUN 2002 : 1081 : 35
+IND : Vincent BHARATHI : high-jump : 20 MAY 1994 : 1081 : 35
+BAH : Kyle ALCINE : high-jump : 29 JUN 1999 : 1081 : 35
+GBR : Lionel OWONA : high-jump : 23 SEP 2002 : 1072 : 38
+GBR : Sam BRERETON : high-jump : 22 SEP 2002 : 1064 : 39
+GBR : Lewis MCGUIRE : high-jump : 22 OCT 1997 : 1064 : 39
+GBR : Adam BROOKS : high-jump : 13 APR 1999 : 1064 : 39
+IND : Sarvesh Anil KUSHARE : high-jump : 17 JUN 1995 : 1064 : 39
+IND : Jesse SANDESH : high-jump : 22 OCT 1995 : 1064 : 39
+IND : T. AROMAL : high-jump : 13 SEP 1998 : 1064 : 39
+BAH : Jyles ETIENNE : high-jump : 17 MAR 1999 : 1055 : 45
+KEN : Asbel KIPROP : high-jump : 1998 : 1055 : 45
+GBR : Rory DWYER : high-jump : 11 OCT 1997 : 1055 : 45
+NGR : David AYA : high-jump : 05 DEC 2004 : 1055 : 45
+RSA : Gift NKOSI : high-jump : 02 JAN 1999 : 1046 : 49
+JAM : Raymond RICHARDS : high-jump : 28 APR 2001 : 1046 : 49
+NGR : Cyprain OYEDELE : high-jump : 23 FEB 1998 : 1046 : 49
+CAN : Noel VANDERZEE : high-jump : 18 FEB 1999 : 1046 : 49
+RSA : Chris MOLEYA : high-jump : 27 JAN 1997 : 1046 : 49
+IND : Geo JOSE : high-jump : 24 SEP 1998 : 1046 : 49
+IND : Chetan BALASUBRAMANYA : high-jump : 18 AUG 1992 : 1046 : 49
+IND : C SRINEESH : high-jump : 31 MAY 1993 : 1046 : 49
+SRI : Roshan DAMMIKA RANATHUNGA : high-jump : 10 MAY 1998 : 1037 : 57
+MAS : Moh. Eizlan DAHALAN : high-jump : 05 SEP 1999 : 1037 : 57
+MAS : Farrell Glenn FELIX : high-jump : 2001 : 1037 : 57
+RSA : Connor ANNANDALE : high-jump : 07 JAN 2004 : 1028 : 60
+GBR : Kelechi AGUOCHA : high-jump : 10 FEB 2001 : 1028 : 60
+GBR : Dominic OGBECHIE : high-jump : 15 MAY 2002 : 1028 : 60
+IND : Deva KARTHICK : high-jump : 03 JUL 2002 : 1028 : 60
+AUS : Matthew TILLEY : high-jump : 16 DEC 1996 : 1028 : 60
+IND : J. Aadarsh RAM : high-jump : 27 SEP 1997 : 1019 : 65
+IND : Girjeet SINGH : high-jump : 05 JAN 2000 : 1019 : 65
+LCA : Mickey FERDINAND : high-jump : 17 SEP 1995 : 1019 : 65
+RSA : Edric WENHOLD : high-jump : 28 MAR 2003 : 1019 : 65
+GBR : Timothy DUCKWORTH : high-jump : 18 JUN 1996 : 1019 : 65
+AUS : Angus CLARK : high-jump : 08 FEB 2001 : 1019 : 65
+JAM : Asani HYLTON : high-jump : 01 JUN 1997 : 1019 : 65
+GUY : Mark JHALU : high-jump : 04 OCT 1994 : 1019 : 65
+IND : Vijay MALIK : high-jump : 28 DEC 2003 : 1011 : 73
+SRI : S.A.Tharinda DASUN : high-jump : 1999 : 1011 : 73
+CAN : Paul GALAS : high-jump : 09 FEB 1996 : 1011 : 73
+CAN : Stefan DUVIVIER : high-jump : 1996 : 1011 : 73
+AUS : Ashley MOLONEY : high-jump : 13 MAR 2000 : 1011 : 73
+IND : Kaustabha JAISWAL : high-jump : 28 JAN 2000 : 1011 : 73
+BAN : Rahman MAHFUZUR : high-jump : 02 JAN 1988 : 1002 : 79
+AUS : Sean SZALEK : high-jump : 10 NOV 2000 : 1002 : 79
+AUS : Nicholas KOLLIAS : high-jump : 05 JUN 2001 : 1002 : 79
+AUS : Darcy HOLMES : high-jump : 18 FEB 2004 : 1002 : 79
+AUS : Jonathan TITMARSH : high-jump : 18 MAR 2002 : 1002 : 79
+MRI : Desjardin PROSPER : high-jump : 2000 : 1002 : 79
+RSA : Luvo NKEWU : high-jump : 13 NOV 1991 : 1002 : 79
+IND : Sidharth YADAV : high-jump : 30 NOV 1993 : 1002 : 79
+RSA : Gayisa MASWANGAYI : high-jump : 21 MAR 2001 : 1002 : 79
+RSA : Ryan STOCKHIL : high-jump : 13 NOV 2004 : 1002 : 79
+JAM : David EDMONDSON : high-jump : 17 NOV 2000 : 1002 : 79
+CMR : François Joël MOUDIO : high-jump : 24 JUN 2000 : 1002 : 79
+MAS : Hup Wei LEE : high-jump : 05 MAY 1987 : 1002 : 79
+GBR : Luke BALL : high-jump : 28 OCT 2004 : 1002 : 79
+IND : S. VEERAMANI : high-jump : 28 AUG 1994 : 1002 : 79
+IND : R. MANIVANNAN : high-jump : 19 DEC 1996 : 1002 : 79
+IND : Sreenith MOHAN : high-jump : 24 MAR 1995 : 1002 : 79
+AUS : Cedric DUBLER : high-jump : 13 JAN 1995 : 993 : 96
+AUS : Alex PERIN : high-jump : 26 NOV 2004 : 993 : 96
+GBR : Jonathan BROOM-EDWARDS : high-jump : 27 MAY 1988 : 993 : 96
+CAN : Damian WARNER : high-jump : 04 NOV 1989 : 993 : 96
+GBR : Jack ENNIS : high-jump : 07 JUN 2002 : 993 : 96

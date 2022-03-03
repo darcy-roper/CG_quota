@@ -1,0 +1,100 @@
+AUS : Nicola MCDERMOTT : high-jump : 28 DEC 1996 : 1239 : 1
+AUS : Eleanor PATTERSON : high-jump : 22 MAY 1996 : 1180 : 2
+TTO : Tyra GITTENS : high-jump : 06 JUN 1998 : 1170 : 3
+GBR : Morgan LAKE : high-jump : 12 MAY 1997 : 1170 : 3
+GBR : Emily BORTHWICK : high-jump : 02 SEP 1997 : 1150 : 5
+LCA : Levern SPENCER : high-jump : 23 JUN 1984 : 1140 : 6
+GBR : Nikki MANSON : high-jump : 15 OCT 1994 : 1121 : 7
+JAM : Lamara DISTIN : high-jump : 03 MAR 2000 : 1121 : 7
+GBR : Laura ZIALOR : high-jump : 04 AUG 1998 : 1121 : 7
+JAM : Kimberly WILLIAMSON : high-jump : 02 OCT 1993 : 1111 : 10
+NGR : Esther ISA : high-jump : 09 SEP 1999 : 1111 : 10
+CYP : Styliana IOANNIDOU : high-jump : 17 DEC 2003 : 1091 : 12
+GBR : Katarina JOHNSON-THOMPSON : high-jump : 09 JAN 1993 : 1082 : 13
+SGP : Michelle SUAT LI : high-jump : 19 MAY 1987 : 1082 : 13
+NZL : Josie TAYLOR : high-jump : 13 DEC 2002 : 1072 : 15
+AUS : Emily WHELAN : high-jump : 10 JAN 2000 : 1072 : 15
+ANT : Priscilla FREDERICK : high-jump : 14 FEB 1989 : 1072 : 15
+GBR : Holly MILLS : high-jump : 15 APR 2000 : 1072 : 15
+AUS : Erin SHAW : high-jump : 07 SEP 2004 : 1062 : 19
+IND : Gracena GLISTUS MERY : high-jump : 23 MAY 2000 : 1062 : 19
+CYP : Despoina CHARALAMBOUS : high-jump : 22 MAY 2000 : 1062 : 19
+JAM : Shantae FOREMAN : high-jump : 22 OCT 2002 : 1062 : 19
+CAN : Alexa PORPACZY : high-jump : 07 MAY 2000 : 1052 : 23
+NZL : Josephine REEVES : high-jump : 25 MAR 2001 : 1052 : 23
+CAN : Falyn REAUGH : high-jump : 29 JUN 1999 : 1052 : 23
+CAN : Georgia ELLENWOOD : high-jump : 05 AUG 1995 : 1052 : 23
+AUS : Rosie TOZER : high-jump : 07 MAY 2002 : 1043 : 27
+IND : Swapna BARMAN : high-jump : 29 OCT 1996 : 1043 : 27
+RSA : Kristi SNYMAN : high-jump : 15 DEC 2000 : 1043 : 27
+CAN : Barbara BITCHOKA : high-jump : 1996 : 1043 : 27
+AUS : Toby STOLBERG : high-jump : 2006 : 1043 : 27
+NZL : Imogen SKELTON : high-jump : 15 OCT 2000 : 1033 : 32
+NZL : Keeley O'HAGAN : high-jump : 11 MAR 1994 : 1023 : 33
+AUS : Alysha BURNETT : high-jump : 04 JAN 1997 : 1023 : 33
+RSA : Karmen FOUCHE : high-jump : 02 JAN 2003 : 1023 : 33
+NGR : Temitope ADESHINA : high-jump :  : 1023 : 33
+RSA : Yvonne ROBSON : high-jump : 12 SEP 1999 : 1023 : 33
+JAM : Annishka MCDONALD : high-jump : 30 OCT 2003 : 1023 : 33
+GBR : Zara TYAS : high-jump : 29 APR 2003 : 1023 : 33
+GBR : Temitope OJORA : high-jump : 24 JAN 2002 : 1023 : 33
+JAM : Alliyah MCNEIL : high-jump : 25 SEP 2001 : 1023 : 33
+RSA : Michelle NGOZO : high-jump : 15 MAY 2000 : 1023 : 33
+GBR : Bethan PARTRIDGE : high-jump : 11 JUL 1990 : 1023 : 33
+GBR : Jodie SMITH : high-jump : 02 NOV 2001 : 1023 : 33
+CAN : Marguerite LORENZO : high-jump : 1999 : 1023 : 33
+IND : Khyati MATHUR : high-jump : 02 SEP 2003 : 1013 : 46
+JAM : Roschell CLAYTON : high-jump : 16 JAN 2001 : 1013 : 46
+CAN : Dallyssa HUGGINS : high-jump : 31 OCT 1998 : 1013 : 46
+CYP : Yelena KULICHENKO : high-jump : 28 JUL 2002 : 1013 : 46
+AUS : Tryphena HEWETT : high-jump : 22 OCT 2005 : 1004 : 50
+AUS : Brianna LEUNG : high-jump : 2005 : 1004 : 50
+JAM : Daniella ANGLIN : high-jump : 15 NOV 2001 : 1004 : 50
+GBR : Carmen NEAT : high-jump : 23 OCT 2001 : 1004 : 50
+CAN : Lara DENBOW : high-jump : 2003 : 1004 : 50
+AUS : Taneille CRASE : high-jump : 16 OCT 1994 : 1004 : 50
+NGR : Hope ARUYA : high-jump : 07 AUG 1989 : 994 : 56
+GBR : Bernice COULSON : high-jump : 25 APR 1998 : 994 : 56
+GBR : Eloise HIND : high-jump : 2004 : 994 : 56
+AUS : Elizabeth MOSS : high-jump : 22 MAR 2002 : 984 : 59
+AUS : Alexandra HARRISON : high-jump : 13 NOV 2003 : 984 : 59
+IND : George MAREENA : high-jump : 02 APR 1995 : 984 : 59
+JAM : Annia ASHLEY : high-jump : 19 JAN 2000 : 984 : 59
+MAS : Xia Jia NGU : high-jump : 22 SEP 2000 : 984 : 59
+MAS : Sean Yee YAP : high-jump : 05 JAN 1995 : 984 : 59
+RSA : Shannon VERSTER : high-jump : 10 NOV 1999 : 984 : 59
+RSA : Carla DU PLESSIS : high-jump : 01 MAY 2002 : 984 : 59
+RSA : Renate VAN TONDER : high-jump : 10 APR 1998 : 984 : 59
+AUS : Clare GIBSON : high-jump : 15 FEB 1998 : 984 : 59
+GBR : Emily MADDEN : high-jump : 29 SEP 1999 : 984 : 59
+GBR : Camellia HAYES : high-jump : 06 APR 1995 : 984 : 59
+IND : . REKHA : high-jump : 24 JAN 1999 : 984 : 59
+AUS : Chelsea FRIEDRICH : high-jump : 02 NOV 2005 : 984 : 59
+IND : S.B. SUPRIYA : high-jump : 11 MAR 2001 : 974 : 73
+AUS : Sophie CROWLEY : high-jump : 27 SEP 2004 : 974 : 73
+AUS : Polly DEANE-JOHNS : high-jump : 02 MAY 2004 : 974 : 73
+RSA : Jonelle HAMILTON-ATTWELL : high-jump :  : 974 : 73
+GBR : Eve MAHER : high-jump :  : 974 : 73
+JAM : Malaika CUNNINGHAM : high-jump : 29 JUL 2004 : 974 : 73
+BAH : Daejah MOSS : high-jump : 1999 : 974 : 73
+GBR : Rebecca HAWKINS : high-jump : 27 SEP 1999 : 974 : 73
+GBR : Ella RUSH : high-jump : 08 APR 2004 : 974 : 73
+GBR : Deborah MARTIN : high-jump : 25 JAN 1994 : 974 : 73
+GBR : Rhiana BURRELL : high-jump : 14 DEC 2003 : 974 : 73
+GBR : Halle FERGUSON : high-jump : 06 DEC 2004 : 974 : 73
+GBR : Ellen BARBER : high-jump : 05 DEC 1997 : 974 : 73
+GBR : Lili CHURCH : high-jump : 2003 : 974 : 73
+GBR : Hannah TAPLEY : high-jump : 01 OCT 1998 : 974 : 73
+AUS : Oceana D'ABBS : high-jump : 2005 : 974 : 73
+AUS : Eloise TOLSTOFF : high-jump : 18 AUG 2004 : 965 : 89
+NGR : Ese BRUME : high-jump : 20 JAN 1996 : 965 : 89
+NGR : Tina SAMSON : high-jump : 12 OCT 1996 : 965 : 89
+AUS : Delta AMIDZOVSKI : high-jump : 23 AUG 2006 : 965 : 89
+AUS : Francesca PEACOCK : high-jump : 2004 : 965 : 89
+AUS : Annie STAPLETON : high-jump : 27 OCT 2002 : 965 : 89
+GBR : Ada'ora CHIGBO : high-jump : 02 JAN 1999 : 965 : 89
+GBR : Abigail PAWLETT : high-jump : 14 JAN 2003 : 965 : 89
+GBR : Jade O'DOWDA : high-jump : 09 SEP 1999 : 965 : 89
+GBR : Evelyne FONTEYNE : high-jump :  : 965 : 89
+GBR : Hannah MOAT : high-jump : 02 JUL 2002 : 965 : 89
+GBR : Rosie SHARPLES : high-jump : 25 MAY 2004 : 965 : 89
