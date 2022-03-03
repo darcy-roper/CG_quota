@@ -1,7 +1,7 @@
 # CG_quota
 Programs for scraping world athletics webpage to determine Australia's top athletes eligible for selection in the 2022 Birmingham Commonwealth Games. 
 
-Before running main program files locally ensure chrome driver is installed on your device
+Main program files should install chrome driver if not found. If error:
 Download links are available here: https://chromedriver.chromium.org/downloads
 
 Also check you have installed selenium to run the webdriver:
