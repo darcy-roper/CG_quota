@@ -12,7 +12,7 @@ As noted in issues you will have to edit file save/print paths and folder names 
 P.S. I apologise in advance if anything is unclear. I've never worked on any collaborative projects before having only completed introductory programming courses at uni as electives for a bit of fun. 
 
 ## Current workflow process to update www.commonwealthgames-quota.com.au:
-  ![Workflow](https://user-images.githubusercontent.com/85177676/156756871-8fc30f0b-89cc-43e9-be9c-be1996a01f14.png)
+  ![Workflow](https://user-images.githubusercontent.com/85177676/156757205-241d191d-3d4f-49e6-bbc1-556c1cb59b18.png)
 
   1. Run main program files to fetch data:
       
