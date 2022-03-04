@@ -31,6 +31,10 @@ P.S. I apologise in advance if anything is unclear. I've never worked on any col
       a. `Toplist_male_21_22_Combine.py` -> this combines all 'Commonwealth event ranking information' into one txt file to serve as a data source for the xls. (this combines 2021 and 2022 toplist data)
 
       b. `Toplist_male_21_22_Combine.py` -> this combines all 'Commonwealth event ranking information' into one txt file to serve as a data source for the xls. (this combines 2021 and 2022 toplist data)
+      
+      c. `Combine_male_lists.py` -> this combines all Aus Av points information for all males in all events into one txt file to serve as a data source for the xls. There is no need to run seperate years as the Av. points only includes performances within the last 12-months
+      
+      d. `Combine_female_lists.py` -> this combines all Aus Av points information for all males in all events into one txt file to serve as a data source for the xls. There is no need to run seperate years as the Av. points only includes performances within the last 12-months
 
       
      
