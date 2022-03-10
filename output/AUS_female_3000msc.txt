@@ -15,7 +15,7 @@ Hannah PREEO : 3000msc : 1999 : 1003 : 14 : 1017 : 992 : 988 :  :  : 15 MAY 2021
 Laura MCKILLOP : 3000msc : 11 FEB 2003 : 1000 : 15 : 1001 : 987 : 977 :  :  : 12 FEB 2022 : 14 APR 2021 : 11 MAR 2021 :  : 
 Sophie COUGHLIN : 3000msc : 30 JAN 2002 : 995 : 16 : 1025 : 984 : 958 :  :  : 20 FEB 2022 : 29 JAN 2022 : 14 APR 2021 :  : 
 Abigail THOMAS : 3000msc : 03 JUL 2003 : 974 : 17 : 996 : 954 : 954 :  :  : 29 JAN 2022 : 20 FEB 2022 : 14 APR 2021 :  : 
-Stephanie KONDOGONIS : 3000msc : 21 MAR 1991 : 954 : 18 : 968 : 944 : 931 :  :  : 13 MAR 2021 : 18 APR 2021 : 20 FEB 2022 :  : 
-Allegra MCGIVERN : 3000msc : 05 SEP 2005 : 949 : 19 : 948 : 939 : 916 :  :  : 27 FEB 2022 : 20 JAN 2022 : 20 FEB 2022 :  : 
-Ellaby HANSEN : 3000msc : 2002 : 946 : 20 : 942 : 926 : 928 :  :  : 07 JAN 2022 : 20 FEB 2022 : 26 MAR 2021 :  : 
-Sophie GOCHER : 3000msc : 16 MAY 2001 : 911 : 21 : 935 : 882 : 893 :  :  : 22 APR 2021 : 20 FEB 2022 : 18 APR 2021 :  : 
+Allegra MCGIVERN : 3000msc : 05 SEP 2005 : 962 : 18 : 965 : 948 : 939 :  :  : 05 MAR 2022 : 27 FEB 2022 : 20 JAN 2022 :  : 
+Ellaby HANSEN : 3000msc : 2002 : 960 : 19 : 970 : 942 : 926 :  :  : 02 MAR 2022 : 07 JAN 2022 : 20 FEB 2022 :  : 
+Stephanie KONDOGONIS : 3000msc : 21 MAR 1991 : 954 : 20 : 968 : 944 : 931 :  :  : 13 MAR 2021 : 18 APR 2021 : 20 FEB 2022 :  : 
+Sophie GOCHER : 3000msc : 16 MAY 2001 : 922 : 21 : 935 : 919 : 882 :  :  : 22 APR 2021 : 05 MAR 2022 : 20 FEB 2022 :  : 

@@ -37,7 +37,7 @@ eventMAR = str("marathon")
 # make list from variables [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event100H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, eventX7, event20kw, eventMAR
 # we use this comment list above to quickly paste in or over below list to begin running program from an event 
 # without rewriting all the events starting from event100 if that event executed correctly
-event_list = [eventPV, eventDT, eventHT, eventJT, eventSP, event20kw, eventMAR, eventX7]
+event_list = [eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, eventX7, event20kw, eventMAR]
 
 while True:
     for item in event_list:

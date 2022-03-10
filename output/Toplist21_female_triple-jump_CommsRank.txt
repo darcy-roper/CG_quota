@@ -13,7 +13,7 @@ LCA : Sandisha ANTOINE : triple-jump : 05 NOV 1991 : 1093 : 12
 RSA : Zinzi XULU : triple-jump : 28 SEP 1996 : 1080 : 13
 BAH : Charisma TAYLOR : triple-jump : 03 SEP 1999 : 1080 : 13
 GBR : Temitope OJORA : triple-jump : 24 JAN 2002 : 1079 : 15
-IND : B. AISHWARYA : triple-jump : 15 JUN 1997 : 1080 : 16
+IND : Aishwarya BABU SAB : triple-jump : 15 JUN 1997 : 1080 : 16
 GUY : Chantoba BRIGHT : triple-jump : 04 APR 2000 : 1069 : 17
 IND : Renu GREWAL : triple-jump : 21 DEC 1998 : 1076 : 18
 CAN : Caroline EHRHARDT : triple-jump : 06 FEB 1992 : 1066 : 19

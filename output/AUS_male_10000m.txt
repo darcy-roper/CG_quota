@@ -1,6 +1,6 @@
-Jack RAYNER : 10000m : 19 DEC 1995 : 1163 : 1 : 1106 : 1111 :  :  :  : 26 JAN 2022 : 26 JAN 2021 :  :  : 
-David MCNEILL : 10000m : 06 OCT 1986 : 1149 : 2 : 1106 : 1098 :  :  :  : 26 JAN 2021 : 26 JAN 2022 :  :  : 
-Patrick TIERNAN : 10000m : 11 SEP 1994 : 1137 : 3 : 1190 : 1078 :  :  :  : 05 DEC 2020 : 30 JUL 2021 :  :  : 
+Jack RAYNER : 10000m : 19 DEC 1995 : 1185 : 1 : 1202 : 1106 :  :  :  : 06 MAR 2022 : 26 JAN 2022 :  :  : 
+Patrick TIERNAN : 10000m : 11 SEP 1994 : 1175 : 2 : 1190 : 1154 :  :  :  : 05 DEC 2020 : 06 MAR 2022 :  :  : 
+David MCNEILL : 10000m : 06 OCT 1986 : 1149 : 3 : 1106 : 1098 :  :  :  : 26 JAN 2021 : 26 JAN 2022 :  :  : 
 Brett ROBINSON : 10000m : 08 MAY 1991 : 1137 : 4 : 1131 : 1083 :  :  :  : 26 JAN 2021 : 23 FEB 2020 :  :  : 
 Liam ADAMS : 10000m : 04 SEP 1986 : 1089 : 5 : 1062 : 1071 :  :  :  : 26 JAN 2022 : 23 FEB 2020 :  :  : 
 Thomas DO CANTO : 10000m : 30 MAY 1986 : 1076 : 6 : 1077 : 1046 :  :  :  : 26 JAN 2021 : 02 MAY 2021 :  :  : 
@@ -24,5 +24,4 @@ Louis MCAFEE : 10000m : 23 AUG 1996 : 952 : 23 : 954 : 950 :  :  :  : 26 JAN 202
 Kieren PERKINS : 10000m : 15 SEP 1992 : 934 : 24 : 984 : 884 :  :  :  : 13 DEC 2020 : 26 JAN 2021 :  :  : 
 Drew FRYER : 10000m : 15 JAN 2001 : 930 : 25 : 953 : 905 :  :  :  : 02 MAY 2021 : 27 NOV 2021 :  :  : 
 Seth O'DONNELL : 10000m : 2001 : 922 : 26 : 924 : 921 :  :  :  : 26 JAN 2022 : 27 FEB 2022 :  :  : 
-Alastair CHRISTY : 10000m : 23 NOV 1997 : 921 : 27 :  :  :  :  :  :  :  :  :  : 
-Matthew COX : 10000m : 21 JUN 1990 : 918 : 28 : 949 : 887 :  :  :  : 02 MAY 2021 : 27 NOV 2021 :  :  : 
+Alastair CHRISTY : 10000m : 23 NOV 1997 : 921 : 27 : 935 : 901 :  :  :  : 29 JAN 2022 : 11 APR 2021 :  :  : 

@@ -18,7 +18,7 @@ GBR : Jahisha THOMAS : long-jump : 22 NOV 1994 : 1123 : 16
 JAM : Nia ROBINSON : long-jump : 08 DEC 2001 : 1131 : 18
 JAM : Taishia PRYCE : long-jump : 14 JUL 1997 : 1117 : 19
 NGR : Mercy Uyoyo ABIRE : long-jump : 20 JUL 1997 : 1112 : 20
-IND : B. AISHWARYA : long-jump : 15 JUN 1997 : 1119 : 20
+IND : Aishwarya BABU SAB : long-jump : 15 JUN 1997 : 1119 : 20
 CYP : Filippa FOTOPOULOU : long-jump : 20 DEC 1996 : 1108 : 22
 AUS : Tomysha CLARK : long-jump : 12 NOV 2002 : 1106 : 23
 IND : Shaili SINGH : long-jump : 07 JAN 2004 : 1103 : 24

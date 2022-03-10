@@ -1,7 +1,11 @@
 AUS : Tori WEST : heptathlon : 14 OCT 1995 : 993 : 1
 AUS : Mia SCERRI : heptathlon : 26 MAR 2005 : 924 : 2
-AUS : Christine GAYEN : heptathlon : 20 OCT 1996 : 839 : 3
-AUS : Hannah TAIT : heptathlon : 20 MAR 2003 : 829 : 4
-AUS : Ella KOSTER : heptathlon : 12 MAR 2003 : 792 : 5
-AUS : Lily TILT : heptathlon : 24 NOV 2004 : 786 : 6
-AUS : Margaret GAYEN : heptathlon : 10 JUL 1994 : 766 : 7
+NZL : Christina RYAN : heptathlon : 15 FEB 1998 : 899 : 3
+NZL : Maddie WILSON : heptathlon : 05 APR 2002 : 871 : 4
+MAS : Norliyana KAMARUDDIN : heptathlon : 26 MAR 1991 : 849 : 5
+AUS : Christine GAYEN : heptathlon : 20 OCT 1996 : 839 : 6
+AUS : Hannah TAIT : heptathlon : 20 MAR 2003 : 829 : 7
+AUS : Ella KOSTER : heptathlon : 12 MAR 2003 : 792 : 8
+AUS : Lily TILT : heptathlon : 24 NOV 2004 : 786 : 9
+AUS : Margaret GAYEN : heptathlon : 10 JUL 1994 : 766 : 10
+NZL : Alice TAYLOR : heptathlon : 14 DEC 2002 : 766 : 11

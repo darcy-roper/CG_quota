@@ -1,8 +1,8 @@
 KEN : Benjamin KIGEN : 3000msc : 05 JUL 1993 : 1225 : 1
-ETH : Lamecha GIRMA : 3000msc : 26 NOV 2000 : 1222 : 2
-KEN : Abraham KIBIWOT : 3000msc : 06 APR 1996 : 1222 : 3
-MAR : Soufiane EL BAKKALI : 3000msc : 07 JAN 1996 : 1219 : 4
-ETH : John GAY : 3000msc : 07 NOV 1996 : 1180 : 5
+KEN : Abraham KIBIWOT : 3000msc : 06 APR 1996 : 1222 : 2
+KEN : Leonard Kipkemoi BETT : 3000msc : 03 NOV 2000 : 1211 : 3
+CAN : Matthew HUGHES : 3000msc : 03 AUG 1989 : 1196 : 4
+CAN : John GAY : 3000msc : 07 NOV 1996 : 1180 : 5
 IND : Avinash Mukund SABLE : 3000msc : 13 SEP 1994 : 1175 : 6
 KEN : Simon Kiprop KOECH : 3000msc : 10 JUN 2003 : 1174 : 7
 AUS : Edward TRIPPAS : 3000msc : 22 SEP 1998 : 1168 : 8

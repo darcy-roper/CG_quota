@@ -11,6 +11,12 @@ GBR : Christopher SNOOK : 20km-race-walking : 14 JAN 2000 : 984 : 10
 AUS : Tristan CAMILLERI : 20km-race-walking : 14 FEB 2001 : 974 : 11
 AUS : Corey DICKSON : 20km-race-walking : 19 JUL 2002 : 968 : 12
 AUS : Kim MOTTROM : 20km-race-walking : 27 SEP 1984 : 965 : 13
-AUS : Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 924 : 14
-GBR : Tom PARTINGTON : 20km-race-walking : 18 JUL 1999 : 911 : 15
-CAN : Evan DUNFEE : 20km-race-walking : 28 SEP 1990 : 870 : 16
+KEN : Derrick WANJOHI : 20km-race-walking : 30 AUG 2001 : 946 : 14
+KEN : Stephen MUTUKU : 20km-race-walking :  : 945 : 15
+AUS : Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 924 : 16
+KEN : Nichodemus MUSAU : 20km-race-walking :  : 921 : 17
+GBR : Tom PARTINGTON : 20km-race-walking : 18 JUL 1999 : 911 : 18
+KEN : Eric Maugo SIKUKU : 20km-race-walking : 1984 : 898 : 19
+KEN : Stephen NDANGILI : 20km-race-walking :  : 897 : 20
+CAN : Evan DUNFEE : 20km-race-walking : 28 SEP 1990 : 870 : 21
+KEN : David KINGORI : 20km-race-walking :  : 864 : 22

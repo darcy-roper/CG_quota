@@ -1,39 +1,51 @@
 JAM : Fedrick DACRES : discus-throw : 28 FEB 1994 : 1166 : 1
 JAM : Traves SMIKLE : discus-throw : 07 MAY 1992 : 1146 : 2
 GBR : Zane DUQUEMIN : discus-throw : 23 SEP 1991 : 1086 : 3
-JAM : Chad WRIGHT : discus-throw : 25 MAR 1991 : 1065 : 4
-GBR : Gregory THOMPSON : discus-throw : 05 MAY 1994 : 1062 : 5
-GBR : Nicholas PERCY : discus-throw : 05 DEC 1994 : 1056 : 6
-JAM : Kai CHANG : discus-throw : 29 JAN 2000 : 1012 : 7
-MAS : Mohd IRFAN SHAMSUDDIN : discus-throw : 16 AUG 1995 : 1008 : 8
-AUS : Declan CARMAN : discus-throw : 27 JUN 2001 : 995 : 9
-AUS : Lachlan PAGE : discus-throw : 16 DEC 1997 : 984 : 10
-GBR : Chukwuemeka OSAMMOR : discus-throw : 15 JUN 2001 : 980 : 11
-IND : . VIKASH : discus-throw :  : 976 : 12
-IND : . ABHINAV : discus-throw : 27 OCT 1996 : 943 : 13
-JAM : Glenford WATSON : discus-throw : 11 JUL 1995 : 938 : 14
-IND : Arjun KUMAR : discus-throw : 01 JUL 1993 : 937 : 15
-IND : Bhanu SHARMA : discus-throw : 19 OCT 1996 : 925 : 16
-RSA : Marco PRETORIUS : discus-throw :  : 922 : 17
-TTO : Christopher CRAWFORD : discus-throw : 2001 : 922 : 18
-AUS : Nicholas DYSON : discus-throw : 15 MAY 1998 : 916 : 19
-IND : Basukesh POONIA : discus-throw : 13 AUG 2000 : 915 : 20
-IND : Deepak DHARIWAL : discus-throw :  : 907 : 21
-MLT : Bradley MIFSUD : discus-throw : 23 JAN 1996 : 904 : 22
-IND : Alex THANKACHAN : discus-throw : 21 MAR 2000 : 891 : 23
-NZL : Kieran FOWLER : discus-throw : 20 AUG 1989 : 891 : 24
-NZL : Jade ZAIA : discus-throw : 24 NOV 1999 : 889 : 25
-IND : Prashant MALIK : discus-throw : 10 JUL 1991 : 884 : 26
-IND : Arvind RATHEE : discus-throw : 10 SEP 1993 : 882 : 27
-AUS : Etienne ROUSSEAU : discus-throw : 28 FEB 2003 : 876 : 28
-IND : Ikram Ali KHAN : discus-throw : 01 JUL 2001 : 873 : 29
-MLT : Luke FARRUGIA : discus-throw : 23 NOV 1996 : 870 : 30
-IND : Vikram PARIHAR : discus-throw : 13 NOV 1992 : 868 : 31
-GBR : Joe MARTIN : discus-throw : 1999 : 868 : 32
-SAM : Nathaniel SULUPO : discus-throw : 18 FEB 1998 : 867 : 33
-IND : . PRINCE : discus-throw : 08 APR 2002 : 862 : 34
-IND : Naveen KUMAR : discus-throw :  : 860 : 35
-AUS : Darcy MILLER : discus-throw : 18 APR 2004 : 858 : 36
-GBR : Daniel FLEMING : discus-throw : 27 OCT 1996 : 858 : 37
-IND : Kumar DINESH : discus-throw : 15 JUL 2001 : 848 : 38
-TTO : Umar SANDY : discus-throw : 2002 : 845 : 39
+NZL : Connor BELL : discus-throw : 21 JUN 2001 : 1075 : 4
+JAM : Chad WRIGHT : discus-throw : 25 MAR 1991 : 1065 : 5
+GBR : Gregory THOMPSON : discus-throw : 05 MAY 1994 : 1062 : 6
+GBR : Nicholas PERCY : discus-throw : 05 DEC 1994 : 1056 : 7
+CYP : Christoforos GENETHLI : discus-throw : 19 FEB 1998 : 1055 : 8
+CYP : Rafail ANTONIOU : discus-throw : 04 AUG 1995 : 1016 : 9
+JAM : Kai CHANG : discus-throw : 29 JAN 2000 : 1012 : 10
+MAS : Mohd IRFAN SHAMSUDDIN : discus-throw : 16 AUG 1995 : 1008 : 11
+AUS : Declan CARMAN : discus-throw : 27 JUN 2001 : 995 : 12
+AUS : Mitchell COOPER : discus-throw : 02 JUN 1995 : 993 : 13
+AUS : Lachlan PAGE : discus-throw : 16 DEC 1997 : 984 : 14
+GBR : Chukwuemeka OSAMMOR : discus-throw : 15 JUN 2001 : 980 : 15
+IND : . VIKASH : discus-throw :  : 976 : 16
+JAM : Javon OSBOURNE : discus-throw : 14 MAY 2002 : 966 : 17
+IND : . ABHINAV : discus-throw : 27 OCT 1996 : 943 : 18
+JAM : Glenford WATSON : discus-throw : 11 JUL 1995 : 938 : 19
+IND : Arjun KUMAR : discus-throw : 01 JUL 1993 : 937 : 20
+IND : Bhanu SHARMA : discus-throw : 19 OCT 1996 : 925 : 21
+RSA : Marco PRETORIUS : discus-throw :  : 922 : 22
+TTO : Christopher CRAWFORD : discus-throw : 2001 : 922 : 23
+AUS : Nicholas DYSON : discus-throw : 15 MAY 1998 : 916 : 24
+IND : Basukesh POONIA : discus-throw : 13 AUG 2000 : 915 : 25
+IVB : Djimon Lynere GUMBS : discus-throw : 13 SEP 2000 : 912 : 26
+IND : Deepak DHARIWAL : discus-throw :  : 907 : 27
+MLT : Bradley MIFSUD : discus-throw : 23 JAN 1996 : 904 : 28
+IND : Alex THANKACHAN : discus-throw : 21 MAR 2000 : 891 : 29
+NZL : Kieran FOWLER : discus-throw : 20 AUG 1989 : 891 : 30
+NZL : Jade ZAIA : discus-throw : 24 NOV 1999 : 889 : 31
+IVB : Diamante Bryan GUMBS : discus-throw : 13 SEP 2000 : 886 : 32
+IND : Prashant MALIK : discus-throw : 10 JUL 1991 : 884 : 33
+IND : Arvind RATHEE : discus-throw : 10 SEP 1993 : 882 : 34
+AUS : Etienne ROUSSEAU : discus-throw : 28 FEB 2003 : 876 : 35
+IND : Ikram Ali KHAN : discus-throw : 01 JUL 2001 : 873 : 36
+KEN : Leonard BETT : discus-throw : 1992 : 870 : 37
+MLT : Luke FARRUGIA : discus-throw : 23 NOV 1996 : 870 : 38
+IND : Vikram PARIHAR : discus-throw : 13 NOV 1992 : 868 : 39
+CMR : Lucien WANGBA : discus-throw : 08 MAY 1993 : 868 : 40
+GBR : Joe MARTIN : discus-throw : 1999 : 868 : 41
+SAM : Nathaniel SULUPO : discus-throw : 18 FEB 1998 : 867 : 42
+AUS : Daniel GOLUBOVIC : discus-throw : 29 NOV 1993 : 864 : 43
+IND : . PRINCE : discus-throw : 08 APR 2002 : 862 : 44
+BAH : Tarajh HUDSON : discus-throw : 29 NOV 2002 : 861 : 45
+IND : Naveen KUMAR : discus-throw :  : 860 : 46
+AUS : Darcy MILLER : discus-throw : 18 APR 2004 : 858 : 47
+GBR : Daniel FLEMING : discus-throw : 27 OCT 1996 : 858 : 48
+IND : Kumar DINESH : discus-throw : 15 JUL 2001 : 848 : 49
+TTO : Umar SANDY : discus-throw : 2002 : 845 : 50
+CYP : Petros MITSIDES : discus-throw : 12 DEC 1977 : 843 : 51

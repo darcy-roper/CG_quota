@@ -1,56 +1,67 @@
-NZL : Tomas WALSH : shot-put : 01 MAR 1992 : 1196 : 1
-IND : Tajinderpal Singh TOOR : shot-put : 13 NOV 1994 : 1117 : 2
-JAM : O'Dayne RICHARDS : shot-put : 14 DEC 1988 : 1080 : 3
-IND : Karanveer SINGH : shot-put : 24 JUL 1997 : 1071 : 4
-NZL : Nick PALMER : shot-put : 12 JUN 2000 : 1059 : 5
-NZL : Ryan BALLANTYNE : shot-put : 08 JAN 1999 : 1056 : 6
-JAM : Fedrick DACRES : shot-put : 28 FEB 1994 : 1015 : 7
-IND : Shivam CHOUDHARY : shot-put : 25 AUG 1997 : 1007 : 8
-IND : Vanam SHARMA : shot-put : 13 APR 1998 : 1003 : 9
-JAM : Kobe LAWRENCE : shot-put : 12 FEB 2004 : 987 : 10
-AUS : Aiden HARVEY : shot-put : 16 APR 1999 : 983 : 11
-IND : Sahib SINGH : shot-put : 05 NOV 2000 : 983 : 12
-IND : . ANIKET : shot-put : 05 NOV 2001 : 980 : 13
-JAM : Chad WRIGHT : shot-put : 25 MAR 1991 : 953 : 14
-JAM : Moses PARKINSON : shot-put : 15 OCT 1998 : 939 : 15
-SRI : Samith Madusanka FERNANDO : shot-put : 09 APR 1998 : 939 : 15
-IND : Mankirat SINGH : shot-put : 26 MAY 1998 : 933 : 17
-JAM : Rasheed DOWNER : shot-put :  : 932 : 18
-IND : Adhish GHILDYAL : shot-put : 21 MAY 2002 : 930 : 19
-IND : B. MANUSH : shot-put : 03 AUG 2000 : 929 : 20
-IND : Aryan TYAGI : shot-put : 14 AUG 2001 : 921 : 21
-IND : . SANYAM : shot-put : 05 OCT 2003 : 917 : 22
-AUS : Daniel GREEN : shot-put : 04 DEC 1996 : 917 : 22
-IND : Amandeep Singh DHALIWAL : shot-put : 16 MAY 2002 : 912 : 24
-IND : Samardeep SINGH : shot-put : 03 JAN 2001 : 910 : 25
-AUS : Courtney HEINZE : shot-put : 14 JAN 1991 : 909 : 26
-IND : Iqbal SINGH : shot-put : 13 NOV 1999 : 902 : 27
-TTO : Christopher CRAWFORD : shot-put : 2001 : 901 : 28
-IND : Thorat PRAFULL : shot-put :  : 898 : 29
-MAS : Farm LOONG : shot-put : 09 FEB 2000 : 897 : 30
-IND : Amit BHAINI : shot-put : 20 OCT 1997 : 896 : 31
-SAM : Nathaniel SULUPO : shot-put : 18 FEB 1998 : 891 : 32
-KEN : Peter MWANGI : shot-put :  : 885 : 33
-IND : Abhilash SAXENA : shot-put : 05 JUL 1993 : 880 : 34
-IND : Akash GREHWAL : shot-put : 01 SEP 2001 : 878 : 35
-AUS : Shane CARSTAIRS : shot-put : 27 OCT 1988 : 877 : 36
-IND : Parth LAKRA : shot-put : 26 JAN 2000 : 864 : 37
-KEN : Benson MAINA : shot-put : 1992 : 861 : 38
-AUS : Etienne ROUSSEAU : shot-put : 28 FEB 2003 : 860 : 39
-IND : . VIKASH : shot-put :  : 860 : 40
-IND : . SAGAR : shot-put :  : 858 : 41
-IND : Adil Sher SINGH : shot-put : 08 JUL 1998 : 854 : 42
-AUS : Christian PAYNTER : shot-put : 23 APR 1997 : 854 : 42
-IND : Sana CHAUDHARY : shot-put :  : 852 : 44
-AUS : Todd HODGETTS : shot-put : 23 MAR 1988 : 850 : 45
-NZL : Liam NGCHOK-WULF : shot-put : 27 JUN 2003 : 845 : 46
-IND : Rahul KASHYAP : shot-put : 16 NOV 2000 : 844 : 47
-IND : Aadarsh KHANNA : shot-put :  : 844 : 47
-AUS : Fox OBST : shot-put : 19 JAN 2001 : 841 : 49
-IND : Armaandeep SING : shot-put :  : 840 : 50
-AUS : Robert MARCHESI-SCOTT : shot-put : 2005 : 839 : 51
-NAM : Leeorr-el BREYTENBACH : shot-put :  : 838 : 52
-AUS : Jason PARMAXIDIS : shot-put : 07 NOV 2003 : 838 : 52
-RSA : Waldt DREYER : shot-put : 04 JUL 2002 : 832 : 54
-IND : Rudra NARAYAN : shot-put : 01 JUL 2003 : 826 : 55
-IND : Yogesh SANDAL : shot-put : 30 NOV 2003 : 825 : 56
+NZL : Tomas WALSH : shot-put : 01 MAR 1992 : 1214 : 1
+NZL : Jacko GILL : shot-put : 20 DEC 1994 : 1193 : 2
+IND : Tajinderpal Singh TOOR : shot-put : 13 NOV 1994 : 1117 : 3
+JAM : O'Dayne RICHARDS : shot-put : 14 DEC 1988 : 1080 : 4
+IND : Karanveer SINGH : shot-put : 24 JUL 1997 : 1071 : 5
+NZL : Nick PALMER : shot-put : 12 JUN 2000 : 1064 : 6
+NZL : Ryan BALLANTYNE : shot-put : 08 JAN 1999 : 1056 : 7
+JAM : Fedrick DACRES : shot-put : 28 FEB 1994 : 1015 : 8
+IND : Shivam CHOUDHARY : shot-put : 25 AUG 1997 : 1007 : 9
+IND : Vanam SHARMA : shot-put : 13 APR 1998 : 1003 : 10
+JAM : Kobe LAWRENCE : shot-put : 12 FEB 2004 : 987 : 11
+AUS : Aiden HARVEY : shot-put : 16 APR 1999 : 983 : 12
+IND : Sahib SINGH : shot-put : 05 NOV 2000 : 983 : 13
+IND : . ANIKET : shot-put : 05 NOV 2001 : 980 : 14
+JAM : Chad WRIGHT : shot-put : 25 MAR 1991 : 953 : 15
+JAM : Moses PARKINSON : shot-put : 15 OCT 1998 : 939 : 16
+SRI : Samith Madusanka FERNANDO : shot-put : 09 APR 1998 : 939 : 16
+CYP : Petros MICHAELIDES : shot-put : 14 JAN 2000 : 936 : 18
+IND : Mankirat SINGH : shot-put : 26 MAY 1998 : 933 : 19
+JAM : Rasheed DOWNER : shot-put :  : 932 : 20
+IND : Adhish GHILDYAL : shot-put : 21 MAY 2002 : 930 : 21
+IND : B. MANUSH : shot-put : 03 AUG 2000 : 929 : 22
+CYP : Konstantinos ALEXIADIS : shot-put : 03 JUN 2002 : 928 : 23
+MAS : Farm LOONG : shot-put : 09 FEB 2000 : 927 : 24
+IND : Aryan TYAGI : shot-put : 14 AUG 2001 : 921 : 25
+IND : . SANYAM : shot-put : 05 OCT 2003 : 917 : 26
+AUS : Daniel GREEN : shot-put : 04 DEC 1996 : 917 : 26
+IND : Amandeep Singh DHALIWAL : shot-put : 16 MAY 2002 : 912 : 28
+IND : Samardeep SINGH : shot-put : 03 JAN 2001 : 910 : 29
+AUS : Courtney HEINZE : shot-put : 14 JAN 1991 : 909 : 30
+IND : Iqbal SINGH : shot-put : 13 NOV 1999 : 902 : 31
+TTO : Christopher CRAWFORD : shot-put : 2001 : 901 : 32
+MAS : Mohd ZIYAD ZULKIFLI : shot-put : 15 MAR 1990 : 899 : 33
+IND : Thorat PRAFULL : shot-put :  : 898 : 34
+IND : Amit BHAINI : shot-put : 20 OCT 1997 : 896 : 35
+JAM : Javon OSBOURNE : shot-put : 14 MAY 2002 : 895 : 36
+SAM : Nathaniel SULUPO : shot-put : 18 FEB 1998 : 891 : 37
+KEN : Peter MWANGI : shot-put :  : 885 : 38
+IND : Abhilash SAXENA : shot-put : 05 JUL 1993 : 880 : 39
+IND : Akash GREHWAL : shot-put : 01 SEP 2001 : 878 : 40
+AUS : Shane CARSTAIRS : shot-put : 27 OCT 1988 : 877 : 41
+IND : Parth LAKRA : shot-put : 26 JAN 2000 : 864 : 42
+MAS : Jonah Chang ANAK RIGAN : shot-put :  : 863 : 43
+KEN : Benson MAINA : shot-put : 1992 : 861 : 44
+AUS : Etienne ROUSSEAU : shot-put : 28 FEB 2003 : 860 : 45
+IND : . VIKASH : shot-put :  : 860 : 46
+IND : . SAGAR : shot-put :  : 858 : 47
+IND : Adil Sher SINGH : shot-put : 08 JUL 1998 : 854 : 48
+AUS : Christian PAYNTER : shot-put : 23 APR 1997 : 854 : 48
+IND : Sana CHAUDHARY : shot-put :  : 852 : 50
+CMR : Billy Jospen TAKOUGOUM KUITCH : shot-put : 10 JAN 1997 : 851 : 51
+AUS : Todd HODGETTS : shot-put : 23 MAR 1988 : 850 : 52
+NZL : Liam NGCHOK-WULF : shot-put : 27 JUN 2003 : 845 : 53
+IND : Rahul KASHYAP : shot-put : 16 NOV 2000 : 844 : 54
+IND : Aadarsh KHANNA : shot-put :  : 844 : 54
+AUS : Daniel GOLUBOVIC : shot-put : 29 NOV 1993 : 842 : 56
+MAS : Chin Poh KONG : shot-put : 20 JUN 2002 : 841 : 57
+AUS : Fox OBST : shot-put : 19 JAN 2001 : 841 : 58
+IND : Armaandeep SING : shot-put :  : 840 : 59
+AUS : Robert MARCHESI-SCOTT : shot-put : 2005 : 839 : 60
+NAM : Leeorr-el BREYTENBACH : shot-put :  : 838 : 61
+AUS : Jason PARMAXIDIS : shot-put : 07 NOV 2003 : 838 : 61
+CMR : Lucien WANGBA : shot-put : 08 MAY 1993 : 832 : 63
+RSA : Waldt DREYER : shot-put : 04 JUL 2002 : 832 : 64
+IND : Rudra NARAYAN : shot-put : 01 JUL 2003 : 826 : 65
+IND : Yogesh SANDAL : shot-put : 30 NOV 2003 : 825 : 66
+KEN : Leonard BETT : shot-put : 1992 : 825 : 66

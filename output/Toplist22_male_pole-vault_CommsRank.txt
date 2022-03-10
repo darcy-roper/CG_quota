@@ -2,49 +2,56 @@ AUS : Kurtis MARSCHALL : pole-vault : 25 APR 1997 : 1143 : 1
 AUS : Angus ARMSTRONG : pole-vault : 17 MAR 1997 : 1102 : 2
 AUS : Dalton DI MEDIO : pole-vault : 02 NOV 2000 : 1061 : 3
 GBR : Adam HAGUE : pole-vault : 29 AUG 1997 : 1051 : 4
-GBR : Jake WATSON : pole-vault : 19 DEC 2000 : 1010 : 5
-GBR : Lazarus BENJAMIN : pole-vault : 19 JAN 2004 : 1010 : 5
-AUS : Liam GEORGILOPOULOS : pole-vault : 04 SEP 2003 : 1007 : 7
-AUS : Triston VINCENT : pole-vault : 04 SEP 1997 : 1007 : 7
-AUS : Liam HARRIS : pole-vault : 02 AUG 1997 : 1007 : 7
-GBR : Rowan MAY : pole-vault : 12 AUG 1995 : 996 : 10
-NZL : Nicholas SOUTHGATE : pole-vault : 09 APR 1994 : 994 : 11
-GBR : Daniel GARDNER : pole-vault : 26 MAR 1994 : 983 : 12
-GBR : George HEPPINSTALL : pole-vault : 17 OCT 1997 : 983 : 12
-AUS : Jordan KILDARE : pole-vault : 17 OCT 1998 : 980 : 14
-IND : A.K: SIDHARTH : pole-vault : 27 AUG 2000 : 972 : 15
-GBR : Reuben NAIRNE : pole-vault : 22 SEP 2002 : 969 : 16
-SRI : M.H.J. SANDARUWAN : pole-vault : 25 MAR 1994 : 967 : 17
-AUS : Joel POCKLINGTON : pole-vault : 12 APR 1986 : 967 : 17
-AUS : James WOODS : pole-vault : 01 FEB 2003 : 967 : 17
-IND : Avneesh KUMAR : pole-vault : 01 JUL 2001 : 967 : 17
-GBR : Jack PHIPPS : pole-vault : 02 APR 1994 : 956 : 21
-IND : Damien GODWIN : pole-vault :  : 953 : 22
-IND : Dhirendra KUMAR : pole-vault : 28 AUG 1999 : 953 : 22
-RSA : Arend PRETORIUS : pole-vault :  : 953 : 22
-GBR : Thomas WALLEY : pole-vault : 18 MAR 1998 : 942 : 25
-IND : A. GNANASONE : pole-vault :  : 940 : 26
-IND : Parshant SINGH : pole-vault : 14 FEB 2000 : 940 : 26
-AUS : Alec DIAMOND : pole-vault : 09 AUG 1997 : 940 : 26
-SRI : Sachin ERANGA : pole-vault : 1996 : 940 : 26
-AUS : Jack DOWNEY : pole-vault : 15 OCT 2001 : 940 : 26
-AUS : Matt HOSIE : pole-vault : 15 JAN 1998 : 940 : 26
-IND : Sakthi MAHENDRA : pole-vault :  : 926 : 32
-AUS : Wilson CRAM : pole-vault : 16 MAY 2003 : 926 : 32
-IND : . GOWTHAM : pole-vault : 02 DEC 1998 : 913 : 34
-IND : Gyanendras SINGH KUNWAR : pole-vault : 30 JUN 1997 : 913 : 34
-IND : A. Gnana SONE : pole-vault : 02 MAR 2001 : 913 : 34
-SGP : Devey NG : pole-vault : 10 DEC 1996 : 891 : 37
-GBR : Callum NEWBY : pole-vault : 16 JUN 2002 : 889 : 38
-GBR : William LANE : pole-vault :  : 889 : 38
-AUS : Andre DI MEDIO : pole-vault : 15 MAR 2004 : 886 : 40
-AUS : Samuel MCDONALD : pole-vault : 1999 : 886 : 40
-AUS : Tom COGHLAN : pole-vault :  : 886 : 40
-AUS : Ben JAMES : pole-vault : 08 JAN 2001 : 886 : 40
-AUS : Jack WHITESIDE : pole-vault : 2005 : 859 : 44
-SRI : R.P. MURUGAYYA : pole-vault :  : 859 : 44
-SRI : Chamara SENARATHNE : pole-vault : 03 NOV 1984 : 859 : 44
-AUS : Ethan PRINCENA-WHITE : pole-vault : 04 JUL 2002 : 859 : 44
-AUS : Jade GUGLIELMINO : pole-vault :  : 859 : 44
-NZL : Max ATTWELL : pole-vault : 14 SEP 1996 : 859 : 44
-IND : Sakhti MAHENDRAN : pole-vault : 13 SEP 2003 : 859 : 44
+AUS : Jack DOWNEY : pole-vault : 15 OCT 2001 : 1048 : 5
+NZL : Nicholas SOUTHGATE : pole-vault : 09 APR 1994 : 1048 : 5
+NZL : James STEYN : pole-vault : 05 MAR 1999 : 1048 : 5
+GBR : Jake WATSON : pole-vault : 19 DEC 2000 : 1010 : 8
+GBR : Lazarus BENJAMIN : pole-vault : 19 JAN 2004 : 1010 : 8
+AUS : Liam GEORGILOPOULOS : pole-vault : 04 SEP 2003 : 1007 : 10
+AUS : Triston VINCENT : pole-vault : 04 SEP 1997 : 1007 : 10
+AUS : Liam HARRIS : pole-vault : 02 AUG 1997 : 1007 : 10
+GBR : Rowan MAY : pole-vault : 12 AUG 1995 : 996 : 13
+AUS : Cedric DUBLER : pole-vault : 13 JAN 1995 : 994 : 14
+GBR : Daniel GARDNER : pole-vault : 26 MAR 1994 : 983 : 15
+GBR : George HEPPINSTALL : pole-vault : 17 OCT 1997 : 983 : 15
+AUS : Jordan KILDARE : pole-vault : 17 OCT 1998 : 980 : 17
+IND : A.K: SIDHARTH : pole-vault : 27 AUG 2000 : 972 : 18
+GBR : Reuben NAIRNE : pole-vault : 22 SEP 2002 : 969 : 19
+SRI : M.H.J. SANDARUWAN : pole-vault : 25 MAR 1994 : 967 : 20
+AUS : Joel POCKLINGTON : pole-vault : 12 APR 1986 : 967 : 20
+AUS : James WOODS : pole-vault : 01 FEB 2003 : 967 : 20
+IND : Avneesh KUMAR : pole-vault : 01 JUL 2001 : 967 : 20
+GBR : Jack PHIPPS : pole-vault : 02 APR 1994 : 956 : 24
+IND : Damien GODWIN : pole-vault :  : 953 : 25
+IND : Dhirendra KUMAR : pole-vault : 28 AUG 1999 : 953 : 25
+RSA : Arend PRETORIUS : pole-vault :  : 953 : 25
+GBR : Thomas WALLEY : pole-vault : 18 MAR 1998 : 942 : 28
+IND : A. GNANASONE : pole-vault :  : 940 : 29
+IND : Parshant SINGH : pole-vault : 14 FEB 2000 : 940 : 29
+AUS : Alec DIAMOND : pole-vault : 09 AUG 1997 : 940 : 29
+SRI : Sachin ERANGA : pole-vault : 1996 : 940 : 29
+AUS : Matt HOSIE : pole-vault : 15 JAN 1998 : 940 : 29
+IND : Sakthi MAHENDRA : pole-vault :  : 926 : 34
+AUS : Wilson CRAM : pole-vault : 16 MAY 2003 : 926 : 34
+IND : . GOWTHAM : pole-vault : 02 DEC 1998 : 913 : 36
+IND : Gyanendras SINGH KUNWAR : pole-vault : 30 JUN 1997 : 913 : 36
+IND : A. Gnana SONE : pole-vault : 02 MAR 2001 : 913 : 36
+AUS : Daniel GOLUBOVIC : pole-vault : 29 NOV 1993 : 913 : 36
+MAS : Mohd Iskandar ALWI : pole-vault : 26 FEB 1994 : 900 : 40
+SGP : Devey NG : pole-vault : 10 DEC 1996 : 891 : 41
+GBR : Callum NEWBY : pole-vault : 16 JUN 2002 : 889 : 42
+GBR : William LANE : pole-vault :  : 889 : 42
+AUS : Andre DI MEDIO : pole-vault : 15 MAR 2004 : 886 : 44
+AUS : Samuel MCDONALD : pole-vault : 1999 : 886 : 44
+AUS : Tom COGHLAN : pole-vault :  : 886 : 44
+AUS : Ben JAMES : pole-vault : 08 JAN 2001 : 886 : 44
+AUS : Jack WHITESIDE : pole-vault : 2005 : 859 : 48
+SRI : R.P. MURUGAYYA : pole-vault :  : 859 : 48
+SRI : Chamara SENARATHNE : pole-vault : 03 NOV 1984 : 859 : 48
+AUS : Ethan PRINCENA-WHITE : pole-vault : 04 JUL 2002 : 859 : 48
+AUS : Jade GUGLIELMINO : pole-vault :  : 859 : 48
+NZL : Max ATTWELL : pole-vault : 14 SEP 1996 : 859 : 48
+IND : Sakhti MAHENDRAN : pole-vault : 13 SEP 2003 : 859 : 48
+NZL : Ettiene DU PREEZ : pole-vault : 17 SEP 1990 : 859 : 48
+NZL : Aaron BOOTH : pole-vault : 12 SEP 1996 : 859 : 48
+AUS : Riley HIGGINS : pole-vault : 15 APR 2002 : 859 : 48

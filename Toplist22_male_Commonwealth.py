@@ -6,6 +6,7 @@
 from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import StaleElementReferenceException
 import sys
@@ -91,7 +92,7 @@ while True:
 
         sys.stdout = open('output/Toplist22_male' + '_' + event + '_CommsRank' + '.txt', 'wt') # want to automate the folder selection process
         #bot for clicking cookie button and opening row1
-        driver = webdriver.Chrome(ChromeDriverManager().install())  # should install chromedriver if not found
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))  # should install chromedriver if not found
         driver.get("https://www.worldathletics.org/records/toplists/")  # EVENT URL fetching commonwealth toplist for 2022
         time.sleep(2)
         cookie_button = driver.find_element(By.XPATH, '/html/body/div[7]/div')
