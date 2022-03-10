@@ -12,6 +12,8 @@ As noted in issues you will have to edit file save/print paths and folder names 
 P.S. I apologise in advance if anything is unclear. I've never worked on any collaborative projects before having only completed introductory programming courses at uni as electives for a bit of fun. 
 
 ## Current workflow process to update www.commonwealthgames-quota.com.au:
+  ![Workflow](https://user-images.githubusercontent.com/85177676/156757205-241d191d-3d4f-49e6-bbc1-556c1cb59b18.png)
+
   1. Run main program files to fetch data:
       
       a. `Toplist21_male_Commonwealth.py` -> this obtains 2021 male Comminwealth rankings in all events by best performance on Toplist and prints to txt file
@@ -31,6 +33,10 @@ P.S. I apologise in advance if anything is unclear. I've never worked on any col
       a. `Toplist_male_21_22_Combine.py` -> this combines all 'Commonwealth event ranking information' into one txt file to serve as a data source for the xls. (this combines 2021 and 2022 toplist data)
 
       b. `Toplist_male_21_22_Combine.py` -> this combines all 'Commonwealth event ranking information' into one txt file to serve as a data source for the xls. (this combines 2021 and 2022 toplist data)
+      
+      c. `Combine_male_lists.py` -> this combines all Aus Av points information for all males in all events into one txt file to serve as a data source for the xls. There is no need to run seperate years as the Av. points only includes performances within the last 12-months
+      
+      d. `Combine_female_lists.py` -> this combines all Aus Av points information for all males in all events into one txt file to serve as a data source for the xls. There is no need to run seperate years as the Av. points only includes performances within the last 12-months
 
       
      
