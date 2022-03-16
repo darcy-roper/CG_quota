@@ -1,46 +1,57 @@
-AUS : Liz CLAY : 100mh : 09 MAY 1995 : 1157 : 1
+AUS : Liz CLAY : 100mh : 09 MAY 1995 : 1162 : 1
 AUS : Celeste MUCCI : 100mh : 11 AUG 1999 : 1151 : 2
 AUS : Abbie TADDEO : 100mh : 08 FEB 1994 : 1147 : 3
-AUS : Michelle JENNEKE : 100mh : 23 JUN 1993 : 1109 : 4
-AUS : Danielle SHAW : 100mh : 06 AUG 1998 : 1090 : 5
-AUS : Taneille CRASE : 100mh : 16 OCT 1994 : 1088 : 6
-JAM : Gabrielle MATTHEWS : 100mh : 14 OCT 2002 : 1056 : 7
-IND : Jyothi YARRAJI : 100mh : 28 AUG 1999 : 1071 : 8
-NZL : Amy ROBERTSON : 100mh : 01 DEC 1999 : 1057 : 9
-JAM : Oneka WILSON : 100mh : 09 JUN 2003 : 1054 : 10
-AUS : Delta AMIDZOVSKI : 100mh : 23 AUG 2006 : 1027 : 11
-IND : Aparna ROY : 100mh : 31 MAY 2001 : 1038 : 12
-JAM : Alexis JAMES : 100mh : 09 APR 2004 : 1020 : 13
-JAM : Asharria ULETT : 100mh : 22 NOV 2004 : 1019 : 14
-IND : S. NANDHINI : 100mh : 12 DEC 1998 : 1016 : 15
-AUS : Sophia CIBEI : 100mh : 25 MAR 2002 : 997 : 16
-AUS : Tori WEST : 100mh : 14 OCT 1995 : 996 : 17
-AUS : Emily BRITTON : 100mh :  : 996 : 17
-JAM : Essence BURBRIDGE : 100mh : 18 JAN 2004 : 996 : 17
-IND : Moumita MONDAL : 100mh : 09 DEC 2001 : 997 : 20
-AUS : Georgia FICHARDT : 100mh : 21 FEB 2004 : 993 : 21
-AUS : Nicolette D'ONOFRIO : 100mh : 05 APR 2002 : 989 : 22
-AUS : Emelia SURCH : 100mh : 29 JUN 2003 : 991 : 23
-JAM : Janela SPENCER : 100mh : 14 NOV 2002 : 984 : 24
-IND : Ann Rose TOMY : 100mh : 25 MAY 2002 : 979 : 25
-AUS : Alessia WYNNE : 100mh : 15 DEC 2003 : 978 : 26
-AUS : Alexandra RICHARDS : 100mh :  : 977 : 27
-AUS : Keely BOYNE : 100mh : 11 JAN 2002 : 979 : 28
-AUS : Ebony NEWTON : 100mh : 2005 : 972 : 29
-RSA : Inge VAN DER MERWE : 100mh : 09 SEP 1999 : 972 : 29
-IND : Nandhini KONGAN : 100mh : 13 JUL 1999 : 969 : 31
-AUS : Margaret GAYEN : 100mh : 10 JUL 1994 : 968 : 32
-KEN : Priscilla TABUNDA : 100mh : 22 AUG 1989 : 964 : 33
-AUS : Abbey BADROCK : 100mh : 17 NOV 1999 : 964 : 34
-JAM : Shaneil LYSIGHT : 100mh : 22 JAN 2003 : 956 : 35
-JAM : Kay-Lagay CLARKE : 100mh : 27 FEB 2004 : 954 : 36
-JAM : Patreece CLARKE : 100mh : 24 APR 2003 : 964 : 36
-IND : Medha KAMATH : 100mh : 04 DEC 1997 : 947 : 38
-NZL : Celine PEARN : 100mh : 23 MAR 1997 : 950 : 39
-AUS : Shauna HERBST : 100mh : 17 AUG 1996 : 943 : 40
-NZL : Alessandra MACDONALD : 100mh : 01 JUL 2000 : 946 : 40
-AUS : Tara WYLLIE : 100mh : 02 NOV 2003 : 929 : 42
-IND : S. SRIIRESHMA : 100mh : 04 MAY 2001 : 932 : 42
-AUS : Rachel LIMBURG : 100mh : 07 JUL 1997 : 923 : 44
-NZL : Christina RYAN : 100mh : 15 FEB 1998 : 930 : 45
-AUS : Alyssa LOWE : 100mh : 29 JUN 2003 : 925 : 46
+RSA : Marione FOURIE : 100mh : 30 APR 2002 : 1138 : 4
+RSA : Taylon BIELDT : 100mh : 04 NOV 1998 : 1132 : 5
+JAM : Alexis JAMES : 100mh : 09 APR 2004 : 1128 : 6
+JAM : Oneka WILSON : 100mh : 09 JUN 2003 : 1120 : 7
+JAM : Kerrica HILL : 100mh : 06 MAR 2005 : 1116 : 8
+AUS : Michelle JENNEKE : 100mh : 23 JUN 1993 : 1109 : 9
+AUS : Danielle SHAW : 100mh : 06 AUG 1998 : 1090 : 10
+AUS : Taneille CRASE : 100mh : 16 OCT 1994 : 1088 : 11
+JAM : Asharria ULETT : 100mh : 22 NOV 2004 : 1073 : 12
+JAM : Gabrielle MATTHEWS : 100mh : 14 OCT 2002 : 1056 : 13
+IND : Jyothi YARRAJI : 100mh : 28 AUG 1999 : 1071 : 14
+NZL : Amy ROBERTSON : 100mh : 01 DEC 1999 : 1057 : 15
+JAM : Shania MYERS : 100mh : 25 AUG 2005 : 1035 : 16
+AUS : Delta AMIDZOVSKI : 100mh : 23 AUG 2006 : 1027 : 17
+RSA : Kayla VAN DER BERGH : 100mh : 10 JAN 2002 : 1024 : 18
+IND : Aparna ROY : 100mh : 31 MAY 2001 : 1038 : 19
+JAM : Alexia AUSTIN : 100mh : 27 DEC 2004 : 1007 : 20
+RSA : Inge VAN DER MERWE : 100mh : 09 SEP 1999 : 1009 : 20
+RSA : Natasha GERTENBACH : 100mh : 10 JUN 2005 : 1005 : 22
+JAM : Kay-Lagay CLARKE : 100mh : 27 FEB 2004 : 1001 : 23
+JAM : Essence BURBRIDGE : 100mh : 18 JAN 2004 : 1001 : 23
+IND : S. NANDHINI : 100mh : 12 DEC 1998 : 1016 : 25
+AUS : Sophia CIBEI : 100mh : 25 MAR 2002 : 997 : 26
+AUS : Tori WEST : 100mh : 14 OCT 1995 : 996 : 27
+AUS : Emily BRITTON : 100mh :  : 996 : 27
+IND : Moumita MONDAL : 100mh : 09 DEC 2001 : 997 : 29
+AUS : Georgia FICHARDT : 100mh : 21 FEB 2004 : 993 : 30
+RSA : Mila COMPAAN : 100mh : 16 JAN 2003 : 994 : 31
+RSA : Erasel BOER : 100mh : 16 SEP 2005 : 994 : 31
+AUS : Nicolette D'ONOFRIO : 100mh : 05 APR 2002 : 989 : 33
+AUS : Emelia SURCH : 100mh : 29 JUN 2003 : 991 : 34
+JAM : Janela SPENCER : 100mh : 14 NOV 2002 : 984 : 35
+IND : Ann Rose TOMY : 100mh : 25 MAY 2002 : 979 : 36
+AUS : Alessia WYNNE : 100mh : 15 DEC 2003 : 978 : 37
+AUS : Alexandra RICHARDS : 100mh :  : 977 : 38
+AUS : Abbey BADROCK : 100mh : 17 NOV 1999 : 981 : 38
+AUS : Keely BOYNE : 100mh : 11 JAN 2002 : 979 : 40
+AUS : Ebony NEWTON : 100mh : 2005 : 972 : 41
+JAM : Habiba HARRIS : 100mh : 26 SEP 2005 : 971 : 42
+IND : Nandhini KONGAN : 100mh : 13 JUL 1999 : 969 : 43
+AUS : Margaret GAYEN : 100mh : 10 JUL 1994 : 968 : 44
+KEN : Priscilla TABUNDA : 100mh : 22 AUG 1989 : 964 : 45
+TTO : Karessa KIRTON : 100mh : 2004 : 962 : 46
+JAM : Shaneil LYSIGHT : 100mh : 22 JAN 2003 : 956 : 47
+JAM : Patreece CLARKE : 100mh : 24 APR 2003 : 964 : 48
+IND : Medha KAMATH : 100mh : 04 DEC 1997 : 947 : 49
+NZL : Celine PEARN : 100mh : 23 MAR 1997 : 950 : 50
+AUS : Shauna HERBST : 100mh : 17 AUG 1996 : 943 : 51
+NZL : Alessandra MACDONALD : 100mh : 01 JUL 2000 : 946 : 51
+AUS : Tara WYLLIE : 100mh : 02 NOV 2003 : 929 : 53
+IND : S. SRIIRESHMA : 100mh : 04 MAY 2001 : 932 : 53
+AUS : Rachel LIMBURG : 100mh : 07 JUL 1997 : 923 : 55
+NZL : Christina RYAN : 100mh : 15 FEB 1998 : 930 : 56
+AUS : Alyssa LOWE : 100mh : 29 JUN 2003 : 925 : 57

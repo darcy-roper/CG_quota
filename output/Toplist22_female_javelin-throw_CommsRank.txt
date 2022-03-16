@@ -1,74 +1,80 @@
 NZL : Tori PEETERS : javelin-throw : 17 MAY 1994 : 1122 : 1
 AUS : Mackenzie LITTLE : javelin-throw : 22 DEC 1996 : 1014 : 2
 GBR : Rebekah WALTON : javelin-throw : 20 SEP 1999 : 998 : 3
-SRI : Dilhani LEKAMGE : javelin-throw : 14 OCT 1987 : 961 : 4
-AUS : Mackenzie MIELCZAREK : javelin-throw : 06 FEB 2003 : 955 : 5
-IND : Karishma SANIL : javelin-throw : 04 JUN 2000 : 941 : 6
-IND : Sanjana CHOUDHARY : javelin-throw : 09 JUL 1999 : 938 : 7
-GBR : Emma HAMPLETT : javelin-throw : 27 JUL 1998 : 935 : 8
-AUS : Alexandra ROBERTS : javelin-throw : 09 APR 2001 : 922 : 9
-IND : Sharmila KUMARI : javelin-throw : 02 MAR 1995 : 919 : 10
-GBR : Emily DIBBLE : javelin-throw : 17 SEP 1999 : 912 : 11
-SRI : Nadeeka LAKMALI : javelin-throw : 18 SEP 1981 : 895 : 12
-AUS : Kiarna WOOLLEY-BLAIN : javelin-throw : 16 APR 2002 : 883 : 13
-IND : Pushpa JAKHAR : javelin-throw : 29 NOV 1997 : 876 : 14
-KEN : Martha Nthanze MUSAI : javelin-throw : 20 DEC 2002 : 866 : 15
-CYP : Christiana ELLINA : javelin-throw : 18 DEC 2004 : 861 : 16
-SRI : Dayana HARSHANI MADUWANTHI : javelin-throw : 06 MAR 1991 : 857 : 17
+IND : Sharmila KUMARI : javelin-throw : 02 MAR 1995 : 971 : 4
+SRI : Dilhani LEKAMGE : javelin-throw : 14 OCT 1987 : 961 : 5
+AUS : Mackenzie MIELCZAREK : javelin-throw : 06 FEB 2003 : 955 : 6
+IND : Karishma SANIL : javelin-throw : 04 JUN 2000 : 941 : 7
+IND : Sanjana CHOUDHARY : javelin-throw : 09 JUL 1999 : 938 : 8
+GBR : Emma HAMPLETT : javelin-throw : 27 JUL 1998 : 935 : 9
+SRI : Dayana HARSHANI MADUWANTHI : javelin-throw : 06 MAR 1991 : 934 : 10
+AUS : Alexandra ROBERTS : javelin-throw : 09 APR 2001 : 922 : 11
+GBR : Emily DIBBLE : javelin-throw : 17 SEP 1999 : 912 : 12
+SRI : Nadeeka LAKMALI : javelin-throw : 18 SEP 1981 : 895 : 13
+AUS : Kiarna WOOLLEY-BLAIN : javelin-throw : 16 APR 2002 : 888 : 14
+IND : Pushpa JAKHAR : javelin-throw : 29 NOV 1997 : 876 : 15
+KEN : Martha Nthanze MUSAI : javelin-throw : 20 DEC 2002 : 866 : 16
+CYP : Christiana ELLINA : javelin-throw : 18 DEC 2004 : 861 : 17
 RSA : Clarissa WEYER : javelin-throw : 03 DEC 2001 : 855 : 18
 AUS : Tori WEST : javelin-throw : 14 OCT 1995 : 851 : 19
-NZL : Abbey MOODY : javelin-throw : 18 JAN 2004 : 836 : 20
-GBR : Lauren FARLEY : javelin-throw : 16 SEP 2001 : 833 : 21
-NZL : Caitlin BONNE : javelin-throw : 23 FEB 2000 : 833 : 22
-IND : . JYOTI : javelin-throw : 01 APR 2002 : 833 : 22
-AUS : Jess BELL : javelin-throw : 13 JAN 2000 : 827 : 24
-AUS : Christina GRUN : javelin-throw : 03 SEP 1993 : 825 : 25
-RSA : Savannah COMBRINK : javelin-throw : 17 APR 2001 : 824 : 26
-IND : Shakshi SHARMA : javelin-throw : 09 FEB 2002 : 819 : 27
-RSA : Leandri LAMPRECHT : javelin-throw : 15 MAR 1999 : 816 : 28
-AUS : Teya SAVILLE : javelin-throw : 29 JAN 2003 : 812 : 29
-AUS : Karen CLARKE : javelin-throw : 23 JUN 1990 : 811 : 30
-KEN : Gladys JEPKEMBOI : javelin-throw : 09 SEP 2002 : 805 : 31
-AUS : Angelina TIGNANI : javelin-throw : 2004 : 802 : 32
-GBR : Bethany MOULE : javelin-throw : 21 NOV 2001 : 801 : 33
-KEN : Salome MORAA : javelin-throw : 04 MAR 1998 : 799 : 34
-AUS : Jade PATCHING : javelin-throw : 2004 : 796 : 35
-AUS : Alysha BURNETT : javelin-throw : 04 JAN 1997 : 795 : 36
-IND : . ARTI : javelin-throw :  : 791 : 37
-RSA : Nicole LINDEQUE : javelin-throw : 12 MAY 2003 : 785 : 38
-KEN : Jane JEPLETING : javelin-throw : 1995 : 784 : 39
-GBR : Sophie HAMILTON : javelin-throw : 06 MAY 2004 : 783 : 40
-IND : . HARITA : javelin-throw : 04 DEC 2001 : 778 : 41
-ZAM : Mary FWAMBO : javelin-throw : 12 OCT 1998 : 776 : 42
-IND : Kajal PARMAR : javelin-throw : 01 JUN 1999 : 773 : 43
-AUS : Emma COTGROVE : javelin-throw : 31 AUG 2003 : 773 : 44
-IND : Priya ATTRI : javelin-throw : 01 MAY 2000 : 772 : 45
-AUS : Phoebe MARSH : javelin-throw : 2003 : 765 : 46
-AUS : Bianca PACKER : javelin-throw : 2004 : 762 : 47
-IND : Manu KUMARI : javelin-throw : 07 FEB 1996 : 762 : 48
-IND : Uma CHOUDHARY : javelin-throw : 04 OCT 1999 : 757 : 49
-NZL : Holly ROBINSON : javelin-throw : 10 DEC 1994 : 755 : 50
-AUS : Claudia LEGGE : javelin-throw : 2004 : 750 : 51
-AUS : Tiana PAVLOVICH : javelin-throw : 2005 : 747 : 52
-KEN : Jemimah NDANU : javelin-throw :  : 745 : 53
-IND : Diksha DWIVEDI : javelin-throw : 24 JUN 2001 : 740 : 54
-AUS : Elly READ : javelin-throw : 28 MAR 2003 : 739 : 55
-IND : . TANU : javelin-throw : 14 NOV 2002 : 739 : 56
-AUS : Kajsa SHIELD : javelin-throw : 02 JUL 2004 : 732 : 57
-IND : Vishakha PANWAR : javelin-throw :  : 731 : 58
-AUS : Emma BUTLER : javelin-throw : 16 JAN 1999 : 730 : 59
-AUS : Chloe METCALF : javelin-throw : 07 SEP 1999 : 729 : 60
-IND : Solanki AMISHA : javelin-throw : 23 OCT 2002 : 729 : 61
-JAM : Latavia GALLOWAY : javelin-throw : 11 JAN 2002 : 727 : 62
-MAS : Pavithra Devi JAYAINDRAN : javelin-throw : 1999 : 726 : 63
-IND : Arti MAHATMA : javelin-throw :  : 723 : 64
-MAS : Nur Ayna Nuha MATON : javelin-throw : 11 AUG 2000 : 722 : 65
-IND : . NEHA : javelin-throw : 28 JUL 2002 : 720 : 66
-CYP : Katerina ADAMOU : javelin-throw : 04 APR 2001 : 717 : 67
-IND : . NEELAM : javelin-throw :  : 717 : 68
-GRN : Jamora ALVES : javelin-throw : 12 SEP 2003 : 716 : 69
-TTO : Kenika CASSAR : javelin-throw : 2006 : 716 : 69
-GBR : Hollie ARNOLD : javelin-throw : 26 JUN 1994 : 714 : 71
-AUS : Amie BOWREY : javelin-throw : 15 NOV 2001 : 711 : 72
-SRI : S.P.H. SEWWANDI : javelin-throw :  : 710 : 73
-KEN : Dorothy Chepngetich RIRO : javelin-throw : 21 SEP 2001 : 709 : 74
+CAN : Bailey DELL : javelin-throw : 07 OCT 1996 : 844 : 20
+CAN : Makayla ROY : javelin-throw : 2002 : 836 : 21
+NZL : Abbey MOODY : javelin-throw : 18 JAN 2004 : 836 : 22
+SRI : S.P.H. SEWWANDI : javelin-throw :  : 835 : 23
+GBR : Lauren FARLEY : javelin-throw : 16 SEP 2001 : 833 : 24
+NZL : Caitlin BONNE : javelin-throw : 23 FEB 2000 : 833 : 25
+IND : . JYOTI : javelin-throw : 01 APR 2002 : 833 : 25
+AUS : Jess BELL : javelin-throw : 13 JAN 2000 : 827 : 27
+AUS : Christina GRUN : javelin-throw : 03 SEP 1993 : 825 : 28
+RSA : Savannah COMBRINK : javelin-throw : 17 APR 2001 : 824 : 29
+IND : Shakshi SHARMA : javelin-throw : 09 FEB 2002 : 819 : 30
+RSA : Leandri LAMPRECHT : javelin-throw : 15 MAR 1999 : 816 : 31
+AUS : Teya SAVILLE : javelin-throw : 29 JAN 2003 : 812 : 32
+AUS : Karen CLARKE : javelin-throw : 23 JUN 1990 : 811 : 33
+KEN : Gladys JEPKEMBOI : javelin-throw : 09 SEP 2002 : 805 : 34
+AUS : Angelina TIGNANI : javelin-throw : 2004 : 802 : 35
+GBR : Bethany MOULE : javelin-throw : 21 NOV 2001 : 801 : 36
+KEN : Salome MORAA : javelin-throw : 04 MAR 1998 : 799 : 37
+AUS : Jade PATCHING : javelin-throw : 2004 : 796 : 38
+AUS : Alysha BURNETT : javelin-throw : 04 JAN 1997 : 795 : 39
+IND : . ARTI : javelin-throw :  : 791 : 40
+RSA : Nicole LINDEQUE : javelin-throw : 12 MAY 2003 : 785 : 41
+KEN : Jane JEPLETING : javelin-throw : 1995 : 784 : 42
+GBR : Sophie HAMILTON : javelin-throw : 06 MAY 2004 : 783 : 43
+IND : . HARITA : javelin-throw : 04 DEC 2001 : 778 : 44
+ZAM : Mary FWAMBO : javelin-throw : 12 OCT 1998 : 776 : 45
+IND : Kajal PARMAR : javelin-throw : 01 JUN 1999 : 773 : 46
+AUS : Emma COTGROVE : javelin-throw : 31 AUG 2003 : 773 : 47
+IND : Priya ATTRI : javelin-throw : 01 MAY 2000 : 772 : 48
+AUS : Phoebe MARSH : javelin-throw : 2003 : 765 : 49
+AUS : Bianca PACKER : javelin-throw : 2004 : 762 : 50
+IND : Manu KUMARI : javelin-throw : 07 FEB 1996 : 762 : 51
+IND : Uma CHOUDHARY : javelin-throw : 04 OCT 1999 : 757 : 52
+NZL : Holly ROBINSON : javelin-throw : 10 DEC 1994 : 755 : 53
+TTO : Talena MURRAY : javelin-throw : 28 OCT 1999 : 750 : 54
+AUS : Claudia LEGGE : javelin-throw : 2004 : 750 : 55
+AUS : Tiana PAVLOVICH : javelin-throw : 2005 : 747 : 56
+KEN : Jemimah NDANU : javelin-throw :  : 745 : 57
+IND : Diksha DWIVEDI : javelin-throw : 24 JUN 2001 : 740 : 58
+AUS : Elly READ : javelin-throw : 28 MAR 2003 : 739 : 59
+IND : . TANU : javelin-throw : 14 NOV 2002 : 739 : 60
+AUS : Kajsa SHIELD : javelin-throw : 02 JUL 2004 : 732 : 61
+IND : Vishakha PANWAR : javelin-throw :  : 731 : 62
+AUS : Emma BUTLER : javelin-throw : 16 JAN 1999 : 730 : 63
+AUS : Chloe METCALF : javelin-throw : 07 SEP 1999 : 729 : 64
+IND : Solanki AMISHA : javelin-throw : 23 OCT 2002 : 729 : 65
+JAM : Latavia GALLOWAY : javelin-throw : 11 JAN 2002 : 727 : 66
+MAS : Pavithra Devi JAYAINDRAN : javelin-throw : 1999 : 726 : 67
+IND : Arti MAHATMA : javelin-throw :  : 723 : 68
+MAS : Nur Ayna Nuha MATON : javelin-throw : 11 AUG 2000 : 722 : 69
+GBR : Jessie BROWN : javelin-throw :  : 722 : 70
+IND : . NEHA : javelin-throw : 28 JUL 2002 : 720 : 71
+CYP : Katerina ADAMOU : javelin-throw : 04 APR 2001 : 717 : 72
+IND : . NEELAM : javelin-throw :  : 717 : 73
+GRN : Jamora ALVES : javelin-throw : 12 SEP 2003 : 716 : 74
+TTO : Kenika CASSAR : javelin-throw : 2006 : 716 : 74
+GBR : Gaia OSBORNE : javelin-throw : 09 AUG 2000 : 714 : 76
+GBR : Hollie ARNOLD : javelin-throw : 26 JUN 1994 : 714 : 77
+GBR : Erin WATERS : javelin-throw :  : 713 : 78
+AUS : Amie BOWREY : javelin-throw : 15 NOV 2001 : 711 : 79
+KEN : Dorothy Chepngetich RIRO : javelin-throw : 21 SEP 2001 : 709 : 80

@@ -51,50 +51,50 @@ RSA : Sithembiso MQHELE : marathon : 18 FEB 1991 : 970 : 50
 KEN : David KIBET : marathon : 1988 : 965 : 51
 IND : Bahadur SINGH DHONI : marathon : 02 MAY 1987 : 961 : 52
 GBR : Gary PRIESTLEY : marathon : 02 SEP 1988 : 953 : 53
-RSA : Pfarelo MATHADA : marathon : 02 AUG 1989 : 948 : 54
-KEN : Cornelius KIBIWOTT : marathon :  : 942 : 55
-KEN : Solomon KOECH : marathon :  : 937 : 56
-GBR : Chris PHILLIPS-HART : marathon :  : 927 : 57
-GBR : Sean CHALMERS : marathon : 07 OCT 1995 : 924 : 58
-AUS : Tom MIDDLETON : marathon : 24 JUN 1986 : 919 : 59
-CAN : Steve LAWRENCE : marathon : 20 JAN 1978 : 918 : 60
-GBR : Harry LAUSTE : marathon :  : 914 : 61
-CMR : Justin FOAMI : marathon :  : 913 : 62
-KEN : Hillary Kipkoech BETT : marathon : 24 JUL 1990 : 910 : 63
-GBR : Richard JOHNSTON : marathon :  : 909 : 64
-KEN : Mike CHESIRE : marathon : 1996 : 903 : 65
-RSA : Thulane MAGAULA : marathon :  : 903 : 66
-KEN : Nathan KIOKO : marathon :  : 898 : 67
-BAN : Het RAM : marathon :  : 893 : 68
-GBR : Matthew DICKINSON : marathon : 12 MAR 1996 : 889 : 69
-GBR : Nick BOWKER : marathon :  : 889 : 69
-NZL : Cameron GRAVES : marathon : 01 FEB 1992 : 885 : 71
-NGR : Shehu MUAZU : marathon : 11 MAY 1988 : 882 : 72
-GIB : Arnold ROGERS : marathon : 04 SEP 1990 : 879 : 73
-GBR : Thomas GEORGE : marathon : 06 FEB 1996 : 876 : 74
-KEN : Joseph MWANGI : marathon :  : 874 : 75
-MLT : Stefan AZZOPARDI : marathon : 12 DEC 1982 : 867 : 76
-RSA : Ismail SADEK : marathon :  : 865 : 77
-SRI : Sivarajan MUTHUSAMY : marathon :  : 855 : 78
-GBR : Benjamin HOWE : marathon :  : 855 : 78
-GBR : Paul LUNN : marathon :  : 854 : 80
-KEN : Sylvester Kimeli TEIMET : marathon : 04 JUN 1984 : 837 : 81
-AUS : Wayne SPIES : marathon :  : 836 : 82
-NZL : Ciaran FAHERTY : marathon : 23 FEB 1988 : 836 : 82
-SRI : Kelum Sampath GANEHI : marathon : 24 JUN 1980 : 831 : 84
-GBR : Rob PAYNE : marathon :  : 830 : 85
-RSA : Siyabonga SAKWE : marathon :  : 829 : 86
-NZL : Nathan TSE : marathon : 17 NOV 1995 : 821 : 87
-BAN : Narendra RAWAT : marathon :  : 821 : 88
-GBR : Bradley COURTNEY-PINN : marathon :  : 815 : 89
-GBR : Stuart SPENCER : marathon : 11 NOV 1982 : 812 : 90
-NGR : Mwanta ILLIYA PAM : marathon :  : 809 : 91
-GBR : Thomas PERKINS : marathon :  : 808 : 92
-CAN : Robert NEWTON : marathon :  : 807 : 93
-GBR : Andrew GRIGG : marathon :  : 806 : 94
-GBR : Geraint WILLIAMS : marathon :  : 802 : 95
-AUS : Derrick LEAHY : marathon :  : 800 : 96
-AUS : Lachlan OAKES : marathon : 02 SEP 1987 : 790 : 97
-NGR : Peter MAHAN ISTIFANUS : marathon :  : 790 : 97
-GBR : Ben WILLIAMS : marathon :  : 787 : 99
-AUS : Will NEWTON : marathon :  : 784 : 100
+RSA : Kemang KHUNONYANE : marathon : 10 FEB 1992 : 949 : 54
+RSA : Pfarelo MATHADA : marathon : 02 AUG 1989 : 948 : 55
+KEN : Cornelius KIBIWOTT : marathon :  : 942 : 56
+KEN : Solomon KOECH : marathon :  : 937 : 57
+GBR : Chris PHILLIPS-HART : marathon :  : 927 : 58
+GBR : Sean CHALMERS : marathon : 07 OCT 1995 : 924 : 59
+AUS : Tom MIDDLETON : marathon : 24 JUN 1986 : 919 : 60
+CAN : Steve LAWRENCE : marathon : 20 JAN 1978 : 918 : 61
+RSA : Xolisa TYALI : marathon : 02 DEC 1988 : 915 : 62
+GBR : Harry LAUSTE : marathon :  : 914 : 63
+CMR : Justin FOAMI : marathon :  : 913 : 64
+KEN : Hillary Kipkoech BETT : marathon : 24 JUL 1990 : 910 : 65
+GBR : Richard JOHNSTON : marathon :  : 909 : 66
+RSA : Zithulele NTANZI : marathon :  : 903 : 67
+KEN : Mike CHESIRE : marathon : 1996 : 903 : 68
+RSA : Thulane MAGAULA : marathon :  : 903 : 69
+KEN : Nathan KIOKO : marathon :  : 898 : 70
+RSA : Tumisho MAGAKWE : marathon :  : 896 : 71
+BAN : Het RAM : marathon :  : 893 : 72
+GBR : Matthew DICKINSON : marathon : 12 MAR 1996 : 889 : 73
+GBR : Nick BOWKER : marathon :  : 889 : 73
+NZL : Cameron GRAVES : marathon : 01 FEB 1992 : 885 : 75
+RSA : Chabeli NYEDIMANE : marathon : 28 MAR 1988 : 883 : 76
+NGR : Shehu MUAZU : marathon : 11 MAY 1988 : 882 : 77
+GIB : Arnold ROGERS : marathon : 04 SEP 1990 : 879 : 78
+GBR : Thomas GEORGE : marathon : 06 FEB 1996 : 876 : 79
+KEN : Joseph MWANGI : marathon :  : 874 : 80
+RSA : Rirhandeli RHANGANI : marathon :  : 871 : 81
+MLT : Stefan AZZOPARDI : marathon : 12 DEC 1982 : 867 : 82
+RSA : Ismail SADEK : marathon :  : 865 : 83
+SRI : Sivarajan MUTHUSAMY : marathon :  : 855 : 84
+GBR : Benjamin HOWE : marathon :  : 855 : 84
+GBR : Paul LUNN : marathon :  : 854 : 86
+RSA : Thabiso MOSEKILI : marathon :  : 841 : 87
+KEN : Sylvester Kimeli TEIMET : marathon : 04 JUN 1984 : 837 : 88
+AUS : Wayne SPIES : marathon :  : 836 : 89
+NZL : Ciaran FAHERTY : marathon : 23 FEB 1988 : 836 : 89
+SRI : Kelum Sampath GANEHI : marathon : 24 JUN 1980 : 831 : 91
+GBR : Rob PAYNE : marathon :  : 830 : 92
+RSA : Siyabonga SAKWE : marathon :  : 829 : 93
+NZL : Nathan TSE : marathon : 17 NOV 1995 : 821 : 94
+BAN : Narendra RAWAT : marathon :  : 821 : 95
+GBR : Bradley COURTNEY-PINN : marathon :  : 815 : 96
+GBR : Stuart SPENCER : marathon : 11 NOV 1982 : 812 : 97
+NGR : Mwanta ILLIYA PAM : marathon :  : 809 : 98
+GBR : Thomas PERKINS : marathon :  : 808 : 99
+CAN : Robert NEWTON : marathon :  : 807 : 100

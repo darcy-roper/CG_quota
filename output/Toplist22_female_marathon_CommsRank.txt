@@ -1,41 +1,47 @@
 KEN : Brigid KOSGEI : marathon : 20 FEB 1994 : 1274 : 1
-KEN : Angela TANUI : marathon : 27 JUL 1992 : 1247 : 2
-GBR : Jess PIASECKI : marathon : 18 APR 1990 : 1208 : 3
-GBR : Rose HARVEY : marathon : 25 AUG 1992 : 1159 : 4
-KEN : Betty JEPLETING : marathon : 28 JUL 1988 : 1151 : 5
-KEN : Tecla KIRONGO : marathon : 05 MAY 1993 : 1149 : 6
-GBR : Alice WRIGHT : marathon : 03 NOV 1994 : 1141 : 7
-KEN : Bornes CHEPKIRUI : marathon : 23 NOV 1986 : 1130 : 8
-GBR : Emily KEARNEY : marathon : 10 NOV 1995 : 1089 : 9
-GBR : Philippa BOWDEN : marathon : 29 MAR 1995 : 1089 : 10
-KEN : Naomi Jepkosgei MAIYO : marathon : 05 APR 1989 : 1077 : 11
-KEN : Helen JEPKURGAT : marathon : 21 FEB 1989 : 1076 : 12
-RWA : Clementine MUKANDANGA : marathon : 08 DEC 1985 : 1064 : 13
-GBR : Stephanie DAVIS : marathon : 26 AUG 1990 : 1058 : 14
-KEN : Sharon Jemutai CHEROP : marathon : 16 MAR 1984 : 1055 : 15
-KEN : Shelmith NYAWIRA : marathon : 02 NOV 1984 : 1052 : 16
-RSA : Stella MARAIS : marathon : 25 NOV 1992 : 1052 : 16
-GBR : Sally RATCLIFFE : marathon : 15 APR 1994 : 1041 : 18
-KEN : Jane Jelagat SEUREY : marathon : 02 MAR 1986 : 1031 : 19
-KEN : Beatrice CHEROP : marathon : 1986 : 1029 : 20
-GBR : Victoria KENNY : marathon : 03 JUN 1995 : 1022 : 21
-KEN : Euliter TANUI : marathon : 15 MAY 1991 : 1005 : 22
-AUS : Melissah GIBSON : marathon : 1984 : 1001 : 23
-KEN : Caren CHEPEOCK : marathon :  : 998 : 24
-GBR : Carla MOLINARO : marathon : 27 JUL 1984 : 979 : 25
-KEN : Valentine KIPKETER : marathon : 05 JAN 1993 : 971 : 26
-MLT : Lisa Marie BEZZINA : marathon : 05 NOV 1979 : 954 : 27
-GBR : TAMSIN ANDERSON : marathon :  : 944 : 28
-NZL : Lisa CROSS : marathon : 09 MAR 1983 : 937 : 29
-GBR : Hannah OLDROYD : marathon : 27 MAY 1987 : 919 : 30
-IND : Arati PATIL : marathon : 26 MAR 1997 : 913 : 31
-GBR : Sarah GURNEY : marathon :  : 911 : 32
-IND : Jyoti GAWATE : marathon : 22 FEB 1987 : 906 : 33
-RSA : Kate REES : marathon : 10 JAN 1978 : 901 : 34
-GBR : Gillian SANDERS : marathon :  : 898 : 35
-GBR : Katie LYSONS : marathon :  : 890 : 36
-GBR : Karla BORLAND : marathon :  : 884 : 37
-SGP : Jasmine LING : marathon :  : 882 : 38
-RSA : Jeannie HENDERSON : marathon : 25 SEP 1979 : 882 : 39
-RSA : Danette SMITH WALLEY : marathon : 13 DEC 1988 : 864 : 40
-RSA : Sarah SILBER : marathon :  : 863 : 41
+KEN : Ruth CHEPNGETICH : marathon : 08 AUG 1994 : 1261 : 2
+KEN : Angela TANUI : marathon : 27 JUL 1992 : 1247 : 3
+GBR : Jess PIASECKI : marathon : 18 APR 1990 : 1208 : 4
+AUS : Eloise WELLINGS : marathon : 09 NOV 1982 : 1181 : 5
+GBR : Rose HARVEY : marathon : 25 AUG 1992 : 1159 : 6
+KEN : Betty JEPLETING : marathon : 28 JUL 1988 : 1151 : 7
+KEN : Tecla KIRONGO : marathon : 05 MAY 1993 : 1149 : 8
+GBR : Alice WRIGHT : marathon : 03 NOV 1994 : 1141 : 9
+KEN : Bornes CHEPKIRUI : marathon : 23 NOV 1986 : 1130 : 10
+GBR : Emily KEARNEY : marathon : 10 NOV 1995 : 1089 : 11
+GBR : Philippa BOWDEN : marathon : 29 MAR 1995 : 1089 : 12
+KEN : Naomi Jepkosgei MAIYO : marathon : 05 APR 1989 : 1077 : 13
+KEN : Helen JEPKURGAT : marathon : 21 FEB 1989 : 1076 : 14
+RWA : Clementine MUKANDANGA : marathon : 08 DEC 1985 : 1064 : 15
+GBR : Stephanie DAVIS : marathon : 26 AUG 1990 : 1058 : 16
+KEN : Sharon Jemutai CHEROP : marathon : 16 MAR 1984 : 1055 : 17
+KEN : Shelmith NYAWIRA : marathon : 02 NOV 1984 : 1052 : 18
+RSA : Stella MARAIS : marathon : 25 NOV 1992 : 1052 : 18
+GBR : Sally RATCLIFFE : marathon : 15 APR 1994 : 1041 : 20
+KEN : Jane Jelagat SEUREY : marathon : 02 MAR 1986 : 1031 : 21
+KEN : Beatrice CHEROP : marathon : 1986 : 1029 : 22
+GBR : Victoria KENNY : marathon : 03 JUN 1995 : 1022 : 23
+KEN : Euliter TANUI : marathon : 15 MAY 1991 : 1005 : 24
+AUS : Melissah GIBSON : marathon : 1984 : 1001 : 25
+KEN : Caren CHEPEOCK : marathon :  : 998 : 26
+GBR : Carla MOLINARO : marathon : 27 JUL 1984 : 979 : 27
+KEN : Valentine KIPKETER : marathon : 05 JAN 1993 : 971 : 28
+MLT : Lisa Marie BEZZINA : marathon : 05 NOV 1979 : 954 : 29
+GBR : TAMSIN ANDERSON : marathon :  : 944 : 30
+NZL : Lisa CROSS : marathon : 09 MAR 1983 : 937 : 31
+GBR : Hannah OLDROYD : marathon : 27 MAY 1987 : 919 : 32
+IND : Arati PATIL : marathon : 26 MAR 1997 : 913 : 33
+GBR : Sarah GURNEY : marathon :  : 911 : 34
+IND : Jyoti GAWATE : marathon : 22 FEB 1987 : 906 : 35
+RSA : Ann ASWORTH : marathon :  : 903 : 36
+RSA : Kate REES : marathon : 10 JAN 1978 : 901 : 37
+GBR : Gillian SANDERS : marathon :  : 898 : 38
+GBR : Katie LYSONS : marathon :  : 890 : 39
+RSA : Cornelia JOUBERT : marathon : 22 JUN 1988 : 890 : 40
+RSA : Renata VOSLOO : marathon : 20 JUN 1983 : 886 : 41
+GBR : Karla BORLAND : marathon :  : 884 : 42
+SGP : Jasmine LING : marathon :  : 882 : 43
+RSA : Jeannie HENDERSON : marathon : 25 SEP 1979 : 882 : 44
+RSA : Charné BOSMAN : marathon : 06 NOV 1975 : 867 : 45
+RSA : Danette SMITH WALLEY : marathon : 13 DEC 1988 : 864 : 46
+RSA : Sarah SILBER : marathon :  : 863 : 47

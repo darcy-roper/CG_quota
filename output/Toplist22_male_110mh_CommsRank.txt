@@ -1,32 +1,40 @@
-AUS : Nicholas HOUGH : 110mh : 20 OCT 1993 : 1077 : 1
-AUS : Sam HURWOOD : 110mh : 07 MAR 2001 : 1073 : 2
-SGP : Chen Xiang ANG : 110mh : 03 JUL 1994 : 1072 : 3
-AUS : Jacob MCCORRY : 110mh : 20 NOV 1997 : 1048 : 4
-MAS : Mohd Rizzua HAIZAD MUHAMAD : 110mh : 29 MAR 1997 : 1046 : 5
-SRI : Roshan DAMMIKA RANATHUNGA : 110mh : 10 MAY 1998 : 1043 : 6
-AUS : Daniel GOLUBOVIC : 110mh : 29 NOV 1993 : 1043 : 6
-KEN : Wiseman Were MUKHOBE : 110mh : 13 OCT 1997 : 1033 : 8
-MAS : Rayzamshah WAN SOFIAN : 110mh : 11 JAN 1988 : 1032 : 8
-NZL : Joshua HAWKINS : 110mh : 09 FEB 1994 : 1018 : 10
-SGP : Chong Wei GUAN : 110mh : 08 MAY 2000 : 1013 : 11
-IND : Yashwanth KUMAR : 110mh : 28 AUG 2001 : 1009 : 12
-MAS : Benedict IAN GAWOK : 110mh : 25 JUL 1999 : 1007 : 13
-MAS : Muhammad Ridzwan RIDAL : 110mh :  : 995 : 14
-IND : G. NISHANTHRAJA : 110mh : 12 APR 2001 : 993 : 15
-KEN : Michael Musyoka NZUKU : 110mh : 27 JAN 1997 : 986 : 16
-MAS : Muh. Nazrul MOHD ALI : 110mh :  : 985 : 16
-IND : Muhammed LAZAN : 110mh : 01 JUN 2002 : 979 : 18
-AUS : Cedric DUBLER : 110mh : 13 JAN 1995 : 979 : 18
-IND : Alden Anil NARONHA : 110mh : 05 JUL 1999 : 964 : 20
-RSA : Reynard STRAUSS : 110mh : 03 JAN 2002 : 962 : 21
-AUS : Alec DIAMOND : 110mh : 09 AUG 1997 : 960 : 22
-MAS : Chun Yee WONG : 110mh : 1999 : 955 : 23
-IND : Vikas KHODAKE : 110mh : 16 AUG 2001 : 945 : 24
-NZL : Jack HENRY : 110mh : 22 MAR 1994 : 942 : 25
-IND : Dhanush ADITHAN : 110mh : 30 SEP 2001 : 938 : 26
-SGP : Awyong LIANG QI : 110mh : 13 JAN 1995 : 935 : 27
-IND : M. KRISHIK : 110mh : 16 OCT 2003 : 931 : 28
-AUS : Dean PASTRELLO : 110mh : 05 MAY 1999 : 933 : 29
-AUS : Ryan NEALE : 110mh : 11 APR 1998 : 920 : 30
-KEN : William Mbevi MUTUNGA : 110mh : 12 JUL 1993 : 911 : 31
-SRI : K.D.D. ARIYARATHNE : 110mh : 06 JUN 1994 : 893 : 32
+AUS : Nicholas HOUGH : 110mh : 20 OCT 1993 : 1112 : 1
+RSA : Antonio ALKANA : 110mh : 12 APR 1990 : 1107 : 2
+RSA : Ruan DE VRIES : 110mh : 01 FEB 1986 : 1096 : 3
+AUS : Jacob MCCORRY : 110mh : 20 NOV 1997 : 1086 : 4
+AUS : Cedric DUBLER : 110mh : 13 JAN 1995 : 1082 : 5
+AUS : Sam HURWOOD : 110mh : 07 MAR 2001 : 1073 : 6
+SGP : Chen Xiang ANG : 110mh : 03 JUL 1994 : 1072 : 7
+AUS : Daniel GOLUBOVIC : 110mh : 29 NOV 1993 : 1062 : 8
+MAS : Mohd Rizzua HAIZAD MUHAMAD : 110mh : 29 MAR 1997 : 1046 : 9
+SRI : Roshan DAMMIKA RANATHUNGA : 110mh : 10 MAY 1998 : 1043 : 10
+KEN : Wiseman Were MUKHOBE : 110mh : 13 OCT 1997 : 1033 : 11
+MAS : Rayzamshah WAN SOFIAN : 110mh : 11 JAN 1988 : 1032 : 11
+RSA : Rivaldo ROBERTS : 110mh : 27 APR 1996 : 1029 : 13
+NZL : Joshua HAWKINS : 110mh : 09 FEB 1994 : 1018 : 14
+CMR : Jorim Lénoard BANGUE : 110mh : 06 JAN 2003 : 1017 : 15
+SGP : Chong Wei GUAN : 110mh : 08 MAY 2000 : 1013 : 16
+IND : Yashwanth KUMAR : 110mh : 28 AUG 2001 : 1009 : 17
+MAS : Benedict IAN GAWOK : 110mh : 25 JUL 1999 : 1007 : 18
+RSA : Naeem RAZAK : 110mh : 17 SEP 1996 : 1008 : 18
+RSA : Tshepo LEFETE : 110mh : 02 FEB 1992 : 1005 : 20
+AUS : Alec DIAMOND : 110mh : 09 AUG 1997 : 1002 : 21
+MAS : Muhammad Ridzwan RIDAL : 110mh :  : 995 : 22
+IND : G. NISHANTHRAJA : 110mh : 12 APR 2001 : 993 : 23
+KEN : Michael Musyoka NZUKU : 110mh : 27 JAN 1997 : 986 : 24
+MAS : Muh. Nazrul MOHD ALI : 110mh :  : 985 : 24
+IND : Muhammed LAZAN : 110mh : 01 JUN 2002 : 979 : 26
+IND : Alden Anil NARONHA : 110mh : 05 JUL 1999 : 964 : 27
+RSA : Reynard STRAUSS : 110mh : 03 JAN 2002 : 962 : 28
+MAS : Chun Yee WONG : 110mh : 1999 : 955 : 29
+RSA : Eric VAN DER WALT : 110mh : 10 FEB 1999 : 948 : 30
+IND : Vikas KHODAKE : 110mh : 16 AUG 2001 : 945 : 31
+NZL : Jack HENRY : 110mh : 22 MAR 1994 : 942 : 32
+IND : Dhanush ADITHAN : 110mh : 30 SEP 2001 : 938 : 33
+SGP : Awyong LIANG QI : 110mh : 13 JAN 1995 : 935 : 34
+IND : M. KRISHIK : 110mh : 16 OCT 2003 : 931 : 35
+AUS : Dean PASTRELLO : 110mh : 05 MAY 1999 : 933 : 36
+AUS : Ryan NEALE : 110mh : 11 APR 1998 : 920 : 37
+KEN : William Mbevi MUTUNGA : 110mh : 12 JUL 1993 : 911 : 38
+SRI : Salinda Randewa K.W. : 110mh : 24 JAN 1986 : 896 : 39
+SRI : K.D.D. ARIYARATHNE : 110mh : 06 JUN 1994 : 893 : 40

@@ -29,11 +29,11 @@ KEN : Emmanuel WAFULA : 3000msc :  : 994 : 28
 AUS : Aidan HOBBS : 3000msc : 06 OCT 1986 : 980 : 29
 KEN : Elisha KIBET : 3000msc :  : 979 : 30
 AUS : Christopher DALE : 3000msc : 29 DEC 1991 : 978 : 31
-KEN : Eliezar KIBET : 3000msc :  : 962 : 32
-KEN : Cosmas KOECH : 3000msc :  : 958 : 33
-IND : Shubham BHANDARE : 3000msc :  : 956 : 34
-KEN : Peter RONO : 3000msc :  : 955 : 35
-SRI : Udaya Bandara HERATH : 3000msc : 30 AUG 1995 : 952 : 36
+SRI : Udaya Bandara HERATH : 3000msc : 30 AUG 1995 : 963 : 32
+KEN : Eliezar KIBET : 3000msc :  : 962 : 33
+KEN : Cosmas KOECH : 3000msc :  : 958 : 34
+IND : Shubham BHANDARE : 3000msc :  : 956 : 35
+KEN : Peter RONO : 3000msc :  : 955 : 36
 AUS : Jordan WILLIAMSZ : 3000msc : 21 AUG 1992 : 948 : 37
 KEN : Erick KIPLANGAT : 3000msc :  : 947 : 38
 IND : . RAVI : 3000msc :  : 935 : 39
@@ -43,7 +43,7 @@ SRI : W.P.M. SAMARAWEERA : 3000msc :  : 933 : 42
 KEN : Philemon KOSGEI : 3000msc : 1993 : 933 : 43
 KEN : Enock KIPRORIR : 3000msc :  : 930 : 44
 SRI : T.M.L.C. GUNARATHNE : 3000msc :  : 929 : 45
-SRI : H.M.S.Karunarathna BANDA : 3000msc :  : 927 : 46
+SRI : H.M.S.Karunarathna BANDA : 3000msc :  : 928 : 46
 AUS : Toby O'BRIEN : 3000msc : 22 OCT 1995 : 923 : 47
 KEN : Barnabas KIPYEGO : 3000msc : 12 JUN 1995 : 922 : 48
 NZL : Ieuan VAN DER PEET : 3000msc : 12 AUG 1996 : 921 : 49
@@ -56,7 +56,8 @@ KEN : Elias KIPRUTO : 3000msc :  : 907 : 55
 KEN : Timothy KIBET : 3000msc :  : 906 : 56
 IND : R. RAGHAV : 3000msc : 01 FEB 2002 : 903 : 57
 IND : Suraj PAL : 3000msc : 20 MAY 2002 : 897 : 58
-IND : . SAURABH : 3000msc : 14 OCT 1999 : 887 : 59
-KEN : Festus KIPRONO : 3000msc : 29 DEC 1995 : 882 : 60
-NZL : Luke CLEMENTS : 3000msc : 2004 : 881 : 61
-AUS : Alexander KWA : 3000msc :  : 878 : 62
+SRI : R.M.C.D.M. RATHNAYAKE : 3000msc :  : 891 : 59
+IND : . SAURABH : 3000msc : 14 OCT 1999 : 887 : 60
+KEN : Festus KIPRONO : 3000msc : 29 DEC 1995 : 882 : 61
+NZL : Luke CLEMENTS : 3000msc : 2004 : 881 : 62
+AUS : Alexander KWA : 3000msc :  : 878 : 63

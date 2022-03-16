@@ -25,20 +25,21 @@ AUS : Laura MCKILLOP : 3000msc : 11 FEB 2003 : 1001 : 24
 AUS : Abigail THOMAS : 3000msc : 03 JUL 2003 : 996 : 25
 AUS : Kelsie Jae VICKERY : 3000msc : 28 MAR 1999 : 986 : 26
 NZL : Eva PRINGLE : 3000msc : 09 OCT 2001 : 977 : 27
-IND : Shaili DHAMA : 3000msc : 10 FEB 1999 : 971 : 28
-AUS : Allegra MCGIVERN : 3000msc : 05 SEP 2005 : 965 : 29
-IND : G. MAHESHWARI : 3000msc : 18 AUG 2000 : 963 : 30
-AUS : Abbie BUTLER : 3000msc : 08 JUL 2004 : 955 : 31
-AUS : Ellaby HANSEN : 3000msc : 2002 : 942 : 32
-AUS : Caitlin SLOBEDMAN : 3000msc : 27 JUN 2003 : 937 : 33
-AUS : Stephanie KONDOGONIS : 3000msc : 21 MAR 1991 : 931 : 34
-IND : Vaishnavi SAWANT : 3000msc : 28 MAR 2001 : 928 : 35
-AUS : Sophie GOCHER : 3000msc : 16 MAY 2001 : 919 : 36
-IND : Kajal SHARMA : 3000msc : 03 SEP 2001 : 915 : 37
-AUS : Olivia TWINING : 3000msc : 07 AUG 1998 : 913 : 38
-IND : Shashi LATA : 3000msc :  : 912 : 39
-IND : K. SWETHA : 3000msc : 24 JUL 1998 : 903 : 40
-AUS : Ellie Rose GLANDS : 3000msc : 2004 : 899 : 41
-IND : D.R. SMITHA : 3000msc : 09 DEC 2000 : 893 : 42
-AUS : Matilda STRUGNELL : 3000msc : 2004 : 877 : 43
-AUS : Olivia BOYD : 3000msc : 2004 : 868 : 44
+AUS : Abbie BUTLER : 3000msc : 08 JUL 2004 : 977 : 28
+IND : Shaili DHAMA : 3000msc : 10 FEB 1999 : 971 : 29
+AUS : Allegra MCGIVERN : 3000msc : 05 SEP 2005 : 965 : 30
+IND : G. MAHESHWARI : 3000msc : 18 AUG 2000 : 963 : 31
+CAN : Paige PATTERSON : 3000msc : 2000 : 944 : 32
+AUS : Ellaby HANSEN : 3000msc : 2002 : 942 : 33
+AUS : Caitlin SLOBEDMAN : 3000msc : 27 JUN 2003 : 937 : 34
+AUS : Stephanie KONDOGONIS : 3000msc : 21 MAR 1991 : 931 : 35
+IND : Vaishnavi SAWANT : 3000msc : 28 MAR 2001 : 928 : 36
+AUS : Sophie GOCHER : 3000msc : 16 MAY 2001 : 919 : 37
+IND : Kajal SHARMA : 3000msc : 03 SEP 2001 : 915 : 38
+AUS : Olivia TWINING : 3000msc : 07 AUG 1998 : 913 : 39
+IND : Shashi LATA : 3000msc :  : 912 : 40
+IND : K. SWETHA : 3000msc : 24 JUL 1998 : 903 : 41
+AUS : Ellie Rose GLANDS : 3000msc : 2004 : 899 : 42
+IND : D.R. SMITHA : 3000msc : 09 DEC 2000 : 893 : 43
+AUS : Matilda STRUGNELL : 3000msc : 2004 : 877 : 44
+AUS : Olivia BOYD : 3000msc : 2004 : 868 : 45

@@ -1,47 +1,51 @@
 NZL : Lauren BRUCE : hammer-throw : 23 MAR 1997 : 1147 : 1
 NZL : Nicole BRADLEY : hammer-throw : 23 APR 1992 : 1100 : 2
 GBR : Katie HEAD : hammer-throw : 09 DEC 1999 : 1089 : 3
-GBR : Jessica MAYHO : hammer-throw : 14 JUN 1993 : 1063 : 4
-AUS : Alexandra HULLEY : hammer-throw : 24 JUL 1997 : 1060 : 5
+AUS : Alexandra HULLEY : hammer-throw : 24 JUL 1997 : 1076 : 4
+GBR : Jessica MAYHO : hammer-throw : 14 JUN 1993 : 1063 : 5
 GBR : Charlotte PAYNE : hammer-throw : 20 MAR 2002 : 1041 : 6
 GBR : Kayleigh PRESSWELL : hammer-throw : 14 MAR 1995 : 1009 : 7
-GBR : Philippa DAVENALL : hammer-throw : 26 SEP 1998 : 963 : 8
-MAS : Grace WONG XIU MEI : hammer-throw : 18 JAN 2000 : 962 : 9
-CYP : Chrystalla KYRIAKOU : hammer-throw : 04 OCT 1996 : 962 : 10
+CYP : Chrystalla KYRIAKOU : hammer-throw : 04 OCT 1996 : 974 : 8
+GBR : Philippa DAVENALL : hammer-throw : 26 SEP 1998 : 963 : 9
+MAS : Grace WONG XIU MEI : hammer-throw : 18 JAN 2000 : 962 : 10
 IND : Sarita Romit SINGH : hammer-throw : 26 OCT 1989 : 961 : 11
 CYP : Valentina SAVVA : hammer-throw : 17 MAY 2005 : 954 : 12
-AUS : Stephanie RATCLIFFE : hammer-throw : 29 DEC 2000 : 922 : 13
-AUS : Lara ROBERTS : hammer-throw : 07 NOV 2003 : 879 : 14
-NZL : Lexi MAPLES : hammer-throw : 17 DEC 1999 : 878 : 15
-NZL : Dyani SHEPHERD-OATES : hammer-throw : 09 FEB 2000 : 873 : 16
-IND : Vedpathak SURABH : hammer-throw : 29 AUG 1998 : 855 : 17
-AUS : Alysha PEARSON : hammer-throw : 15 JUN 2002 : 846 : 18
-GBR : Candy LOCKETT : hammer-throw : 13 MAY 1999 : 845 : 19
-NZL : Mayce BALLANTYNE : hammer-throw : 19 AUG 1994 : 845 : 20
-KEN : Roselyn RAKAMBA : hammer-throw : 10 OCT 1990 : 838 : 21
-AUS : Caitlyn HESTER : hammer-throw : 17 SEP 1999 : 826 : 22
-KEN : Lucy Anyango OMONDI : hammer-throw : 04 JUL 1987 : 816 : 23
-NZL : Elizabeth HEWITT : hammer-throw : 09 MAR 2004 : 815 : 24
-KEN : Linda Ngendo OSESO : hammer-throw : 25 JAN 1990 : 807 : 25
-AUS : Aliyah CANEPA : hammer-throw : 26 JUL 2002 : 801 : 26
-NZL : Alexandria MAPLES : hammer-throw :  : 800 : 27
-AUS : Renee HARDY : hammer-throw : 12 APR 2003 : 792 : 28
-GBR : Lucy MARSHALL : hammer-throw : 28 NOV 1981 : 781 : 29
-AUS : Olivia GRAHAM : hammer-throw : 24 OCT 2000 : 781 : 29
-MAS : Nurul Hidayah LUKMAN : hammer-throw : 28 APR 2001 : 777 : 31
-AUS : Natalie DEBELJUH : hammer-throw : 04 OCT 1988 : 777 : 32
-IND : Aakanksha SANDH : hammer-throw :  : 775 : 33
-AUS : Rachel HOSIE : hammer-throw : 14 FEB 2002 : 773 : 34
-IND : Sneha SURYAKAN : hammer-throw : 10 JAN 2000 : 773 : 35
-IND : Amandeep KAUR : hammer-throw : 18 FEB 1999 : 766 : 36
-IND : Divya SHANDILYA : hammer-throw : 05 JUL 1998 : 764 : 37
-IND : Amandeep KAUR : hammer-throw : 07 JAN 2002 : 763 : 38
-IND : . RITESH : hammer-throw : 07 JAN 1999 : 759 : 39
-IND : Bhadwati CHOUDHARY : hammer-throw : 23 JUL 2001 : 750 : 40
-AUS : Hannah EDWARDS : hammer-throw : 2005 : 749 : 41
-NZL : Teagan ASHLEY : hammer-throw : 17 APR 2002 : 744 : 42
-NZL : Mile NAIME : hammer-throw : 06 MAY 2002 : 737 : 43
-MLT : Mireya CASSAR : hammer-throw : 06 APR 2003 : 730 : 44
-MAS : Nurfazira JALALUDIN : hammer-throw :  : 729 : 45
-AUS : Julia DIREEN : hammer-throw : 31 JAN 2001 : 729 : 46
-IND : Preeti SHARAWAT : hammer-throw : 05 SEP 1998 : 724 : 47
+AUS : Stephanie RATCLIFFE : hammer-throw : 29 DEC 2000 : 946 : 13
+AUS : Lyvante SU'EMAI : hammer-throw : 12 DEC 2002 : 927 : 14
+RSA : Collette UYS : hammer-throw : 20 APR 2000 : 896 : 15
+AUS : Lara ROBERTS : hammer-throw : 07 NOV 2003 : 879 : 16
+NZL : Lexi MAPLES : hammer-throw : 17 DEC 1999 : 878 : 17
+NZL : Dyani SHEPHERD-OATES : hammer-throw : 09 FEB 2000 : 873 : 18
+IND : Vedpathak SURABH : hammer-throw : 29 AUG 1998 : 855 : 19
+AUS : Alysha PEARSON : hammer-throw : 15 JUN 2002 : 846 : 20
+GBR : Candy LOCKETT : hammer-throw : 13 MAY 1999 : 845 : 21
+NZL : Mayce BALLANTYNE : hammer-throw : 19 AUG 1994 : 845 : 22
+KEN : Roselyn RAKAMBA : hammer-throw : 10 OCT 1990 : 838 : 23
+AUS : Caitlyn HESTER : hammer-throw : 17 SEP 1999 : 826 : 24
+KEN : Lucy Anyango OMONDI : hammer-throw : 04 JUL 1987 : 816 : 25
+NZL : Elizabeth HEWITT : hammer-throw : 09 MAR 2004 : 815 : 26
+KEN : Linda Ngendo OSESO : hammer-throw : 25 JAN 1990 : 807 : 27
+AUS : Aliyah CANEPA : hammer-throw : 26 JUL 2002 : 801 : 28
+NZL : Alexandria MAPLES : hammer-throw :  : 800 : 29
+AUS : Renee HARDY : hammer-throw : 12 APR 2003 : 792 : 30
+GBR : Rachel MACLENNAN : hammer-throw :  : 786 : 31
+GBR : Lucy MARSHALL : hammer-throw : 28 NOV 1981 : 781 : 32
+AUS : Olivia GRAHAM : hammer-throw : 24 OCT 2000 : 781 : 32
+MAS : Nurul Hidayah LUKMAN : hammer-throw : 28 APR 2001 : 777 : 34
+AUS : Natalie DEBELJUH : hammer-throw : 04 OCT 1988 : 777 : 35
+IND : Aakanksha SANDH : hammer-throw :  : 775 : 36
+AUS : Rachel HOSIE : hammer-throw : 14 FEB 2002 : 773 : 37
+IND : Sneha SURYAKAN : hammer-throw : 10 JAN 2000 : 773 : 38
+IND : Amandeep KAUR : hammer-throw : 18 FEB 1999 : 766 : 39
+IND : Divya SHANDILYA : hammer-throw : 05 JUL 1998 : 764 : 40
+IND : Amandeep KAUR : hammer-throw : 07 JAN 2002 : 763 : 41
+IND : . RITESH : hammer-throw : 07 JAN 1999 : 759 : 42
+IND : Bhadwati CHOUDHARY : hammer-throw : 23 JUL 2001 : 750 : 43
+AUS : Hannah EDWARDS : hammer-throw : 2005 : 749 : 44
+NZL : Teagan ASHLEY : hammer-throw : 17 APR 2002 : 744 : 45
+MLT : Mireya CASSAR : hammer-throw : 06 APR 2003 : 740 : 46
+NZL : Mile NAIME : hammer-throw : 06 MAY 2002 : 737 : 47
+CAN : Shiloh CORRALES NELSON : hammer-throw : 2001 : 733 : 48
+MAS : Nurfazira JALALUDIN : hammer-throw :  : 729 : 49
+AUS : Julia DIREEN : hammer-throw : 31 JAN 2001 : 729 : 50
+IND : Preeti SHARAWAT : hammer-throw : 05 SEP 1998 : 724 : 51

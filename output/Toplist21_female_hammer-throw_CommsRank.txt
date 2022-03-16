@@ -11,7 +11,7 @@ GBR : Tara SIMPSON-SULLIVAN : hammer-throw : 02 DEC 2000 : 1076 : 10
 JAM : Nayoka CLUNIS : hammer-throw : 07 OCT 1995 : 1051 : 11
 CAN : Kaila BUTLER : hammer-throw : 16 JUL 1998 : 1045 : 12
 GBR : Anna PURCHASE : hammer-throw : 15 SEP 1999 : 1037 : 13
-JAM : Erica BELVIT : hammer-throw : 18 AUG 1998 : 1035 : 14
+JAM : Erica BELVIT : hammer-throw : 09 NOV 1998 : 1035 : 14
 GBR : Amy HERRINGTON : hammer-throw : 22 MAY 1998 : 1030 : 15
 GBR : Rachel HUNTER : hammer-throw : 30 AUG 1993 : 1020 : 16
 GBR : Katie HEAD : hammer-throw : 09 DEC 1999 : 1019 : 17

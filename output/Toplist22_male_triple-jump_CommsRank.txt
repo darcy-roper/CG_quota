@@ -1,55 +1,64 @@
-AUS : Julian KONLE : triple-jump : 04 JUN 1997 : 1084 : 1
-SRI : Chamal K.L. WADUGE : triple-jump : 02 FEB 1998 : 1076 : 2
-SRI : Shreshan Dhananjaya LIYANAPEDIGE : triple-jump : 07 JUN 1997 : 1074 : 3
-AUS : Ayo ORE : triple-jump : 23 APR 1997 : 1070 : 4
-JAM : Jaydon HIBBERT : triple-jump : 17 JAN 2005 : 1075 : 5
+JAM : Jaydon HIBBERT : triple-jump : 17 JAN 2005 : 1118 : 1
+SRI : Chamal K.L. WADUGE : triple-jump : 02 FEB 1998 : 1089 : 2
+AUS : Julian KONLE : triple-jump : 04 JUN 1997 : 1084 : 3
+SRI : Shreshan Dhananjaya LIYANAPEDIGE : triple-jump : 07 JUN 1997 : 1074 : 4
+AUS : Ayo ORE : triple-jump : 23 APR 1997 : 1070 : 5
 MAS : Andre ANURA : triple-jump : 12 JUN 1999 : 1068 : 6
 AUS : Shemaiah JAMES : triple-jump : 12 JUL 1997 : 1044 : 7
-AUS : Connor MURPHY : triple-jump : 22 OCT 2001 : 1030 : 8
-SRI : Pasindu Malshan KUMARAPELI ARACHCHIGE : triple-jump : 15 FEB 2003 : 1025 : 9
-SRI : Sanjaya JAYASINGHE : triple-jump : 20 APR 1982 : 1021 : 10
-MAS : Brendon Ting LI KING : triple-jump :  : 1018 : 11
-SRI : T.G.V.S. WIJESEKARA : triple-jump :  : 1008 : 12
-AUS : Emmanuel FAKIYE : triple-jump : 27 JAN 1997 : 1005 : 13
-AUS : Aiden HINSON : triple-jump : 05 JUN 2003 : 1002 : 14
-AUS : Oluwapemi AKIN OJELABI : triple-jump : 25 AUG 1998 : 999 : 15
-SRI : Atheetha N.KARUNASINGHE : triple-jump : 30 NOV 1995 : 1001 : 16
-SRI : Sandun THUSHARA : triple-jump :  : 978 : 17
-SRI : S.D. LUDOWYKE : triple-jump :  : 975 : 18
-JAM : Lushane WILSON : triple-jump : 11 SEP 1998 : 978 : 19
-JAM : Tevin DUNN : triple-jump : 1998 : 982 : 20
-JAM : Rajaun RICKETTS : triple-jump : 20 AUG 2003 : 965 : 21
-MAS : Mohd Shah SHOLIKIN AZHAR : triple-jump :  : 965 : 21
-SRI : K.V.M. YASIRU : triple-jump :  : 960 : 23
-GUY : Trevon HAMER : triple-jump : 2004 : 944 : 24
-TTO : Lorenzo LUCES : triple-jump : 2002 : 948 : 25
-GUY : Dennies ROBERTS : triple-jump : 1998 : 935 : 26
-AUS : Tristan SCHEIRS : triple-jump : 20 APR 2000 : 928 : 27
-AUS : Tetteh ANANG : triple-jump : 05 APR 1993 : 930 : 28
-AUS : Kipchumba LANGAT : triple-jump : 2004 : 922 : 29
-GUY : Stafon ROACH : triple-jump : 2003 : 917 : 30
-BAH : Johnathan RODGERS : triple-jump :  : 924 : 31
-AUS : Finn MURPHY : triple-jump : 2003 : 913 : 32
-AUS : Ryan MARSHALL : triple-jump : 2002 : 912 : 33
-NZL : Ebuka OKPALA : triple-jump : 10 MAR 1993 : 903 : 34
-AUS : Cameron PAPPAS : triple-jump : 31 MAR 1996 : 904 : 34
-JAM : Royan WALTERS : triple-jump : 02 APR 2004 : 898 : 36
-AUS : Thomas PITTS : triple-jump : 29 SEP 2000 : 898 : 36
-MAS : Muhd Sunik MUSLIMIN : triple-jump : 2001 : 892 : 38
-AUS : Joshua HWABA : triple-jump : 2003 : 891 : 39
-BAR : Nathan CRAWFORD-WALLIS : triple-jump : 28 JAN 2002 : 887 : 40
-JAM : Javar THOMAS : triple-jump : 21 OCT 2004 : 885 : 41
-AUS : Brandon CLARK : triple-jump : 17 MAY 1993 : 884 : 42
-AUS : Mackenzie LIDDELOW : triple-jump : 22 DEC 1997 : 882 : 43
-NZL : Scott THOMSON : triple-jump : 22 JUN 1992 : 882 : 43
-MAS : NG Tak SING : triple-jump :  : 882 : 43
-AUS : Angus WOOD : triple-jump : 10 JAN 2001 : 881 : 46
-TTO : Jean-Jon MATTHEWS : triple-jump : 2002 : 883 : 47
-TTO : Kristopher LA TOUCHE : triple-jump : 1998 : 875 : 48
-JAM : Chevaugn PARKINSON : triple-jump : 25 OCT 2000 : 887 : 49
-AUS : Uchenna EGBU : triple-jump :  : 868 : 50
-JAM : Nicholloyd BROWN : triple-jump : 15 OCT 2002 : 868 : 50
-AUS : Nathan TAVERNER : triple-jump : 2005 : 872 : 52
-AUS : Devesh SRI DEENATHAYALAN : triple-jump : 2005 : 864 : 53
-NZL : Ethan GOW : triple-jump :  : 860 : 54
-JAM : Nicholai BLOSSOM : triple-jump : 26 MAR 2003 : 869 : 55
+SRI : Sandun Krishantha KUMARA : triple-jump : 2001 : 1044 : 7
+AUS : Emmanuel FAKIYE : triple-jump : 27 JAN 1997 : 1034 : 9
+AUS : Connor MURPHY : triple-jump : 22 OCT 2001 : 1030 : 10
+SRI : Pasindu Malshan KUMARAPELI ARACHCHIGE : triple-jump : 15 FEB 2003 : 1025 : 11
+SRI : Sanjaya JAYASINGHE : triple-jump : 20 APR 1982 : 1021 : 12
+MAS : Brendon Ting LI KING : triple-jump :  : 1018 : 13
+SRI : C.G.S.T. SENEVIRATHNE : triple-jump : 26 JUN 1992 : 1014 : 14
+SRI : T.G.V.S. WIJESEKARA : triple-jump :  : 1008 : 15
+AUS : Aiden HINSON : triple-jump : 05 JUN 2003 : 1002 : 16
+AUS : Oluwapemi AKIN OJELABI : triple-jump : 25 AUG 1998 : 999 : 17
+SRI : Atheetha N.KARUNASINGHE : triple-jump : 30 NOV 1995 : 1001 : 18
+SRI : Sandun THUSHARA : triple-jump :  : 978 : 19
+JAM : Royan WALTERS : triple-jump : 02 APR 2004 : 976 : 20
+SRI : S.D. LUDOWYKE : triple-jump :  : 975 : 21
+JAM : Chad WILLIAMS : triple-jump : 25 JUN 2000 : 974 : 22
+JAM : Lushane WILSON : triple-jump : 11 SEP 1998 : 978 : 23
+JAM : Tevin DUNN : triple-jump : 1998 : 982 : 24
+JAM : Rajaun RICKETTS : triple-jump : 20 AUG 2003 : 965 : 25
+MAS : Mohd Shah SHOLIKIN AZHAR : triple-jump :  : 965 : 25
+SRI : K.V.M. YASIRU : triple-jump :  : 960 : 27
+GUY : Trevon HAMER : triple-jump : 2004 : 944 : 28
+TTO : Lorenzo LUCES : triple-jump : 2002 : 948 : 29
+JAM : Michael CURRIAH : triple-jump : 01 SEP 2004 : 937 : 30
+GUY : Dennies ROBERTS : triple-jump : 1998 : 935 : 31
+AUS : Tristan SCHEIRS : triple-jump : 20 APR 2000 : 928 : 32
+AUS : Tetteh ANANG : triple-jump : 05 APR 1993 : 930 : 33
+AUS : Kipchumba LANGAT : triple-jump : 2004 : 922 : 34
+GUY : Stafon ROACH : triple-jump : 2003 : 917 : 35
+AUS : Ryan MARSHALL : triple-jump : 2002 : 923 : 35
+BAH : Johnathan RODGERS : triple-jump :  : 924 : 37
+AUS : Finn MURPHY : triple-jump : 2003 : 913 : 38
+NZL : Ebuka OKPALA : triple-jump : 10 MAR 1993 : 903 : 39
+AUS : Cameron PAPPAS : triple-jump : 31 MAR 1996 : 904 : 39
+AUS : Angus WOOD : triple-jump : 10 JAN 2001 : 902 : 41
+AUS : Thomas PITTS : triple-jump : 29 SEP 2000 : 898 : 42
+MAS : Muhd Sunik MUSLIMIN : triple-jump : 2001 : 892 : 43
+AUS : Joshua HWABA : triple-jump : 2003 : 891 : 44
+BAR : Nathan CRAWFORD-WALLIS : triple-jump : 28 JAN 2002 : 887 : 45
+JAM : Javar THOMAS : triple-jump : 21 OCT 2004 : 885 : 46
+AUS : Brandon CLARK : triple-jump : 17 MAY 1993 : 884 : 47
+AUS : Mackenzie LIDDELOW : triple-jump : 22 DEC 1997 : 882 : 48
+NZL : Scott THOMSON : triple-jump : 22 JUN 1992 : 882 : 48
+MAS : NG Tak SING : triple-jump :  : 882 : 48
+JAM : Zachary GORDON : triple-jump : 2004 : 881 : 51
+TTO : Jean-Jon MATTHEWS : triple-jump : 2002 : 883 : 52
+TTO : Kristopher LA TOUCHE : triple-jump : 1998 : 875 : 53
+JAM : Chevaugn PARKINSON : triple-jump : 25 OCT 2000 : 887 : 54
+AUS : Uchenna EGBU : triple-jump :  : 868 : 55
+JAM : Nicholloyd BROWN : triple-jump : 15 OCT 2002 : 868 : 55
+AUS : Nathan TAVERNER : triple-jump : 2005 : 872 : 57
+AUS : Devesh SRI DEENATHAYALAN : triple-jump : 2005 : 864 : 58
+JAM : Jevaughn CEPHAS : triple-jump : 04 MAR 2004 : 863 : 59
+NZL : Ethan GOW : triple-jump :  : 860 : 60
+BAR : Antonio WEEKES : triple-jump : 1997 : 854 : 61
+JAM : Nicholai BLOSSOM : triple-jump : 26 MAR 2003 : 869 : 62
+JAM : Malique PARKINSON : triple-jump : 11 NOV 2003 : 853 : 62
+JAM : Chavez PENN : triple-jump : 27 JUL 2006 : 851 : 64

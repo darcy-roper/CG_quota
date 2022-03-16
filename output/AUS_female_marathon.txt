@@ -1,6 +1,6 @@
-Sinead DIVER : marathon : 17 FEB 1977 : 1185 : 1 : 1120 : 1160 :  :  :  : 07 AUG 2021 : 03 OCT 2021 :  :  : 
-Lisa WEIGHTMAN : marathon : 16 JAN 1979 : 1161 : 2 : 1172 : 1090 :  :  :  : 26 JAN 2020 : 07 AUG 2021 :  :  : 
-Eloise WELLINGS : marathon : 09 NOV 1982 : 1138 : 3 : 1139 : 1136 :  :  :  : 12 DEC 2021 : 03 OCT 2021 :  :  : 
+Eloise WELLINGS : marathon : 09 NOV 1982 : 1198 : 1 : 1181 : 1139 :  :  :  : 13 MAR 2022 : 12 DEC 2021 :  :  : 
+Sinead DIVER : marathon : 17 FEB 1977 : 1185 : 2 : 1120 : 1160 :  :  :  : 07 AUG 2021 : 03 OCT 2021 :  :  : 
+Lisa WEIGHTMAN : marathon : 16 JAN 1979 : 1161 : 3 : 1172 : 1090 :  :  :  : 26 JAN 2020 : 07 AUG 2021 :  :  : 
 Milly CLARK : marathon : 01 MAR 1989 : 1137 : 4 : 1163 : 1106 :  :  :  : 12 DEC 2021 : 13 JUN 2021 :  :  : 
 Jessica STENSON : marathon : 15 AUG 1987 : 1132 : 5 : 1180 : 1080 :  :  :  : 17 OCT 2021 : 13 DEC 2020 :  :  : 
 Ellie PASHLEY : marathon : 10 DEC 1988 : 1107 : 6 : 1118 : 1097 :  :  :  : 02 FEB 2020 : 07 AUG 2021 :  :  : 

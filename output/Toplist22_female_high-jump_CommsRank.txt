@@ -10,52 +10,55 @@ AUS : Annie STAPLETON : high-jump : 27 OCT 2002 : 1023 : 7
 SGP : Michelle SUAT LI : high-jump : 19 MAY 1987 : 1013 : 10
 AUS : Toby STOLBERG : high-jump : 2006 : 1013 : 10
 NZL : Maddie WILSON : high-jump : 05 APR 2002 : 1004 : 12
-NZL : Josephine REEVES : high-jump : 25 MAR 2001 : 994 : 13
-AUS : Tryphena HEWETT : high-jump : 22 OCT 2005 : 984 : 14
-NZL : Jessica HENDREN : high-jump : 26 APR 2005 : 984 : 14
-IND : A.Kevinaa ASWINE : high-jump : 23 MAR 2002 : 984 : 14
-AUS : Rosie TOZER : high-jump : 07 MAY 2002 : 974 : 17
-AUS : Chelsea FRIEDRICH : high-jump : 02 NOV 2005 : 974 : 17
-JAM : Torian CAVEN : high-jump : 28 OCT 2004 : 974 : 17
-JAM : Annishka MCDONALD : high-jump : 30 OCT 2003 : 974 : 17
-JAM : Malaika CUNNINGHAM : high-jump : 29 JUL 2004 : 974 : 17
-GUY : Natrena HOOPER : high-jump : 02 FEB 1991 : 974 : 17
-AUS : Izobelle LOUISON-ROE : high-jump : 2007 : 974 : 17
-AUS : Alysha BURNETT : high-jump : 04 JAN 1997 : 974 : 17
-AUS : Elizabeth MOSS : high-jump : 22 MAR 2002 : 974 : 17
-AUS : Sophie LILLICRAP : high-jump : 2004 : 974 : 17
-NZL : Naomi WAITE : high-jump : 01 OCT 2006 : 965 : 27
-NZL : Alex HYLAND : high-jump : 29 JAN 1999 : 965 : 27
-IND : Angel DEVASYA P. : high-jump : 06 DEC 1994 : 965 : 27
-AUS : Denise SNYDER : high-jump : 07 JAN 1992 : 955 : 30
-IND : K.H. SALIHA : high-jump : 14 SEP 2002 : 955 : 30
-MAS : Norliyana KAMARUDDIN : high-jump : 26 MAR 1991 : 955 : 30
-AUS : Vanessa APEL : high-jump : 2006 : 945 : 33
-BAN : Umme Hafsa RUMKI : high-jump : 26 SEP 2001 : 936 : 34
-AUS : Tori WEST : high-jump : 14 OCT 1995 : 936 : 34
-IND : . TANU : high-jump : 14 NOV 2002 : 936 : 34
-IND : . MANSHI : high-jump : 03 SEP 2002 : 936 : 34
-IND : Athira SOMARAJ : high-jump : 26 OCT 1998 : 936 : 34
-NZL : Alice TAYLOR : high-jump : 14 DEC 2002 : 936 : 34
-AUS : Oceana D'ABBS : high-jump : 2005 : 926 : 40
-AUS : Tiana SOLLEY : high-jump :  : 926 : 40
-AUS : Zoe PEACOCK : high-jump : 2006 : 926 : 40
-AUS : Brianna LEUNG : high-jump : 2005 : 926 : 40
-JAM : Rasheeda SAMUELS : high-jump : 10 JAN 2005 : 926 : 40
-JAM : Deijanae BRUCE : high-jump : 19 NOV 2005 : 926 : 40
-NZL : Rosie ELLIOTT : high-jump : 06 NOV 1997 : 926 : 40
-AUS : Polly DEANE-JOHNS : high-jump : 02 MAY 2004 : 926 : 40
-JAM : Shackala HENRY : high-jump : 31 OCT 2004 : 926 : 40
-AUS : Elizabeth STAPLES : high-jump : 2002 : 926 : 40
-IND : . REKHA : high-jump : 24 JAN 1999 : 926 : 40
-JAM : Ramona HYLTON : high-jump : 23 OCT 2000 : 926 : 40
-JAM : Rhianna LUGG : high-jump : 02 JUL 2006 : 926 : 40
-JAM : Shanniqua WILLIAMS : high-jump : 18 FEB 2007 : 926 : 40
-AUS : Ashleigh REID : high-jump : 25 FEB 1988 : 926 : 40
-AUS : Taneille CRASE : high-jump : 16 OCT 1994 : 926 : 40
-AUS : Viktorija CALUSIC : high-jump : 2006 : 916 : 56
-NZL : Olivia POWER : high-jump : 09 FEB 2005 : 916 : 56
-JAM : Daniel HINDS : high-jump : 15 DEC 2002 : 907 : 58
-JAM : Richelle STANLEY : high-jump : 2005 : 907 : 58
-JAM : Cordaelia WILLIAMS : high-jump : 14 OCT 2003 : 907 : 58
-NZL : Amelia DE LAUTOUR : high-jump : 07 NOV 2004 : 907 : 58
+JAM : Annishka MCDONALD : high-jump : 30 OCT 2003 : 1004 : 12
+NZL : Josephine REEVES : high-jump : 25 MAR 2001 : 994 : 14
+AUS : Tryphena HEWETT : high-jump : 22 OCT 2005 : 984 : 15
+NZL : Jessica HENDREN : high-jump : 26 APR 2005 : 984 : 15
+IND : A.Kevinaa ASWINE : high-jump : 23 MAR 2002 : 984 : 15
+AUS : Rosie TOZER : high-jump : 07 MAY 2002 : 974 : 18
+AUS : Chelsea FRIEDRICH : high-jump : 02 NOV 2005 : 974 : 18
+JAM : Torian CAVEN : high-jump : 28 OCT 2004 : 974 : 18
+JAM : Malaika CUNNINGHAM : high-jump : 29 JUL 2004 : 974 : 18
+GUY : Natrena HOOPER : high-jump : 02 FEB 1991 : 974 : 18
+AUS : Izobelle LOUISON-ROE : high-jump : 2007 : 974 : 18
+AUS : Alysha BURNETT : high-jump : 04 JAN 1997 : 974 : 18
+AUS : Elizabeth MOSS : high-jump : 22 MAR 2002 : 974 : 18
+AUS : Sophie LILLICRAP : high-jump : 2004 : 974 : 18
+JAM : Deijanae BRUCE : high-jump : 19 NOV 2005 : 974 : 18
+JAM : Shackala HENRY : high-jump : 31 OCT 2004 : 974 : 18
+NZL : Naomi WAITE : high-jump : 01 OCT 2006 : 965 : 29
+NZL : Alex HYLAND : high-jump : 29 JAN 1999 : 965 : 29
+IND : Angel DEVASYA P. : high-jump : 06 DEC 1994 : 965 : 29
+AUS : Denise SNYDER : high-jump : 07 JAN 1992 : 955 : 32
+IND : K.H. SALIHA : high-jump : 14 SEP 2002 : 955 : 32
+MAS : Norliyana KAMARUDDIN : high-jump : 26 MAR 1991 : 955 : 32
+AUS : Vanessa APEL : high-jump : 2006 : 945 : 35
+BAN : Umme Hafsa RUMKI : high-jump : 26 SEP 2001 : 936 : 36
+AUS : Tori WEST : high-jump : 14 OCT 1995 : 936 : 36
+IND : . TANU : high-jump : 14 NOV 2002 : 936 : 36
+IND : . MANSHI : high-jump : 03 SEP 2002 : 936 : 36
+IND : Athira SOMARAJ : high-jump : 26 OCT 1998 : 936 : 36
+NZL : Alice TAYLOR : high-jump : 14 DEC 2002 : 936 : 36
+AUS : Oceana D'ABBS : high-jump : 2005 : 926 : 42
+AUS : Tiana SOLLEY : high-jump :  : 926 : 42
+AUS : Zoe PEACOCK : high-jump : 2006 : 926 : 42
+AUS : Brianna LEUNG : high-jump : 2005 : 926 : 42
+JAM : Rasheeda SAMUELS : high-jump : 10 JAN 2005 : 926 : 42
+NZL : Rosie ELLIOTT : high-jump : 06 NOV 1997 : 926 : 42
+AUS : Polly DEANE-JOHNS : high-jump : 02 MAY 2004 : 926 : 42
+AUS : Elizabeth STAPLES : high-jump : 2002 : 926 : 42
+IND : . REKHA : high-jump : 24 JAN 1999 : 926 : 42
+JAM : Ramona HYLTON : high-jump : 23 OCT 2000 : 926 : 42
+JAM : Rhianna LUGG : high-jump : 02 JUL 2006 : 926 : 42
+JAM : Shanniqua WILLIAMS : high-jump : 18 FEB 2007 : 926 : 42
+AUS : Ashleigh REID : high-jump : 25 FEB 1988 : 926 : 42
+AUS : Taneille CRASE : high-jump : 16 OCT 1994 : 926 : 42
+JAM : Rohanna SUDLOW : high-jump : 2006 : 926 : 42
+AUS : Viktorija CALUSIC : high-jump : 2006 : 916 : 57
+NZL : Olivia POWER : high-jump : 09 FEB 2005 : 916 : 57
+JAM : Daniel HINDS : high-jump : 15 DEC 2002 : 907 : 59
+JAM : Richelle STANLEY : high-jump : 2005 : 907 : 59
+JAM : Cordaelia WILLIAMS : high-jump : 14 OCT 2003 : 907 : 59
+NZL : Amelia DE LAUTOUR : high-jump : 07 NOV 2004 : 907 : 59
+SRI : Renindi PEHANSA : high-jump : 2004 : 907 : 59
+JAM : Asia MCKAY : high-jump : 17 OCT 2007 : 907 : 59
