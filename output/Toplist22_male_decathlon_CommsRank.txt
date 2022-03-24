@@ -1,4 +1,5 @@
 AUS : Alec DIAMOND : decathlon : 09 AUG 1997 : 1061 : 1
 AUS : Christian PAYNTER : decathlon : 23 APR 1997 : 1036 : 2
 NZL : Aaron BOOTH : decathlon : 12 SEP 1996 : 1024 : 3
-AUS : Dean PASTRELLO : decathlon : 05 MAY 1999 : 907 : 4
+RSA : Fredriech PRETORIUS : decathlon : 04 AUG 1995 : 928 : 4
+AUS : Dean PASTRELLO : decathlon : 05 MAY 1999 : 907 : 5

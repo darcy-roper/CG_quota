@@ -42,7 +42,7 @@ CAN : Baileh SIMMS : long-jump : 26 APR 1995 : 1077 : 40
 AUS : Samantha DALE : long-jump : 30 JUN 2001 : 1068 : 42
 GBR : Charlotte JONES : long-jump : 06 SEP 1999 : 1068 : 42
 GBR : Holly MILLS : long-jump : 15 APR 2000 : 1068 : 42
-RSA : Lene PEENS : long-jump : 05 APR 1995 : 1062 : 45
+RSA : Lene PEENS : long-jump : 18 APR 1995 : 1062 : 45
 RSA : Karmen FOUCHE : long-jump : 02 JAN 2003 : 1067 : 45
 IND : Sandra BABU : long-jump : 03 JUL 2001 : 1062 : 45
 IND : Ancy SOJAN : long-jump : 01 MAR 2001 : 1065 : 48

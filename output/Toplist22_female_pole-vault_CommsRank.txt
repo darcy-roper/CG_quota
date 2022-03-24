@@ -8,49 +8,57 @@ AUS : Jamie SCROOP : pole-vault : 29 MAR 1988 : 1006 : 7
 AUS : Raphaela CORNEY : pole-vault : 10 MAR 2001 : 994 : 8
 AUS : Cassidy BRADSHAW : pole-vault : 06 OCT 2003 : 990 : 9
 AUS : Madeline LAWSON : pole-vault : 23 FEB 1996 : 975 : 10
-AUS : Georgia TAYLER : pole-vault : 09 AUG 2004 : 960 : 11
-IND : Vengatesh PAVITHRA : pole-vault : 08 DEC 2001 : 960 : 11
-AUS : Olivia GROSS : pole-vault : 29 AUG 2002 : 960 : 11
-AUS : Ellie PARSONS : pole-vault : 04 APR 2004 : 960 : 11
-AUS : Elizabeth BARAL : pole-vault : 30 JAN 1998 : 944 : 15
-IND : . POOJA : pole-vault : 09 MAR 2003 : 944 : 15
-GBR : Jade SPENCER-SMITH : pole-vault : 08 NOV 2001 : 932 : 17
-GBR : Felicia MILORO : pole-vault : 05 JAN 2001 : 932 : 17
-GBR : Sophie ASHURST : pole-vault : 26 APR 2003 : 932 : 17
-GBR : Megan BAILEY : pole-vault : 22 JAN 1998 : 902 : 20
-GBR : Courtney MACGUIRE : pole-vault : 30 APR 1990 : 902 : 20
-AUS : Grace BATH : pole-vault : 18 NOV 1994 : 898 : 22
-IND : Divya MOHAN : pole-vault : 28 JUL 1999 : 898 : 22
-IND : Baranica ELANGOAN : pole-vault : 03 FEB 1997 : 898 : 22
-GBR : Jessica ROBINSON : pole-vault : 26 JUN 1999 : 886 : 25
-GBR : Imogen SMITH : pole-vault : 02 SEP 1999 : 886 : 25
-IND : . SATHYA : pole-vault : 02 MAY 2001 : 883 : 27
-NZL : Aria RHODES : pole-vault : 04 JUL 2002 : 883 : 27
-AUS : Isabella MURRELL : pole-vault : 30 DEC 1998 : 883 : 27
-AUS : Leila BARKER : pole-vault : 2005 : 868 : 30
-AUS : Felicity JOUVELET : pole-vault : 25 MAY 2003 : 868 : 30
-AUS : Jade ARNUTHNOT : pole-vault : 2004 : 868 : 30
-NZL : Hannah ADYE : pole-vault : 30 APR 2003 : 868 : 30
-AUS : Tryphena HEWETT : pole-vault : 22 OCT 2005 : 868 : 30
-AUS : Tamara MANCUSO : pole-vault : 08 FEB 1996 : 868 : 30
-AUS : Kate ABFALTER : pole-vault : 21 AUG 1999 : 868 : 30
-SRI : Sachini KAUSHALYA : pole-vault :  : 868 : 30
-AUS : Lara WITTEY : pole-vault : 15 JAN 2004 : 853 : 38
-GBR : Elizabeth EDDEN : pole-vault : 29 JUN 1994 : 841 : 39
-GBR : Jasmine CAREY : pole-vault : 13 SEP 2002 : 841 : 39
-NZL : Alisha LOVRICH : pole-vault : 19 JUL 1993 : 838 : 41
-MLT : Peppijna DALLI : pole-vault : 16 JAN 1998 : 838 : 41
-IND : Jaison MARIYA : pole-vault : 23 SEP 1997 : 838 : 41
-GBR : Natasha PURCHAS : pole-vault : 12 JAN 2001 : 838 : 41
-NZL : Eliza MEEKINGS : pole-vault : 12 MAY 2002 : 813 : 45
-GBR : Mariette HILBORNE : pole-vault : 10 DEC 1984 : 810 : 46
-GBR : Manon BAINES : pole-vault :  : 810 : 46
-GBR : Emily SCRIVENER : pole-vault : 29 JUL 2003 : 810 : 46
-AUS : Megan SEVE : pole-vault : 08 SEP 1996 : 807 : 49
-AUS : Haneefa RANE : pole-vault : 24 MAR 2006 : 807 : 49
-IND : B. BALANISHA : pole-vault : 26 JAN 2002 : 807 : 49
-IND : Babita PATEL : pole-vault : 12 AUG 2000 : 807 : 49
-IND : P. Rosy MEENA : pole-vault : 28 OCT 1997 : 807 : 49
-AUS : Anais FITZPATRICK : pole-vault : 2006 : 807 : 49
-IND : Preethika ANANDHAN : pole-vault : 06 JUN 1998 : 807 : 49
-SRI : K.A.K. LAKRANI PERERA : pole-vault : 1986 : 807 : 49
+GBR : Jessica ROBINSON : pole-vault : 26 JUN 1999 : 963 : 11
+GBR : Jade SPENCER-SMITH : pole-vault : 08 NOV 2001 : 963 : 11
+AUS : Georgia TAYLER : pole-vault : 09 AUG 2004 : 960 : 13
+IND : Vengatesh PAVITHRA : pole-vault : 08 DEC 2001 : 960 : 13
+AUS : Olivia GROSS : pole-vault : 29 AUG 2002 : 960 : 13
+AUS : Ellie PARSONS : pole-vault : 04 APR 2004 : 960 : 13
+CAN : Heather ABADIE : pole-vault : 21 FEB 2003 : 960 : 13
+AUS : Elizabeth BARAL : pole-vault : 30 JAN 1998 : 944 : 18
+IND : . POOJA : pole-vault : 09 MAR 2003 : 944 : 18
+CAN : Sara WAGENVELD : pole-vault : 1998 : 944 : 18
+GBR : Felicia MILORO : pole-vault : 05 JAN 2001 : 932 : 21
+GBR : Sophie ASHURST : pole-vault : 26 APR 2003 : 932 : 21
+RSA : Nicole JANSE VAN RENSBURG : pole-vault :  : 929 : 23
+GBR : Courtney MACGUIRE : pole-vault : 30 APR 1990 : 917 : 24
+GBR : Megan BAILEY : pole-vault : 22 JAN 1998 : 902 : 25
+AUS : Grace BATH : pole-vault : 18 NOV 1994 : 898 : 26
+IND : Divya MOHAN : pole-vault : 28 JUL 1999 : 898 : 26
+IND : Baranica ELANGOAN : pole-vault : 03 FEB 1997 : 898 : 26
+GBR : Imogen SMITH : pole-vault : 02 SEP 1999 : 886 : 29
+IND : . SATHYA : pole-vault : 02 MAY 2001 : 883 : 30
+NZL : Aria RHODES : pole-vault : 04 JUL 2002 : 883 : 30
+AUS : Isabella MURRELL : pole-vault : 30 DEC 1998 : 883 : 30
+GBR : Isabel THOMAS : pole-vault : 01 MAR 2004 : 871 : 33
+GBR : Nemiah MUNIR : pole-vault :  : 871 : 33
+AUS : Leila BARKER : pole-vault : 2005 : 868 : 35
+AUS : Felicity JOUVELET : pole-vault : 25 MAY 2003 : 868 : 35
+AUS : Jade ARNUTHNOT : pole-vault : 2004 : 868 : 35
+NZL : Hannah ADYE : pole-vault : 30 APR 2003 : 868 : 35
+AUS : Tryphena HEWETT : pole-vault : 22 OCT 2005 : 868 : 35
+AUS : Tamara MANCUSO : pole-vault : 08 FEB 1996 : 868 : 35
+AUS : Kate ABFALTER : pole-vault : 21 AUG 1999 : 868 : 35
+SRI : Sachini KAUSHALYA : pole-vault :  : 868 : 35
+AUS : Lara WITTEY : pole-vault : 15 JAN 2004 : 853 : 43
+GBR : Elizabeth EDDEN : pole-vault : 29 JUN 1994 : 841 : 44
+GBR : Jasmine CAREY : pole-vault : 13 SEP 2002 : 841 : 44
+NZL : Alisha LOVRICH : pole-vault : 19 JUL 1993 : 838 : 46
+MLT : Peppijna DALLI : pole-vault : 16 JAN 1998 : 838 : 46
+IND : Jaison MARIYA : pole-vault : 23 SEP 1997 : 838 : 46
+GBR : Natasha PURCHAS : pole-vault : 12 JAN 2001 : 838 : 46
+NZL : Eliza MEEKINGS : pole-vault : 12 MAY 2002 : 838 : 46
+GBR : Carys JONES : pole-vault : 17 DEC 1998 : 825 : 51
+GBR : Mariette HILBORNE : pole-vault : 10 DEC 1984 : 810 : 52
+GBR : Manon BAINES : pole-vault :  : 810 : 52
+GBR : Emily SCRIVENER : pole-vault : 29 JUL 2003 : 810 : 52
+GBR : Nyree PERRY : pole-vault :  : 810 : 52
+GBR : Kaliska NOWERS : pole-vault :  : 810 : 52
+AUS : Megan SEVE : pole-vault : 08 SEP 1996 : 807 : 57
+AUS : Haneefa RANE : pole-vault : 24 MAR 2006 : 807 : 57
+IND : B. BALANISHA : pole-vault : 26 JAN 2002 : 807 : 57
+IND : Babita PATEL : pole-vault : 12 AUG 2000 : 807 : 57
+IND : P. Rosy MEENA : pole-vault : 28 OCT 1997 : 807 : 57
+AUS : Anais FITZPATRICK : pole-vault : 2006 : 807 : 57
+IND : Preethika ANANDHAN : pole-vault : 06 JUN 1998 : 807 : 57
+SRI : K.A.K. LAKRANI PERERA : pole-vault : 1986 : 807 : 57

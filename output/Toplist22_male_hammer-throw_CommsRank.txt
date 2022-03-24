@@ -1,37 +1,45 @@
-GBR : Chris BENNETT : hammer-throw : 17 DEC 1989 : 1089 : 1
-RSA : Allan CUMMING : hammer-throw : 21 MAR 1996 : 1072 : 2
-GBR : Osian JONES : hammer-throw : 23 JUN 1993 : 1059 : 3
-CYP : Alexandros POURSANIDIS : hammer-throw : 23 JAN 1993 : 1055 : 4
-RSA : Tshepang MAKHETHE : hammer-throw : 19 FEB 1996 : 1052 : 5
-GBR : Mark DRY : hammer-throw : 11 OCT 1987 : 1048 : 6
-AUS : Ned WEATHERLY : hammer-throw : 12 JAN 1998 : 1028 : 7
-AUS : Timothy HEYES : hammer-throw : 17 DEC 1997 : 1021 : 8
-MAS : Jackie Wong SIEW CHEER : hammer-throw : 04 JUL 1992 : 1019 : 9
-NZL : Anthony NOBILO : hammer-throw : 28 APR 1999 : 997 : 10
-GBR : Jac PALMER : hammer-throw : 13 MAR 1996 : 989 : 11
-AUS : William BROWN : hammer-throw : 21 OCT 1996 : 977 : 12
-GBR : Chris SHORTHOUSE : hammer-throw : 23 JUN 1988 : 966 : 13
-AUS : Costa KOUSPARIS : hammer-throw : 12 JUN 1996 : 961 : 14
-IND : Damneet SINGH : hammer-throw : 10 MAR 2000 : 953 : 15
-RSA : Pieter-Juan VORSTMAN : hammer-throw : 14 AUG 2002 : 950 : 16
-GBR : Tom PARKER : hammer-throw : 07 OCT 1994 : 946 : 17
-IND : Ajay KUMAR : hammer-throw : 10 JUL 1999 : 926 : 18
-RSA : Francois Otieno PRINSLOO : hammer-throw : 11 NOV 2001 : 916 : 19
-KEN : Dominic Ongidi ABUNDA : hammer-throw : 08 AUG 1993 : 910 : 20
-MAS : Sadat Merzuqi AJISAN : hammer-throw : 23 JAN 2001 : 877 : 21
-GBR : James BEDFORD : hammer-throw : 29 DEC 1988 : 871 : 22
-NZL : Warren BUTTON : hammer-throw : 21 JUN 1988 : 864 : 23
-AUS : Huw PEACOCK : hammer-throw : 12 MAY 1992 : 861 : 24
-IND : Farook AHMAD : hammer-throw :  : 859 : 25
-NZL : Todd BATES : hammer-throw : 29 NOV 1994 : 857 : 26
-IND : Jai CHAND : hammer-throw : 08 JUL 2001 : 853 : 27
-IND : . GAURAV : hammer-throw :  : 851 : 28
-RSA : James HAVINGA : hammer-throw : 27 SEP 2000 : 850 : 29
-IND : . AJAY : hammer-throw : 10 OCT 1995 : 846 : 30
-IND : Nitin MALIK : hammer-throw : 09 JAN 2000 : 841 : 31
-IND : Navdeep SINGH : hammer-throw : 24 JUN 1996 : 839 : 32
-IND : Shantanu UCHALE : hammer-throw : 31 JAN 1999 : 839 : 33
-MLT : Luca MARTINI : hammer-throw : 02 MAY 2000 : 830 : 34
-GBR : Peter SMITH : hammer-throw : 20 JUL 1990 : 821 : 35
-IND : Mohd. TABIS : hammer-throw : 15 MAR 2003 : 818 : 36
-GBR : Alex SMITH : hammer-throw : 06 MAR 1988 : 817 : 37
+CAN : Adam KEENAN : hammer-throw : 26 SEP 1993 : 1118 : 1
+GBR : Chris BENNETT : hammer-throw : 17 DEC 1989 : 1089 : 2
+RSA : Tshepang MAKHETHE : hammer-throw : 19 FEB 1996 : 1072 : 3
+RSA : Allan CUMMING : hammer-throw : 21 MAR 1996 : 1072 : 4
+GBR : Osian JONES : hammer-throw : 23 JUN 1993 : 1059 : 5
+CYP : Alexandros POURSANIDIS : hammer-throw : 23 JAN 1993 : 1055 : 6
+GBR : Mark DRY : hammer-throw : 11 OCT 1987 : 1048 : 7
+AUS : Ned WEATHERLY : hammer-throw : 12 JAN 1998 : 1028 : 8
+AUS : Timothy HEYES : hammer-throw : 17 DEC 1997 : 1021 : 9
+MAS : Jackie Wong SIEW CHEER : hammer-throw : 04 JUL 1992 : 1019 : 10
+GBR : Jake NORRIS : hammer-throw : 30 JUN 1999 : 1017 : 11
+CAN : Rowan HAMILTON : hammer-throw : 29 JAN 2000 : 1016 : 12
+GBR : Bayley CAMPBELL : hammer-throw : 24 JUN 2000 : 997 : 13
+NZL : Anthony NOBILO : hammer-throw : 28 APR 1999 : 997 : 14
+GBR : Jac PALMER : hammer-throw : 13 MAR 1996 : 989 : 15
+AUS : William BROWN : hammer-throw : 21 OCT 1996 : 977 : 16
+GBR : Chris SHORTHOUSE : hammer-throw : 23 JUN 1988 : 966 : 17
+AUS : Costa KOUSPARIS : hammer-throw : 12 JUN 1996 : 961 : 18
+IND : Damneet SINGH : hammer-throw : 10 MAR 2000 : 953 : 19
+GBR : Kenneth IKEJI : hammer-throw : 17 SEP 2002 : 953 : 20
+GBR : Edward JEANS : hammer-throw : 28 SEP 1998 : 952 : 21
+RSA : Pieter-Juan VORSTMAN : hammer-throw : 14 AUG 2002 : 950 : 22
+RSA : Francois Otieno PRINSLOO : hammer-throw : 11 NOV 2001 : 950 : 23
+GBR : Tom PARKER : hammer-throw : 07 OCT 1994 : 946 : 24
+IND : Ajay KUMAR : hammer-throw : 10 JUL 1999 : 926 : 25
+KEN : Dominic Ongidi ABUNDA : hammer-throw : 08 AUG 1993 : 910 : 26
+GBR : Oliver GRAHAM : hammer-throw : 16 MAY 2001 : 888 : 27
+MAS : Sadat Merzuqi AJISAN : hammer-throw : 23 JAN 2001 : 877 : 28
+CAN : Johnny VANOS : hammer-throw : 1999 : 877 : 29
+GBR : James BEDFORD : hammer-throw : 29 DEC 1988 : 871 : 30
+NZL : Warren BUTTON : hammer-throw : 21 JUN 1988 : 864 : 31
+AUS : Huw PEACOCK : hammer-throw : 12 MAY 1992 : 861 : 32
+IND : Farook AHMAD : hammer-throw :  : 859 : 33
+NZL : Todd BATES : hammer-throw : 29 NOV 1994 : 857 : 34
+IND : Jai CHAND : hammer-throw : 08 JUL 2001 : 853 : 35
+IND : . GAURAV : hammer-throw :  : 851 : 36
+RSA : James HAVINGA : hammer-throw : 27 SEP 2000 : 850 : 37
+IND : . AJAY : hammer-throw : 10 OCT 1995 : 846 : 38
+IND : Nitin MALIK : hammer-throw : 09 JAN 2000 : 841 : 39
+IND : Navdeep SINGH : hammer-throw : 24 JUN 1996 : 839 : 40
+IND : Shantanu UCHALE : hammer-throw : 31 JAN 1999 : 839 : 41
+MLT : Luca MARTINI : hammer-throw : 02 MAY 2000 : 830 : 42
+GBR : Peter SMITH : hammer-throw : 20 JUL 1990 : 821 : 43
+IND : Mohd. TABIS : hammer-throw : 15 MAR 2003 : 818 : 44
+GBR : Alex SMITH : hammer-throw : 06 MAR 1988 : 817 : 45

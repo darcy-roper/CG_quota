@@ -6,17 +6,20 @@ AUS : Will THOMPSON : 20km-race-walking : 18 NOV 2002 : 1085 : 5
 AUS : Mitchell BAKER : 20km-race-walking : 06 JUL 2001 : 1064 : 6
 AUS : Tyler JONES : 20km-race-walking : 08 APR 1998 : 1058 : 7
 AUS : Carl GIBBONS : 20km-race-walking : 19 JUN 1996 : 1025 : 8
-AUS : Tim FRASER : 20km-race-walking : 2000 : 1003 : 9
-GBR : Christopher SNOOK : 20km-race-walking : 14 JAN 2000 : 984 : 10
-AUS : Tristan CAMILLERI : 20km-race-walking : 14 FEB 2001 : 974 : 11
-AUS : Corey DICKSON : 20km-race-walking : 19 JUL 2002 : 968 : 12
-AUS : Kim MOTTROM : 20km-race-walking : 27 SEP 1984 : 965 : 13
-KEN : Derrick WANJOHI : 20km-race-walking : 30 AUG 2001 : 946 : 14
-KEN : Stephen MUTUKU : 20km-race-walking :  : 945 : 15
-AUS : Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 924 : 16
-KEN : Nichodemus MUSAU : 20km-race-walking :  : 921 : 17
-GBR : Tom PARTINGTON : 20km-race-walking : 18 JUL 1999 : 911 : 18
-KEN : Eric Maugo SIKUKU : 20km-race-walking : 1984 : 898 : 19
-KEN : Stephen NDANGILI : 20km-race-walking :  : 897 : 20
-CAN : Evan DUNFEE : 20km-race-walking : 28 SEP 1990 : 870 : 21
-KEN : David KINGORI : 20km-race-walking :  : 864 : 22
+GBR : Cameron CORBISHLEY : 20km-race-walking : 31 MAR 1997 : 1009 : 9
+AUS : Tim FRASER : 20km-race-walking : 2000 : 1003 : 10
+GBR : Christopher SNOOK : 20km-race-walking : 14 JAN 2000 : 984 : 11
+AUS : Tristan CAMILLERI : 20km-race-walking : 14 FEB 2001 : 974 : 12
+AUS : Corey DICKSON : 20km-race-walking : 19 JUL 2002 : 968 : 13
+AUS : Kim MOTTROM : 20km-race-walking : 27 SEP 1984 : 965 : 14
+KEN : Derrick WANJOHI : 20km-race-walking : 30 AUG 2001 : 946 : 15
+KEN : Stephen MUTUKU : 20km-race-walking :  : 945 : 16
+AUS : Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 924 : 17
+KEN : Nichodemus MUSAU : 20km-race-walking :  : 921 : 18
+GBR : Guy THOMAS : 20km-race-walking : 01 JUL 1997 : 921 : 19
+GBR : Tom PARTINGTON : 20km-race-walking : 18 JUL 1999 : 911 : 20
+KEN : Eric Maugo SIKUKU : 20km-race-walking : 1984 : 898 : 21
+KEN : Stephen NDANGILI : 20km-race-walking :  : 897 : 22
+CAN : Evan DUNFEE : 20km-race-walking : 28 SEP 1990 : 870 : 23
+GBR : George WILKINSON : 20km-race-walking : 25 APR 2002 : 868 : 24
+KEN : David KINGORI : 20km-race-walking :  : 864 : 25

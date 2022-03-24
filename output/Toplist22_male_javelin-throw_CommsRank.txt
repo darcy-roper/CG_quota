@@ -1,98 +1,100 @@
-IND : D.P MANU : javelin-throw : 24 JAN 2000 : 1136 : 1
-SRI : Sumedha RANASINGHE : javelin-throw : 02 OCT 1991 : 1127 : 2
-GRN : Anderson PETERS : javelin-throw : 21 OCT 1997 : 1111 : 3
-IND : Rohit YADAV : javelin-throw : 06 JUN 2001 : 1102 : 4
-RSA : Waldo SMIT : javelin-throw : 1999 : 1097 : 5
-AUS : Cameron MCENTYRE : javelin-throw : 10 FEB 1999 : 1096 : 6
-IND : Vikrant MALIK : javelin-throw : 02 JAN 1996 : 1070 : 7
-IND : Yashvir SINGH : javelin-throw : 22 OCT 2001 : 1069 : 8
-AUS : Hamish PEACOCK : javelin-throw : 15 OCT 1990 : 1061 : 9
-IND : Sahil SILWAL : javelin-throw : 17 DEC 2000 : 1059 : 10
-IND : Kunwer Ajai Raj Singh RANA : javelin-throw : 13 JAN 2002 : 1054 : 11
-AUS : Cruz HOGAN : javelin-throw : 22 FEB 1994 : 1049 : 12
-IND : Uttam PATIL : javelin-throw : 01 NOV 1994 : 1049 : 13
-RSA : Johan GROBLER : javelin-throw : 06 AUG 1997 : 1038 : 14
-BAH : Keyshawn STRACHAN : javelin-throw : 18 DEC 2003 : 1036 : 15
-AUS : Howard MCDONALD : javelin-throw : 23 AUG 2001 : 1034 : 16
-GBR : Joe HARRIS : javelin-throw : 23 MAY 1997 : 1033 : 17
-IND : Sachin YADAV : javelin-throw : 25 OCT 1999 : 1020 : 18
-CYP : Paraskevas BATZAVALIS : javelin-throw : 25 NOV 1994 : 1016 : 19
-SRI : D. G. Sampath RANASINGHE : javelin-throw : 01 SEP 1988 : 1015 : 20
-JAM : Oralndo THOMAS : javelin-throw : 13 JAN 1995 : 1012 : 21
-AUS : Liam O'BRIEN : javelin-throw : 13 APR 1996 : 1011 : 22
-IND : Vikas YADAV : javelin-throw : 22 DEC 2001 : 1008 : 23
-SRI : Rankoth PEDIGE W.L.D. : javelin-throw : 14 MAY 1988 : 1008 : 24
-IND : Rishab NEHRA : javelin-throw : 10 DEC 1999 : 1007 : 25
-GBR : Daniel BAINBRIDGE : javelin-throw : 02 JUN 1999 : 1001 : 26
-CYP : Spyros SAVVA : javelin-throw : 24 JAN 2000 : 996 : 27
-AUS : William WHITE : javelin-throw : 06 JUN 1994 : 989 : 28
-JAM : Elvis GRAHAM : javelin-throw : 03 OCT 1996 : 983 : 29
-AUS : Neil JANSE : javelin-throw : 23 OCT 2000 : 981 : 30
-IND : Jay KUMAR : javelin-throw : 10 OCT 2002 : 972 : 31
-IND : Abhishek DRALL : javelin-throw : 11 MAY 1998 : 969 : 32
-IND : Ankit KUMAR : javelin-throw :  : 966 : 33
-IND : Arshdeep SINGH : javelin-throw : 05 APR 1999 : 965 : 34
-IND : Anmol RANA : javelin-throw : 22 APR 1999 : 963 : 35
-SRI : W.B.R.N. FERNANDO : javelin-throw :  : 961 : 36
-AUS : Saxon WARD : javelin-throw : 08 DEC 1995 : 957 : 37
-LCA : Albert REYNOLDS : javelin-throw : 28 MAR 1988 : 952 : 38
-IND : Arun BABY : javelin-throw : 30 APR 1993 : 949 : 39
-CYP : Eleftherios KONTONIKOLA : javelin-throw : 03 SEP 2003 : 947 : 40
-AUS : Michael CRITICOS : javelin-throw : 26 JAN 1995 : 946 : 41
-IND : Harish KUMAR : javelin-throw : 30 OCT 1996 : 940 : 42
-IND : Izhar AHMAD : javelin-throw : 03 MAR 2003 : 938 : 43
-KEN : Duncan KINYANJUI : javelin-throw : 1996 : 938 : 44
-AUS : Oscar SULLIVAN : javelin-throw : 30 DEC 2000 : 934 : 45
-SRI : D.C. WICKRAMARATHNE : javelin-throw :  : 927 : 46
-IND : . NAVEEN : javelin-throw :  : 926 : 47
-IND : AVG KRISHNAMA : javelin-throw :  : 925 : 48
-SRI : Rumesh Tharanga PATHIRAGE : javelin-throw : 21 MAR 2003 : 914 : 49
-FIJ : Eliot LECARPENTIER : javelin-throw : 17 NOV 1998 : 913 : 50
-SRI : D.A. KOLAMBAARACHCHI : javelin-throw :  : 910 : 51
-AUS : Oliver BLACKBURN : javelin-throw : 19 JUL 2002 : 908 : 52
-SRI : Pragathi PRASANNA : javelin-throw : 1999 : 905 : 53
-SRI : K.G. YOGARAJ : javelin-throw :  : 898 : 54
-KEN : Nelson MALAKWEN : javelin-throw :  : 897 : 55
-AUS : Rhys STEIN : javelin-throw : 15 MAY 1996 : 895 : 56
-IND : Gaurav KUMAR : javelin-throw : 18 OCT 2002 : 894 : 57
-JAM : Zaavan RICHARDS : javelin-throw : 21 APR 1995 : 893 : 58
-IND : Sunny CHAUDHARY : javelin-throw : 1999 : 889 : 59
-JAM : Devon SPENCER : javelin-throw :  : 888 : 60
-IND : Amit KUMAR : javelin-throw :  : 887 : 61
-JAM : Akeel HANCHARD : javelin-throw : 08 SEP 2001 : 886 : 62
-AUS : Thomas HILDITCH : javelin-throw : 2002 : 885 : 63
-SRI : R. RATHUSAN : javelin-throw :  : 883 : 64
-IND : S.Braveman HEART : javelin-throw : 20 SEP 1998 : 883 : 65
-AUS : Christian PAYNTER : javelin-throw : 23 APR 1997 : 880 : 66
-SRI : E.K.C.K. PADMASIRI : javelin-throw : 1995 : 880 : 67
-IND : R. MATHESHWARAN : javelin-throw : 19 FEB 2000 : 877 : 68
-IND : Avinash YADAV : javelin-throw : 24 DEC 2000 : 870 : 69
-IND : Anuj KALERA : javelin-throw : 28 NOV 2001 : 866 : 70
-IND : Nithish TADAV : javelin-throw :  : 865 : 71
-KEN : Methusellah KIPROP : javelin-throw : 1991 : 861 : 72
-KEN : Boniface KILONZO : javelin-throw :  : 860 : 73
-AUS : Luke STACHOWICZ : javelin-throw : 2004 : 858 : 74
-IND : Amit YADAV : javelin-throw : 22 JUL 2000 : 857 : 75
-MLT : Bradley MIFSUD : javelin-throw : 23 JAN 1996 : 855 : 76
-KEN : Nelson YEGON : javelin-throw : 24 APR 1993 : 854 : 77
-IND : Deepak TAWAR : javelin-throw :  : 854 : 78
-IND : Nibin JOHN : javelin-throw : 05 JUN 1998 : 852 : 79
-IND : Abhishek SINGH : javelin-throw : 02 JUL 2001 : 851 : 80
-AUS : Janno VAN DER LINDE : javelin-throw : 1999 : 848 : 81
-AUS : Jonathan BELL : javelin-throw : 20 NOV 2000 : 847 : 82
-JAM : Christopher YOUNG : javelin-throw : 29 JUN 2003 : 846 : 83
-NZL : Jared NEIGHBOURS : javelin-throw : 14 FEB 2000 : 844 : 84
-AUS : Jesse SCHELFHOUT : javelin-throw : 17 MAR 1999 : 843 : 85
-AUS : Jack GREAVES : javelin-throw : 30 DEC 2004 : 841 : 86
-GBR : Callum TAYLOR : javelin-throw : 29 JUN 2004 : 840 : 87
-GBR : Gavin JOHNSON-ASSOON : javelin-throw : 19 DEC 1982 : 840 : 87
-IND : Samar SINGH : javelin-throw : 03 JAN 2000 : 840 : 89
-BAN : Mohamed AHAD ALI : javelin-throw :  : 839 : 90
-IND : M. VIJAYKUMAR : javelin-throw : 27 OCT 1999 : 837 : 91
-RSA : Volker STEYN : javelin-throw : 29 APR 2003 : 834 : 92
-AUS : Luke CANN : javelin-throw : 17 JUL 1994 : 833 : 93
-AUS : Haddi EL SHORBAGY : javelin-throw : 2004 : 831 : 94
-GBR : Tom DOLLERY : javelin-throw : 20 AUG 2002 : 831 : 95
-IND : Abhishek SINGH : javelin-throw : 20 MAY 1995 : 828 : 96
-AUS : Morgan WARD : javelin-throw : 26 JUL 1993 : 822 : 97
-SRI : D.D. FERNANDO : javelin-throw :  : 820 : 98
+TTO : Keshorn WALCOTT : javelin-throw : 02 APR 1993 : 1168 : 1
+IND : D.P MANU : javelin-throw : 24 JAN 2000 : 1136 : 2
+SRI : Sumedha RANASINGHE : javelin-throw : 02 OCT 1991 : 1127 : 3
+GRN : Anderson PETERS : javelin-throw : 21 OCT 1997 : 1111 : 4
+IND : Rohit YADAV : javelin-throw : 06 JUN 2001 : 1102 : 5
+RSA : Waldo SMIT : javelin-throw : 1999 : 1097 : 6
+AUS : Cameron MCENTYRE : javelin-throw : 10 FEB 1999 : 1096 : 7
+BAH : Keyshawn STRACHAN : javelin-throw : 18 DEC 2003 : 1082 : 8
+IND : Vikrant MALIK : javelin-throw : 02 JAN 1996 : 1070 : 9
+IND : Yashvir SINGH : javelin-throw : 22 OCT 2001 : 1069 : 10
+AUS : Hamish PEACOCK : javelin-throw : 15 OCT 1990 : 1061 : 11
+IND : Sahil SILWAL : javelin-throw : 17 DEC 2000 : 1059 : 12
+AUS : Cruz HOGAN : javelin-throw : 22 FEB 1994 : 1054 : 13
+IND : Kunwer Ajai Raj Singh RANA : javelin-throw : 13 JAN 2002 : 1054 : 14
+IND : Uttam PATIL : javelin-throw : 01 NOV 1994 : 1049 : 15
+RSA : Johan GROBLER : javelin-throw : 06 AUG 1997 : 1038 : 16
+AUS : Liam O'BRIEN : javelin-throw : 13 APR 1996 : 1038 : 16
+AUS : Howard MCDONALD : javelin-throw : 23 AUG 2001 : 1034 : 18
+GBR : Joe HARRIS : javelin-throw : 23 MAY 1997 : 1033 : 19
+IND : Sachin YADAV : javelin-throw : 25 OCT 1999 : 1020 : 20
+RSA : Hercules VAN VUUREN : javelin-throw : 15 APR 1998 : 1017 : 21
+CYP : Paraskevas BATZAVALIS : javelin-throw : 25 NOV 1994 : 1016 : 22
+SRI : D. G. Sampath RANASINGHE : javelin-throw : 01 SEP 1988 : 1015 : 23
+JAM : Oralndo THOMAS : javelin-throw : 13 JAN 1995 : 1012 : 24
+AUS : Neil JANSE : javelin-throw : 23 OCT 2000 : 1010 : 25
+IND : Vikas YADAV : javelin-throw : 22 DEC 2001 : 1008 : 26
+SRI : Rankoth PEDIGE W.L.D. : javelin-throw : 14 MAY 1988 : 1008 : 27
+IND : Rishab NEHRA : javelin-throw : 10 DEC 1999 : 1007 : 28
+AUS : William WHITE : javelin-throw : 06 JUN 1994 : 1005 : 29
+GBR : Daniel BAINBRIDGE : javelin-throw : 02 JUN 1999 : 1001 : 30
+CYP : Spyros SAVVA : javelin-throw : 24 JAN 2000 : 996 : 31
+JAM : Elvis GRAHAM : javelin-throw : 03 OCT 1996 : 988 : 32
+IND : Jay KUMAR : javelin-throw : 10 OCT 2002 : 972 : 33
+IND : Abhishek DRALL : javelin-throw : 11 MAY 1998 : 969 : 34
+IND : Ankit KUMAR : javelin-throw :  : 966 : 35
+IND : Arshdeep SINGH : javelin-throw : 05 APR 1999 : 965 : 36
+IND : Anmol RANA : javelin-throw : 22 APR 1999 : 963 : 37
+SRI : W.B.R.N. FERNANDO : javelin-throw :  : 961 : 38
+AUS : Saxon WARD : javelin-throw : 08 DEC 1995 : 957 : 39
+LCA : Albert REYNOLDS : javelin-throw : 28 MAR 1988 : 952 : 40
+IND : Arun BABY : javelin-throw : 30 APR 1993 : 949 : 41
+CYP : Eleftherios KONTONIKOLA : javelin-throw : 03 SEP 2003 : 947 : 42
+AUS : Michael CRITICOS : javelin-throw : 26 JAN 1995 : 946 : 43
+IND : Harish KUMAR : javelin-throw : 30 OCT 1996 : 940 : 44
+IND : Izhar AHMAD : javelin-throw : 03 MAR 2003 : 938 : 45
+KEN : Duncan Kinyanchui MONG'ARE : javelin-throw : 07 JAN 1996 : 938 : 46
+AUS : Oscar SULLIVAN : javelin-throw : 30 DEC 2000 : 934 : 47
+CAN : Joshua MATHER : javelin-throw : 1999 : 932 : 48
+SRI : D.C. WICKRAMARATHNE : javelin-throw :  : 927 : 49
+IND : . NAVEEN : javelin-throw :  : 926 : 50
+IND : AVG KRISHNAMA : javelin-throw :  : 925 : 51
+AUS : Oliver BLACKBURN : javelin-throw : 19 JUL 2002 : 918 : 52
+SRI : Rumesh Tharanga PATHIRAGE : javelin-throw : 21 MAR 2003 : 914 : 53
+FIJ : Eliot LECARPENTIER : javelin-throw : 17 NOV 1998 : 913 : 54
+SRI : D.A. KOLAMBAARACHCHI : javelin-throw :  : 910 : 55
+JAM : Devon SPENCER : javelin-throw : 1994 : 906 : 56
+SRI : Pragathi PRASANNA : javelin-throw : 1999 : 905 : 57
+JAM : Zaavan RICHARDS : javelin-throw : 21 APR 1995 : 899 : 58
+SRI : K.G. YOGARAJ : javelin-throw :  : 898 : 59
+KEN : Nelson MALAKWEN : javelin-throw :  : 897 : 60
+AUS : Rhys STEIN : javelin-throw : 15 MAY 1996 : 895 : 61
+IND : Gaurav KUMAR : javelin-throw : 18 OCT 2002 : 894 : 62
+IND : Sunny CHAUDHARY : javelin-throw : 1999 : 889 : 63
+IND : Amit KUMAR : javelin-throw :  : 887 : 64
+JAM : Akeel HANCHARD : javelin-throw : 08 SEP 2001 : 886 : 65
+AUS : Thomas HILDITCH : javelin-throw : 2002 : 885 : 66
+SRI : R. RATHUSAN : javelin-throw :  : 883 : 67
+IND : S.Braveman HEART : javelin-throw : 20 SEP 1998 : 883 : 68
+AUS : Christian PAYNTER : javelin-throw : 23 APR 1997 : 880 : 69
+SRI : E.K.C.K. PADMASIRI : javelin-throw : 1995 : 880 : 70
+IND : R. MATHESHWARAN : javelin-throw : 19 FEB 2000 : 877 : 71
+JAM : Adrian MITCHELL : javelin-throw :  : 873 : 72
+GBR : Jonah MCCAFFERTY : javelin-throw : 28 JAN 2003 : 872 : 73
+IND : Avinash YADAV : javelin-throw : 24 DEC 2000 : 870 : 74
+IND : Anuj KALERA : javelin-throw : 28 NOV 2001 : 866 : 75
+IND : Nithish TADAV : javelin-throw :  : 865 : 76
+KEN : Methusellah KIPROP : javelin-throw : 1991 : 861 : 77
+KEN : Boniface Kyalo KILONZO : javelin-throw : 25 JUL 1995 : 860 : 78
+AUS : Luke STACHOWICZ : javelin-throw : 2004 : 858 : 79
+IND : Amit YADAV : javelin-throw : 22 JUL 2000 : 857 : 80
+RSA : Tobie HOLTZHAUSEN : javelin-throw : 25 MAY 1987 : 856 : 81
+MLT : Bradley MIFSUD : javelin-throw : 23 JAN 1996 : 855 : 82
+KEN : Nelson YEGON : javelin-throw : 24 APR 1993 : 854 : 83
+IND : Deepak TAWAR : javelin-throw :  : 854 : 84
+IND : Nibin JOHN : javelin-throw : 05 JUN 1998 : 852 : 85
+IND : Abhishek SINGH : javelin-throw : 02 JUL 2001 : 851 : 86
+AUS : Janno VAN DER LINDE : javelin-throw : 1999 : 848 : 87
+AUS : Jonathan BELL : javelin-throw : 20 NOV 2000 : 847 : 88
+JAM : Christopher YOUNG : javelin-throw : 29 JUN 2003 : 846 : 89
+NZL : Jared NEIGHBOURS : javelin-throw : 14 FEB 2000 : 844 : 90
+CAN : Jared O'RILEY : javelin-throw : 2000 : 843 : 91
+AUS : Jesse SCHELFHOUT : javelin-throw : 17 MAR 1999 : 843 : 92
+AUS : Jack GREAVES : javelin-throw : 30 DEC 2004 : 841 : 93
+GBR : Callum TAYLOR : javelin-throw : 29 JUN 2004 : 840 : 94
+GBR : Gavin JOHNSON-ASSOON : javelin-throw : 19 DEC 1982 : 840 : 94
+IND : Samar SINGH : javelin-throw : 03 JAN 2000 : 840 : 96
+BAN : Mohamed AHAD ALI : javelin-throw :  : 839 : 97
+IND : M. VIJAYKUMAR : javelin-throw : 27 OCT 1999 : 837 : 98
+RSA : Volker STEYN : javelin-throw : 29 APR 2003 : 834 : 99
+GRN : Cameron TELESFORD : javelin-throw :  : 834 : 100

@@ -38,7 +38,7 @@ CAN : Andy WHITE : javelin-throw : 06 DEC 1989 : 1029 : 37
 IND : Anil KUMAR : javelin-throw : 08 APR 1992 : 1028 : 38
 IND : Kunwer Ajai Raj Singh RANA : javelin-throw : 13 JAN 2002 : 1027 : 39
 NGR : Samuel KURE : javelin-throw : 20 DEC 1993 : 1026 : 40
-BAR : Zion HILL : javelin-throw :  : 1017 : 41
+BAR : Zion HILL : javelin-throw : 02 NOV 1999 : 1017 : 41
 IND : Vipin KASANA : javelin-throw : 04 AUG 1989 : 1014 : 42
 GHA : John AMPOMAH : javelin-throw : 11 JUL 1990 : 1013 : 43
 GBR : Daniel BAINBRIDGE : javelin-throw : 02 JUN 1999 : 1012 : 44
@@ -54,8 +54,8 @@ IND : Harish KUMAR : javelin-throw : 30 OCT 1996 : 996 : 53
 AUS : Michael CRITICOS : javelin-throw : 26 JAN 1995 : 994 : 54
 CAN : Joshua MATHER : javelin-throw : 1999 : 993 : 55
 IND : Jay KUMAR : javelin-throw : 10 OCT 2002 : 992 : 56
-RSA : Armant VAN DER LINDEN : javelin-throw : 2003 : 991 : 57
-KEN : Duncan KINYANJUI : javelin-throw : 1996 : 991 : 58
+RSA : Armant VAN DER LINDEN : javelin-throw : 23 JUL 2003 : 991 : 57
+KEN : Duncan Kinyanchui MONG'ARE : javelin-throw : 07 JAN 1996 : 991 : 58
 NZL : Ben LANGTON-BURNELL : javelin-throw : 07 OCT 1992 : 990 : 59
 BAH : Keyshawn STRACHAN : javelin-throw : 18 DEC 2003 : 989 : 60
 IND : Nandkishor SINGH : javelin-throw : 08 AUG 2001 : 988 : 61
@@ -84,7 +84,7 @@ SRI : P.A. LAKMAL : javelin-throw : 16 MAY 1994 : 951 : 83
 CYP : Eleftherios KONTONIKOLA : javelin-throw : 03 SEP 2003 : 950 : 84
 IND : Rishab NEHRA : javelin-throw : 10 DEC 1999 : 949 : 85
 GBR : Tom HEWSON : javelin-throw : 24 SEP 2000 : 949 : 86
-KEN : Boniface KILONZO : javelin-throw :  : 946 : 87
+KEN : Boniface Kyalo KILONZO : javelin-throw : 25 JUL 1995 : 946 : 87
 RSA : Werner DAMES : javelin-throw : 01 JUN 1999 : 945 : 88
 IND : Parvesh MALIK : javelin-throw : 12 OCT 1991 : 944 : 89
 IND : Sachin YADAV : javelin-throw : 25 OCT 1999 : 936 : 90

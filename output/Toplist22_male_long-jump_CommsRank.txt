@@ -1,15 +1,15 @@
 IND : J.Jeswin ALDRIN : long-jump : 24 DEC 2001 : 1184 : 1
-RSA : Jovan VAN VUUREN : long-jump : 17 JUL 1996 : 1168 : 2
-AUS : Christopher MITREVSKI : long-jump : 12 JUL 1996 : 1149 : 3
+RSA : Jovan VAN VUUREN : long-jump : 17 JUL 1996 : 1177 : 2
+AUS : Christopher MITREVSKI : long-jump : 12 JUL 1996 : 1162 : 3
 BOT : Thapelo MONAIWA : long-jump : 18 FEB 1998 : 1127 : 4
 JAM : Adrian RILEY : long-jump : 22 JAN 1994 : 1109 : 5
 SRI : G.K.D.S. PIYARATHNA : long-jump : 15 APR 1994 : 1109 : 5
 AUS : Oscar MIERS : long-jump : 21 NOV 2001 : 1103 : 7
 GUY : Emanuel ARCHIBALD : long-jump : 09 SEP 1994 : 1101 : 8
 SRI : Janaka PRASAD : long-jump : 08 SEP 1992 : 1099 : 9
-AUS : Sam TAYLOR : long-jump : 22 MAY 2001 : 1088 : 10
-RSA : Karabo SATEKGE : long-jump : 07 OCT 2000 : 1088 : 10
-AUS : Zane BRANCO : long-jump : 04 JAN 2000 : 1081 : 12
+AUS : Zane BRANCO : long-jump : 04 JAN 2000 : 1094 : 10
+AUS : Sam TAYLOR : long-jump : 22 MAY 2001 : 1090 : 11
+RSA : Karabo SATEKGE : long-jump : 07 OCT 2000 : 1088 : 12
 MLT : Jeremy ZAMMIT : long-jump : 02 SEP 2004 : 1079 : 13
 AUS : Alec DIAMOND : long-jump : 09 AUG 1997 : 1075 : 14
 IND : Muhammed Anees YAHIYA : long-jump : 03 DEC 1995 : 1073 : 15
@@ -20,62 +20,79 @@ RSA : Peter MAKGATO : long-jump : 05 MAY 1996 : 1062 : 19
 AUS : Amiru CHANDRASENA : long-jump : 02 AUG 2002 : 1060 : 20
 AUS : Aiden HINSON : long-jump : 05 JUN 2003 : 1053 : 21
 NZL : Felix MCDONALD : long-jump : 30 APR 1998 : 1053 : 21
-SRI : Shreshan Dhananjaya LIYANAPEDIGE : long-jump : 07 JUN 1997 : 1059 : 23
-VIN : Uroy RYAN : long-jump : 22 MAR 2004 : 1049 : 23
-AUS : Liam FAIRWEATHER : long-jump : 23 JUL 2002 : 1047 : 25
-IND : Praveen CHITHRAVEL : long-jump : 05 JUN 2001 : 1047 : 25
-MAS : Andre ANURA : long-jump : 12 JUN 1999 : 1042 : 27
-AUS : Jeremy ANDREWS : long-jump : 03 NOV 1992 : 1040 : 28
-NZL : Shay VEITCH : long-jump : 17 DEC 2000 : 1038 : 29
-SRI : Dhanuka Liyana PATHIRANA : long-jump : 25 JUN 1993 : 1044 : 30
-SRI : Mahesh KUMARA : long-jump :  : 1034 : 31
-IND : P. DAVID : long-jump : 17 MAR 2002 : 1029 : 32
-JAM : Aubrey ALLEN : long-jump : 19 JUL 1994 : 1030 : 33
-AUS : Shemaiah JAMES : long-jump : 12 JUL 1997 : 1027 : 33
-AUS : Blake SHAW : long-jump :  : 1025 : 35
-SRI : H.B.M. HERATH : long-jump :  : 1025 : 35
-JAM : Shawn D. THOMPSON : long-jump : 20 JAN 1997 : 1020 : 37
-IND : Yugant Shekhar SINGH : long-jump : 02 OCT 1997 : 1011 : 38
-RSA : Thato MALEMATSHA : long-jump : 06 MAY 2001 : 1008 : 38
-AUS : Tristan SCHEIRS : long-jump : 20 APR 2000 : 1004 : 40
-SRI : Pasindu Malshan KUMARAPELI ARACHCHIGE : long-jump : 15 FEB 2003 : 999 : 41
-JAM : Royan WALTERS : long-jump : 02 APR 2004 : 1000 : 42
-BOT : Norman CHIBANE : long-jump : 1999 : 991 : 42
-SRI : W.I.K. PIYASIRI : long-jump :  : 991 : 42
-MAS : Luqman Hakim RAMLAN : long-jump : 08 MAR 1995 : 989 : 45
-SRI : M.I.M. ASAN : long-jump :  : 990 : 46
-AUS : Mackenzie LIDDELOW : long-jump : 22 DEC 1997 : 982 : 47
-RSA : Michael SKOSANA : long-jump : 18 SEP 2000 : 982 : 47
-AUS : Thomas PITTS : long-jump : 29 SEP 2000 : 978 : 49
-AUS : Patrick KROPP : long-jump : 28 DEC 2000 : 978 : 49
-RSA : Junior MONDLANE : long-jump : 03 JUN 2003 : 978 : 49
-AUS : Ryan HATCH : long-jump : 19 JAN 2000 : 976 : 52
-RSA : Thapelo NKUNA : long-jump : 02 APR 2002 : 973 : 53
-AUS : William FREYER : long-jump : 26 OCT 1999 : 971 : 54
-SRI : J.H.G. SAMPATH : long-jump :  : 971 : 54
-AUS : Nicholas VAN GELDER : long-jump : 01 FEB 1995 : 969 : 56
-AUS : Jacob HRISTIANOPOULOS : long-jump : 2003 : 969 : 56
-JAM : Balvin ISRAEL : long-jump : 19 SEP 2005 : 969 : 56
-RSA : Mark GAINES : long-jump : 19 AUG 2000 : 971 : 59
-AUS : Benan OZTORUN : long-jump : 17 NOV 1998 : 977 : 60
-BOT : Pushudi TSHIRELETSO : long-jump : 1999 : 963 : 60
-AUS : Angus GOULD : long-jump : 08 JAN 1994 : 958 : 62
-AUS : Ethan PETCOS : long-jump : 14 FEB 2003 : 958 : 62
-AUS : Brandon CLARK : long-jump : 17 MAY 1993 : 958 : 62
-NZL : Lewis ARTHUR : long-jump : 20 SEP 1999 : 954 : 65
-TTO : Aaron ANTOINE : long-jump : 2004 : 960 : 65
-GUY : Micaiah WASHINGTON : long-jump : 09 MAR 1997 : 952 : 67
-AUS : Oli CALLAHAN : long-jump : 22 DEC 1997 : 950 : 68
-AUS : Dean PASTRELLO : long-jump : 05 MAY 1999 : 950 : 68
-NZL : Aaron BOOTH : long-jump : 12 SEP 1996 : 953 : 68
-IND : P.Asadullah MUJAHITH : long-jump : 17 JAN 2002 : 948 : 71
-AUS : Liam MULLEN : long-jump : 14 AUG 2001 : 946 : 72
-MAS : Muhammad Azim Abdul KEFLI : long-jump :  : 946 : 72
-NGR : David Oke EJUMETA : long-jump : 26 OCT 1997 : 946 : 72
-NZL : Angus LYVER : long-jump : 22 APR 2004 : 951 : 75
-BAR : Antonio WEEKES : long-jump : 1997 : 937 : 76
-AUS : Harrison WEIL : long-jump : 2005 : 943 : 76
-JAM : Jaydon HIBBERT : long-jump : 17 JAN 2005 : 937 : 76
-IND : T.J JOSEPH : long-jump : 20 DEC 2002 : 935 : 79
-JAM : Lansford CUNNINGHAM : long-jump : 28 DEC 2003 : 924 : 80
-ZAM : Bernard KALALE : long-jump : 2002 : 922 : 81
+GHA : Abraham SEANEKE : long-jump : 1996 : 1051 : 23
+SRI : Shreshan Dhananjaya LIYANAPEDIGE : long-jump : 07 JUN 1997 : 1059 : 24
+VIN : Uroy RYAN : long-jump : 22 MAR 2004 : 1049 : 24
+AUS : Liam FAIRWEATHER : long-jump : 23 JUL 2002 : 1047 : 26
+IND : Praveen CHITHRAVEL : long-jump : 05 JUN 2001 : 1047 : 26
+JAM : Shawn D. THOMPSON : long-jump : 20 JAN 1997 : 1054 : 28
+MAS : Andre ANURA : long-jump : 12 JUN 1999 : 1042 : 29
+AUS : Jeremy ANDREWS : long-jump : 03 NOV 1992 : 1040 : 30
+NZL : Shay VEITCH : long-jump : 17 DEC 2000 : 1038 : 31
+SRI : Dhanuka Liyana PATHIRANA : long-jump : 25 JUN 1993 : 1044 : 32
+SRI : Mahesh KUMARA : long-jump :  : 1034 : 33
+IND : P. DAVID : long-jump : 17 MAR 2002 : 1029 : 34
+AUS : Blake SHAW : long-jump :  : 1029 : 34
+JAM : Nickaoli WILLIAMS : long-jump : 07 OCT 2000 : 1029 : 34
+JAM : Aubrey ALLEN : long-jump : 19 JUL 1994 : 1030 : 37
+AUS : Shemaiah JAMES : long-jump : 12 JUL 1997 : 1027 : 37
+SRI : H.B.M. HERATH : long-jump :  : 1025 : 39
+TKS : Ifeanyichukwu OTUONYE : long-jump : 27 JUN 1994 : 1012 : 40
+IND : Yugant Shekhar SINGH : long-jump : 02 OCT 1997 : 1011 : 41
+RSA : Thato MALEMATSHA : long-jump : 06 MAY 2001 : 1008 : 41
+JAM : Safin WILLS : long-jump : 21 AUG 2000 : 1006 : 43
+AUS : Tristan SCHEIRS : long-jump : 20 APR 2000 : 1004 : 44
+RSA : Shaun MASWANGANYI : long-jump : 01 FEB 2001 : 1004 : 44
+SRI : Pasindu Malshan KUMARAPELI ARACHCHIGE : long-jump : 15 FEB 2003 : 999 : 46
+IVB : Khybah DAWSON : long-jump : 07 AUG 2004 : 995 : 47
+JAM : Royan WALTERS : long-jump : 02 APR 2004 : 1000 : 48
+BOT : Norman CHIBANE : long-jump : 1999 : 991 : 48
+SRI : W.I.K. PIYASIRI : long-jump :  : 991 : 48
+MAS : Luqman Hakim RAMLAN : long-jump : 08 MAR 1995 : 989 : 51
+SRI : M.I.M. ASAN : long-jump :  : 990 : 52
+RSA : Asande MTHEMBU : long-jump : 04 JUN 2004 : 984 : 53
+AUS : Mackenzie LIDDELOW : long-jump : 22 DEC 1997 : 982 : 54
+RSA : Michael SKOSANA : long-jump : 18 SEP 2000 : 982 : 54
+AUS : Thomas PITTS : long-jump : 29 SEP 2000 : 978 : 56
+AUS : Patrick KROPP : long-jump : 28 DEC 2000 : 978 : 56
+RSA : Junior MONDLANE : long-jump : 03 JUN 2003 : 978 : 56
+AUS : Ryan HATCH : long-jump : 19 JAN 2000 : 976 : 59
+RSA : Thapelo NKUNA : long-jump : 02 APR 2002 : 973 : 60
+ANT : Sheldon NOBLE : long-jump : 04 APR 2001 : 973 : 60
+AUS : William FREYER : long-jump : 26 OCT 1999 : 971 : 62
+SRI : J.H.G. SAMPATH : long-jump :  : 971 : 62
+AUS : Nicholas VAN GELDER : long-jump : 01 FEB 1995 : 969 : 64
+AUS : Jacob HRISTIANOPOULOS : long-jump : 2003 : 969 : 64
+JAM : Balvin ISRAEL : long-jump : 19 SEP 2005 : 969 : 64
+AUS : Ryan COOPER : long-jump : 11 SEP 1999 : 967 : 67
+RSA : Mark GAINES : long-jump : 19 AUG 2000 : 971 : 68
+AUS : Benan OZTORUN : long-jump : 17 NOV 1998 : 977 : 69
+BOT : Pushudi TSHIRELETSO : long-jump : 1999 : 963 : 69
+AUS : Nicholas HUM : long-jump : 29 JAN 1993 : 963 : 69
+AUS : Dylan JAMES : long-jump : 02 MAR 2002 : 975 : 69
+AUS : Angus GOULD : long-jump : 08 JAN 1994 : 958 : 73
+AUS : Ethan PETCOS : long-jump : 14 FEB 2003 : 958 : 73
+AUS : Brandon CLARK : long-jump : 17 MAY 1993 : 958 : 73
+NZL : Lewis ARTHUR : long-jump : 20 SEP 1999 : 954 : 76
+TTO : Aaron ANTOINE : long-jump : 2004 : 960 : 76
+GUY : Micaiah WASHINGTON : long-jump : 09 MAR 1997 : 952 : 78
+AUS : Oli CALLAHAN : long-jump : 22 DEC 1997 : 950 : 79
+AUS : Dean PASTRELLO : long-jump : 05 MAY 1999 : 950 : 79
+NZL : Aaron BOOTH : long-jump : 12 SEP 1996 : 953 : 79
+RSA : Fulufhelo NEMARUDE : long-jump : 08 NOV 2002 : 948 : 82
+IND : P.Asadullah MUJAHITH : long-jump : 17 JAN 2002 : 948 : 82
+AUS : Liam MULLEN : long-jump : 14 AUG 2001 : 946 : 84
+MAS : Muhammad Azim Abdul KEFLI : long-jump :  : 946 : 84
+NGR : David Oke EJUMETA : long-jump : 26 OCT 1997 : 946 : 84
+RSA : Fredriech PRETORIUS : long-jump : 04 AUG 1995 : 946 : 84
+NZL : Angus LYVER : long-jump : 22 APR 2004 : 951 : 88
+JAM : Apalos EDWARDS : long-jump : 18 OCT 2001 : 943 : 88
+BAR : Antonio WEEKES : long-jump : 1997 : 937 : 90
+AUS : Harrison WEIL : long-jump : 2005 : 943 : 90
+JAM : Jaydon HIBBERT : long-jump : 17 JAN 2005 : 937 : 90
+BAH : Kendrick THOMPSON : long-jump : 28 AUG 1997 : 937 : 90
+IND : T.J JOSEPH : long-jump : 20 DEC 2002 : 935 : 94
+JAM : Iangelo ATKINSTALL-DALEY : long-jump : 20 OCT 2002 : 931 : 95
+JAM : David EDMONDSON : long-jump : 17 NOV 2000 : 926 : 96
+JAM : Lansford CUNNINGHAM : long-jump : 28 DEC 2003 : 924 : 97
+ZAM : Bernard KALALE : long-jump : 2002 : 922 : 98

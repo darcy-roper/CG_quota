@@ -1,56 +1,81 @@
-NZL : Portia BING : 400mh : 17 APR 1993 : 1159 : 1
-AUS : Sarah CARLI : 400mh : 05 SEP 1994 : 1133 : 2
-JAM : Safhia HINDS : 400mh : 14 FEB 2003 : 1079 : 3
-IND : R. ARATHI : 400mh : 21 MAY 2001 : 1070 : 4
-AUS : Isabella GUTHRIE : 400mh : 21 SEP 2003 : 1068 : 5
-AUS : Sara KLEIN : 400mh : 19 MAY 1994 : 1064 : 6
-AUS : Genevieve COWIE : 400mh : 26 APR 1995 : 1062 : 7
-AUS : Brodee MATE : 400mh : 14 APR 1998 : 1046 : 8
-IND : . RUPAL : 400mh : 23 DEC 2004 : 1042 : 9
-JAM : Oneika MCANNUFF : 400mh : 03 SEP 2003 : 1041 : 10
-IND : . GUDIYA : 400mh : 14 SEP 1998 : 1036 : 11
-JAM : Shackelia GREEN : 400mh : 30 NOV 2003 : 1028 : 12
-KEN : Jane Wangare CHEGE : 400mh : 15 DEC 1998 : 1019 : 13
-SRI : Kawshalya MADUSHANI : 400mh : 13 NOV 1995 : 1017 : 14
-JAM : Daena DYER : 400mh : 01 FEB 2003 : 1015 : 15
-KEN : Agnes Mutindi NGUMBI : 400mh : 07 OCT 2002 : 1012 : 16
-KEN : Priscilla TABUNDA : 400mh : 22 AUG 1989 : 1008 : 17
-SRI : Amesha Piumanthi Hettiarachchi HETTIARACHCHILAGE : 400mh : 03 MAY 2003 : 1007 : 18
-JAM : Tony-Ann BECKFORD : 400mh : 2004 : 1007 : 19
-AUS : Susie DOUGLAS : 400mh : 02 JAN 2001 : 1005 : 20
-JAM : Dejona SIMPSON : 400mh : 14 DEC 2003 : 1003 : 21
-TTO : Natasha FOX : 400mh : 2004 : 1001 : 22
-NZL : Alessandra MACDONALD : 400mh : 01 JUL 2000 : 1001 : 23
-IND : Pragyan PRASANT : 400mh : 19 DEC 1999 : 1000 : 24
-AUS : Ashley SPENCER : 400mh : 12 SEP 2003 : 996 : 25
-IND : Anila VENU : 400mh : 06 DEC 1998 : 995 : 26
-NZL : Celine PEARN : 400mh : 23 MAR 1997 : 994 : 27
-AUS : Paige ELVEY : 400mh : 27 JUL 2003 : 988 : 28
-JAM : Kitania HEADLEY : 400mh : 21 NOV 2005 : 985 : 29
-AUS : Daniela ROMAN : 400mh : 07 JAN 1996 : 984 : 30
-AUS : Susie SEITARIDIS : 400mh : 21 NOV 1997 : 983 : 31
-IND : Sinchal KAVERAMMA : 400mh : 05 FEB 2001 : 982 : 32
-AUS : Siena FARRELL : 400mh : 2006 : 982 : 33
-IND : K. PRAJNA : 400mh : 25 JUL 2001 : 976 : 34
-JAM : Deandra Harris HARRIS : 400mh : 15 DEC 2006 : 970 : 35
-JAM : Annalice BRADY : 400mh : 05 MAR 2004 : 963 : 36
-AUS : Marianna KONOPKA : 400mh : 2003 : 962 : 37
-AUS : Scarlett PYE : 400mh : 27 MAR 2000 : 962 : 38
-AUS : Abbey BADROCK : 400mh : 17 NOV 1999 : 962 : 38
-JAM : Deneka THOMAS : 400mh : 09 OCT 2003 : 960 : 40
-AUS : Fletcher DAY : 400mh : 01 AUG 2002 : 957 : 41
-IND : J. DHIVYA : 400mh : 31 JAN 1998 : 957 : 42
-AUS : Claudia CHAPMAN : 400mh : 09 SEP 2003 : 952 : 43
-SRI : G.D. Niroshika LAKMALI : 400mh : 25 NOV 1989 : 946 : 44
-KEN : Hannah MWANGI : 400mh :  : 939 : 45
-KEN : Winnie JELAGAT : 400mh :  : 923 : 46
-RSA : Dayle KOEKEMOER : 400mh : 10 AUG 2003 : 920 : 47
-IND : Gurdeep KAUR : 400mh : 02 JUN 2001 : 919 : 48
-KEN : Rahab NDIRANGU : 400mh :  : 917 : 49
-AUS : Alesha BENNETTS : 400mh : 2005 : 915 : 50
-JAM : Tusandre DENNIS : 400mh : 08 OCT 2003 : 915 : 50
-JAM : Toriann NOAD : 400mh : 12 AUG 2003 : 914 : 52
-AUS : Nicole REYNOLDS : 400mh : 08 APR 1999 : 914 : 53
-IND : Megha MUNAVALLI : 400mh :  : 910 : 54
-IND : . NANHI : 400mh : 16 OCT 1999 : 909 : 55
-SRI : A.P.M.S.K. ABEYRATHNE : 400mh :  : 909 : 56
+RSA : Zenéy VAN DER WALT : 400mh : 22 MAY 2000 : 1161 : 1
+NZL : Portia BING : 400mh : 17 APR 1993 : 1159 : 2
+RSA : Taylon BIELDT : 400mh : 04 NOV 1998 : 1144 : 3
+AUS : Sarah CARLI : 400mh : 05 SEP 1994 : 1133 : 4
+NGR : Joy ABU : 400mh : 02 MAR 1999 : 1087 : 5
+JAM : Safhia HINDS : 400mh : 14 FEB 2003 : 1079 : 6
+AUS : Isabella GUTHRIE : 400mh : 21 SEP 2003 : 1078 : 7
+AUS : Genevieve COWIE : 400mh : 26 APR 1995 : 1074 : 8
+AUS : Brodee MATE : 400mh : 14 APR 1998 : 1072 : 9
+IND : R. ARATHI : 400mh : 21 MAY 2001 : 1070 : 10
+AUS : Sara KLEIN : 400mh : 19 MAY 1994 : 1064 : 11
+RSA : Gezelle MAGERMAN : 400mh : 21 APR 1997 : 1062 : 12
+JAM : Abigail SCHAAFFE : 400mh : 10 DEC 2000 : 1052 : 13
+SKN : Reanda RICHARDS : 400mh : 12 DEC 1999 : 1051 : 14
+IND : . RUPAL : 400mh : 23 DEC 2004 : 1042 : 15
+JAM : Oneika MCANNUFF : 400mh : 03 SEP 2003 : 1041 : 16
+IND : . GUDIYA : 400mh : 14 SEP 1998 : 1036 : 17
+JAM : Shackelia GREEN : 400mh : 30 NOV 2003 : 1028 : 18
+CAN : Marie-Frédérique POULIN : 400mh : 1999 : 1028 : 19
+KEN : Jane Wangare CHEGE : 400mh : 15 DEC 1998 : 1019 : 20
+SRI : Kawshalya MADUSHANI : 400mh : 13 NOV 1995 : 1017 : 21
+JAM : Daena DYER : 400mh : 01 FEB 2003 : 1015 : 22
+RSA : Anje NEL : 400mh : 02 JAN 2004 : 1014 : 23
+AUS : Daniela ROMAN : 400mh : 07 JAN 1996 : 1013 : 24
+AUS : Paige ELVEY : 400mh : 27 JUL 2003 : 1012 : 25
+KEN : Agnes Mutindi NGUMBI : 400mh : 07 OCT 2002 : 1012 : 26
+RSA : Hannah VAN NIEKERK : 400mh : 28 JAN 2005 : 1012 : 26
+JAM : Kimisha CHAMBERS : 400mh : 25 SEP 1996 : 1008 : 28
+KEN : Priscilla TABUNDA : 400mh : 22 AUG 1989 : 1008 : 29
+SRI : Amesha Piumanthi Hettiarachchi HETTIARACHCHILAGE : 400mh : 03 MAY 2003 : 1007 : 30
+JAM : Tony-Ann BECKFORD : 400mh : 2004 : 1007 : 31
+AUS : Susie DOUGLAS : 400mh : 02 JAN 2001 : 1005 : 32
+AUS : Alanah YUKICH : 400mh : 27 JAN 1998 : 1004 : 33
+JAM : Dejona SIMPSON : 400mh : 14 DEC 2003 : 1003 : 34
+AUS : Annamaria LESZCZYNSKA : 400mh : 18 FEB 2000 : 1003 : 35
+TTO : Natasha FOX : 400mh : 2004 : 1001 : 36
+NZL : Alessandra MACDONALD : 400mh : 01 JUL 2000 : 1001 : 37
+IND : Pragyan PRASANT : 400mh : 19 DEC 1999 : 1000 : 38
+AUS : Ashley SPENCER : 400mh : 12 SEP 2003 : 996 : 39
+IND : Anila VENU : 400mh : 06 DEC 1998 : 995 : 40
+NZL : Celine PEARN : 400mh : 23 MAR 1997 : 994 : 41
+RSA : Simone DE WET : 400mh : 10 APR 2003 : 990 : 42
+AUS : Marli WILKINSON : 400mh : 29 JUN 2000 : 989 : 43
+AUS : Abbey BADROCK : 400mh : 17 NOV 1999 : 988 : 44
+JAM : Terrice STEEN : 400mh : 30 MAY 2000 : 988 : 45
+JAM : Kitania HEADLEY : 400mh : 21 NOV 2005 : 985 : 46
+CAN : Kira KOPEC : 400mh : 1999 : 985 : 46
+AUS : Susie SEITARIDIS : 400mh : 21 NOV 1997 : 983 : 48
+IND : Sinchal KAVERAMMA : 400mh : 05 FEB 2001 : 982 : 49
+AUS : Siena FARRELL : 400mh : 2006 : 982 : 50
+IND : K. PRAJNA : 400mh : 25 JUL 2001 : 976 : 51
+CAN : Sharelle SAMUEL : 400mh : 24 JAN 2000 : 974 : 52
+RSA : Michelle GROENEWALD : 400mh : 06 DEC 2006 : 971 : 53
+RSA : Anika WILLIAMS : 400mh : 20 FEB 2005 : 970 : 54
+JAM : Deandra Harris HARRIS : 400mh : 15 DEC 2006 : 970 : 54
+RSA : Lia REVELAS : 400mh : 08 MAY 2002 : 964 : 56
+JAM : Annalice BRADY : 400mh : 05 MAR 2004 : 963 : 57
+AUS : Marianna KONOPKA : 400mh : 2003 : 962 : 58
+AUS : Scarlett PYE : 400mh : 27 MAR 2000 : 962 : 59
+JAM : Deneka THOMAS : 400mh : 09 OCT 2003 : 960 : 60
+AUS : Fletcher DAY : 400mh : 01 AUG 2002 : 957 : 61
+IND : J. DHIVYA : 400mh : 31 JAN 1998 : 957 : 62
+AUS : Claudia CHAPMAN : 400mh : 09 SEP 2003 : 952 : 63
+SRI : G.D. Niroshika LAKMALI : 400mh : 25 NOV 1989 : 946 : 64
+KEN : Hannah MWANGI : 400mh :  : 939 : 65
+AUS : Nicole REYNOLDS : 400mh : 08 APR 1999 : 932 : 66
+AUS : Elli SYMONDS : 400mh : 2006 : 925 : 67
+KEN : Winnie JELAGAT : 400mh :  : 923 : 68
+JAM : Mishka-Mae HYDE : 400mh : 10 SEP 2001 : 920 : 69
+RSA : Dayle KOEKEMOER : 400mh : 10 AUG 2003 : 920 : 70
+IND : Gurdeep KAUR : 400mh : 02 JUN 2001 : 919 : 71
+KEN : Rahab NDIRANGU : 400mh :  : 917 : 72
+JAM : Kwanda KNIGHT : 400mh : 20 MAR 2000 : 916 : 73
+GBR : Jessica LAMBERT : 400mh : 31 JAN 2001 : 916 : 73
+AUS : Alesha BENNETTS : 400mh : 2005 : 915 : 75
+JAM : Tusandre DENNIS : 400mh : 08 OCT 2003 : 915 : 75
+JAM : Toriann NOAD : 400mh : 12 AUG 2003 : 914 : 77
+IND : Megha MUNAVALLI : 400mh :  : 910 : 78
+IND : . NANHI : 400mh : 16 OCT 1999 : 909 : 79
+SRI : A.P.M.S.K. ABEYRATHNE : 400mh :  : 909 : 80
+RSA : Penelope SHIPLANA : 400mh : 22 MAR 2006 : 909 : 80

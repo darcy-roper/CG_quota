@@ -2,25 +2,27 @@ AUS : Jemima MONTAG : race-walking : 15 FEB 1998 : 1170 : 1
 AUS : Rebecca HENDERSON : race-walking : 04 JUL 2001 : 1073 : 2
 AUS : Olivia SANDERY : race-walking : 22 JAN 2003 : 1072 : 3
 AUS : Clara SMITH : race-walking : 09 MAR 1998 : 1065 : 4
-GBR : Heather LEWIS : race-walking : 25 OCT 1993 : 1024 : 5
+GBR : Heather LEWIS : race-walking : 25 OCT 1993 : 1051 : 5
 AUS : Katie HAYWARD : race-walking : 23 JUL 2000 : 997 : 6
-GBR : Bethan DAVIES : race-walking : 07 NOV 1990 : 973 : 7
+GBR : Bethan DAVIES : race-walking : 07 NOV 1990 : 997 : 7
 AUS : Alanna PEART : race-walking : 06 SEP 2003 : 973 : 8
 AUS : Allanah PITCHER : race-walking : 19 SEP 2003 : 941 : 9
 KEN : Silvia KEMBOI : race-walking :  : 937 : 10
 KEN : Naomi CHEPKIRUI : race-walking :  : 927 : 11
-GBR : Erika KELLY : race-walking : 06 DEC 1982 : 864 : 12
-GBR : Abigail JENNINGS : race-walking : 10 JUL 2000 : 862 : 13
+GBR : Abigail JENNINGS : race-walking : 10 JUL 2000 : 871 : 12
+GBR : Erika KELLY : race-walking : 06 DEC 1982 : 864 : 13
 NZL : Courtney RUSKE : race-walking : 14 JUL 1994 : 853 : 14
 NZL : Laura LANGLEY : race-walking : 11 SEP 1997 : 845 : 15
 AUS : Hannah MISON : race-walking : 14 NOV 2001 : 844 : 16
 AUS : Emma BLANCH : race-walking : 01 APR 2003 : 840 : 17
 AUS : Samantha FINDLAY : race-walking : 1997 : 830 : 18
 KEN : Violet JEPKEMOI : race-walking :  : 829 : 19
-KEN : Assumpta IKATE : race-walking :  : 802 : 20
-AUS : Nellie LANGFORD : race-walking :  : 797 : 21
-AUS : Camryn NOVINETZ : race-walking : 03 OCT 2003 : 794 : 22
-AUS : Hannah BOLTON : race-walking : 29 DEC 2003 : 783 : 23
-GBR : Millie MORRIS : race-walking : 2003 : 767 : 24
-KEN : Grace GATHONI : race-walking : 04 APR 2002 : 767 : 25
-KEN : Grace THOITI : race-walking :  : 763 : 26
+GBR : Hannah HOPPER : race-walking :  : 816 : 20
+KEN : Assumpta IKATE : race-walking :  : 802 : 21
+AUS : Nellie LANGFORD : race-walking :  : 797 : 22
+AUS : Camryn NOVINETZ : race-walking : 03 OCT 2003 : 794 : 23
+AUS : Hannah BOLTON : race-walking : 29 DEC 2003 : 783 : 24
+GBR : Millie MORRIS : race-walking : 2003 : 767 : 25
+KEN : Grace GATHONI : race-walking : 04 APR 2002 : 767 : 26
+KEN : Grace THOITI : race-walking :  : 763 : 27
+GBR : Emile GHOSE : race-walking : 1999 : 713 : 28

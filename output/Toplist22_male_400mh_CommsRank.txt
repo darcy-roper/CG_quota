@@ -1,85 +1,98 @@
-JAM : Rayon CAMPBELL : 400mh : 05 JUN 2003 : 1154 : 1
-KEN : Wiseman Were MUKHOBE : 400mh : 13 OCT 1997 : 1140 : 2
-JAM : Roshawn CLARKE : 400mh : 01 JUL 2004 : 1137 : 3
-BOT : Kemorena TISANG : 400mh : 25 APR 1995 : 1132 : 4
-JAM : Antonio FORBES : 400mh : 04 OCT 2004 : 1106 : 5
-AUS : Conor FRY : 400mh : 19 FEB 1998 : 1089 : 6
-KEN : William Mbevi MUTUNGA : 400mh : 12 JUL 1993 : 1089 : 6
-BOT : Victor NTWENG : 400mh : 1995 : 1082 : 8
-BOT : Keitumetse MAITSEO : 400mh : 1999 : 1080 : 9
-AUS : Mark FOKAS : 400mh : 18 MAY 2001 : 1071 : 10
-KEN : John GIKONYO : 400mh :  : 1068 : 11
-KEN : Newton KIPGETICH : 400mh :  : 1065 : 12
-AUS : Harvey MURRANT : 400mh : 07 MAR 1999 : 1053 : 13
-SGP : Jun Jie Calvin QUEK : 400mh : 26 FEB 1996 : 1046 : 14
-IND : Surendar SELVAMANI : 400mh : 25 OCT 1999 : 1044 : 15
-AUS : Luke MAJOR : 400mh : 09 JUN 1994 : 1037 : 16
-BOT : Joseph GAETWESEPE : 400mh : 1995 : 1036 : 17
-JAM : Jahmani SMITH : 400mh : 07 APR 2003 : 1036 : 18
-BOT : Mooketsi Phenyo MONTSHIWA : 400mh : 04 MAY 1999 : 1024 : 19
-BOT : Tshotlego FRECKY : 400mh : 1996 : 1024 : 19
-KEN : Vincent Kiplangat KOSGEI : 400mh : 11 NOV 1985 : 1023 : 21
-SRI : K.M.D. DHARSHANA : 400mh :  : 1023 : 21
-IND : A. ROHITH : 400mh : 14 JUN 2002 : 1021 : 23
-SRI : N.D.K. VIDURANGA : 400mh :  : 1020 : 24
-IND : P. Pravin KUMAR : 400mh : 15 NOV 1996 : 1015 : 25
-AUS : Angus PROUDFOOT : 400mh : 02 MAR 1998 : 1015 : 25
-IND : Rohan Gautam KAMBLE : 400mh : 15 FEB 2002 : 1011 : 27
-IND : Dibyasundar DAS : 400mh : 13 MAR 2002 : 1011 : 28
-AUS : Michael TSOTSOS : 400mh : 22 JUN 1999 : 1010 : 29
-JAM : Jayden BROWN : 400mh : 09 FEB 2003 : 1008 : 30
-TTO : Kadesh ROBERTS : 400mh : 28 AUG 1993 : 1002 : 31
-AUS : Matthew CROWE : 400mh : 07 MAR 1997 : 995 : 32
-IND : Abhay NARAYAN : 400mh : 17 FEB 1998 : 995 : 33
-KEN : Peter KITHOME : 400mh : 12 MAR 2003 : 994 : 34
-KEN : Kipkorir ROTICH : 400mh : 05 MAY 1998 : 992 : 35
-JAM : Javel FULLERTON : 400mh : 21 FEB 2003 : 992 : 36
-IND : Najmuddeen MOHAMMED : 400mh : 25 APR 1998 : 987 : 37
-JAM : Shamer BLAKE : 400mh : 13 FEB 2005 : 987 : 37
-KEN : Geoffrey MUTAI : 400mh :  : 986 : 39
-IND : M. MANOOP : 400mh : 22 AUG 2001 : 984 : 40
-AUS : Sam HURWOOD : 400mh : 07 MAR 2001 : 983 : 41
-AUS : Thomas HUNT : 400mh : 03 OCT 2001 : 982 : 42
-KEN : Nicholas Kiplimo KESSIO : 400mh :  : 979 : 43
-KEN : Baraka MBITHE MESHACK : 400mh : 29 DEC 2002 : 976 : 44
-KEN : Edward NGUNJIRI : 400mh : 13 APR 1993 : 976 : 44
-SRI : Asitha Tharanga RATHNAYAKE : 400mh : 06 JUN 1995 : 969 : 46
-MAS : Rusleen Zikry Putra ROSELI : 400mh : 13 MAR 2000 : 969 : 47
-AUS : Hugo HANAK : 400mh : 2004 : 967 : 48
-IND : A. ROHIT : 400mh :  : 966 : 49
-JAM : Romario STEWART : 400mh : 22 JUL 2004 : 966 : 49
-JAM : Shamari JENNINGS : 400mh : 07 OCT 2004 : 961 : 51
-AUS : Jack MCFADDEN : 400mh : 27 DEC 2001 : 959 : 52
-JAM : Richard HALL : 400mh : 07 JUL 2005 : 952 : 53
-AUS : Kyle BENNETT : 400mh : 02 DEC 2003 : 949 : 54
-KEN : Geoffrey RONO : 400mh :  : 948 : 55
-IND : Sai KUMAR : 400mh : 13 MAR 2000 : 944 : 56
-IND : Jayaragul RAGUL : 400mh : 03 JAN 2002 : 942 : 57
-SRI : M.B.I.Dunith BANNEHEKA : 400mh :  : 941 : 58
-KEN : Sammy RUGUT : 400mh :  : 939 : 59
-JAM : Jahiem JADDOO : 400mh : 02 OCT 2002 : 938 : 60
-BOT : Keaboka KGOSITHEBE : 400mh : 2001 : 938 : 61
-SRI : Navodya Sankalp SOBANA : 400mh : 14 JUL 2000 : 938 : 62
-BOT : Given REETSANG : 400mh : 1999 : 935 : 63
-AUS : Noah ROGERS : 400mh : 16 SEP 1996 : 934 : 64
-IND : K. ARJUN : 400mh : 12 MAR 2002 : 933 : 65
-IND : Krishna R. GADEDAVER : 400mh :  : 932 : 66
-JAM : Javaughn PINNOCK : 400mh : 30 JUL 2005 : 932 : 66
-JAM : Kemaro NEIL : 400mh : 30 MAY 2003 : 928 : 68
-AUS : Aaron JEFFERY : 400mh : 02 OCT 1998 : 928 : 69
-AUS : Jarrod SANSOM : 400mh :  : 922 : 70
-JAM : Dante GORDON : 400mh : 2003 : 922 : 71
-JAM : Brandon HARRIS : 400mh : 13 OCT 2005 : 916 : 72
-JAM : Zachary CHAMBERLAIN : 400mh : 01 MAR 2003 : 916 : 73
-AUS : Blake DOBAY : 400mh : 26 OCT 1999 : 914 : 74
-BOT : Thuso MOSEKI : 400mh : 1998 : 914 : 75
-IND : Hardeep KUMAR : 400mh : 27 JUN 2003 : 908 : 76
-JAM : Roburn WALKER : 400mh : 17 MAR 2003 : 908 : 76
-KEN : William NYAGAKA : 400mh :  : 904 : 78
-KEN : Samuel MWITA : 400mh : 22 DEC 2001 : 902 : 79
-AUS : Lyndon KENWORTHY-GROEN : 400mh : 15 SEP 2002 : 899 : 80
-AUS : Dominic PANOZZO : 400mh : 10 JUN 2003 : 897 : 81
-JAM : Sean GARDENER : 400mh : 25 OCT 2004 : 896 : 82
-IND : N.Nithish KUMAR : 400mh : 10 NOV 1999 : 896 : 83
-AUS : Thomas BYRNE : 400mh : 2004 : 896 : 83
-IND : Sahil KIRO : 400mh :  : 895 : 85
+RSA : Sokwakhana ZAZINI : 400mh : 23 JAN 2000 : 1166 : 1
+JAM : Rayon CAMPBELL : 400mh : 05 JUN 2003 : 1154 : 2
+KEN : Wiseman Were MUKHOBE : 400mh : 13 OCT 1997 : 1140 : 3
+JAM : Roshawn CLARKE : 400mh : 01 JUL 2004 : 1137 : 4
+CAN : Malik METIVIER : 400mh : 09 OCT 1998 : 1137 : 4
+BOT : Kemorena TISANG : 400mh : 25 APR 1995 : 1132 : 6
+RSA : Lindukuhle GORA : 400mh : 31 JAN 2001 : 1122 : 7
+JAM : Kenroy WILLIAMS : 400mh :  : 1115 : 8
+RSA : Le Roux HAMMAN : 400mh : 06 JAN 1992 : 1115 : 9
+JAM : Antonio FORBES : 400mh : 04 OCT 2004 : 1106 : 10
+AUS : Conor FRY : 400mh : 19 FEB 1998 : 1089 : 11
+KEN : William Mbevi MUTUNGA : 400mh : 12 JUL 1993 : 1089 : 11
+BOT : Victor NTWENG : 400mh : 1995 : 1082 : 13
+BOT : Keitumetse MAITSEO : 400mh : 1999 : 1080 : 14
+AUS : Mark FOKAS : 400mh : 18 MAY 2001 : 1071 : 15
+RSA : Constant PRETORIUS : 400mh : 26 JAN 1994 : 1070 : 16
+KEN : John GIKONYO : 400mh :  : 1068 : 17
+KEN : Newton KIPGETICH : 400mh :  : 1065 : 18
+AUS : Harvey MURRANT : 400mh : 07 MAR 1999 : 1053 : 19
+SGP : Jun Jie Calvin QUEK : 400mh : 26 FEB 1996 : 1046 : 20
+IND : Surendar SELVAMANI : 400mh : 25 OCT 1999 : 1044 : 21
+JAM : Malik JAMES-KING : 400mh : 28 JUN 1999 : 1039 : 22
+AUS : Luke MAJOR : 400mh : 09 JUN 1994 : 1037 : 23
+BOT : Joseph GAETWESEPE : 400mh : 1995 : 1036 : 24
+JAM : Jahmani SMITH : 400mh : 07 APR 2003 : 1036 : 25
+BOT : Mooketsi Phenyo MONTSHIWA : 400mh : 04 MAY 1999 : 1024 : 26
+BOT : Tshotlego FRECKY : 400mh : 1996 : 1024 : 26
+RSA : Marcus BORNMAN : 400mh : 14 SEP 1996 : 1024 : 26
+KEN : Vincent Kiplangat KOSGEI : 400mh : 11 NOV 1985 : 1023 : 29
+SRI : K.M.D. DHARSHANA : 400mh :  : 1023 : 29
+RSA : Christiaan VENTER : 400mh : 02 APR 2002 : 1023 : 29
+IND : A. ROHITH : 400mh : 14 JUN 2002 : 1021 : 32
+SRI : N.D.K. VIDURANGA : 400mh :  : 1020 : 33
+RSA : Ruan OOSTHUIZEN : 400mh : 25 MAR 2004 : 1016 : 34
+JAM : Jayden BROWN : 400mh : 09 FEB 2003 : 1016 : 34
+IND : P. Pravin KUMAR : 400mh : 15 NOV 1996 : 1015 : 36
+AUS : Angus PROUDFOOT : 400mh : 02 MAR 1998 : 1015 : 36
+IND : Rohan Gautam KAMBLE : 400mh : 15 FEB 2002 : 1011 : 38
+IND : Dibyasundar DAS : 400mh : 13 MAR 2002 : 1011 : 39
+AUS : Michael TSOTSOS : 400mh : 22 JUN 1999 : 1010 : 40
+TTO : Kadesh ROBERTS : 400mh : 28 AUG 1993 : 1002 : 41
+AUS : Matthew CROWE : 400mh : 07 MAR 1997 : 995 : 42
+IND : Abhay NARAYAN : 400mh : 17 FEB 1998 : 995 : 43
+KEN : Peter KITHOME : 400mh : 12 MAR 2003 : 994 : 44
+KEN : Kipkorir ROTICH : 400mh : 05 MAY 1998 : 992 : 45
+JAM : Javel FULLERTON : 400mh : 21 FEB 2003 : 992 : 46
+IND : Najmuddeen MOHAMMED : 400mh : 25 APR 1998 : 987 : 47
+JAM : Shamer BLAKE : 400mh : 13 FEB 2005 : 987 : 47
+KEN : Geoffrey MUTAI : 400mh :  : 986 : 49
+IND : M. MANOOP : 400mh : 22 AUG 2001 : 984 : 50
+AUS : Sam HURWOOD : 400mh : 07 MAR 2001 : 983 : 51
+AUS : Kyle BENNETT : 400mh : 02 DEC 2003 : 982 : 52
+AUS : Thomas HUNT : 400mh : 03 OCT 2001 : 982 : 53
+KEN : Nicholas Kiplimo KESSIO : 400mh :  : 979 : 54
+KEN : Baraka MBITHE MESHACK : 400mh : 29 DEC 2002 : 976 : 55
+KEN : Edward NGUNJIRI : 400mh : 13 APR 1993 : 976 : 55
+SRI : Asitha Tharanga RATHNAYAKE : 400mh : 06 JUN 1995 : 969 : 57
+MAS : Rusleen Zikry Putra ROSELI : 400mh : 13 MAR 2000 : 969 : 58
+AUS : Hugo HANAK : 400mh : 2004 : 967 : 59
+IND : A. ROHIT : 400mh :  : 966 : 60
+JAM : Romario STEWART : 400mh : 22 JUL 2004 : 966 : 60
+BAH : Shimar BAIN : 400mh : 17 JAN 2004 : 963 : 62
+JAM : Shamari JENNINGS : 400mh : 07 OCT 2004 : 961 : 63
+AUS : Jack MCFADDEN : 400mh : 27 DEC 2001 : 959 : 64
+JAM : Richard HALL : 400mh : 07 JUL 2005 : 952 : 65
+KEN : Geoffrey RONO : 400mh :  : 948 : 66
+IND : Sai KUMAR : 400mh : 13 MAR 2000 : 944 : 67
+IND : Jayaragul RAGUL : 400mh : 03 JAN 2002 : 942 : 68
+SRI : M.B.I.Dunith BANNEHEKA : 400mh :  : 941 : 69
+KEN : Sammy RUGUT : 400mh :  : 939 : 70
+JAM : Jahiem JADDOO : 400mh : 02 OCT 2002 : 938 : 71
+RSA : Kruger VAN REENEN : 400mh : 20 MAR 2003 : 938 : 71
+BOT : Keaboka KGOSITHEBE : 400mh : 2001 : 938 : 73
+SRI : Navodya Sankalp SOBANA : 400mh : 14 JUL 2000 : 938 : 74
+BOT : Given REETSANG : 400mh : 1999 : 935 : 75
+JAM : Roburn WALKER : 400mh : 17 MAR 2003 : 934 : 76
+AUS : Noah ROGERS : 400mh : 16 SEP 1996 : 934 : 77
+IND : K. ARJUN : 400mh : 12 MAR 2002 : 933 : 78
+RSA : Tshegofatso MATHOPA : 400mh : 02 FEB 1995 : 933 : 78
+IND : Krishna R. GADEDAVER : 400mh :  : 932 : 80
+JAM : Javaughn PINNOCK : 400mh : 30 JUL 2005 : 932 : 80
+JAM : Kemaro NEIL : 400mh : 30 MAY 2003 : 928 : 82
+AUS : Aaron JEFFERY : 400mh : 02 OCT 1998 : 928 : 83
+AUS : Jarrod SANSOM : 400mh :  : 922 : 84
+JAM : Dante GORDON : 400mh : 2003 : 922 : 85
+AUS : Blake DOBAY : 400mh : 26 OCT 1999 : 920 : 86
+JAM : Brandon HARRIS : 400mh : 13 OCT 2005 : 916 : 87
+JAM : Zachary CHAMBERLAIN : 400mh : 01 MAR 2003 : 916 : 88
+BOT : Thuso MOSEKI : 400mh : 1998 : 914 : 89
+IND : Hardeep KUMAR : 400mh : 27 JUN 2003 : 908 : 90
+KEN : William NYAGAKA : 400mh :  : 904 : 91
+KEN : Samuel MWITA : 400mh : 22 DEC 2001 : 902 : 92
+AUS : Lyndon KENWORTHY-GROEN : 400mh : 15 SEP 2002 : 899 : 93
+AUS : Dominic PANOZZO : 400mh : 10 JUN 2003 : 897 : 94
+JAM : Sean GARDENER : 400mh : 25 OCT 2004 : 896 : 95
+IND : N.Nithish KUMAR : 400mh : 10 NOV 1999 : 896 : 96
+AUS : Thomas BYRNE : 400mh : 2004 : 896 : 96
+IND : Sahil KIRO : 400mh :  : 895 : 98

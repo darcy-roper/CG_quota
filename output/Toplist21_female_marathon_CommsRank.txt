@@ -76,3 +76,25 @@ KEN : Judith JERUBET : marathon :  : 1124 : 75
 CAN : Malindi ELMORE : marathon : 13 MAR 1980 : 1123 : 76
 GBR : Clara EVANS : marathon : 27 NOV 1993 : 1119 : 77
 CAN : Natasha WODAK : marathon : 17 DEC 1981 : 1116 : 78
+AUS : Marnie PONTON : marathon : 16 MAR 1984 : 1114 : 79
+GBR : Rosie EDWARDS : marathon : 20 AUG 1988 : 1114 : 80
+GBR : Rebecca GENTRY : marathon :  : 1113 : 81
+KEN : Prisca JEPTOO : marathon : 24 JUN 1984 : 1112 : 82
+GBR : Samantha HARRISON : marathon : 01 FEB 1995 : 1109 : 83
+AUS : Sarah KLEIN : marathon : 19 APR 1985 : 1107 : 84
+KEN : Gladys JERONO : marathon : 04 NOV 1992 : 1105 : 85
+CAN : Lanni MARCHANT : marathon : 11 APR 1984 : 1104 : 86
+AUS : Ellie PASHLEY : marathon : 10 DEC 1988 : 1097 : 87
+KEN : Pascalia JEPKOGEI : marathon :  : 1093 : 88
+GBR : Sarah INGLIS : marathon : 28 AUG 1991 : 1092 : 89
+KEN : Benoy CHERUIYOT : marathon : 16 JUL 1990 : 1091 : 90
+AUS : Lisa WEIGHTMAN : marathon : 16 JAN 1979 : 1090 : 91
+GBR : Becky BRIGGS : marathon : 02 MAR 2000 : 1088 : 92
+KEN : Lillian JELAGAT : marathon : 23 JAN 1989 : 1083 : 93
+NAM : Alina ARMAS : marathon : 10 DEC 1983 : 1083 : 94
+KEN : Monica CHERUTO : marathon :  : 1081 : 95
+KEN : Alice Jepkemboi KIMUTAI : marathon : 07 SEP 1992 : 1077 : 96
+KEN : Ruth MATEBO : marathon : 07 FEB 1988 : 1073 : 97
+KEN : Caroline CHEPKWONY : marathon : 24 JUL 1985 : 1073 : 98
+KEN : Salina JEBET : marathon : 11 DEC 1986 : 1069 : 99
+KEN : Grace MOMANYI : marathon : 13 FEB 1981 : 1068 : 100

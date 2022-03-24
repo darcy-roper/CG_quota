@@ -10,31 +10,33 @@ MAS : Kirthana RAMASAMY : triple-jump : 04 AUG 1997 : 1007 : 9
 NZL : Anna THOMSON : triple-jump : 14 MAY 1995 : 1002 : 10
 IND : J. COLESHIYA : triple-jump : 24 NOV 2002 : 1006 : 11
 IND : Meera SHIBU : triple-jump : 25 JUL 2002 : 1001 : 12
-AUS : Caitlin BLACKMAN : triple-jump : 17 DEC 2000 : 995 : 13
-IND : I. ASHA : triple-jump : 18 JUN 1999 : 987 : 14
-IND : P. BABISHA : triple-jump : 26 DEC 2001 : 985 : 15
-AUS : Jessie HARPER : triple-jump : 18 APR 1996 : 981 : 15
-AUS : Emilaya ELLIS : triple-jump : 14 JUN 2002 : 972 : 17
-IND : Arshdeep KAUR : triple-jump : 02 NOV 1999 : 968 : 18
-AUS : Charlotte MCGILL : triple-jump : 15 JAN 2002 : 967 : 19
-SRI : K.A.A. SEWWANDI : triple-jump :  : 965 : 20
-AUS : Linda LEVERTON : triple-jump : 22 MAR 1987 : 963 : 21
-SRI : Randi HEMASHA COORAY : triple-jump :  : 959 : 22
-IND : P.R. AISWARYA : triple-jump : 18 NOV 1999 : 950 : 23
-JAM : Jo-anna PINNOCK : triple-jump : 26 NOV 2003 : 945 : 24
-IND : Gayathry SIVAKUMAR : triple-jump : 26 FEB 2001 : 946 : 25
-IND : Anu MATHEW : triple-jump : 07 JAN 2002 : 939 : 26
-MLT : Rebecca SARE : triple-jump : 25 JUN 1991 : 937 : 27
-AUS : Sophie ZARAFA : triple-jump : 2005 : 933 : 28
-IND : Sawant POORVA : triple-jump : 23 JAN 2003 : 933 : 28
-AUS : Kaelah ELVISH : triple-jump : 07 NOV 2000 : 929 : 30
-AUS : Eloise MILLINGTON : triple-jump : 20 APR 2001 : 926 : 31
-AUS : Nancy AGOSTINO : triple-jump : 2005 : 926 : 31
-JAM : Sherika CHRISTIE : triple-jump : 23 FEB 2004 : 926 : 33
-JAM : Jade-Ann DAWKINS : triple-jump : 07 SEP 2005 : 923 : 34
-AUS : Zara KECA : triple-jump : 08 MAY 1998 : 921 : 35
-CAN : Busola AKINDURO : triple-jump : 2002 : 926 : 35
-AUS : Katherine BAYNES : triple-jump : 2005 : 919 : 37
-AUS : Siena FARRELL : triple-jump : 2006 : 918 : 38
-GBR : Allison WILDER : triple-jump : 30 OCT 1988 : 918 : 38
-JAM : Serena COLE : triple-jump : 26 JUN 2004 : 914 : 40
+CAN : Busola AKINDURO : triple-jump : 2002 : 997 : 13
+AUS : Caitlin BLACKMAN : triple-jump : 17 DEC 2000 : 995 : 14
+IND : I. ASHA : triple-jump : 18 JUN 1999 : 987 : 15
+IND : P. BABISHA : triple-jump : 26 DEC 2001 : 985 : 16
+AUS : Jessie HARPER : triple-jump : 18 APR 1996 : 981 : 16
+AUS : Emilaya ELLIS : triple-jump : 14 JUN 2002 : 972 : 18
+IND : Arshdeep KAUR : triple-jump : 02 NOV 1999 : 968 : 19
+AUS : Charlotte MCGILL : triple-jump : 15 JAN 2002 : 967 : 20
+SRI : K.A.A. SEWWANDI : triple-jump :  : 965 : 21
+AUS : Linda LEVERTON : triple-jump : 22 MAR 1987 : 963 : 22
+JAM : Danielle SPENCE : triple-jump : 01 SEP 1998 : 962 : 23
+SRI : Randi HEMASHA COORAY : triple-jump :  : 959 : 24
+IND : P.R. AISWARYA : triple-jump : 18 NOV 1999 : 950 : 25
+JAM : Jo-anna PINNOCK : triple-jump : 26 NOV 2003 : 945 : 26
+IND : Gayathry SIVAKUMAR : triple-jump : 26 FEB 2001 : 946 : 27
+IND : Anu MATHEW : triple-jump : 07 JAN 2002 : 939 : 28
+MLT : Rebecca SARE : triple-jump : 25 JUN 1991 : 937 : 29
+AUS : Sophie ZARAFA : triple-jump : 2005 : 933 : 30
+IND : Sawant POORVA : triple-jump : 23 JAN 2003 : 933 : 30
+AUS : Kaelah ELVISH : triple-jump : 07 NOV 2000 : 929 : 32
+AUS : Eloise MILLINGTON : triple-jump : 20 APR 2001 : 926 : 33
+AUS : Nancy AGOSTINO : triple-jump : 2005 : 926 : 33
+JAM : Sherika CHRISTIE : triple-jump : 23 FEB 2004 : 926 : 35
+JAM : Jade-Ann DAWKINS : triple-jump : 07 SEP 2005 : 923 : 36
+AUS : Zara KECA : triple-jump : 08 MAY 1998 : 921 : 37
+AUS : Katherine BAYNES : triple-jump : 2005 : 919 : 38
+AUS : Siena FARRELL : triple-jump : 2006 : 918 : 39
+GBR : Allison WILDER : triple-jump : 30 OCT 1988 : 918 : 39
+BAH : Amelia PETERSON : triple-jump : 13 APR 2000 : 916 : 41
+JAM : Serena COLE : triple-jump : 26 JUN 2004 : 914 : 42

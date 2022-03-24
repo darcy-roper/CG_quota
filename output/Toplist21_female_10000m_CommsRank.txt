@@ -30,7 +30,7 @@ KEN : Sandrafelis Chebet TUEI : 10000m : 20 JAN 1998 : 1150 : 29
 KEN : Vane Nyaboke NYANAMBA : 10000m : 17 APR 1994 : 1147 : 30
 KEN : Tabithanjeri KAMAU : 10000m : 03 JUL 2000 : 1146 : 31
 KEN : Pauline Chemning KORIKWIANG : 10000m : 01 MAR 1988 : 1144 : 32
-KEN : Caroline NYAGA : 10000m : 10 JUL 1993 : 1143 : 33
+KEN : Caroline NYAGA : 10000m : 07 OCT 1993 : 1143 : 33
 KEN : Pauline KAMULU : 10000m : 30 DEC 1994 : 1140 : 34
 KEN : Perine NENGAMPI : 10000m : 1989 : 1137 : 35
 KEN : Rebecca MWANGI : 10000m : 15 JUN 2001 : 1134 : 36

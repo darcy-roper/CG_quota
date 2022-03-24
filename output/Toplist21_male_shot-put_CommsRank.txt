@@ -85,7 +85,7 @@ GBR : Samuel HEAWOOD : shot-put : 25 SEP 1990 : 921 : 84
 IND : Parveen DAHIYA : shot-put : 10 OCT 1993 : 921 : 84
 IND : Abhilash SAXENA : shot-put : 05 JUL 1993 : 917 : 86
 IND : Pradeep RANDHAWA : shot-put :  : 915 : 87
-JAM : Rasheed DOWNER : shot-put :  : 912 : 88
+JAM : Rasheed DOWNER : shot-put : 1999 : 912 : 88
 IND : Shakti SOLANKI : shot-put : 17 DEC 1996 : 911 : 89
 FIJ : Mustafa William FALL : shot-put : 11 APR 1995 : 911 : 89
 MAS : Mohd ZIYAD ZULKIFLI : shot-put : 15 MAR 1990 : 911 : 91

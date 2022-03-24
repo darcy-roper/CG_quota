@@ -1,93 +1,100 @@
 NZL : Maddison-Lee WESCHE : shot-put : 13 JUN 1999 : 1151 : 1
 CAN : Sarah MITTON : shot-put : 20 JUN 1996 : 1136 : 2
-IND : Abha KHATUA : shot-put : 07 SEP 1995 : 1028 : 3
-GBR : Amelia STRICKLER : shot-put : 24 JAN 1994 : 1014 : 4
-IND : Manpreet KAUR : shot-put : 06 JUL 1990 : 1006 : 5
-IND : Manpreet KAUR : shot-put : 05 MAR 1996 : 1004 : 6
-NZL : Tapenisa HAVEA : shot-put : 19 APR 2003 : 956 : 7
-GBR : Serena VINCENT : shot-put : 05 DEC 2001 : 946 : 8
-AUS : Lyvante SU'EMAI : shot-put : 12 DEC 2002 : 892 : 9
-NZL : Natalia RANKIN-CHITAR : shot-put : 11 MAR 2004 : 888 : 10
-JAM : Janell FULLERTON : shot-put : 17 JUL 1997 : 886 : 11
-IND : . YOGITA : shot-put : 01 NOV 2000 : 884 : 12
-JAM : Britannia JOHNSON : shot-put : 03 JUL 2004 : 874 : 13
-AUS : Emma BERG : shot-put : 19 FEB 2001 : 871 : 14
-IND : V. AMBIKA : shot-put : 13 APR 2000 : 866 : 15
-IND : Kachnar CHAUDHARY : shot-put : 17 MAY 1999 : 858 : 16
-GBR : Teddy TEHOUDJA : shot-put : 27 MAR 2003 : 856 : 17
-NGR : Princess KARA : shot-put : 02 JUN 2000 : 853 : 18
-GRN : Jamora ALVES : shot-put : 12 SEP 2003 : 849 : 19
-RSA : Collette UYS : shot-put : 20 APR 2000 : 848 : 20
-IND : . REKHA : shot-put : 24 JAN 1999 : 842 : 21
-IND : Jasmine KAUR : shot-put : 11 FEB 2003 : 830 : 22
-NZL : Lauren BRUCE : shot-put : 23 MAR 1997 : 827 : 23
-AUS : Sally SHOKRY : shot-put : 14 APR 2002 : 825 : 24
-IND : . REKHA : shot-put : 02 FEB 2001 : 824 : 25
-RSA : Mia VAN OUDSTHOORN : shot-put :  : 823 : 26
-JAM : Samantha HALL : shot-put : 19 APR 1993 : 820 : 27
-AUS : Sinead DU TOIT : shot-put : 05 DEC 2001 : 812 : 28
-CYP : Paraskeovulla THRASYVOULOU : shot-put : 21 FEB 1994 : 812 : 29
-AUS : Alysha BURNETT : shot-put : 04 JAN 1997 : 809 : 30
-IND : Ramneet KAUR : shot-put : 28 DEC 2003 : 803 : 31
-AUS : Sarah THORPE : shot-put : 08 JUN 1999 : 803 : 31
-GBR : Mhairi PORTERFIELD-WALTERS : shot-put : 19 JUN 1981 : 803 : 31
-SRI : Kumudumali FERNANDO : shot-put : 13 OCT 1990 : 802 : 34
-JAM : Leonie SAMUELS : shot-put : 11 SEP 2001 : 801 : 35
-NZL : TeRina KEENAN : shot-put : 29 SEP 1990 : 797 : 36
-RSA : Juanita DE NECKER : shot-put : 10 JUL 2002 : 796 : 37
-JAM : Rochele SOLMON : shot-put : 06 AUG 2004 : 795 : 38
-AUS : Alysha PEARSON : shot-put : 15 JUN 2002 : 795 : 38
-IND : Divya JEETHBHAD : shot-put : 30 APR 1992 : 794 : 40
-JAM : Britannie JOHNSON : shot-put : 03 JUL 2004 : 791 : 41
-JAM : Tafada WRIGHT : shot-put : 01 DEC 2003 : 791 : 42
-AUS : Rebecca LODGE : shot-put : 25 MAR 1994 : 789 : 43
-JAM : Shadae LAWRENCE : shot-put : 31 DEC 1995 : 788 : 44
-AUS : Marley RAIKIWASA : shot-put : 07 AUG 2005 : 788 : 44
-KEN : Sarah OTIENO : shot-put : 1996 : 788 : 44
-AUS : Tahlee FERGUSON : shot-put : 21 JUL 2003 : 786 : 47
-NZL : Lexi MAPLES : shot-put : 17 DEC 1999 : 785 : 48
-JAM : Cedricka WILLIAMS : shot-put : 02 JUN 2004 : 784 : 49
-IND : Jyoti VAISHNAV : shot-put : 26 JAN 2004 : 780 : 50
-AUS : Isabella HIPPEL : shot-put : 14 JAN 2004 : 778 : 51
-IND : Prity CHAKRABORTY : shot-put : 30 MAR 2002 : 778 : 51
-JAM : Monifa EDWARDS : shot-put : 02 OCT 2002 : 776 : 53
-AUS : Kaitlyn COULTER : shot-put : 15 DEC 2004 : 774 : 54
-JAM : Natalie ALBERT : shot-put : 14 JUL 2003 : 772 : 55
-AUS : Jessica STEFANOVIC : shot-put : 29 DEC 2004 : 766 : 56
-CAN : Biniosa EZUKUSE : shot-put : 2002 : 766 : 56
-CMR : Frederick LEMONGO NKOULOU : shot-put : 10 AUG 2004 : 765 : 58
-CMR : Jolivette Suzie METSADONG : shot-put : 02 FEB 1996 : 765 : 59
-NZL : Christina RYAN : shot-put : 15 FEB 1998 : 763 : 60
-AUS : Xylavene BEALE : shot-put : 16 JAN 2006 : 760 : 61
-AUS : Tori WEST : shot-put : 14 OCT 1995 : 760 : 62
-JAM : Juliet SMITH : shot-put : 11 JUN 2004 : 759 : 63
-AUS : Natalia LESZCZYNSKI : shot-put : 2004 : 758 : 64
-AUS : Alyssa KAPRANOV : shot-put : 2003 : 755 : 65
-JAM : Shania STEPHENS : shot-put :  : 753 : 66
-KEN : Felister BOSIRE : shot-put :  : 753 : 66
-AUS : Sina WILDRAUT : shot-put : 02 NOV 1999 : 752 : 68
-SRI : Ovini CHANDRASEKARA : shot-put : 2003 : 751 : 69
-IND : Sawari SHINDE : shot-put : 26 FEB 2002 : 751 : 69
-MAS : Nani Shahirah MARYATA : shot-put : 20 MAY 2001 : 751 : 69
-AUS : Taylor LARSSON : shot-put : 2006 : 750 : 72
-NZL : Kathie HALLIE : shot-put : 2007 : 749 : 73
-JAM : Damali WILLIAMS : shot-put : 20 NOV 2003 : 747 : 74
-NZL : Caitlin BONNE : shot-put : 23 FEB 2000 : 745 : 75
-AUS : Mia SCERRI : shot-put : 26 MAR 2005 : 745 : 75
-JAM : Shania PARKINSON : shot-put : 26 NOV 2000 : 745 : 75
-AUS : Ateca Grace ULUIBUROTU : shot-put :  : 744 : 78
-JAM : Victoria CHRISTIE : shot-put : 2005 : 743 : 79
-AUS : Penny GIDDY : shot-put : 2003 : 741 : 80
-NZL : Alexandria MAPLES : shot-put :  : 738 : 81
-SRI : P.A.Priyangika KUMARI : shot-put :  : 734 : 82
-JAM : Rickea ATKINS : shot-put : 19 FEB 2004 : 732 : 83
-AUS : Zoe BEITH : shot-put : 2005 : 732 : 84
-ZAM : Mary FWAMBO : shot-put : 12 OCT 1998 : 728 : 85
-IND : M. SHARMILA : shot-put : 30 SEP 2003 : 723 : 86
-AUS : Jessica SIVIOUR : shot-put : 19 DEC 1998 : 721 : 87
-AUS : Emma POLIKOWSKI : shot-put : 2005 : 721 : 88
-AUS : Amber LAWLESS : shot-put : 2004 : 719 : 89
-AUS : Rachel HOSIE : shot-put : 14 FEB 2002 : 718 : 90
-NZL : Maddie WILSON : shot-put : 05 APR 2002 : 711 : 91
-AUS : Jessica MACKENZIE : shot-put : 25 MAY 2001 : 711 : 91
-JAM : Sherika CHRISTIE : shot-put : 23 FEB 2004 : 710 : 93
+CAN : Brittany CREW : shot-put : 06 MAR 1994 : 1034 : 3
+IND : Abha KHATUA : shot-put : 07 SEP 1995 : 1028 : 4
+GBR : Amelia STRICKLER : shot-put : 24 JAN 1994 : 1014 : 5
+IND : Manpreet KAUR : shot-put : 06 JUL 1990 : 1006 : 6
+IND : Manpreet KAUR : shot-put : 05 MAR 1996 : 1004 : 7
+NZL : Tapenisa HAVEA : shot-put : 19 APR 2003 : 956 : 8
+GBR : Serena VINCENT : shot-put : 05 DEC 2001 : 946 : 9
+RSA : Collette UYS : shot-put : 20 APR 2000 : 939 : 10
+JAM : Danielle SLOLEY : shot-put : 17 JUN 2001 : 917 : 11
+GBR : Nana GYEDU : shot-put : 04 NOV 2002 : 897 : 12
+NGR : Princess KARA : shot-put : 02 JUN 2000 : 895 : 13
+AUS : Lyvante SU'EMAI : shot-put : 12 DEC 2002 : 892 : 14
+NZL : Natalia RANKIN-CHITAR : shot-put : 11 MAR 2004 : 888 : 15
+JAM : Janell FULLERTON : shot-put : 17 JUL 1997 : 886 : 16
+CAY : Lacee BARNES : shot-put : 19 AUG 1999 : 886 : 16
+IND : . YOGITA : shot-put : 01 NOV 2000 : 884 : 18
+JAM : Britannia JOHNSON : shot-put : 03 JUL 2004 : 874 : 19
+GBR : Sarah OMOREGIE : shot-put : 02 APR 2000 : 873 : 20
+AUS : Emma BERG : shot-put : 19 FEB 2001 : 871 : 21
+IND : V. AMBIKA : shot-put : 13 APR 2000 : 866 : 22
+IND : Kachnar CHAUDHARY : shot-put : 17 MAY 1999 : 858 : 23
+GBR : Teddy TEHOUDJA : shot-put : 27 MAR 2003 : 856 : 24
+GRN : Jamora ALVES : shot-put : 12 SEP 2003 : 849 : 25
+IND : . REKHA : shot-put : 24 JAN 1999 : 842 : 26
+JAM : Samantha HALL : shot-put : 19 APR 1993 : 841 : 27
+TTO : Ianna ROACH : shot-put : 17 JAN 2000 : 837 : 28
+IND : Jasmine KAUR : shot-put : 11 FEB 2003 : 830 : 29
+NZL : Lauren BRUCE : shot-put : 23 MAR 1997 : 827 : 30
+AUS : Sally SHOKRY : shot-put : 14 APR 2002 : 825 : 31
+IND : . REKHA : shot-put : 02 FEB 2001 : 824 : 32
+RSA : Mia VAN OUDSTHOORN : shot-put :  : 823 : 33
+AUS : Sinead DU TOIT : shot-put : 05 DEC 2001 : 812 : 34
+CYP : Paraskeovulla THRASYVOULOU : shot-put : 21 FEB 1994 : 812 : 35
+JAM : Rochele SOLMON : shot-put : 06 AUG 2004 : 811 : 36
+AUS : Alysha BURNETT : shot-put : 04 JAN 1997 : 809 : 37
+CAN : Dolly GABRI : shot-put : 09 SEP 2001 : 807 : 38
+IND : Ramneet KAUR : shot-put : 28 DEC 2003 : 803 : 39
+AUS : Sarah THORPE : shot-put : 08 JUN 1999 : 803 : 39
+GBR : Mhairi PORTERFIELD-WALTERS : shot-put : 19 JUN 1981 : 803 : 39
+RSA : Bodine DEGLI UMBERTI : shot-put : 31 JAN 2002 : 802 : 42
+SRI : Kumudumali FERNANDO : shot-put : 13 OCT 1990 : 802 : 43
+JAM : Leonie SAMUELS : shot-put : 11 SEP 2001 : 801 : 44
+NZL : TeRina KEENAN : shot-put : 29 SEP 1990 : 797 : 45
+RSA : Juanita DE NECKER : shot-put : 10 JUL 2002 : 796 : 46
+GBR : Samantha CALLAWAY : shot-put : 04 MAR 2002 : 796 : 47
+AUS : Alysha PEARSON : shot-put : 15 JUN 2002 : 795 : 48
+JAM : Shania SCOTT : shot-put : 04 FEB 2000 : 795 : 48
+IND : Divya JEETHBHAD : shot-put : 30 APR 1992 : 794 : 50
+JAM : Britannie JOHNSON : shot-put : 03 JUL 2004 : 791 : 51
+JAM : Tafada WRIGHT : shot-put : 01 DEC 2003 : 791 : 52
+AUS : Rebecca LODGE : shot-put : 25 MAR 1994 : 789 : 53
+JAM : Shadae LAWRENCE : shot-put : 31 DEC 1995 : 788 : 54
+AUS : Marley RAIKIWASA : shot-put : 07 AUG 2005 : 788 : 54
+KEN : Sarah OTIENO : shot-put : 1996 : 788 : 54
+AUS : Tahlee FERGUSON : shot-put : 21 JUL 2003 : 786 : 57
+NZL : Lexi MAPLES : shot-put : 17 DEC 1999 : 785 : 58
+JAM : Cedricka WILLIAMS : shot-put : 02 JUN 2004 : 784 : 59
+IND : Jyoti VAISHNAV : shot-put : 26 JAN 2004 : 780 : 60
+JAM : Monifa EDWARDS : shot-put : 02 OCT 2002 : 779 : 61
+AUS : Isabella HIPPEL : shot-put : 14 JAN 2004 : 778 : 62
+IND : Prity CHAKRABORTY : shot-put : 30 MAR 2002 : 778 : 62
+AUS : Kaitlyn COULTER : shot-put : 15 DEC 2004 : 774 : 64
+CAN : Biniosa EZUKUSE : shot-put : 2002 : 774 : 64
+JAM : Natalie ALBERT : shot-put : 14 JUL 2003 : 772 : 66
+BAH : Canitra MACKEY : shot-put : 28 SEP 2002 : 770 : 67
+JAM : Juliet SMITH : shot-put : 11 JUN 2004 : 770 : 67
+JAM : Rickea ATKINS : shot-put : 19 FEB 2004 : 767 : 69
+AUS : Jessica STEFANOVIC : shot-put : 29 DEC 2004 : 766 : 70
+CMR : Frederick LEMONGO NKOULOU : shot-put : 10 AUG 2004 : 765 : 71
+CMR : Jolivette Suzie METSADONG : shot-put : 02 FEB 1996 : 765 : 72
+NZL : Christina RYAN : shot-put : 15 FEB 1998 : 763 : 73
+IVB : Trevia GUMBS : shot-put : 27 SEP 1996 : 763 : 73
+AUS : Xylavene BEALE : shot-put : 16 JAN 2006 : 760 : 75
+AUS : Tori WEST : shot-put : 14 OCT 1995 : 760 : 76
+RSA : Lesedi KHUNOU : shot-put : 04 AUG 2004 : 760 : 76
+AUS : Natalia LESZCZYNSKI : shot-put : 2004 : 758 : 78
+AUS : Alyssa KAPRANOV : shot-put : 2003 : 755 : 79
+JAM : Shania STEPHENS : shot-put :  : 753 : 80
+KEN : Felister BOSIRE : shot-put :  : 753 : 80
+AUS : Sina WILDRAUT : shot-put : 02 NOV 1999 : 752 : 82
+SRI : Ovini CHANDRASEKARA : shot-put : 2003 : 751 : 83
+IND : Sawari SHINDE : shot-put : 26 FEB 2002 : 751 : 83
+MAS : Nani Shahirah MARYATA : shot-put : 20 MAY 2001 : 751 : 83
+CAN : Julianna THOMSON : shot-put : 20 AUG 1998 : 751 : 83
+AUS : Taylor LARSSON : shot-put : 2006 : 750 : 87
+NZL : Kathie HALLIE : shot-put : 2007 : 749 : 88
+JAM : Damali WILLIAMS : shot-put : 20 NOV 2003 : 747 : 89
+NZL : Caitlin BONNE : shot-put : 23 FEB 2000 : 745 : 90
+AUS : Mia SCERRI : shot-put : 26 MAR 2005 : 745 : 90
+JAM : Shania PARKINSON : shot-put : 26 NOV 2000 : 745 : 90
+AUS : Ateca Grace ULUIBUROTU : shot-put :  : 744 : 93
+JAM : Victoria CHRISTIE : shot-put : 2005 : 743 : 94
+AUS : Penny GIDDY : shot-put : 2003 : 741 : 95
+NZL : Alexandria MAPLES : shot-put :  : 738 : 96
+SRI : P.A.Priyangika KUMARI : shot-put :  : 734 : 97
+AUS : Zoe BEITH : shot-put : 2005 : 732 : 98
+NGR : Veronica UGEH KASIE : shot-put : 17 OCT 1996 : 731 : 99
+ZAM : Mary FWAMBO : shot-put : 12 OCT 1998 : 728 : 100

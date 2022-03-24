@@ -1,22 +1,21 @@
 Eloise WELLINGS : marathon : 09 NOV 1982 : 1198 : 1 : 1181 : 1139 :  :  :  : 13 MAR 2022 : 12 DEC 2021 :  :  : 
 Sinead DIVER : marathon : 17 FEB 1977 : 1185 : 2 : 1120 : 1160 :  :  :  : 07 AUG 2021 : 03 OCT 2021 :  :  : 
-Lisa WEIGHTMAN : marathon : 16 JAN 1979 : 1161 : 3 : 1172 : 1090 :  :  :  : 26 JAN 2020 : 07 AUG 2021 :  :  : 
-Milly CLARK : marathon : 01 MAR 1989 : 1137 : 4 : 1163 : 1106 :  :  :  : 12 DEC 2021 : 13 JUN 2021 :  :  : 
-Jessica STENSON : marathon : 15 AUG 1987 : 1132 : 5 : 1180 : 1080 :  :  :  : 17 OCT 2021 : 13 DEC 2020 :  :  : 
-Ellie PASHLEY : marathon : 10 DEC 1988 : 1107 : 6 : 1118 : 1097 :  :  :  : 02 FEB 2020 : 07 AUG 2021 :  :  : 
-Marnie PONTON : marathon : 16 MAR 1984 : 1082 : 7 : 1114 : 1044 :  :  :  : 12 DEC 2021 : 04 APR 2021 :  :  : 
-Sarah KLEIN : marathon : 19 APR 1985 : 1058 : 8 : 1107 : 1009 :  :  :  : 12 DEC 2021 : 04 APR 2021 :  :  : 
-Michelle PEARSON : marathon : 1991 : 1020 : 9 : 1034 : 1006 :  :  :  : 23 MAY 2021 : 28 NOV 2021 :  :  : 
-Marina WONG : marathon : 14 DEC 1978 : 1019 : 10 : 1036 : 998 :  :  :  : 12 DEC 2021 : 06 JUN 2021 :  :  : 
-Tamara CARVOLTH : marathon : 17 JUL 1990 : 994 : 11 : 1002 : 985 :  :  :  : 28 MAR 2021 : 06 JUN 2021 :  :  : 
-Vanessa WILSON : marathon : 1981 : 992 : 12 : 1033 : 951 :  :  :  : 12 DEC 2021 : 11 APR 2021 :  :  : 
-Rosie WEBER : marathon : 12 MAR 1993 : 989 : 13 : 1030 : 948 :  :  :  : 12 DEC 2021 : 11 APR 2021 :  :  : 
-Melissah GIBSON : marathon : 1984 : 986 : 14 : 1001 : 971 :  :  :  : 20 FEB 2022 : 19 DEC 2021 :  :  : 
-Rebecca BROWN : marathon :  : 965 : 15 : 983 : 947 :  :  :  : 12 DEC 2021 : 13 DEC 2020 :  :  : 
-Meriem DAOUI : marathon : 24 JAN 1999 : 928 : 16 : 968 : 889 :  :  :  : 13 JUN 2021 : 12 DEC 2021 :  :  : 
-Rose DINGEMANSE : marathon :  : 912 : 17 : 929 : 896 :  :  :  : 12 DEC 2021 : 13 JUN 2021 :  :  : 
-Debbie DONALD : marathon :  : 898 : 18 : 918 : 877 :  :  :  : 17 OCT 2021 : 28 NOV 2021 :  :  : 
-Erchana MURRAY-BARTLETT : marathon : 02 MAR 1990 : 893 : 19 : 905 : 878 :  :  :  : 11 APR 2021 : 06 JUN 2021 :  :  : 
-Harriette SLATER : marathon :  : 852 : 20 : 858 : 846 :  :  :  : 12 DEC 2021 : 04 APR 2021 :  :  : 
-Greer WILSON : marathon :  : 850 : 21 : 865 : 835 :  :  :  : 11 APR 2021 : 06 JUN 2021 :  :  : 
-Alexandra MEEK : marathon :  : 838 : 22 : 864 : 812 :  :  :  : 17 OCT 2021 : 28 NOV 2021 :  :  : 
+Milly CLARK : marathon : 01 MAR 1989 : 1137 : 3 : 1163 : 1106 :  :  :  : 12 DEC 2021 : 13 JUN 2021 :  :  : 
+Jessica STENSON : marathon : 15 AUG 1987 : 1132 : 4 : 1180 : 1080 :  :  :  : 17 OCT 2021 : 13 DEC 2020 :  :  : 
+Ellie PASHLEY : marathon : 10 DEC 1988 : 1107 : 5 : 1118 : 1097 :  :  :  : 02 FEB 2020 : 07 AUG 2021 :  :  : 
+Marnie PONTON : marathon : 16 MAR 1984 : 1082 : 6 : 1114 : 1044 :  :  :  : 12 DEC 2021 : 04 APR 2021 :  :  : 
+Sarah KLEIN : marathon : 19 APR 1985 : 1058 : 7 : 1107 : 1009 :  :  :  : 12 DEC 2021 : 04 APR 2021 :  :  : 
+Michelle PEARSON : marathon : 1991 : 1020 : 8 : 1034 : 1006 :  :  :  : 23 MAY 2021 : 28 NOV 2021 :  :  : 
+Marina WONG : marathon : 14 DEC 1978 : 1019 : 9 : 1036 : 998 :  :  :  : 12 DEC 2021 : 06 JUN 2021 :  :  : 
+Tamara CARVOLTH : marathon : 17 JUL 1990 : 994 : 10 : 1002 : 985 :  :  :  : 28 MAR 2021 : 06 JUN 2021 :  :  : 
+Vanessa WILSON : marathon : 1981 : 992 : 11 : 1033 : 951 :  :  :  : 12 DEC 2021 : 11 APR 2021 :  :  : 
+Rosie WEBER : marathon : 12 MAR 1993 : 989 : 12 : 1030 : 948 :  :  :  : 12 DEC 2021 : 11 APR 2021 :  :  : 
+Melissah GIBSON : marathon : 1984 : 986 : 13 : 1001 : 971 :  :  :  : 20 FEB 2022 : 19 DEC 2021 :  :  : 
+Rebecca BROWN : marathon :  : 965 : 14 : 983 : 947 :  :  :  : 12 DEC 2021 : 13 DEC 2020 :  :  : 
+Meriem DAOUI : marathon : 24 JAN 1999 : 928 : 15 : 968 : 889 :  :  :  : 13 JUN 2021 : 12 DEC 2021 :  :  : 
+Rose DINGEMANSE : marathon :  : 912 : 16 : 929 : 896 :  :  :  : 12 DEC 2021 : 13 JUN 2021 :  :  : 
+Debbie DONALD : marathon :  : 898 : 17 : 918 : 877 :  :  :  : 17 OCT 2021 : 28 NOV 2021 :  :  : 
+Erchana MURRAY-BARTLETT : marathon : 02 MAR 1990 : 893 : 18 : 905 : 878 :  :  :  : 11 APR 2021 : 06 JUN 2021 :  :  : 
+Harriette SLATER : marathon :  : 852 : 19 : 858 : 846 :  :  :  : 12 DEC 2021 : 04 APR 2021 :  :  : 
+Greer WILSON : marathon :  : 850 : 20 : 865 : 835 :  :  :  : 11 APR 2021 : 06 JUN 2021 :  :  : 
+Alexandra MEEK : marathon :  : 838 : 21 : 864 : 812 :  :  :  : 17 OCT 2021 : 28 NOV 2021 :  :  : 

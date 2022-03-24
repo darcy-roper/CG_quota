@@ -82,7 +82,7 @@ IND : Yashwanth KUMAR : 110mh : 28 AUG 2001 : 1021 : 80
 JAM : Lloyd FACEY : 110mh : 1999 : 1020 : 82
 SRI : Janidu Induwara LAKVIJAYA : 110mh : 29 DEC 2000 : 1018 : 83
 TTO : Aaron LEWIS : 110mh : 23 JAN 1996 : 1021 : 83
-CAN : Payne WYLIE : 110mh : 26 JAN 2000 : 1016 : 85
+CAN : Payne WYLIE : 110mh : 26 JUN 2000 : 1016 : 85
 JAM : Marvin WILLIAMS : 110mh : 13 JUN 1996 : 1015 : 86
 NGR : Prosper Oghenemine EKPORORE : 110mh : 03 NOV 2002 : 1014 : 86
 JAM : Richard PHILLIPS : 110mh : 26 JAN 1983 : 1012 : 88

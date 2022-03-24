@@ -70,7 +70,7 @@ JAM : Adrian RILEY : long-jump : 22 JAN 1994 : 1073 : 69
 AUS : Jeremy ANDREWS : long-jump : 03 NOV 1992 : 1071 : 70
 JAM : Safin WILLS : long-jump : 21 AUG 2000 : 1070 : 70
 RSA : Abdud-Daiyaan WYNGAARD : long-jump : 04 JUN 2002 : 1074 : 72
-GBR : Jacob FINCHAM-DUKES : long-jump : 12 JAN 1997 : 1066 : 73
+GBR : Jacob FINCHAM-DUKES : long-jump : 01 DEC 1997 : 1066 : 73
 JAM : Aubrey ALLEN : long-jump : 19 JUL 1994 : 1066 : 73
 AUS : William FREYER : long-jump : 26 OCT 1999 : 1065 : 75
 CMR : Fredy Kevin OYONO : long-jump : 23 JUL 1997 : 1064 : 75
