@@ -1,100 +1,100 @@
-NZL : Valerie ADAMS : shot-put : 06 OCT 1984 : 1192 : 1
-JAM : Danniel THOMAS-DODD : shot-put : 11 NOV 1992 : 1161 : 2
-NZL : Maddison-Lee WESCHE : shot-put : 13 JUN 1999 : 1144 : 3
-CAN : Sarah MITTON : shot-put : 20 JUN 1996 : 1138 : 4
-TTO : Portious WARREN : shot-put : 02 MAR 1996 : 1129 : 5
-GBR : Sophie MCKINNA : shot-put : 31 AUG 1994 : 1112 : 6
-JAM : Lloydricia CAMERON : shot-put : 08 APR 1996 : 1103 : 7
-CAN : Brittany CREW : shot-put : 06 MAR 1994 : 1094 : 8
-GBR : Amelia STRICKLER : shot-put : 24 JAN 1994 : 1089 : 9
-NGR : Oyesade OLATOYE : shot-put : 25 JAN 1997 : 1067 : 10
-RSA : Miné DE KLERK : shot-put : 30 MAR 2003 : 1054 : 11
-GBR : Divine OLADIPO : shot-put : 05 OCT 1998 : 1033 : 12
-NGR : Orobosa Anabel FRANK : shot-put : 12 AUG 1991 : 1031 : 13
-GBR : Adele NICOLL : shot-put : 28 SEP 1996 : 1031 : 13
-IND : Manpreet KAUR : shot-put : 05 MAR 1996 : 1024 : 15
-IND : Kiran BALIYAN : shot-put : 06 MAR 1999 : 1019 : 16
-JAM : Devia BROWN : shot-put : 21 MAR 1998 : 1011 : 17
-JAM : Gabrielle BAILEY : shot-put : 19 OCT 1998 : 1007 : 18
-TTO : Cherisse MURRAY : shot-put : 13 SEP 1993 : 1005 : 19
-RSA : Meike STRYDOM : shot-put : 25 AUG 2000 : 1000 : 20
-RSA : Ischke SENEKAL : shot-put : 08 JAN 1993 : 994 : 21
-JAM : Nayoka CLUNIS : shot-put : 07 OCT 1995 : 981 : 22
-IND : Manpreet KAUR : shot-put : 06 JUL 1990 : 980 : 23
-CAN : Grace TENNANT : shot-put : 02 FEB 1999 : 977 : 24
-GBR : Eden FRANCIS : shot-put : 19 OCT 1988 : 976 : 25
-GRN : Kelsie MURREL-ROSS : shot-put : 09 JUN 2002 : 969 : 26
-TTO : Cleopatra BOREL : shot-put : 10 MAR 1979 : 965 : 27
-RSA : Dane ROETS : shot-put : 16 JAN 2002 : 965 : 27
-NZL : Kaia TUPU-SOUTH : shot-put : 09 JUN 2002 : 963 : 29
-IND : Srishti VIG : shot-put : 15 JUL 1995 : 962 : 30
-CAN : Chelsea WHALEN : shot-put : 18 OCT 1992 : 955 : 31
-GBR : Serena VINCENT : shot-put : 05 DEC 2001 : 952 : 32
-CAN : Tasha WILLING : shot-put : 1998 : 951 : 33
-JAM : Sah jay STEVENS : shot-put : 18 JAN 1998 : 950 : 34
-AUS : Lyvante SU'EMAI : shot-put : 12 DEC 2002 : 939 : 35
-IND : Sonal GOYAL : shot-put : 27 MAR 1998 : 937 : 36
-IND : Poorna RAORANE : shot-put : 26 DEC 2000 : 937 : 36
-AUS : Samantha LENTON : shot-put : 11 JUN 1999 : 936 : 38
-RSA : Bodine DEGLI UMBERTI : shot-put : 31 JAN 2002 : 932 : 39
-NZL : Tapenisa HAVEA : shot-put : 19 APR 2003 : 924 : 40
-IND : Abha KHATUA : shot-put : 07 SEP 1995 : 920 : 41
-CAN : Trinity TUTTI : shot-put : 03 MAY 2000 : 903 : 42
-JAM : Danielle SLOLEY : shot-put : 17 JUN 2001 : 902 : 43
-NGR : Hannah KEMELE : shot-put : 12 MAR 2002 : 901 : 44
-GBR : Nana GYEDU : shot-put : 04 NOV 2002 : 897 : 45
-RSA : Juanita DE NECKER : shot-put : 10 JUL 2002 : 894 : 46
-GBR : Sophie MERRITT : shot-put : 09 APR 1998 : 893 : 47
-TTO : Hilenn JAMES : shot-put : 16 MAR 1990 : 893 : 47
-RSA : Collette UYS : shot-put : 20 APR 2000 : 888 : 49
-IVB : Trevia GUMBS : shot-put : 27 SEP 1996 : 886 : 50
-JAM : Kadian CLARKE : shot-put : 06 AUG 1998 : 885 : 51
-CAN : Kaitlin BROOKS : shot-put : 1996 : 884 : 52
-AUS : Julia BOURKE : shot-put : 23 MAY 1998 : 880 : 53
-DMA : Treneese HAMILTON : shot-put : 23 JUN 2003 : 879 : 54
-AUS : Emma BERG : shot-put : 19 FEB 2001 : 877 : 55
-CAN : Dolly GABRI : shot-put : 09 SEP 2001 : 874 : 56
-TTO : Ianna ROACH : shot-put : 17 JAN 2000 : 873 : 57
-IND : V. AMBIKA : shot-put : 13 APR 2000 : 872 : 58
-CAY : Lacee BARNES : shot-put : 19 AUG 1999 : 871 : 59
-CAN : Rachel ANDRES : shot-put : 21 APR 1987 : 868 : 60
-IND : Kachnar CHAUDHARY : shot-put : 17 MAY 1999 : 868 : 61
-GBR : Shauna THOMPSON : shot-put : 08 APR 1992 : 868 : 61
-IND : . REKHA : shot-put : 02 FEB 2001 : 868 : 61
-RSA : Mia VAN OUDSTHOORN : shot-put :  : 866 : 64
-ANT : Jess ST. JOHN : shot-put : 13 DEC 1995 : 865 : 65
-RSA : Angeline SMIT : shot-put : 09 JUN 1998 : 863 : 66
-IND : Anamika DAS : shot-put : 28 MAR 1999 : 861 : 67
-JAM : Marie FORBES : shot-put : 16 MAR 2001 : 860 : 68
-AUS : Alysha BURNETT : shot-put : 04 JAN 1997 : 859 : 69
-NGR : Onome OGBENI : shot-put : 17 JUN 2001 : 857 : 70
-AUS : Tafiti SIIVA : shot-put : 04 MAY 2000 : 853 : 71
-BER : Tiara DEROSA : shot-put : 02 MAY 1998 : 852 : 72
-RSA : Zonica LINDEQUE : shot-put : 23 FEB 2004 : 852 : 72
-IND : P.S UMA : shot-put : 15 NOV 1996 : 850 : 74
-NZL : Natalia RANKIN-CHITAR : shot-put : 11 MAR 2004 : 850 : 75
-JAM : Shania SCOTT : shot-put : 04 FEB 2000 : 849 : 76
-CAN : Julianna THOMSON : shot-put : 20 AUG 1998 : 848 : 77
-GBR : Rhea SOUTHCOTT : shot-put : 30 MAR 2001 : 845 : 78
-CAN : Biniosa EZUKUSE : shot-put : 2002 : 845 : 79
-GBR : Teddy TEHOUDJA : shot-put : 27 MAR 2003 : 842 : 80
-GBR : Omolola KUPONIYI : shot-put : 05 MAR 2004 : 842 : 81
-IND : Harkirat KAUR : shot-put : 08 OCT 1992 : 841 : 82
-CAN : Rebecca HERMAN : shot-put : 1999 : 840 : 83
-IND : . YOGITA : shot-put : 01 NOV 2000 : 839 : 84
-IND : Tunlai NARZARI : shot-put : 10 FEB 1994 : 838 : 85
-GBR : Sabrina FORTUNE : shot-put : 27 MAY 1997 : 837 : 86
-AUS : Sally SHOKRY : shot-put : 14 APR 2002 : 837 : 86
-NGR : Eucharia OGBUKWU : shot-put : 10 FEB 1995 : 835 : 88
-IND : Nidhi PAWAIYA : shot-put : 07 JUL 1997 : 834 : 89
-GBR : Olivia DOBSON : shot-put : 27 MAR 2001 : 833 : 90
-AUS : Kimberly MULHALL : shot-put : 09 JAN 1991 : 828 : 91
-GBR : Amaya SCOTT-RULE : shot-put : 15 FEB 2001 : 825 : 92
-CAN : Dallyssa HUGGINS : shot-put : 31 OCT 1998 : 822 : 93
-NGR : Judith Anulika ANIEFUNA : shot-put : 19 MAY 1996 : 821 : 94
-AUS : Sinead DU TOIT : shot-put : 05 DEC 2001 : 821 : 94
-GBR : Jo ROWLAND : shot-put : 29 DEC 1989 : 821 : 94
-GBR : Holly MILLS : shot-put : 15 APR 2000 : 820 : 97
-JAM : Ayesha CHAMPAGNIE : shot-put : 10 MAR 1996 : 819 : 98
-JAM : Shania PARKINSON : shot-put : 26 NOV 2000 : 817 : 99
-IND : . SHIKSHA : shot-put : 12 DEC 2002 : 817 : 100
+NZL : Valerie ADAMS : shot-put : 06 OCT 1984 : 1192 : 11 JUL 2021 : 1
+JAM : Danniel THOMAS-DODD : shot-put : 11 NOV 1992 : 1161 : 06 JUN 2021 : 2
+NZL : Maddison-Lee WESCHE : shot-put : 13 JUN 1999 : 1144 : 01 AUG 2021 : 3
+CAN : Sarah MITTON : shot-put : 20 JUN 1996 : 1138 : 14 MAY 2021 : 4
+TTO : Portious WARREN : shot-put : 02 MAR 1996 : 1129 : 30 JUL 2021 : 5
+GBR : Sophie MCKINNA : shot-put : 31 AUG 1994 : 1112 : 18 AUG 2021 : 6
+JAM : Lloydricia CAMERON : shot-put : 08 APR 1996 : 1103 : 09 MAY 2021 : 7
+CAN : Brittany CREW : shot-put : 06 MAR 1994 : 1094 : 14 MAY 2021 : 8
+GBR : Amelia STRICKLER : shot-put : 24 JAN 1994 : 1089 : 03 JUL 2021 : 9
+NGR : Oyesade OLATOYE : shot-put : 25 JAN 1997 : 1067 : 15 MAY 2021 : 10
+RSA : Miné DE KLERK : shot-put : 30 MAR 2003 : 1054 : 16 FEB 2021 : 11
+GBR : Divine OLADIPO : shot-put : 05 OCT 1998 : 1033 : 15 MAY 2021 : 12
+NGR : Orobosa Anabel FRANK : shot-put : 08 DEC 1991 : 1031 : 18 JUN 2021 : 13
+GBR : Adele NICOLL : shot-put : 28 SEP 1996 : 1031 : 28 AUG 2021 : 13
+IND : Manpreet KAUR : shot-put : 05 MAR 1996 : 1024 : 20 AUG 2021 : 15
+IND : Kiran BALIYAN : shot-put : 06 MAR 1999 : 1019 : 16 SEP 2021 : 16
+JAM : Devia BROWN : shot-put : 21 MAR 1998 : 1011 : 17 APR 2021 : 17
+JAM : Gabrielle BAILEY : shot-put : 19 OCT 1998 : 1007 : 08 MAY 2021 : 18
+TTO : Cherisse MURRAY : shot-put : 13 SEP 1993 : 1005 : 01 MAY 2021 : 19
+RSA : Meike STRYDOM : shot-put : 25 AUG 2000 : 1000 : 13 MAR 2021 : 20
+RSA : Ischke SENEKAL : shot-put : 08 JAN 1993 : 994 : 15 APR 2021 : 21
+JAM : Nayoka CLUNIS : shot-put : 07 OCT 1995 : 981 : 09 APR 2021 : 22
+IND : Manpreet KAUR : shot-put : 06 JUL 1990 : 980 : 16 SEP 2021 : 23
+CAN : Grace TENNANT : shot-put : 02 FEB 1999 : 977 : 17 APR 2021 : 24
+GBR : Eden FRANCIS : shot-put : 19 OCT 1988 : 976 : 13 JUN 2021 : 25
+GRN : Kelsie MURREL-ROSS : shot-put : 09 JUN 2002 : 969 : 24 APR 2021 : 26
+TTO : Cleopatra BOREL : shot-put : 10 MAR 1979 : 965 : 21 MAR 2021 : 27
+RSA : Dane ROETS : shot-put : 16 JAN 2002 : 965 : 14 MAY 2021 : 27
+NZL : Kaia TUPU-SOUTH : shot-put : 09 JUN 2002 : 963 : 12 JUN 2021 : 29
+IND : Srishti VIG : shot-put : 15 JUL 1995 : 962 : 05 MAR 2021 : 30
+CAN : Chelsea WHALEN : shot-put : 18 OCT 1992 : 955 : 10 APR 2021 : 31
+GBR : Serena VINCENT : shot-put : 05 DEC 2001 : 952 : 20 JUN 2021 : 32
+CAN : Tasha WILLING : shot-put : 1998 : 951 : 09 APR 2021 : 33
+JAM : Sah jay STEVENS : shot-put : 18 JAN 1998 : 950 : 10 APR 2021 : 34
+AUS : Lyvante SU'EMAI : shot-put : 12 DEC 2002 : 939 : 17 FEB 2021 : 35
+IND : Sonal GOYAL : shot-put : 27 MAR 1998 : 937 : 20 JAN 2021 : 36
+IND : Poorna RAORANE : shot-put : 26 DEC 2000 : 937 : 10 APR 2021 : 36
+AUS : Samantha LENTON : shot-put : 11 JUN 1999 : 936 : 15 MAY 2021 : 38
+RSA : Bodine DEGLI UMBERTI : shot-put : 31 JAN 2002 : 932 : 12 MAR 2021 : 39
+NZL : Tapenisa HAVEA : shot-put : 19 APR 2003 : 924 : 11 DEC 2021 : 40
+IND : Abha KHATUA : shot-put : 09 JUL 1995 : 920 : 16 SEP 2021 : 41
+CAN : Trinity TUTTI : shot-put : 03 MAY 2000 : 903 : 12 JUN 2021 : 42
+JAM : Danielle SLOLEY : shot-put : 17 JUN 2001 : 902 : 21 APR 2021 : 43
+NGR : Hannah KEMELE : shot-put : 12 MAR 2002 : 901 : 18 JUN 2021 : 44
+GBR : Nana GYEDU : shot-put : 04 NOV 2002 : 897 : 06 JUN 2021 : 45
+RSA : Juanita DE NECKER : shot-put : 10 JUL 2002 : 894 : 16 FEB 2021 : 46
+GBR : Sophie MERRITT : shot-put : 09 APR 1998 : 893 : 09 APR 2021 : 47
+TTO : Hilenn JAMES : shot-put : 16 MAR 1990 : 893 : 04 JUL 2021 : 47
+RSA : Collette UYS : shot-put : 20 APR 2000 : 888 : 13 MAY 2021 : 49
+IVB : Trevia GUMBS : shot-put : 27 SEP 1996 : 886 : 19 JUN 2021 : 50
+JAM : Kadian CLARKE : shot-put : 06 AUG 1998 : 885 : 10 APR 2021 : 51
+CAN : Kaitlin BROOKS : shot-put : 1996 : 884 : 20 JUL 2021 : 52
+AUS : Julia BOURKE : shot-put : 23 MAY 1998 : 880 : 09 APR 2021 : 53
+DMA : Treneese HAMILTON : shot-put : 23 JUN 2003 : 879 : 03 DEC 2021 : 54
+AUS : Emma BERG : shot-put : 19 FEB 2001 : 877 : 21 FEB 2021 : 55
+CAN : Dolly GABRI : shot-put : 09 SEP 2001 : 874 : 04 MAY 2021 : 56
+TTO : Ianna ROACH : shot-put : 17 JAN 2000 : 873 : 27 MAR 2021 : 57
+IND : V. AMBIKA : shot-put : 13 APR 2000 : 872 : 16 SEP 2021 : 58
+CAY : Lacee BARNES : shot-put : 19 AUG 1999 : 871 : 24 APR 2021 : 59
+CAN : Rachel ANDRES : shot-put : 21 APR 1987 : 868 : 08 AUG 2021 : 60
+IND : Kachnar CHAUDHARY : shot-put : 17 MAY 1999 : 868 : 26 JUN 2021 : 61
+GBR : Shauna THOMPSON : shot-put : 08 APR 1992 : 868 : 04 SEP 2021 : 61
+IND : . REKHA : shot-put : 02 FEB 2001 : 868 : 16 SEP 2021 : 61
+RSA : Mia VAN OUDSTHOORN : shot-put :  : 866 : 16 MAY 2021 : 64
+ANT : Jess ST. JOHN : shot-put : 13 DEC 1995 : 865 : 24 APR 2021 : 65
+RSA : Angeline SMIT : shot-put : 09 JUN 1998 : 863 : 05 MAR 2021 : 66
+IND : Anamika DAS : shot-put : 28 MAR 1999 : 861 : 15 MAR 2021 : 67
+JAM : Marie FORBES : shot-put : 16 MAR 2001 : 860 : 12 MAY 2021 : 68
+AUS : Alysha BURNETT : shot-put : 04 JAN 1997 : 859 : 13 MAR 2021 : 69
+NGR : Onome OGBENI : shot-put : 17 JUN 2001 : 857 : 14 MAY 2021 : 70
+AUS : Tafiti SIIVA : shot-put : 04 MAY 2000 : 853 : 17 APR 2021 : 71
+BER : Tiara DEROSA : shot-put : 02 MAY 1998 : 852 : 07 MAY 2021 : 72
+RSA : Zonica LINDEQUE : shot-put : 23 FEB 2004 : 852 : 22 MAY 2021 : 72
+IND : P.S UMA : shot-put : 15 NOV 1996 : 850 : 20 AUG 2021 : 74
+NZL : Natalia RANKIN-CHITAR : shot-put : 11 MAR 2004 : 850 : 20 NOV 2021 : 75
+JAM : Shania SCOTT : shot-put : 04 FEB 2000 : 849 : 17 APR 2021 : 76
+CAN : Julianna THOMSON : shot-put : 20 AUG 1998 : 848 : 01 MAY 2021 : 77
+GBR : Rhea SOUTHCOTT : shot-put : 30 MAR 2001 : 845 : 22 MAY 2021 : 78
+CAN : Biniosa EZUKUSE : shot-put : 2002 : 845 : 06 JUN 2021 : 79
+GBR : Teddy TEHOUDJA : shot-put : 27 MAR 2003 : 842 : 26 JUN 2021 : 80
+GBR : Omolola KUPONIYI : shot-put : 05 MAR 2004 : 842 : 19 JUN 2021 : 81
+IND : Harkirat KAUR : shot-put : 08 OCT 1992 : 841 : 26 JUN 2021 : 82
+CAN : Rebecca HERMAN : shot-put : 1999 : 840 : 08 MAY 2021 : 83
+IND : . YOGITA : shot-put : 01 NOV 2000 : 839 : 08 MAR 2021 : 84
+IND : Tunlai NARZARI : shot-put : 10 FEB 1994 : 838 : 05 MAR 2021 : 85
+GBR : Sabrina FORTUNE : shot-put : 27 MAY 1997 : 837 : 27 JUN 2021 : 86
+AUS : Sally SHOKRY : shot-put : 14 APR 2002 : 837 : 18 DEC 2021 : 86
+NGR : Eucharia OGBUKWU : shot-put : 10 FEB 1995 : 835 : 10 APR 2021 : 88
+IND : Nidhi PAWAIYA : shot-put : 07 JUL 1997 : 834 : 08 MAR 2021 : 89
+GBR : Olivia DOBSON : shot-put : 27 MAR 2001 : 833 : 14 MAY 2021 : 90
+AUS : Kimberly MULHALL : shot-put : 09 JAN 1991 : 828 : 21 FEB 2021 : 91
+GBR : Amaya SCOTT-RULE : shot-put : 15 FEB 2001 : 825 : 13 MAY 2021 : 92
+CAN : Dallyssa HUGGINS : shot-put : 31 OCT 1998 : 822 : 14 MAY 2021 : 93
+NGR : Judith Anulika ANIEFUNA : shot-put : 19 MAY 1996 : 821 : 10 APR 2021 : 94
+AUS : Sinead DU TOIT : shot-put : 05 DEC 2001 : 821 : 17 APR 2021 : 94
+GBR : Jo ROWLAND : shot-put : 29 DEC 1989 : 821 : 28 AUG 2021 : 94
+GBR : Holly MILLS : shot-put : 15 APR 2000 : 820 : 04 JUL 2021 : 97
+JAM : Ayesha CHAMPAGNIE : shot-put : 10 MAR 1996 : 819 : 20 MAR 2021 : 98
+JAM : Shania PARKINSON : shot-put : 26 NOV 2000 : 817 : 27 MAR 2021 : 99
+IND : . SHIKSHA : shot-put : 12 DEC 2002 : 817 : 06 FEB 2021 : 100

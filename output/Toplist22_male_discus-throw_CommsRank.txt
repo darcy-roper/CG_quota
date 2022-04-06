@@ -1,62 +1,97 @@
-JAM : Fedrick DACRES : discus-throw : 28 FEB 1994 : 1166 : 1
-JAM : Traves SMIKLE : discus-throw : 07 MAY 1992 : 1163 : 2
-AUS : Matthew DENNY : discus-throw : 02 JUN 1996 : 1146 : 3
-JAM : Ralford MULLINGS : discus-throw : 22 NOV 2002 : 1106 : 4
-GBR : Zane DUQUEMIN : discus-throw : 23 SEP 1991 : 1086 : 5
-NZL : Connor BELL : discus-throw : 21 JUN 2001 : 1075 : 6
-RSA : Francois Otieno PRINSLOO : discus-throw : 11 NOV 2001 : 1067 : 7
-JAM : Chad WRIGHT : discus-throw : 25 MAR 1991 : 1065 : 8
-GBR : Gregory THOMPSON : discus-throw : 05 MAY 1994 : 1062 : 9
-GBR : Nicholas PERCY : discus-throw : 05 DEC 1994 : 1056 : 10
-CYP : Christoforos GENETHLI : discus-throw : 19 FEB 1998 : 1055 : 11
-JAM : Kai CHANG : discus-throw : 29 JAN 2000 : 1052 : 12
-CYP : Rafail ANTONIOU : discus-throw : 04 AUG 1995 : 1016 : 13
-MAS : Mohd IRFAN SHAMSUDDIN : discus-throw : 16 AUG 1995 : 1008 : 14
-AUS : Declan CARMAN : discus-throw : 27 JUN 2001 : 995 : 15
-AUS : Mitchell COOPER : discus-throw : 02 JUN 1995 : 993 : 16
-IVB : Djimon Lynere GUMBS : discus-throw : 13 SEP 2000 : 988 : 17
-AUS : Lachlan PAGE : discus-throw : 16 DEC 1997 : 984 : 18
-GBR : Chukwuemeka OSAMMOR : discus-throw : 15 JUN 2001 : 980 : 19
-IND : . VIKASH : discus-throw :  : 976 : 20
-JAM : Javon OSBOURNE : discus-throw : 14 MAY 2002 : 966 : 21
-IVB : Diamante Bryan GUMBS : discus-throw : 13 SEP 2000 : 963 : 22
-GBR : Samuel WOODLEY : discus-throw : 17 NOV 1999 : 948 : 23
-IND : . ABHINAV : discus-throw : 27 OCT 1996 : 943 : 24
-JAM : Glenford WATSON : discus-throw : 11 JUL 1995 : 938 : 25
-JAM : Travis ROBINSON : discus-throw : 15 JAN 2000 : 938 : 26
-IND : Arjun KUMAR : discus-throw : 01 JUL 1993 : 937 : 27
-JAM : Kevin NEDRICK : discus-throw : 11 JAN 1998 : 934 : 28
-IND : Bhanu SHARMA : discus-throw : 19 OCT 1996 : 925 : 29
-RSA : Marco PRETORIUS : discus-throw :  : 922 : 30
-TTO : Christopher CRAWFORD : discus-throw : 2001 : 922 : 31
-AUS : Nicholas DYSON : discus-throw : 15 MAY 1998 : 916 : 32
-IND : Basukesh POONIA : discus-throw : 13 AUG 2000 : 915 : 33
-IND : Deepak DHARIWAL : discus-throw :  : 907 : 34
-MLT : Bradley MIFSUD : discus-throw : 23 JAN 1996 : 904 : 35
-IND : Alex THANKACHAN : discus-throw : 21 MAR 2000 : 891 : 36
-NZL : Kieran FOWLER : discus-throw : 20 AUG 1989 : 891 : 37
-CAN : Johnny VANOS : discus-throw : 1999 : 891 : 38
-NZL : Jade ZAIA : discus-throw : 24 NOV 1999 : 889 : 39
-JAM : Courtney LAWRENCE : discus-throw : 22 SEP 1999 : 886 : 40
-JAM : Nathan REID : discus-throw : 25 FEB 2001 : 885 : 41
-IND : Prashant MALIK : discus-throw : 10 JUL 1991 : 884 : 42
-IND : Arvind RATHEE : discus-throw : 10 SEP 1993 : 882 : 43
-AUS : Etienne ROUSSEAU : discus-throw : 28 FEB 2003 : 876 : 44
-CAN : Tom NEDOW : discus-throw : 1998 : 875 : 45
-BAH : Tarajh HUDSON : discus-throw : 29 NOV 2002 : 874 : 46
-IND : Ikram Ali KHAN : discus-throw : 01 JUL 2001 : 873 : 47
-KEN : Leonard BETT : discus-throw : 1992 : 870 : 48
-MLT : Luke FARRUGIA : discus-throw : 23 NOV 1996 : 870 : 49
-IND : Vikram PARIHAR : discus-throw : 13 NOV 1992 : 868 : 50
-JAM : Warren BARRETT : discus-throw : 09 SEP 1997 : 868 : 50
-CMR : Lucien WANGBA : discus-throw : 08 MAY 1993 : 868 : 52
-GBR : Joe MARTIN : discus-throw : 1999 : 868 : 53
-SAM : Nathaniel SULUPO : discus-throw : 18 FEB 1998 : 867 : 54
-AUS : Daniel GOLUBOVIC : discus-throw : 29 NOV 1993 : 864 : 55
-IND : . PRINCE : discus-throw : 08 APR 2002 : 862 : 56
-IND : Naveen KUMAR : discus-throw :  : 860 : 57
-AUS : Darcy MILLER : discus-throw : 18 APR 2004 : 858 : 58
-GBR : Daniel FLEMING : discus-throw : 27 OCT 1996 : 858 : 59
-IND : Kumar DINESH : discus-throw : 15 JUL 2001 : 848 : 60
-TTO : Umar SANDY : discus-throw : 2002 : 845 : 61
-CYP : Petros MITSIDES : discus-throw : 12 DEC 1977 : 843 : 62
+JAM : Fedrick DACRES : discus-throw : 28 FEB 1994 : 1166 : 26 FEB 2022 : 1
+JAM : Traves SMIKLE : discus-throw : 07 MAY 1992 : 1163 : 19 MAR 2022 : 2
+AUS : Matthew DENNY : discus-throw : 02 JUN 1996 : 1146 : 12 MAR 2022 : 3
+RSA : Victor HOGAN : discus-throw : 25 JUL 1989 : 1142 : 28 JAN 2022 : 4
+JAM : Ralford MULLINGS : discus-throw : 22 NOV 2002 : 1125 : 25 MAR 2022 : 5
+IND : Kirpal SINGH BATTH : discus-throw : 19 MAY 1992 : 1094 : 05 APR 2022 : 6
+GBR : Zane DUQUEMIN : discus-throw : 23 SEP 1991 : 1086 : 27 FEB 2022 : 7
+NZL : Connor BELL : discus-throw : 21 JUN 2001 : 1075 : 06 MAR 2022 : 8
+JAM : Roje STONA : discus-throw : 26 FEB 1999 : 1072 : 02 APR 2022 : 9
+RSA : Francois PRINSLOO : discus-throw : 11 NOV 2001 : 1067 : 12 MAR 2022 : 10
+JAM : Chad WRIGHT : discus-throw : 25 MAR 1991 : 1065 : 26 FEB 2022 : 11
+GBR : Gregory THOMPSON : discus-throw : 05 MAY 1994 : 1062 : 27 FEB 2022 : 12
+GBR : Nicholas PERCY : discus-throw : 05 DEC 1994 : 1056 : 27 FEB 2022 : 13
+CYP : Christoforos GENETHLI : discus-throw : 19 FEB 1998 : 1055 : 04 MAR 2022 : 14
+RSA : Chris VAN NIEKERK : discus-throw : 30 AUG 2000 : 1052 : 19 MAR 2022 : 15
+JAM : Kai CHANG : discus-throw : 29 JAN 2000 : 1052 : 19 MAR 2022 : 16
+RSA : Werner VISSER : discus-throw : 27 FEB 1998 : 1037 : 12 FEB 2022 : 17
+CYP : Rafail ANTONIOU : discus-throw : 04 AUG 1995 : 1016 : 04 MAR 2022 : 18
+AUS : Lachlan PAGE : discus-throw : 16 DEC 1997 : 1016 : 01 APR 2022 : 19
+IVB : Djimon GUMBS : discus-throw : 13 SEP 2000 : 1010 : 24 MAR 2022 : 20
+MAS : Muhammad Irfan SHAMSUDDIN : discus-throw : 16 AUG 1995 : 1008 : 26 FEB 2022 : 21
+JAM : Brandon LLOYD : discus-throw : 28 NOV 2001 : 1005 : 02 APR 2022 : 22
+JAM : Kevin NEDRICK : discus-throw : 11 JAN 1998 : 1001 : 02 APR 2022 : 23
+AUS : Declan CARMAN : discus-throw : 27 JUN 2001 : 995 : 26 FEB 2022 : 24
+AUS : Mitchell COOPER : discus-throw : 02 JUN 1995 : 993 : 05 MAR 2022 : 25
+GBR : Chukwuemeka OSAMMOR : discus-throw : 15 JUN 2001 : 980 : 27 FEB 2022 : 26
+IND : . VIKASH : discus-throw :  : 976 : 06 JAN 2022 : 27
+GBR : Samuel WOODLEY : discus-throw : 17 NOV 1999 : 971 : 02 APR 2022 : 28
+JAM : Nathan REID : discus-throw : 25 FEB 2001 : 970 : 26 MAR 2022 : 29
+JAM : Javon OSBOURNE : discus-throw : 14 MAY 2002 : 966 : 05 MAR 2022 : 30
+IND : Prashant MALIK : discus-throw : 10 JUL 1991 : 963 : 13 MAR 2022 : 31
+IVB : Diamante GUMBS : discus-throw : 13 SEP 2000 : 963 : 18 MAR 2022 : 31
+GBR : Chris SCOTT : discus-throw : 21 MAR 1988 : 948 : 26 MAR 2022 : 33
+JAM : Daniel COPE : discus-throw : 05 MAR 2000 : 947 : 02 APR 2022 : 34
+IND : . ABHINAV : discus-throw : 27 OCT 1996 : 943 : 06 JAN 2022 : 35
+JAM : Glenford WATSON : discus-throw : 11 JUL 1995 : 938 : 26 FEB 2022 : 36
+JAM : Travis ROBINSON : discus-throw : 15 JAN 2000 : 938 : 18 MAR 2022 : 37
+IND : Arjun KUMAR : discus-throw : 01 JUL 1993 : 937 : 27 FEB 2022 : 38
+JAM : Zackery DILLON : discus-throw : 07 MAR 2002 : 937 : 26 MAR 2022 : 38
+IND : Amit KUMAR : discus-throw : 12 OCT 1996 : 931 : 05 APR 2022 : 40
+IND : Bhanu SHARMA : discus-throw : 19 OCT 1996 : 925 : 06 JAN 2022 : 41
+RSA : Marco PRETORIUS : discus-throw : 13 JAN 2004 : 922 : 22 FEB 2022 : 42
+TTO : Christopher CRAWFORD : discus-throw : 2001 : 922 : 27 FEB 2022 : 43
+IND : Praveen KUMAR : discus-throw : 02 FEB 1996 : 921 : 05 APR 2022 : 44
+IND : Lakhwinder SINGH : discus-throw : 29 JUN 1990 : 919 : 13 MAR 2022 : 45
+AUS : Nicholas DYSON : discus-throw : 15 MAY 1998 : 916 : 12 FEB 2022 : 46
+IND : Amit SUKHAMAHENDER : discus-throw :  : 915 : 13 MAR 2022 : 47
+IND : Basukesh POONIA : discus-throw : 13 AUG 2000 : 915 : 06 JAN 2022 : 48
+IND : Deepak DHARIWAL : discus-throw :  : 907 : 06 JAN 2022 : 49
+CMR : Lucien WANGBA : discus-throw : 08 MAY 1993 : 906 : 27 MAR 2022 : 50
+MLT : Bradley MIFSUD : discus-throw : 23 JAN 1996 : 904 : 19 FEB 2022 : 51
+JAM : Deandre LEITH : discus-throw : 10 DEC 1998 : 900 : 26 MAR 2022 : 52
+IND : Deepak YADAV : discus-throw : 12 FEB 2001 : 897 : 05 APR 2022 : 53
+IND : . MANJEET : discus-throw : 17 NOV 1995 : 893 : 05 APR 2022 : 54
+IND : Alex THANKACHAN : discus-throw : 21 MAR 2000 : 891 : 06 JAN 2022 : 55
+NZL : Kieran FOWLER : discus-throw : 20 AUG 1989 : 891 : 26 FEB 2022 : 56
+CAN : Johnny VANOS : discus-throw : 1999 : 891 : 18 MAR 2022 : 57
+IND : Manjeet SURENDER : discus-throw :  : 890 : 13 MAR 2022 : 58
+NZL : Jade ZAIA : discus-throw : 24 NOV 1999 : 889 : 26 FEB 2022 : 59
+JAM : Courtney LAWRENCE : discus-throw : 22 SEP 1999 : 886 : 19 MAR 2022 : 60
+AUS : Darcy MILLER : discus-throw : 18 APR 2004 : 886 : 01 APR 2022 : 61
+IND : Banvir SINGH : discus-throw : 18 JAN 1989 : 882 : 05 APR 2022 : 62
+IND : Arvind RATHEE : discus-throw : 10 SEP 1993 : 882 : 27 FEB 2022 : 63
+IND : Arvind RAMESH : discus-throw :  : 876 : 13 MAR 2022 : 64
+AUS : Etienne ROUSSEAU : discus-throw : 28 FEB 2003 : 876 : 18 FEB 2022 : 65
+RSA : Rocco NORTJE : discus-throw :  : 875 : 23 MAR 2022 : 66
+CAN : Tom NEDOW : discus-throw : 1998 : 875 : 12 MAR 2022 : 67
+BAH : Tarajh HUDSON : discus-throw : 29 NOV 2002 : 874 : 18 MAR 2022 : 68
+IND : Ikram Ali KHAN : discus-throw : 01 JUL 2001 : 873 : 27 FEB 2022 : 69
+IND : Sourabh SATMEHAR : discus-throw :  : 871 : 13 MAR 2022 : 70
+KEN : Leonard BETT : discus-throw : 1992 : 870 : 04 MAR 2022 : 71
+RSA : Llewelyn VAN RENSBURG : discus-throw : 14 JAN 1997 : 870 : 28 JAN 2022 : 72
+MLT : Luke FARRUGIA : discus-throw : 23 NOV 1996 : 870 : 19 FEB 2022 : 72
+IND : Vikram PARIHAR : discus-throw : 13 NOV 1992 : 868 : 27 FEB 2022 : 74
+JAM : Warren BARRETT : discus-throw : 09 SEP 1997 : 868 : 19 MAR 2022 : 74
+GBR : Joe MARTIN : discus-throw : 1999 : 868 : 30 JAN 2022 : 76
+SAM : Nathaniel SULUPO : discus-throw : 18 FEB 1998 : 867 : 05 FEB 2022 : 77
+AUS : Alexander KOLESNIKOFF : discus-throw : 30 SEP 2000 : 865 : 26 MAR 2022 : 78
+AUS : Daniel GOLUBOVIC : discus-throw : 29 NOV 1993 : 864 : 05 MAR 2022 : 79
+IND : Mithravarun SENTHIL KUMAR : discus-throw : 09 JUL 1997 : 864 : 30 MAR 2022 : 79
+IND : Salil CHOUDHARY : discus-throw : 25 JUL 1998 : 864 : 30 MAR 2022 : 79
+IND : . PRINCE : discus-throw : 08 APR 2002 : 862 : 27 FEB 2022 : 82
+IND : Sachin SUHAG : discus-throw : 11 NOV 1996 : 862 : 23 MAR 2022 : 83
+IND : . AMIT : discus-throw : 25 JAN 1999 : 861 : 05 APR 2022 : 84
+IND : Naveen KUMAR : discus-throw :  : 860 : 06 JAN 2022 : 85
+IND : K.C. SIDHARTH : discus-throw : 26 JUN 2001 : 858 : 05 APR 2022 : 86
+GBR : Daniel FLEMING : discus-throw : 27 OCT 1996 : 858 : 13 JAN 2022 : 87
+SGP : Eric Yee CHUN WAI : discus-throw : 01 MAR 1999 : 856 : 20 MAR 2022 : 88
+JAM : Tahj MULLINGS : discus-throw : 14 OCT 1999 : 856 : 02 APR 2022 : 88
+GRN : Josh BOATENG : discus-throw : 28 MAR 1997 : 852 : 24 MAR 2022 : 90
+NGR : Chisom ENEKWECHI : discus-throw :  : 850 : 26 MAR 2022 : 91
+IND : Kumar DINESH : discus-throw : 15 JUL 2001 : 848 : 05 JAN 2022 : 92
+TTO : Umar SANDY : discus-throw : 2002 : 845 : 27 FEB 2022 : 93
+CYP : Petros MITSIDES : discus-throw : 12 DEC 1977 : 843 : 04 MAR 2022 : 94
+IND : Karan SINGH : discus-throw : 05 FEB 1992 : 843 : 30 MAR 2022 : 95
+GRN : Johann JEREMIAH : discus-throw : 03 OCT 2000 : 842 : 02 APR 2022 : 96
+IND : Rishpal SINGH : discus-throw : 04 FEB 1986 : 842 : 30 MAR 2022 : 97

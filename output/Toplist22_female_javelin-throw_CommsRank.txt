@@ -1,98 +1,100 @@
-NZL : Tori PEETERS : javelin-throw : 17 MAY 1994 : 1122 : 1
-AUS : Mackenzie LITTLE : javelin-throw : 22 DEC 1996 : 1099 : 2
-AUS : Kelsey-Lee BARBER : javelin-throw : 20 SEP 1991 : 1084 : 3
-RSA : Mckayla VAN DER WESTHUIZEN : javelin-throw : 11 MAR 2004 : 1039 : 4
-GBR : Rebekah WALTON : javelin-throw : 20 SEP 1999 : 998 : 5
-AUS : Alexandra ROBERTS : javelin-throw : 09 APR 2001 : 975 : 6
-IND : Sharmila KUMARI : javelin-throw : 02 MAR 1995 : 971 : 7
-SRI : Dilhani LEKAMGE : javelin-throw : 14 OCT 1987 : 961 : 8
-AUS : Mackenzie MIELCZAREK : javelin-throw : 06 FEB 2003 : 955 : 9
-AUS : Lianna DAVIDSON : javelin-throw : 08 NOV 2002 : 953 : 10
-NGR : Kelechi NWANAGA : javelin-throw : 24 DEC 1997 : 945 : 11
-IND : Karishma SANIL : javelin-throw : 04 JUN 2000 : 941 : 12
-IND : Sanjana CHOUDHARY : javelin-throw : 09 JUL 1999 : 938 : 13
-GBR : Emma HAMPLETT : javelin-throw : 27 JUL 1998 : 935 : 14
-SRI : Dayana HARSHANI MADUWANTHI : javelin-throw : 06 MAR 1991 : 934 : 15
-RSA : Chane VAN ZYL : javelin-throw : 08 AUG 2002 : 922 : 16
-CAN : Keira MCCARRELL : javelin-throw : 15 MAY 1999 : 914 : 17
-GBR : Emily DIBBLE : javelin-throw : 17 SEP 1999 : 912 : 18
-SRI : Nadeeka LAKMALI : javelin-throw : 18 SEP 1981 : 895 : 19
-AUS : Kiarna WOOLLEY-BLAIN : javelin-throw : 16 APR 2002 : 888 : 20
-IND : Pushpa JAKHAR : javelin-throw : 29 NOV 1997 : 876 : 21
-AUS : Jess BELL : javelin-throw : 13 JAN 2000 : 869 : 22
-KEN : Martha Nthanze MUSAI : javelin-throw : 20 DEC 2002 : 866 : 23
-CYP : Christiana ELLINA : javelin-throw : 18 DEC 2004 : 861 : 24
-RSA : Clarissa WEYER : javelin-throw : 03 DEC 2001 : 855 : 25
-AUS : Tori WEST : javelin-throw : 14 OCT 1995 : 851 : 26
-CAN : Bailey DELL : javelin-throw : 07 OCT 1996 : 844 : 27
-AUS : Christina GRUN : javelin-throw : 03 SEP 1993 : 840 : 28
-CAN : Makayla ROY : javelin-throw : 2002 : 836 : 29
-NZL : Abbey MOODY : javelin-throw : 18 JAN 2004 : 836 : 30
-SRI : S.P.H. SEWWANDI : javelin-throw :  : 835 : 31
-GBR : Lauren FARLEY : javelin-throw : 16 SEP 2001 : 833 : 32
-NZL : Caitlin BONNE : javelin-throw : 23 FEB 2000 : 833 : 33
-IND : . JYOTI : javelin-throw : 01 APR 2002 : 833 : 33
-RSA : Savannah COMBRINK : javelin-throw : 17 APR 2001 : 824 : 35
-IND : Shakshi SHARMA : javelin-throw : 09 FEB 2002 : 819 : 36
-RSA : Leandri LAMPRECHT : javelin-throw : 15 MAR 1999 : 816 : 37
-AUS : Teya SAVILLE : javelin-throw : 29 JAN 2003 : 812 : 38
-AUS : Karen CLARKE : javelin-throw : 23 JUN 1990 : 811 : 39
-KEN : Gladys JEPKEMBOI : javelin-throw : 09 SEP 2002 : 805 : 40
-CAN : Hailey KJAER : javelin-throw :  : 804 : 41
-AUS : Angelina TIGNANI : javelin-throw : 2004 : 802 : 42
-GBR : Bethany MOULE : javelin-throw : 21 NOV 2001 : 801 : 43
-KEN : Salome MORAA : javelin-throw : 04 MAR 1998 : 799 : 44
-AUS : Jade PATCHING : javelin-throw : 2004 : 796 : 45
-AUS : Alysha BURNETT : javelin-throw : 04 JAN 1997 : 795 : 46
-CAN : Jenna REID : javelin-throw : 2001 : 792 : 47
-IND : . ARTI : javelin-throw :  : 791 : 48
-TTO : Talena MURRAY : javelin-throw : 28 OCT 1999 : 790 : 49
-CAN : Alexandria WEBB : javelin-throw : 2002 : 788 : 50
-CAN : Giovanna JANES : javelin-throw : 2000 : 785 : 51
-RSA : Nicole LINDEQUE : javelin-throw : 12 MAY 2003 : 785 : 52
-KEN : Jane JEPLETING : javelin-throw : 1995 : 784 : 53
-GBR : Sophie HAMILTON : javelin-throw : 06 MAY 2004 : 783 : 54
-TTO : Kymoi NORAY : javelin-throw : 22 NOV 2000 : 781 : 55
-RSA : Chandi MULDER : javelin-throw : 19 APR 2002 : 780 : 56
-IND : . HARITA : javelin-throw : 04 DEC 2001 : 778 : 57
-ZAM : Mary FWAMBO : javelin-throw : 12 OCT 1998 : 776 : 58
-IND : Kajal PARMAR : javelin-throw : 01 JUN 1999 : 773 : 59
-AUS : Emma COTGROVE : javelin-throw : 31 AUG 2003 : 773 : 60
-IND : Priya ATTRI : javelin-throw : 01 MAY 2000 : 772 : 61
-CAN : Jenevieve PATRY-SMITH : javelin-throw : 2001 : 766 : 62
-RSA : Ilana JANSEN : javelin-throw : 23 APR 2003 : 766 : 63
-AUS : Phoebe MARSH : javelin-throw : 2003 : 765 : 64
-AUS : Bianca PACKER : javelin-throw : 2004 : 762 : 65
-IND : Manu KUMARI : javelin-throw : 07 FEB 1996 : 762 : 66
-JAM : Jewel COLLINS : javelin-throw : 2001 : 760 : 67
-IND : Uma CHOUDHARY : javelin-throw : 04 OCT 1999 : 757 : 68
-NZL : Holly ROBINSON : javelin-throw : 10 DEC 1994 : 755 : 69
-AUS : Claudia LEGGE : javelin-throw : 2004 : 750 : 70
-AUS : Tiana PAVLOVICH : javelin-throw : 2005 : 747 : 71
-KEN : Jemimah NDANU : javelin-throw :  : 745 : 72
-IND : Diksha DWIVEDI : javelin-throw : 24 JUN 2001 : 740 : 73
-AUS : Elly READ : javelin-throw : 28 MAR 2003 : 739 : 74
-GBR : Olivia DOBSON : javelin-throw : 27 MAR 2001 : 739 : 75
-IND : . TANU : javelin-throw : 14 NOV 2002 : 739 : 76
-AUS : Kajsa SHIELD : javelin-throw : 02 JUL 2004 : 732 : 77
-IND : Vishakha PANWAR : javelin-throw :  : 731 : 78
-AUS : Emma BUTLER : javelin-throw : 16 JAN 1999 : 730 : 79
-AUS : Chloe METCALF : javelin-throw : 07 SEP 1999 : 729 : 80
-IND : Solanki AMISHA : javelin-throw : 23 OCT 2002 : 729 : 81
-JAM : Latavia GALLOWAY : javelin-throw : 11 JAN 2002 : 727 : 82
-MAS : Pavithra Devi JAYAINDRAN : javelin-throw : 1999 : 726 : 83
-IND : Arti MAHATMA : javelin-throw :  : 723 : 84
-MAS : Nur Ayna Nuha MATON : javelin-throw : 11 AUG 2000 : 722 : 85
-GBR : Jessie BROWN : javelin-throw :  : 722 : 86
-IND : . NEHA : javelin-throw : 28 JUL 2002 : 720 : 87
-CYP : Katerina ADAMOU : javelin-throw : 04 APR 2001 : 717 : 88
-IND : . NEELAM : javelin-throw :  : 717 : 89
-GRN : Jamora ALVES : javelin-throw : 12 SEP 2003 : 716 : 90
-TTO : Kenika CASSAR : javelin-throw : 2006 : 716 : 90
-CAN : Sara WAGENVELD : javelin-throw : 1998 : 715 : 92
-GBR : Gaia OSBORNE : javelin-throw : 09 AUG 2000 : 714 : 93
-GBR : Hollie ARNOLD : javelin-throw : 26 JUN 1994 : 714 : 94
-GBR : Erin WATERS : javelin-throw :  : 713 : 95
-AUS : Amie BOWREY : javelin-throw : 15 NOV 2001 : 711 : 96
-GBR : Charlotte COLBERT : javelin-throw :  : 711 : 97
-KEN : Dorothy Chepngetich RIRO : javelin-throw : 21 SEP 2001 : 709 : 98
+NZL : Tori PEETERS : javelin-throw : 17 MAY 1994 : 1122 : 05 MAR 2022 : 1
+AUS : Mackenzie LITTLE : javelin-throw : 22 DEC 1996 : 1117 : 01 APR 2022 : 2
+IND : Annu RANI : javelin-throw : 29 AUG 1992 : 1099 : 04 APR 2022 : 3
+AUS : Kelsey-Lee BARBER : javelin-throw : 20 SEP 1991 : 1084 : 19 MAR 2022 : 4
+RSA : Mckayla VAN DER WESTHUIZEN : javelin-throw : 11 MAR 2004 : 1039 : 12 MAR 2022 : 5
+CAN : Keira MCCARRELL : javelin-throw : 15 MAY 1999 : 1014 : 25 MAR 2022 : 6
+BAH : Rhema OTABOR : javelin-throw : 03 DEC 2002 : 1005 : 25 MAR 2022 : 7
+IND : Shilpa RANI : javelin-throw : 15 JUN 1996 : 999 : 04 APR 2022 : 8
+GBR : Rebekah WALTON : javelin-throw : 20 SEP 1999 : 998 : 27 FEB 2022 : 9
+AUS : Alexandra ROBERTS : javelin-throw : 09 APR 2001 : 997 : 01 APR 2022 : 10
+NGR : Kelechi NWANAGA : javelin-throw : 24 DEC 1997 : 987 : 25 MAR 2022 : 11
+IND : Sharmila KUMARI : javelin-throw : 02 MAR 1995 : 971 : 13 MAR 2022 : 12
+IND : Sanjana CHOUDHARY : javelin-throw : 09 JUL 1999 : 970 : 04 APR 2022 : 13
+AUS : Lianna DAVIDSON : javelin-throw : 08 NOV 2002 : 962 : 02 APR 2022 : 14
+SRI : Dilhani LEKAMGE : javelin-throw : 14 JAN 1987 : 961 : 10 FEB 2022 : 15
+AUS : Mackenzie MIELCZAREK : javelin-throw : 06 FEB 2003 : 955 : 26 FEB 2022 : 16
+IND : Karishma SANIL : javelin-throw : 04 JUN 2000 : 948 : 04 APR 2022 : 17
+IND : Swapna BARMAN : javelin-throw : 29 OCT 1996 : 940 : 30 MAR 2022 : 18
+GBR : Emma HAMPLETT : javelin-throw : 27 JUL 1998 : 935 : 27 FEB 2022 : 19
+SRI : Dayana HARSHANI MADUWANTHI : javelin-throw : 06 MAR 1991 : 934 : 11 MAR 2022 : 20
+IND : K. RASHMI : javelin-throw : 24 NOV 1993 : 927 : 30 MAR 2022 : 21
+RSA : Chane VAN ZYL : javelin-throw : 08 AUG 2002 : 922 : 12 MAR 2022 : 22
+GBR : Emily DIBBLE : javelin-throw : 17 SEP 1999 : 912 : 27 FEB 2022 : 23
+AUS : Jess BELL : javelin-throw : 13 JAN 2000 : 909 : 01 APR 2022 : 24
+SRI : Nadeeka LAKMALI : javelin-throw : 18 SEP 1981 : 895 : 10 FEB 2022 : 25
+CAN : Ashley PRYKE : javelin-throw : 07 JUL 1997 : 895 : 01 APR 2022 : 26
+AUS : Kiarna WOOLLEY-BLAIN : javelin-throw : 16 APR 2002 : 888 : 11 MAR 2022 : 27
+IND : Pushpa JAKHAR : javelin-throw : 29 NOV 1997 : 876 : 24 FEB 2022 : 28
+AUS : Angelina TIGNANI : javelin-throw : 2004 : 875 : 29 MAR 2022 : 29
+AUS : Jade PATCHING : javelin-throw : 2004 : 869 : 01 APR 2022 : 30
+CAN : Alexandria WEBB : javelin-throw : 2002 : 868 : 26 MAR 2022 : 31
+KEN : Martha Nthanze MUSAI : javelin-throw : 20 DEC 2002 : 866 : 04 FEB 2022 : 32
+CAN : Makayla ROY : javelin-throw : 2002 : 861 : 24 MAR 2022 : 33
+CYP : Christiana ELLINA : javelin-throw : 18 DEC 2004 : 861 : 04 MAR 2022 : 34
+IND : . JYOTI : javelin-throw : 01 APR 2002 : 857 : 12 MAR 2022 : 35
+RSA : Clarissa WEYER : javelin-throw : 03 DEC 2001 : 855 : 15 FEB 2022 : 36
+IND : Deepika KUMAR : javelin-throw : 2005 : 855 : 12 MAR 2022 : 37
+AUS : Tori WEST : javelin-throw : 14 OCT 1995 : 851 : 16 JAN 2022 : 38
+IND : Uma CHOUDHARY : javelin-throw : 04 OCT 1999 : 851 : 04 APR 2022 : 39
+CAN : Bailey DELL : javelin-throw : 07 OCT 1996 : 844 : 11 MAR 2022 : 40
+AUS : Phoebe MARSH : javelin-throw : 2003 : 843 : 29 MAR 2022 : 41
+IND : Hemamalini NEELAKANDAN : javelin-throw : 12 APR 2000 : 841 : 04 APR 2022 : 42
+AUS : Christina GRUN : javelin-throw : 03 SEP 1993 : 840 : 19 MAR 2022 : 43
+NZL : Abbey MOODY : javelin-throw : 18 JAN 2004 : 836 : 03 MAR 2022 : 44
+SRI : S.P.H. SEWWANDI : javelin-throw :  : 835 : 11 MAR 2022 : 45
+GBR : Lauren FARLEY : javelin-throw : 16 SEP 2001 : 833 : 12 FEB 2022 : 46
+NZL : Caitlin BONNE : javelin-throw : 23 FEB 2000 : 833 : 04 FEB 2022 : 47
+AUS : Karen CLARKE : javelin-throw : 23 JUN 1990 : 828 : 01 APR 2022 : 48
+RSA : Savannah COMBRINK : javelin-throw : 17 APR 2001 : 824 : 22 FEB 2022 : 49
+IND : Shakshi SHARMA : javelin-throw : 09 FEB 2002 : 819 : 27 FEB 2022 : 50
+RSA : Leandri LAMPRECHT : javelin-throw : 15 MAR 1999 : 816 : 22 FEB 2022 : 51
+AUS : Teya SAVILLE : javelin-throw : 29 JAN 2003 : 812 : 19 FEB 2022 : 52
+KEN : Gladys JEPKEMBOI : javelin-throw : 09 SEP 2002 : 805 : 04 MAR 2022 : 53
+CAN : Hailey KJAER : javelin-throw :  : 804 : 18 MAR 2022 : 54
+GBR : Bethany MOULE : javelin-throw : 21 NOV 2001 : 801 : 27 FEB 2022 : 55
+KEN : Salome MORAA : javelin-throw : 03 APR 1998 : 799 : 04 MAR 2022 : 56
+AUS : Alysha BURNETT : javelin-throw : 04 JAN 1997 : 795 : 19 FEB 2022 : 57
+CAN : Jenna REID : javelin-throw : 2001 : 792 : 19 MAR 2022 : 58
+IND : . ARTI : javelin-throw :  : 791 : 24 FEB 2022 : 59
+TTO : Talena MURRAY : javelin-throw : 28 OCT 1999 : 790 : 19 MAR 2022 : 60
+AUS : Camryn NEWTON-SMITH : javelin-throw : 27 APR 2000 : 790 : 18 MAR 2022 : 61
+CAN : Lauren QUANN : javelin-throw : 1998 : 790 : 24 MAR 2022 : 62
+GBR : Sophie HAMILTON : javelin-throw : 06 MAY 2004 : 790 : 03 APR 2022 : 62
+CAN : Giovanna JANES : javelin-throw : 2000 : 785 : 18 MAR 2022 : 64
+RSA : Nicole LINDEQUE : javelin-throw : 12 MAY 2003 : 785 : 22 FEB 2022 : 65
+KEN : Jane JEPLETING : javelin-throw : 1995 : 784 : 04 MAR 2022 : 66
+BAR : Vivica ADDISON : javelin-throw : 2003 : 782 : 19 MAR 2022 : 67
+TTO : Kymoi NORAY : javelin-throw : 22 NOV 2000 : 781 : 19 MAR 2022 : 68
+IND : Sundaram SARASWATHI : javelin-throw : 27 JAN 1985 : 781 : 30 MAR 2022 : 69
+RSA : Chandi MULDER : javelin-throw : 19 APR 2002 : 780 : 12 MAR 2022 : 70
+IND : . HARITA : javelin-throw : 04 DEC 2001 : 778 : 24 FEB 2022 : 71
+ZAM : Mary FWAMBO : javelin-throw : 12 OCT 1998 : 776 : 12 FEB 2022 : 72
+IND : Kajal PARMAR : javelin-throw : 01 JUN 1999 : 773 : 24 FEB 2022 : 73
+AUS : Emma COTGROVE : javelin-throw : 31 AUG 2003 : 773 : 15 JAN 2022 : 74
+CAN : Grace TENNANT : javelin-throw : 02 FEB 1999 : 773 : 24 MAR 2022 : 74
+IND : Priya ATTRI : javelin-throw : 01 MAY 2000 : 772 : 24 FEB 2022 : 76
+IND : Priyanka KUMAR : javelin-throw : 04 APR 1997 : 770 : 12 MAR 2022 : 77
+CAN : Jenevieve PATRY-SMITH : javelin-throw : 2001 : 766 : 18 MAR 2022 : 78
+RSA : Ilana JANSEN : javelin-throw : 23 APR 2003 : 766 : 12 MAR 2022 : 79
+GBR : Ellen BARBER : javelin-throw : 05 DEC 1997 : 765 : 02 APR 2022 : 80
+CAN : Madelyn QUINN : javelin-throw : 2000 : 763 : 26 MAR 2022 : 81
+AUS : Bianca PACKER : javelin-throw : 2004 : 762 : 26 FEB 2022 : 82
+IND : . NEELAM : javelin-throw :  : 762 : 12 MAR 2022 : 82
+IND : Manu KUMARI : javelin-throw : 07 FEB 1996 : 762 : 24 FEB 2022 : 84
+JAM : Jewel COLLINS : javelin-throw : 2001 : 760 : 18 MAR 2022 : 85
+BAR : Vanessa GREAVES : javelin-throw :  : 758 : 26 MAR 2022 : 86
+NZL : Holly ROBINSON : javelin-throw : 10 DEC 1994 : 755 : 05 MAR 2022 : 87
+AUS : Isabel DAINES : javelin-throw : 17 FEB 2002 : 754 : 18 MAR 2022 : 88
+AUS : Claudia LEGGE : javelin-throw : 2004 : 750 : 15 JAN 2022 : 89
+AUS : Tiana PAVLOVICH : javelin-throw : 2005 : 747 : 11 FEB 2022 : 90
+KEN : Jemimah NDANU : javelin-throw :  : 745 : 04 FEB 2022 : 91
+BAR : Asabi CALLENDER : javelin-throw :  : 745 : 06 MAR 2022 : 91
+LCA : Rochelle ETIENNE : javelin-throw : 22 MAR 1998 : 742 : 01 APR 2022 : 93
+JAM : Ashley DUFFUS : javelin-throw : 25 APR 2001 : 741 : 02 APR 2022 : 94
+IND : Diksha DWIVEDI : javelin-throw : 24 JUN 2001 : 740 : 21 FEB 2022 : 95
+AUS : Elly READ : javelin-throw : 28 MAR 2003 : 739 : 18 FEB 2022 : 96
+GBR : Olivia DOBSON : javelin-throw : 27 MAR 2001 : 739 : 19 MAR 2022 : 97
+IND : . TANU : javelin-throw : 14 NOV 2002 : 739 : 23 FEB 2022 : 98
+TTO : Saﬁya JOHN : javelin-throw : 2001 : 735 : 24 MAR 2022 : 99
+AUS : Kajsa SHIELD : javelin-throw : 02 JUL 2004 : 732 : 06 MAR 2022 : 100

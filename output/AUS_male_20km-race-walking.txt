@@ -1,9 +1,9 @@
 Rhydian COWLEY : 20km-race-walking : 04 JAN 1991 : 1214 : 1 : 1138 : 1152 : 1117 :  :  : 27 MAR 2021 : 02 MAY 2021 : 13 FEB 2022 :  : 
-Declan TINGAY : 20km-race-walking : 06 FEB 1999 : 1202 : 2 : 1175 : 1096 : 1120 :  :  : 13 FEB 2022 : 27 MAR 2021 : 12 JUN 2021 :  : 
-Kyle SWAN : 20km-race-walking : 28 MAR 1999 : 1187 : 3 : 1155 : 1103 : 1103 :  :  : 13 FEB 2022 : 27 MAR 2021 : 12 JUN 2021 :  : 
-Carl GIBBONS : 20km-race-walking : 19 JUN 1996 : 1080 : 4 : 1054 : 1036 : 1016 :  :  : 13 FEB 2022 : 27 MAR 2021 : 02 MAY 2021 :  : 
-Will THOMPSON : 20km-race-walking : 18 NOV 2002 : 1075 : 5 : 1092 : 1061 : 1014 :  :  : 13 FEB 2022 : 27 MAR 2021 : 05 MAR 2022 :  : 
-Tyler JONES : 20km-race-walking : 08 APR 1998 : 1071 : 6 : 1102 : 1015 : 968 :  :  : 13 FEB 2022 : 09 FEB 2020 : 02 MAY 2021 :  : 
+Kyle SWAN : 20km-race-walking : 28 MAR 1999 : 1204 : 2 : 1155 : 1103 : 1131 :  :  : 13 FEB 2022 : 27 MAR 2021 : 30 MAR 2022 :  : 
+Declan TINGAY : 20km-race-walking : 06 FEB 1999 : 1202 : 3 : 1175 : 1096 : 1120 :  :  : 13 FEB 2022 : 27 MAR 2021 : 12 JUN 2021 :  : 
+Will THOMPSON : 20km-race-walking : 18 NOV 2002 : 1089 : 4 : 1092 : 1073 : 1014 :  :  : 13 FEB 2022 : 30 MAR 2022 : 05 MAR 2022 :  : 
+Carl GIBBONS : 20km-race-walking : 19 JUN 1996 : 1080 : 5 : 1054 : 1036 : 1016 :  :  : 13 FEB 2022 : 27 MAR 2021 : 02 MAY 2021 :  : 
+Tyler JONES : 20km-race-walking : 08 APR 1998 : 1074 : 6 : 1102 : 1015 : 985 :  :  : 13 FEB 2022 : 09 FEB 2020 : 30 MAR 2022 :  : 
 Mitchell BAKER : 20km-race-walking : 06 JUL 2001 : 1027 : 7 : 1027 : 974 : 984 :  :  : 27 MAR 2021 : 13 FEB 2022 : 12 JUN 2021 :  : 
-Tim FRASER : 20km-race-walking : 2000 : 990 : 8 : 1038 : 939 : 889 :  :  : 13 FEB 2022 : 27 MAR 2021 : 02 MAY 2021 :  : 
-Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 926 : 9 : 959 : 888 : 856 :  :  : 13 FEB 2022 : 27 MAR 2021 : 02 MAY 2021 :  : 
+Tim FRASER : 20km-race-walking : 2000 : 1016 : 8 : 1038 : 974 : 939 :  :  : 13 FEB 2022 : 30 MAR 2022 : 27 MAR 2021 :  : 
+Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 962 : 9 : 959 : 967 : 888 :  :  : 13 FEB 2022 : 30 MAR 2022 : 27 MAR 2021 :  : 

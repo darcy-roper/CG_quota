@@ -1,57 +1,57 @@
-CAN : Evan DUNFEE : 20km-race-walking : 28 SEP 1990 : 1186 : 1
-GBR : Callum WILKINSON : 20km-race-walking : 14 MAR 1997 : 1167 : 2
-AUS : Rhydian COWLEY : 20km-race-walking : 04 JAN 1991 : 1160 : 3
-AUS : Declan TINGAY : 20km-race-walking : 06 FEB 1999 : 1158 : 4
-AUS : Kyle SWAN : 20km-race-walking : 28 MAR 1999 : 1123 : 5
-IND : . AMIT : 20km-race-walking : 25 DEC 2003 : 1099 : 6
-IND : Paramdeep MOR : 20km-race-walking : 11 DEC 2001 : 1079 : 7
-RSA : Lebogang SHANGE : 20km-race-walking : 01 AUG 1990 : 1079 : 8
-IND : Suraj PANWAR : 20km-race-walking : 02 APR 2001 : 1073 : 9
-AUS : Will THOMPSON : 20km-race-walking : 18 NOV 2002 : 1050 : 10
-KEN : Samuel Kireri GATHIMBA : 20km-race-walking : 26 OCT 1987 : 1041 : 11
-GBR : Cameron CORBISHLEY : 20km-race-walking : 31 MAR 1997 : 1040 : 12
-KEN : Heristone Wanyonyi WAFULA : 20km-race-walking : 30 JUN 2003 : 1036 : 13
-IND : Paramjeet Singh BISHT : 20km-race-walking : 03 MAR 2002 : 1036 : 14
-AUS : Carl GIBBONS : 20km-race-walking : 19 JUN 1996 : 1030 : 15
-AUS : Corey DICKSON : 20km-race-walking : 19 JUL 2002 : 1025 : 16
-AUS : Mitchell BAKER : 20km-race-walking : 06 JUL 2001 : 1023 : 17
-KEN : Simon WACHIRA : 20km-race-walking : 06 MAR 1984 : 1015 : 18
-IND : Sanjay KUMAR : 20km-race-walking : 20 SEP 2001 : 1013 : 19
-AUS : Tyler JONES : 20km-race-walking : 08 APR 1998 : 1012 : 20
-IND : Bajarangi PRAJAPATI : 20km-race-walking : 12 JUL 2003 : 1012 : 21
-AUS : Tim FRASER : 20km-race-walking : 2000 : 996 : 22
-KEN : Stephen MUTUKU : 20km-race-walking :  : 993 : 23
-AUS : Tristan CAMILLERI : 20km-race-walking : 14 FEB 2001 : 980 : 24
-IND : Aditya NEGI : 20km-race-walking : 19 NOV 2004 : 978 : 25
-IND : Anshul DHAUNDIYAL : 20km-race-walking : 30 JUN 2004 : 977 : 26
-GBR : Tom PARTINGTON : 20km-race-walking : 18 JUL 1999 : 973 : 27
-IND : Vishvendra SINGH : 20km-race-walking : 10 JUL 2002 : 973 : 28
-IND : William SINGH : 20km-race-walking : 01 MAR 2002 : 960 : 29
-GBR : Guy THOMAS : 20km-race-walking : 01 JUL 1997 : 958 : 30
-KEN : Keyborn OBATO : 20km-race-walking :  : 958 : 31
-IND : Bikram DAS : 20km-race-walking : 16 NOV 2001 : 957 : 32
-RSA : Tumisang PULE : 20km-race-walking : 03 JUL 1997 : 957 : 33
-NZL : Quentin REW : 20km-race-walking : 16 JUL 1984 : 956 : 34
-AUS : Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 953 : 35
-RSA : Wayne SNYMAN : 20km-race-walking : 08 MAR 1985 : 941 : 36
-RSA : Antonio FARMER : 20km-race-walking : 21 DEC 2000 : 938 : 37
-GBR : Christopher SNOOK : 20km-race-walking : 14 JAN 2000 : 932 : 38
-GBR : George WILKINSON : 20km-race-walking : 25 APR 2002 : 930 : 39
-RSA : Christiaan BESTER : 20km-race-walking : 20 MAY 2004 : 919 : 40
-IND : Ali FARMAN : 20km-race-walking : 06 AUG 2001 : 916 : 41
-AUS : Jared TALLENT : 20km-race-walking : 17 OCT 1984 : 911 : 42
-AUS : Gwyllym YOUNG : 20km-race-walking : 06 SEP 2002 : 910 : 43
-KEN : Nichodemus MUSAU : 20km-race-walking :  : 903 : 44
-KEN : Dominic Samson NDIGITI : 20km-race-walking : 02 APR 2000 : 894 : 45
-IND : Raj MISHRA : 20km-race-walking : 05 JUL 2004 : 883 : 46
-IND : Rajan CHAUDHARY : 20km-race-walking : 31 JAN 2002 : 881 : 47
-IND : Billin GEORGE : 20km-race-walking : 09 NOV 2004 : 876 : 48
-IND : Deepender SINGH : 20km-race-walking : 12 JUN 2003 : 863 : 49
-IND : Rahul BIND : 20km-race-walking : 29 SEP 2001 : 863 : 50
-MRI : Jerome CAPRICE : 20km-race-walking : 18 JAN 1983 : 860 : 51
-RSA : Envor RHODAS : 20km-race-walking : 11 DEC 1992 : 854 : 52
-IND : Anchal VISHWAKARMA : 20km-race-walking : 12 OCT 2003 : 853 : 53
-KEN : Nehemiah KIPRONO : 20km-race-walking :  : 852 : 54
-IND : Avinesh ANTHONY : 20km-race-walking : 30 APR 2002 : 852 : 55
-AUS : Jason KOZICA : 20km-race-walking : 14 NOV 1987 : 849 : 56
-IND : Chandra PRAKASH : 20km-race-walking : 20 MAY 2003 : 848 : 57
+CAN : Evan DUNFEE : 20km-race-walking : 28 SEP 1990 : 1186 : 12 JUN 2021 : 1
+GBR : Callum WILKINSON : 20km-race-walking : 14 MAR 1997 : 1167 : 06 MAR 2021 : 2
+AUS : Rhydian COWLEY : 20km-race-walking : 04 JAN 1991 : 1160 : 31 JAN 2021 : 3
+AUS : Declan TINGAY : 20km-race-walking : 06 FEB 1999 : 1158 : 31 JAN 2021 : 4
+AUS : Kyle SWAN : 20km-race-walking : 28 MAR 1999 : 1123 : 16 APR 2021 : 5
+IND : . AMIT : 20km-race-walking : 25 DEC 2003 : 1099 : 27 JAN 2021 : 6
+IND : Paramdeep MOR : 20km-race-walking : 11 DEC 2001 : 1079 : 27 JAN 2021 : 7
+RSA : Lebogang SHANGE : 20km-race-walking : 01 AUG 1990 : 1079 : 18 JUN 2021 : 8
+IND : Suraj PANWAR : 20km-race-walking : 02 APR 2001 : 1073 : 07 FEB 2021 : 9
+AUS : Will THOMPSON : 20km-race-walking : 18 NOV 2002 : 1050 : 31 JAN 2021 : 10
+KEN : Samuel Kireri GATHIMBA : 20km-race-walking : 26 OCT 1987 : 1041 : 27 FEB 2021 : 11
+GBR : Cameron CORBISHLEY : 20km-race-walking : 31 MAR 1997 : 1040 : 06 MAR 2021 : 12
+KEN : Heristone Wanyonyi WAFULA : 20km-race-walking : 30 JUN 2003 : 1036 : 21 AUG 2021 : 13
+IND : Paramjeet Singh BISHT : 20km-race-walking : 03 MAR 2002 : 1036 : 27 JAN 2021 : 14
+AUS : Carl GIBBONS : 20km-race-walking : 19 JUN 1996 : 1030 : 16 APR 2021 : 15
+AUS : Corey DICKSON : 20km-race-walking : 19 JUL 2002 : 1025 : 16 APR 2021 : 16
+AUS : Mitchell BAKER : 20km-race-walking : 06 JUL 2001 : 1023 : 16 APR 2021 : 17
+KEN : Simon WACHIRA : 20km-race-walking : 06 MAY 1984 : 1015 : 15 MAY 2021 : 18
+IND : Sanjay KUMAR : 20km-race-walking : 20 SEP 2001 : 1013 : 27 JAN 2021 : 19
+AUS : Tyler JONES : 20km-race-walking : 08 APR 1998 : 1012 : 16 APR 2021 : 20
+IND : Bajarangi PRAJAPATI : 20km-race-walking : 12 JUL 2003 : 1012 : 27 JAN 2021 : 21
+AUS : Tim FRASER : 20km-race-walking : 2000 : 996 : 31 JAN 2021 : 22
+KEN : Stephen MUTUKU : 20km-race-walking :  : 993 : 15 MAY 2021 : 23
+AUS : Tristan CAMILLERI : 20km-race-walking : 14 FEB 2001 : 980 : 31 JAN 2021 : 24
+IND : Aditya NEGI : 20km-race-walking : 19 NOV 2004 : 978 : 08 FEB 2021 : 25
+IND : Anshul DHAUNDIYAL : 20km-race-walking : 30 JUN 2004 : 977 : 08 FEB 2021 : 26
+GBR : Tom PARTINGTON : 20km-race-walking : 08 JUL 1999 : 973 : 15 AUG 2021 : 27
+IND : Vishvendra SINGH : 20km-race-walking : 10 JUL 2002 : 973 : 27 JAN 2021 : 28
+IND : William SINGH : 20km-race-walking : 01 MAR 2002 : 960 : 07 FEB 2021 : 29
+GBR : Guy THOMAS : 20km-race-walking : 01 JUL 1997 : 958 : 15 AUG 2021 : 30
+KEN : Keyborn OBATO : 20km-race-walking :  : 958 : 27 FEB 2021 : 31
+IND : Bikram DAS : 20km-race-walking : 16 NOV 2001 : 957 : 07 FEB 2021 : 32
+RSA : Tumisang PULE : 20km-race-walking : 03 JUL 1997 : 957 : 14 MAY 2021 : 33
+NZL : Quentin REW : 20km-race-walking : 16 JUL 1984 : 956 : 31 JAN 2021 : 34
+AUS : Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 953 : 16 APR 2021 : 35
+RSA : Wayne SNYMAN : 20km-race-walking : 08 MAR 1985 : 941 : 27 MAR 2021 : 36
+RSA : Antonio FARMER : 20km-race-walking : 21 DEC 2000 : 938 : 12 MAR 2021 : 37
+GBR : Christopher SNOOK : 20km-race-walking : 14 JAN 2000 : 932 : 20 JUN 2021 : 38
+GBR : George WILKINSON : 20km-race-walking : 25 APR 2002 : 930 : 15 AUG 2021 : 39
+RSA : Christiaan BESTER : 20km-race-walking : 20 MAY 2004 : 919 : 09 APR 2021 : 40
+IND : Ali FARMAN : 20km-race-walking : 06 AUG 2001 : 916 : 27 JAN 2021 : 41
+AUS : Jared TALLENT : 20km-race-walking : 17 OCT 1984 : 911 : 10 JAN 2021 : 42
+AUS : Gwyllym YOUNG : 20km-race-walking : 06 SEP 2002 : 910 : 16 APR 2021 : 43
+KEN : Nichodemus MUSAU : 20km-race-walking :  : 903 : 15 MAY 2021 : 44
+KEN : Dominic Samson NDIGITI : 20km-race-walking : 02 APR 2000 : 894 : 27 FEB 2021 : 45
+IND : Raj MISHRA : 20km-race-walking : 05 JUL 2004 : 883 : 08 FEB 2021 : 46
+IND : Rajan CHAUDHARY : 20km-race-walking : 31 JAN 2002 : 881 : 27 JAN 2021 : 47
+IND : Billin GEORGE : 20km-race-walking : 09 NOV 2004 : 876 : 08 FEB 2021 : 48
+IND : Deepender SINGH : 20km-race-walking : 12 JUN 2003 : 863 : 08 FEB 2021 : 49
+IND : Rahul BIND : 20km-race-walking : 29 SEP 2001 : 863 : 07 FEB 2021 : 50
+MRI : Jerome CAPRICE : 20km-race-walking : 18 JAN 1983 : 860 : 27 JUN 2021 : 51
+RSA : Envor RHODAS : 20km-race-walking : 11 DEC 1992 : 854 : 20 MAR 2021 : 52
+IND : Anchal VISHWAKARMA : 20km-race-walking : 12 OCT 2003 : 853 : 08 FEB 2021 : 53
+KEN : Nehemiah KIPRONO : 20km-race-walking :  : 852 : 27 FEB 2021 : 54
+IND : Avinesh ANTHONY : 20km-race-walking : 30 APR 2002 : 852 : 07 FEB 2021 : 55
+AUS : Jason KOZICA : 20km-race-walking : 14 NOV 1987 : 849 : 16 APR 2021 : 56
+IND : Chandra PRAKASH : 20km-race-walking : 20 MAY 2003 : 848 : 08 FEB 2021 : 57

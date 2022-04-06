@@ -1,100 +1,100 @@
-AUS : Samantha DALE : long-jump : 30 JUN 2001 : 1152 : 1
-SRI : S.L.Sarangi SILVA : long-jump : 27 OCT 1996 : 1149 : 2
-JAM : Tissanna HICKLING : long-jump : 07 JAN 1998 : 1130 : 3
-IND : Ancy SOJAN : long-jump : 01 MAR 2001 : 1122 : 4
-RSA : Lene PEENS : long-jump : 18 APR 1995 : 1079 : 5
-RSA : Danielle NOLTE : long-jump : 11 JAN 2002 : 1079 : 5
-RSA : Joane GERBER : long-jump : 10 JUN 2003 : 1075 : 7
-RSA : Eljonè KRUGER : long-jump : 16 APR 1998 : 1069 : 8
-JAM : Jodian STEWART : long-jump : 22 AUG 2001 : 1066 : 9
-AUS : Annie MCGUIRE : long-jump : 13 JUN 2001 : 1051 : 10
-AUS : Tomysha CLARK : long-jump : 12 NOV 2002 : 1051 : 10
-AUS : Brittany CARROLL : long-jump : 30 NOV 2000 : 1051 : 10
-AUS : Katie GUNN : long-jump : 02 JAN 2003 : 1044 : 13
-SRI : Anjani PULWANSA : long-jump : 02 FEB 1992 : 1043 : 14
-CAN : Jasmine SCOTT-KILGO : long-jump : 2000 : 1038 : 14
-AUS : Chloe GRENADE : long-jump : 15 DEC 1999 : 1029 : 16
-RSA : Karmen FOUCHE : long-jump : 02 JAN 2003 : 1033 : 16
-GBR : Alix STILL : long-jump : 15 MAR 2000 : 1029 : 16
-IND : Saravanan HARSHINI : long-jump : 10 AUG 1999 : 1023 : 19
-AUS : Margaret GAYEN : long-jump : 10 JUL 1994 : 1020 : 20
-RSA : Rose XEYI : long-jump : 16 MAR 2001 : 1026 : 20
-AUS : Caitlin BLACKMAN : long-jump : 17 DEC 2000 : 1016 : 22
-AUS : Abbie FRENCH : long-jump : 26 MAR 2004 : 1016 : 22
-AUS : Mia SCERRI : long-jump : 26 MAR 2005 : 1016 : 22
-NZL : Mariah RIRINUI : long-jump : 29 JUN 1992 : 1014 : 25
-AUS : Delta AMIDZOVSKI : long-jump : 23 AUG 2006 : 1012 : 26
-NZL : Kelsey BERRYMAN : long-jump : 04 FEB 1992 : 1012 : 26
-GBR : Ore ADAMSON : long-jump : 29 OCT 2001 : 1012 : 26
-RSA : Timeke-jade COETZEE : long-jump : 26 MAY 2006 : 1010 : 29
-IND : Sruthi LAKSHMI : long-jump : 04 APR 1996 : 1016 : 30
-AUS : Alyssa LOWE : long-jump : 29 JUN 2003 : 1003 : 31
-LCA : Sandisha ANTOINE : long-jump : 05 NOV 1991 : 1003 : 31
-AUS : Taneille CRASE : long-jump : 16 OCT 1994 : 1001 : 33
-IND : Sandra BABU : long-jump : 03 JUL 2001 : 999 : 34
-MAS : Kirthana RAMASAMY : long-jump : 04 AUG 1997 : 999 : 34
-JAM : Serena COLE : long-jump : 26 JUN 2004 : 998 : 36
-AUS : Emelia SURCH : long-jump : 29 JUN 2003 : 994 : 37
-AUS : Jessie HARPER : long-jump : 18 APR 1996 : 992 : 38
-IND : A. SHERIN : long-jump :  : 1000 : 38
-NZL : Ashleigh BENNETT : long-jump : 12 JAN 1999 : 1000 : 40
-JAM : Kay-Lagay CLARKE : long-jump : 27 FEB 2004 : 990 : 40
-CAN : Chloe ROYCE : long-jump : 2001 : 990 : 40
-IND : Pooja SAINI : long-jump : 10 OCT 1999 : 983 : 43
-SRI : Ridma Nishadi ABEYRATHNA : long-jump : 1999 : 982 : 44
-AUS : Bethany KRANENDONK : long-jump : 26 JAN 2000 : 977 : 45
-IND : Bhagavathi BHAVANI : long-jump :  : 984 : 45
-AUS : Brittany BURKITT : long-jump : 11 JAN 1995 : 975 : 47
-SRI : K.H. Nethmi MEGAWARNA : long-jump : 2001 : 973 : 48
-AUS : Emilaya ELLIS : long-jump : 14 JUN 2002 : 970 : 49
-AUS : Mietta RUSSELL : long-jump : 08 FEB 2002 : 968 : 50
-IND : . SUSMITA : long-jump : 23 DEC 2004 : 973 : 50
-AUS : Alessia WYNNE : long-jump : 15 DEC 2003 : 985 : 52
-NZL : Helena DINNISSEN : long-jump : 13 OCT 1984 : 964 : 52
-IND : Ravada KUSUMA : long-jump : 15 SEP 2001 : 964 : 52
-JAM : Annia ASHLEY : long-jump : 19 JAN 2000 : 964 : 52
-MLT : Claire AZZOPARDI : long-jump : 29 SEP 1999 : 962 : 56
-NZL : Christina RYAN : long-jump : 15 FEB 1998 : 968 : 57
-AUS : Montana DJATSCHENKO : long-jump : 29 AUG 2001 : 955 : 58
-JAM : Paula-Ann CHAMBERS : long-jump : 03 MAR 2003 : 955 : 58
-NZL : Anna GRIMALDI : long-jump : 12 FEB 1997 : 953 : 60
-AUS : Sophie KAVANAGH : long-jump : 2004 : 951 : 61
-AUS : Sienna BOND : long-jump : 2005 : 951 : 61
-AUS : Brianna LEUNG : long-jump : 2005 : 951 : 61
-AUS : Claire ROBERTS : long-jump : 01 JUL 2003 : 949 : 64
-MAS : Zubaidah Siti ADABI : long-jump : 30 SEP 1986 : 949 : 64
-JAM : Jo-anna PINNOCK : long-jump : 26 NOV 2003 : 950 : 64
-IVB : Xiomara MALONE : long-jump : 21 SEP 2002 : 949 : 64
-SRI : M.H.N. HERATH : long-jump : 2005 : 947 : 68
-AUS : Grace BRENNAN : long-jump : 05 NOV 1999 : 938 : 69
-AUS : Alysha BURNETT : long-jump : 04 JAN 1997 : 941 : 69
-AUS : Lara CHECK : long-jump : 2003 : 938 : 69
-AUS : Sinta WARDANA : long-jump : 18 NOV 1991 : 938 : 69
-AUS : Kiani ALLEN : long-jump : 29 JUN 1999 : 938 : 69
-AUS : Christine GAYEN : long-jump : 20 OCT 1996 : 936 : 74
-JAM : Doniellia LEWIS : long-jump : 03 DEC 2005 : 945 : 75
-IND : Manisha MEREL : long-jump : 05 JUL 2001 : 946 : 75
-AUS : Kaitlin LIM : long-jump : 2006 : 932 : 77
-AUS : Tiana BORAS : long-jump : 04 MAR 2005 : 932 : 77
-JAM : Rohanna SUDLOW : long-jump : 2006 : 932 : 77
-JAM : Shemonique HAZLE : long-jump : 14 JAN 2007 : 945 : 77
-AUS : Leila CROKER : long-jump : 2006 : 933 : 81
-AUS : Petra EDWARDS : long-jump : 2004 : 941 : 81
-AUS : Jade JOHNSTON-MITREVSKA : long-jump : 2001 : 929 : 81
-JAM : Shania MYERS : long-jump : 25 AUG 2005 : 927 : 84
-AUS : Melissa FOSTER : long-jump : 08 SEP 1978 : 927 : 84
-AUS : Francesca SUGIAMAN : long-jump : 30 JAN 2002 : 927 : 84
-MAS : Nurul ASHIKIN : long-jump : 15 JUL 2000 : 927 : 84
-RSA : Anika DE KLERK : long-jump : 30 NOV 2005 : 933 : 84
-CAN : Chisom OBIOHA : long-jump : 2002 : 927 : 84
-AUS : Katherine BAYNES : long-jump : 2005 : 925 : 90
-AUS : Sophie ZARAFA : long-jump : 2005 : 923 : 91
-CAN : Rebecca DUTCHAK : long-jump : 2001 : 923 : 91
-CAN : Tayah DE SOUSA : long-jump : 2003 : 921 : 93
-AUS : Eleanor COONEY-HUNT : long-jump : 1999 : 919 : 94
-CAN : Abby WEENING : long-jump : 2003 : 919 : 94
-AUS : Nakeisha BRIMBLE : long-jump : 08 MAR 2004 : 916 : 96
-RSA : Mischa VAN DER SCHYFF : long-jump : 19 JUN 2006 : 926 : 96
-AUS : Geena DAVY : long-jump : 2007 : 914 : 98
-JAM : Amanda THRUE : long-jump : 18 FEB 2002 : 914 : 98
-IND : M. KAVIYA : long-jump :  : 919 : 100
+GHA : Deborah ACQUAH : long-jump : 23 MAY 1996 : 1194 : 02 APR 2022 : 1
+AUS : Samantha DALE : long-jump : 30 JUN 2001 : 1152 : 06 MAR 2022 : 2
+SRI : Lakshini Sarangi Silva SANDARADURA : long-jump : 27 OCT 1996 : 1149 : 12 FEB 2022 : 3
+JAM : Tissanna HICKLING : long-jump : 07 JAN 1998 : 1130 : 26 FEB 2022 : 4
+TTO : Tyra GITTENS : long-jump : 06 JUN 1998 : 1125 : 02 APR 2022 : 5
+IND : Ancy SOJAN EDAPPILLY : long-jump : 01 MAR 2001 : 1122 : 13 MAR 2022 : 6
+IND : James NAYANA : long-jump : 18 OCT 1995 : 1101 : 04 APR 2022 : 7
+JAM : Ackelia SMITH : long-jump : 05 FEB 2002 : 1099 : 02 APR 2022 : 8
+RSA : Lene PEENS : long-jump : 18 APR 1995 : 1079 : 16 MAR 2022 : 9
+RSA : Danielle NOLTE : long-jump : 11 JAN 2002 : 1079 : 16 MAR 2022 : 9
+RSA : Joane GERBER : long-jump : 10 JUN 2003 : 1075 : 16 MAR 2022 : 11
+RSA : Eljonè KRUGER : long-jump : 16 APR 1998 : 1069 : 16 MAR 2022 : 12
+CMR : Pauline Raissa NGOUOPOU : long-jump : 03 JAN 1999 : 1068 : 24 MAR 2022 : 12
+IND : Aishwarya BABU SAB : long-jump : 15 JUN 1997 : 1076 : 31 MAR 2022 : 12
+JAM : Jodian STEWART : long-jump : 22 AUG 2001 : 1066 : 19 FEB 2022 : 15
+AUS : Jessie HARPER : long-jump : 18 APR 1996 : 1064 : 02 APR 2022 : 16
+CAN : Aasha MARLER : long-jump : 24 DEC 1992 : 1060 : 01 APR 2022 : 17
+AUS : Tomysha CLARK : long-jump : 12 NOV 2002 : 1055 : 02 APR 2022 : 18
+AUS : Brittany CARROLL : long-jump : 30 NOV 2000 : 1055 : 02 APR 2022 : 18
+AUS : Tay-Leiha CLARK : long-jump : 08 FEB 1998 : 1053 : 02 APR 2022 : 20
+AUS : Annie MCGUIRE : long-jump : 13 JUN 2001 : 1051 : 08 JAN 2022 : 21
+IND : Gothandapni KARTHIKA : long-jump : 02 JAN 1996 : 1051 : 31 MAR 2022 : 21
+AUS : Katie GUNN : long-jump : 02 JAN 2003 : 1044 : 23 JAN 2022 : 23
+JAM : Nia ROBINSON : long-jump : 08 DEC 2001 : 1044 : 02 APR 2022 : 23
+CMR : Véronique KOSSENDA REY : long-jump : 23 SEP 1996 : 1041 : 24 MAR 2022 : 25
+SRI : Anjani PULWANSA : long-jump : 02 FEB 1992 : 1043 : 12 FEB 2022 : 26
+CAN : Jasmine SCOTT-KILGO : long-jump : 2000 : 1038 : 18 MAR 2022 : 26
+AUS : Chloe GRENADE : long-jump : 15 DEC 1999 : 1029 : 26 JAN 2022 : 28
+RSA : Karmen FOUCHE : long-jump : 02 JAN 2003 : 1033 : 16 MAR 2022 : 28
+GBR : Alix STILL : long-jump : 15 MAR 2000 : 1029 : 19 MAR 2022 : 28
+IND : Saravanan HARSHINI : long-jump : 10 AUG 1999 : 1023 : 24 FEB 2022 : 31
+AUS : Taneille CRASE : long-jump : 16 OCT 1994 : 1023 : 02 APR 2022 : 31
+IND : Sherin ABDUL GAFOOR : long-jump : 24 FEB 2000 : 1023 : 04 APR 2022 : 31
+AUS : Margaret GAYEN : long-jump : 10 JUL 1994 : 1020 : 19 FEB 2022 : 34
+RSA : Rose XEYI : long-jump : 16 MAR 2001 : 1020 : 02 MAR 2022 : 34
+GRN : Joniar THOMAS : long-jump : 30 APR 2001 : 1020 : 25 MAR 2022 : 34
+AUS : Caitlin BLACKMAN : long-jump : 17 DEC 2000 : 1016 : 14 JAN 2022 : 37
+AUS : Abbie FRENCH : long-jump : 26 MAR 2004 : 1016 : 19 FEB 2022 : 37
+AUS : Mia SCERRI : long-jump : 26 MAR 2005 : 1016 : 26 FEB 2022 : 37
+IND : Pooja SAINI : long-jump : 10 OCT 1999 : 1016 : 04 APR 2022 : 37
+NZL : Mariah RIRINUI : long-jump : 29 JUN 1992 : 1014 : 05 MAR 2022 : 41
+AUS : Emelia SURCH : long-jump : 29 JUN 2003 : 1014 : 02 APR 2022 : 41
+AUS : Delta AMIDZOVSKI : long-jump : 23 AUG 2006 : 1012 : 29 JAN 2022 : 43
+NZL : Kelsey BERRYMAN : long-jump : 04 FEB 1992 : 1012 : 05 MAR 2022 : 43
+GBR : Ore ADAMSON : long-jump : 29 OCT 2001 : 1012 : 19 MAR 2022 : 43
+RSA : Timeke-jade COETZEE : long-jump : 26 MAY 2006 : 1010 : 11 MAR 2022 : 46
+JAM : Velecia WILLIAMS : long-jump : 09 JUL 2002 : 1007 : 25 MAR 2022 : 47
+AUS : Andrea THOMPSON : long-jump : 02 OCT 1998 : 1007 : 02 APR 2022 : 47
+IND : Sruthi LAKSHMI : long-jump : 04 APR 1996 : 1016 : 24 FEB 2022 : 49
+AUS : Alyssa LOWE : long-jump : 29 JUN 2003 : 1003 : 20 FEB 2022 : 50
+LCA : Sandisha ANTOINE : long-jump : 05 NOV 1991 : 1003 : 26 FEB 2022 : 50
+GBR : Isabel WAKEFIELD : long-jump : 05 JAN 2000 : 1003 : 24 MAR 2022 : 50
+IND : Sandra BABU : long-jump : 03 JUL 2001 : 999 : 24 FEB 2022 : 53
+MAS : Kirthana RAMASAMY : long-jump : 04 AUG 1997 : 999 : 05 MAR 2022 : 53
+JAM : Serena COLE : long-jump : 26 JUN 2004 : 998 : 11 MAR 2022 : 55
+CMR : Kevine Linda KOUOCHE : long-jump : 06 MAY 1998 : 996 : 24 MAR 2022 : 55
+IND : Renu GREWAL : long-jump : 21 DEC 1998 : 1002 : 31 MAR 2022 : 55
+AUS : Brittany BURKITT : long-jump : 11 JAN 1995 : 996 : 02 APR 2022 : 55
+IND : Bhavani YADAV : long-jump : 19 DEC 1998 : 995 : 04 APR 2022 : 59
+IND : A. SHERIN : long-jump :  : 1000 : 24 FEB 2022 : 60
+NZL : Ashleigh BENNETT : long-jump : 12 JAN 1999 : 1000 : 04 FEB 2022 : 61
+JAM : Kay-Lagay CLARKE : long-jump : 27 FEB 2004 : 990 : 26 FEB 2022 : 61
+CAN : Chloe ROYCE : long-jump : 2001 : 990 : 19 MAR 2022 : 61
+AUS : Alessia WYNNE : long-jump : 15 DEC 2003 : 987 : 28 MAR 2022 : 64
+GBR : Tia JACKSON : long-jump : 05 AUG 2002 : 981 : 25 MAR 2022 : 65
+SRI : Ridma Nishadi ABEYRATHNA : long-jump : 1999 : 982 : 10 MAR 2022 : 66
+AUS : Bethany KRANENDONK : long-jump : 26 JAN 2000 : 977 : 29 JAN 2022 : 67
+IND : Bhagavathi BHAVANI : long-jump :  : 984 : 24 FEB 2022 : 67
+RSA : Patience NTSHINGILA : long-jump : 26 AUG 1989 : 978 : 02 MAR 2022 : 67
+RSA : Zinzi XULU : long-jump : 28 SEP 1996 : 977 : 02 MAR 2022 : 67
+SRI : K.H. Nethmi MEGAWARNA : long-jump : 2001 : 973 : 10 MAR 2022 : 71
+AUS : Emilaya ELLIS : long-jump : 14 JUN 2002 : 970 : 19 FEB 2022 : 72
+AUS : Mietta RUSSELL : long-jump : 08 FEB 2002 : 968 : 29 JAN 2022 : 73
+IND : . SUSMITA : long-jump : 23 DEC 2004 : 973 : 13 MAR 2022 : 73
+RSA : Marzaan LOOTS : long-jump : 25 JUN 2001 : 966 : 02 MAR 2022 : 75
+NZL : Helena DINNISSEN : long-jump : 13 OCT 1984 : 964 : 05 MAR 2022 : 76
+IND : Ravada KUSUMA : long-jump : 15 SEP 2001 : 964 : 13 MAR 2022 : 76
+JAM : Annia ASHLEY : long-jump : 19 JAN 2000 : 964 : 19 MAR 2022 : 76
+BAH : Alexis TILFORD-RUTHERFORD : long-jump : 22 NOV 2002 : 964 : 26 MAR 2022 : 76
+AUS : Sienna BOND : long-jump : 2005 : 964 : 28 MAR 2022 : 76
+MLT : Claire AZZOPARDI : long-jump : 29 SEP 1999 : 962 : 29 JAN 2022 : 81
+NZL : Christina RYAN : long-jump : 15 FEB 1998 : 968 : 04 FEB 2022 : 82
+AUS : Montana DJATSCHENKO : long-jump : 29 AUG 2001 : 955 : 25 FEB 2022 : 83
+JAM : Paula-Ann CHAMBERS : long-jump : 03 MAR 2003 : 955 : 26 FEB 2022 : 83
+NZL : Anna GRIMALDI : long-jump : 12 FEB 1997 : 953 : 04 FEB 2022 : 85
+AUS : Sophie KAVANAGH : long-jump : 2004 : 951 : 20 FEB 2022 : 86
+AUS : Brianna LEUNG : long-jump : 2005 : 951 : 05 MAR 2022 : 86
+AUS : Claire ROBERTS : long-jump : 01 JUL 2003 : 949 : 09 JAN 2022 : 88
+MAS : Zubaidah Siti ADABI : long-jump : 30 SEP 1986 : 949 : 05 MAR 2022 : 88
+JAM : Jo-anna PINNOCK : long-jump : 26 NOV 2003 : 950 : 11 MAR 2022 : 88
+IVB : Xiomara MALONE : long-jump : 21 SEP 2002 : 949 : 18 MAR 2022 : 88
+SRI : M.H.N. HERATH : long-jump : 2005 : 947 : 12 FEB 2022 : 92
+AUS : Camryn NEWTON-SMITH : long-jump : 27 APR 2000 : 949 : 26 MAR 2022 : 92
+AUS : Lara CHECK : long-jump : 2003 : 951 : 28 MAR 2022 : 92
+AUS : Clara NOURDINE : long-jump : 2005 : 950 : 31 MAR 2022 : 92
+RSA : Mignonne DE BEER : long-jump : 26 JAN 2006 : 944 : 09 FEB 2022 : 96
+CAN : Asia HAMILTON : long-jump : 2002 : 944 : 25 MAR 2022 : 96
+AUS : Grace BRENNAN : long-jump : 05 NOV 1999 : 938 : 29 JAN 2022 : 98
+AUS : Alysha BURNETT : long-jump : 04 JAN 1997 : 941 : 12 FEB 2022 : 98
+AUS : Sinta WARDANA : long-jump : 18 NOV 1991 : 938 : 25 FEB 2022 : 98

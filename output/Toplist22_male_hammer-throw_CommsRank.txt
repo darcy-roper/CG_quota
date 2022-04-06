@@ -1,45 +1,59 @@
-CAN : Adam KEENAN : hammer-throw : 26 SEP 1993 : 1118 : 1
-GBR : Chris BENNETT : hammer-throw : 17 DEC 1989 : 1089 : 2
-RSA : Tshepang MAKHETHE : hammer-throw : 19 FEB 1996 : 1072 : 3
-RSA : Allan CUMMING : hammer-throw : 21 MAR 1996 : 1072 : 4
-GBR : Osian JONES : hammer-throw : 23 JUN 1993 : 1059 : 5
-CYP : Alexandros POURSANIDIS : hammer-throw : 23 JAN 1993 : 1055 : 6
-GBR : Mark DRY : hammer-throw : 11 OCT 1987 : 1048 : 7
-AUS : Ned WEATHERLY : hammer-throw : 12 JAN 1998 : 1028 : 8
-AUS : Timothy HEYES : hammer-throw : 17 DEC 1997 : 1021 : 9
-MAS : Jackie Wong SIEW CHEER : hammer-throw : 04 JUL 1992 : 1019 : 10
-GBR : Jake NORRIS : hammer-throw : 30 JUN 1999 : 1017 : 11
-CAN : Rowan HAMILTON : hammer-throw : 29 JAN 2000 : 1016 : 12
-GBR : Bayley CAMPBELL : hammer-throw : 24 JUN 2000 : 997 : 13
-NZL : Anthony NOBILO : hammer-throw : 28 APR 1999 : 997 : 14
-GBR : Jac PALMER : hammer-throw : 13 MAR 1996 : 989 : 15
-AUS : William BROWN : hammer-throw : 21 OCT 1996 : 977 : 16
-GBR : Chris SHORTHOUSE : hammer-throw : 23 JUN 1988 : 966 : 17
-AUS : Costa KOUSPARIS : hammer-throw : 12 JUN 1996 : 961 : 18
-IND : Damneet SINGH : hammer-throw : 10 MAR 2000 : 953 : 19
-GBR : Kenneth IKEJI : hammer-throw : 17 SEP 2002 : 953 : 20
-GBR : Edward JEANS : hammer-throw : 28 SEP 1998 : 952 : 21
-RSA : Pieter-Juan VORSTMAN : hammer-throw : 14 AUG 2002 : 950 : 22
-RSA : Francois Otieno PRINSLOO : hammer-throw : 11 NOV 2001 : 950 : 23
-GBR : Tom PARKER : hammer-throw : 07 OCT 1994 : 946 : 24
-IND : Ajay KUMAR : hammer-throw : 10 JUL 1999 : 926 : 25
-KEN : Dominic Ongidi ABUNDA : hammer-throw : 08 AUG 1993 : 910 : 26
-GBR : Oliver GRAHAM : hammer-throw : 16 MAY 2001 : 888 : 27
-MAS : Sadat Merzuqi AJISAN : hammer-throw : 23 JAN 2001 : 877 : 28
-CAN : Johnny VANOS : hammer-throw : 1999 : 877 : 29
-GBR : James BEDFORD : hammer-throw : 29 DEC 1988 : 871 : 30
-NZL : Warren BUTTON : hammer-throw : 21 JUN 1988 : 864 : 31
-AUS : Huw PEACOCK : hammer-throw : 12 MAY 1992 : 861 : 32
-IND : Farook AHMAD : hammer-throw :  : 859 : 33
-NZL : Todd BATES : hammer-throw : 29 NOV 1994 : 857 : 34
-IND : Jai CHAND : hammer-throw : 08 JUL 2001 : 853 : 35
-IND : . GAURAV : hammer-throw :  : 851 : 36
-RSA : James HAVINGA : hammer-throw : 27 SEP 2000 : 850 : 37
-IND : . AJAY : hammer-throw : 10 OCT 1995 : 846 : 38
-IND : Nitin MALIK : hammer-throw : 09 JAN 2000 : 841 : 39
-IND : Navdeep SINGH : hammer-throw : 24 JUN 1996 : 839 : 40
-IND : Shantanu UCHALE : hammer-throw : 31 JAN 1999 : 839 : 41
-MLT : Luca MARTINI : hammer-throw : 02 MAY 2000 : 830 : 42
-GBR : Peter SMITH : hammer-throw : 20 JUL 1990 : 821 : 43
-IND : Mohd. TABIS : hammer-throw : 15 MAR 2003 : 818 : 44
-GBR : Alex SMITH : hammer-throw : 06 MAR 1988 : 817 : 45
+CAN : Adam KEENAN : hammer-throw : 26 SEP 1993 : 1122 : 25 MAR 2022 : 1
+GBR : Nick MILLER : hammer-throw : 01 MAY 1993 : 1096 : 02 APR 2022 : 2
+GBR : Chris BENNETT : hammer-throw : 17 DEC 1989 : 1089 : 12 MAR 2022 : 3
+CAN : Rowan HAMILTON : hammer-throw : 29 JAN 2000 : 1082 : 26 MAR 2022 : 4
+RSA : Tshepang MAKHETHE : hammer-throw : 19 FEB 1996 : 1072 : 12 MAR 2022 : 5
+RSA : Allan CUMMING : hammer-throw : 21 MAR 1996 : 1072 : 16 MAR 2022 : 6
+GBR : Osian JONES : hammer-throw : 23 JUN 1993 : 1059 : 27 FEB 2022 : 7
+CYP : Alexandros POURSANIDIS : hammer-throw : 23 JAN 1993 : 1055 : 04 MAR 2022 : 8
+GBR : Mark DRY : hammer-throw : 11 OCT 1987 : 1048 : 13 FEB 2022 : 9
+AUS : Ned WEATHERLY : hammer-throw : 12 JAN 1998 : 1035 : 31 MAR 2022 : 10
+AUS : James JOYCEY : hammer-throw : 12 OCT 1999 : 1029 : 18 MAR 2022 : 11
+AUS : Timothy HEYES : hammer-throw : 17 DEC 1997 : 1021 : 12 MAR 2022 : 12
+MAS : Jackie Wong SIEW CHEER : hammer-throw : 07 APR 1992 : 1019 : 05 MAR 2022 : 13
+GBR : Jake NORRIS : hammer-throw : 30 JUN 1999 : 1017 : 24 MAR 2022 : 14
+GBR : Bayley CAMPBELL : hammer-throw : 24 JUN 2000 : 1003 : 24 MAR 2022 : 15
+NZL : Anthony NOBILO : hammer-throw : 28 APR 1999 : 997 : 05 MAR 2022 : 16
+GBR : Jac PALMER : hammer-throw : 13 MAR 1996 : 989 : 27 FEB 2022 : 17
+AUS : Costa KOUSPARIS : hammer-throw : 12 JUN 1996 : 987 : 31 MAR 2022 : 18
+AUS : William BROWN : hammer-throw : 21 OCT 1996 : 977 : 20 FEB 2022 : 19
+RSA : Pieter-Juan VORSTMAN : hammer-throw : 14 AUG 2002 : 977 : 02 MAR 2022 : 20
+GBR : Edward JEANS : hammer-throw : 28 SEP 1998 : 976 : 24 MAR 2022 : 21
+GBR : Ben HAWKES : hammer-throw : 08 NOV 2000 : 975 : 02 APR 2022 : 22
+GBR : Chris SHORTHOUSE : hammer-throw : 23 JUN 1988 : 966 : 30 JAN 2022 : 23
+GBR : Tom PARKER : hammer-throw : 07 OCT 1994 : 962 : 18 MAR 2022 : 24
+GBR : Kenneth IKEJI : hammer-throw : 17 SEP 2002 : 962 : 26 MAR 2022 : 25
+IND : Damneet SINGH : hammer-throw : 10 MAR 2000 : 953 : 06 JAN 2022 : 26
+RSA : Francois PRINSLOO : hammer-throw : 11 NOV 2001 : 950 : 19 MAR 2022 : 27
+IND : Ajay KUMAR : hammer-throw : 10 JUL 1999 : 926 : 07 JAN 2022 : 28
+IND : Gaurav KUMAR : hammer-throw :  : 924 : 12 MAR 2022 : 29
+IND : Ajay SINGH : hammer-throw :  : 921 : 12 MAR 2022 : 30
+NZL : Anthony BARMES : hammer-throw : 29 JUN 2000 : 912 : 26 MAR 2022 : 31
+KEN : Dominic Ongidi ABUNDA : hammer-throw : 08 AUG 1993 : 910 : 04 FEB 2022 : 32
+IND : Deepak SURENDER : hammer-throw :  : 902 : 12 MAR 2022 : 33
+IND : Vinit KUMAR : hammer-throw : 2003 : 894 : 12 MAR 2022 : 34
+GBR : Shaun KERRY : hammer-throw : 13 DEC 2001 : 892 : 25 MAR 2022 : 35
+MAS : Sadat Merzuqi AJISAN : hammer-throw : 23 JAN 2001 : 892 : 20 MAR 2022 : 36
+GBR : Oliver GRAHAM : hammer-throw : 16 MAY 2001 : 888 : 20 MAR 2022 : 37
+JAM : Daniel COPE : hammer-throw : 05 MAR 2000 : 885 : 01 APR 2022 : 38
+CAN : Johnny VANOS : hammer-throw : 1999 : 877 : 19 MAR 2022 : 39
+GBR : James BEDFORD : hammer-throw : 29 DEC 1988 : 871 : 30 JAN 2022 : 40
+IND : Sukhdev SINGH : hammer-throw : 10 OCT 1993 : 871 : 29 MAR 2022 : 41
+NZL : Warren BUTTON : hammer-throw : 21 JUN 1988 : 864 : 19 FEB 2022 : 42
+AUS : Huw PEACOCK : hammer-throw : 12 MAY 1992 : 861 : 12 MAR 2022 : 43
+IND : Farook AHMAD : hammer-throw :  : 859 : 07 JAN 2022 : 44
+IND : Nitin MALIK : hammer-throw : 09 JAN 2000 : 858 : 12 MAR 2022 : 45
+NZL : Todd BATES : hammer-throw : 29 NOV 1994 : 857 : 05 FEB 2022 : 46
+IND : Jai CHAND : hammer-throw : 08 JUL 2001 : 853 : 07 JAN 2022 : 47
+IND : . GAURAV : hammer-throw :  : 851 : 06 JAN 2022 : 48
+RSA : James HAVINGA : hammer-throw : 27 SEP 2000 : 850 : 16 MAR 2022 : 49
+IND : . AJAY : hammer-throw : 10 OCT 1995 : 846 : 06 JAN 2022 : 50
+IND : Navdeep SINGH : hammer-throw : 24 JUN 1996 : 839 : 07 JAN 2022 : 51
+IND : Shantanu UCHALE : hammer-throw : 31 JAN 1999 : 839 : 07 JAN 2022 : 52
+AUS : Ben ROBERTS : hammer-throw : 07 NOV 2003 : 837 : 31 MAR 2022 : 53
+MLT : Luca MARTINI : hammer-throw : 02 MAY 2000 : 830 : 29 JAN 2022 : 54
+NGR : Chisom ENEKWECHI : hammer-throw :  : 828 : 26 MAR 2022 : 55
+GBR : Peter SMITH : hammer-throw : 20 JUL 1990 : 821 : 30 JAN 2022 : 56
+IND : Mohd. TABIS : hammer-throw : 15 MAR 2003 : 818 : 07 JAN 2022 : 57
+CAN : Toren BURR : hammer-throw : 2002 : 818 : 01 APR 2022 : 58
+GBR : Alex SMITH : hammer-throw : 06 MAR 1988 : 817 : 30 JAN 2022 : 59

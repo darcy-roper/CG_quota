@@ -1,50 +1,50 @@
-CAN : Damian WARNER : decathlon : 04 NOV 1989 : 1285 : 1
-AUS : Ashley MOLONEY : decathlon : 13 MAR 2000 : 1227 : 2
-CAN : Pierce LEPAGE : decathlon : 22 JAN 1996 : 1220 : 3
-GRN : Lindon VICTOR : decathlon : 28 FEB 1993 : 1190 : 4
-AUS : Daniel GOLUBOVIC : decathlon : 29 NOV 1993 : 1178 : 5
-AUS : Cedric DUBLER : decathlon : 13 JAN 1995 : 1153 : 6
-AUS : Alec DIAMOND : decathlon : 09 AUG 1997 : 1126 : 7
-BAH : Ken MULLINGS : decathlon : 28 APR 1997 : 1085 : 8
-CAN : Nathaniel MECHLER : decathlon : 31 MAR 1997 : 1080 : 9
-GBR : Jack TURNER : decathlon : 11 JUL 2001 : 1074 : 10
-BAH : Kendrick THOMPSON : decathlon : 28 AUG 1997 : 1071 : 11
-NZL : Aaron BOOTH : decathlon : 12 SEP 1996 : 1071 : 11
-CAN : Taylor EHRHARDT : decathlon : 11 APR 1991 : 1069 : 13
-GBR : Lewis CHURCH : decathlon : 27 SEP 1996 : 1056 : 14
-CYP : Elvis KRYUKOV : decathlon : 01 MAY 1992 : 1049 : 15
-GBR : Timothy DUCKWORTH : decathlon : 18 JUN 1996 : 1041 : 16
-GBR : Harry KENDALL : decathlon : 04 OCT 1996 : 1018 : 17
-AUS : Sebastian REYNEKE : decathlon : 25 MAR 2001 : 1013 : 18
-AUS : Christian PAYNTER : decathlon : 23 APR 1997 : 1012 : 19
-AUS : Liam GILBERT : decathlon : 08 FEB 2002 : 1011 : 20
-GBR : Harry MASLEN : decathlon : 02 SEP 1996 : 1002 : 21
-NZL : Max ATTWELL : decathlon : 14 SEP 1996 : 997 : 22
-NZL : Ben COLLERTON : decathlon : 22 APR 1998 : 997 : 22
-GBR : Joel MCFARLANE : decathlon : 09 OCT 2000 : 995 : 24
-GBR : Andrew MURPHY : decathlon : 26 DEC 1994 : 992 : 25
-AUS : David BROCK : decathlon : 08 JUN 1994 : 991 : 26
-GBR : Nicolas GEROME : decathlon : 07 NOV 1999 : 981 : 27
-GBR : Sam TALBOT : decathlon : 17 FEB 1999 : 981 : 27
-GBR : Curtis MATTHEWS : decathlon : 22 JAN 1992 : 980 : 29
-GBR : Philip KASTNER : decathlon : 01 OCT 2001 : 979 : 30
-GBR : Bradley EISNOR : decathlon : 24 NOV 1996 : 976 : 31
-CAN : Rostam TURNER : decathlon : 1995 : 976 : 32
-GBR : Elliot THOMPSON : decathlon : 10 AUG 1992 : 976 : 33
-GBR : Oliver THORNER : decathlon : 16 MAR 2001 : 975 : 34
-AUS : Martin CLARK : decathlon : 24 NOV 1992 : 970 : 35
-CAN : Telvin TAVERNIER : decathlon : 1993 : 968 : 36
-AUS : Sam TAYLOR : decathlon : 22 MAY 2001 : 968 : 37
-AUS : Matthew WECKER : decathlon : 27 DEC 1997 : 956 : 38
-IND : Usaid KHAN : decathlon : 19 MAR 2002 : 945 : 39
-GBR : Howard BELL : decathlon : 02 MAY 1998 : 939 : 40
-GBR : Charlie ROE : decathlon : 28 APR 1992 : 928 : 41
-IND : Navjor SINGH : decathlon : 05 MAY 1994 : 919 : 42
-NAM : Timon DRESSELHAUS : decathlon : 1998 : 919 : 43
-IND : Umesh LAMBA : decathlon : 25 FEB 2000 : 916 : 44
-JAM : David EDMONDSON : decathlon : 17 NOV 2000 : 915 : 45
-GBR : Cal MCLENNAN : decathlon : 01 MAY 1999 : 915 : 46
-GBR : Liam REVELEY : decathlon : 24 OCT 1998 : 909 : 47
-IND : Sunil KUMAR : decathlon : 02 FEB 1997 : 907 : 48
-CAN : Shawn BEAUDOIN : decathlon : 21 FEB 1994 : 899 : 49
-CAN : Ryan THOMSEN : decathlon : 25 FEB 1998 : 894 : 50
+CAN : Damian WARNER : decathlon : 04 NOV 1989 : 1285 : 05 AUG 2021 : 1
+AUS : Ashley MOLONEY : decathlon : 13 MAR 2000 : 1227 : 05 AUG 2021 : 2
+CAN : Pierce LEPAGE : decathlon : 22 JAN 1996 : 1220 : 05 AUG 2021 : 3
+GRN : Lindon VICTOR : decathlon : 28 FEB 1993 : 1190 : 05 AUG 2021 : 4
+AUS : Daniel GOLUBOVIC : decathlon : 29 NOV 1993 : 1178 : 19 DEC 2021 : 5
+AUS : Cedric DUBLER : decathlon : 13 JAN 1995 : 1153 : 16 APR 2021 : 6
+AUS : Alec DIAMOND : decathlon : 09 AUG 1997 : 1126 : 19 JUN 2021 : 7
+BAH : Ken MULLINGS : decathlon : 28 APR 1997 : 1085 : 27 JUN 2021 : 8
+CAN : Nathaniel MECHLER : decathlon : 31 MAR 1997 : 1080 : 26 JUN 2021 : 9
+GBR : Jack TURNER : decathlon : 11 JUL 2001 : 1074 : 14 MAY 2021 : 10
+BAH : Kendrick THOMPSON : decathlon : 28 AUG 1997 : 1071 : 04 APR 2021 : 11
+NZL : Aaron BOOTH : decathlon : 12 SEP 1996 : 1071 : 10 JUN 2021 : 11
+CAN : Taylor EHRHARDT : decathlon : 11 APR 1991 : 1069 : 26 JUN 2021 : 13
+GBR : Lewis CHURCH : decathlon : 27 SEP 1996 : 1056 : 19 SEP 2021 : 14
+CYP : Elvis KRYUKOV : decathlon : 01 MAR 1992 : 1049 : 07 MAY 2021 : 15
+GBR : Timothy DUCKWORTH : decathlon : 18 JUN 1996 : 1041 : 26 JUN 2021 : 16
+GBR : Harry KENDALL : decathlon : 04 OCT 1996 : 1018 : 19 SEP 2021 : 17
+AUS : Sebastian REYNEKE : decathlon : 25 MAR 2001 : 1013 : 07 FEB 2021 : 18
+AUS : Christian PAYNTER : decathlon : 23 APR 1997 : 1012 : 07 FEB 2021 : 19
+AUS : Liam GILBERT : decathlon : 08 FEB 2002 : 1011 : 19 DEC 2021 : 20
+GBR : Harry MASLEN : decathlon : 02 SEP 1996 : 1002 : 26 JUN 2021 : 21
+NZL : Max ATTWELL : decathlon : 14 SEP 1996 : 997 : 07 FEB 2021 : 22
+NZL : Ben COLLERTON : decathlon : 22 APR 1998 : 997 : 15 MAY 2021 : 22
+GBR : Joel MCFARLANE : decathlon : 09 OCT 2000 : 995 : 14 MAY 2021 : 24
+GBR : Andrew MURPHY : decathlon : 26 DEC 1994 : 992 : 29 AUG 2021 : 25
+AUS : David BROCK : decathlon : 08 JUN 1994 : 991 : 16 APR 2021 : 26
+GBR : Nicolas GEROME : decathlon : 07 NOV 1999 : 981 : 30 MAY 2021 : 27
+GBR : Sam TALBOT : decathlon : 17 FEB 1999 : 981 : 29 AUG 2021 : 27
+GBR : Curtis MATHEWS : decathlon : 22 JAN 1992 : 980 : 30 MAY 2021 : 29
+GBR : Philip KASTNER : decathlon : 01 OCT 2001 : 979 : 30 MAY 2021 : 30
+GBR : Bradley EISNOR : decathlon : 24 NOV 1996 : 976 : 19 SEP 2021 : 31
+CAN : Rostam TURNER : decathlon : 11 MAY 1995 : 976 : 14 MAY 2021 : 32
+GBR : Elliot THOMPSON : decathlon : 10 AUG 1992 : 976 : 26 JUN 2021 : 33
+GBR : Oliver THORNER : decathlon : 16 MAR 2001 : 975 : 26 JUN 2021 : 34
+AUS : Martin CLARK : decathlon : 24 NOV 1992 : 970 : 19 DEC 2021 : 35
+CAN : Telvin TAVERNIER : decathlon : 1993 : 968 : 31 JUL 2021 : 36
+AUS : Sam TAYLOR : decathlon : 22 MAY 2001 : 968 : 16 APR 2021 : 37
+AUS : Matthew WECKER : decathlon : 27 DEC 1997 : 956 : 16 APR 2021 : 38
+IND : Usaid KHAN : decathlon : 19 MAR 2002 : 945 : 16 MAR 2021 : 39
+GBR : Howard BELL : decathlon : 02 MAY 1998 : 939 : 30 MAY 2021 : 40
+GBR : Charlie ROE : decathlon : 28 APR 1992 : 928 : 29 AUG 2021 : 41
+IND : Navjor SINGH : decathlon : 05 MAY 1994 : 919 : 16 MAR 2021 : 42
+NAM : Timon DRESSELHAUS : decathlon : 1998 : 919 : 16 MAY 2021 : 43
+IND : Umesh LAMBA : decathlon : 25 FEB 2000 : 916 : 16 MAR 2021 : 44
+JAM : David EDMONDSON : decathlon : 17 NOV 2000 : 915 : 14 MAY 2021 : 45
+GBR : Cal MCLENNAN : decathlon : 01 MAY 1999 : 915 : 30 MAY 2021 : 46
+GBR : Liam REVELEY : decathlon : 24 OCT 1998 : 909 : 30 MAY 2021 : 47
+IND : Sunil KUMAR : decathlon : 02 FEB 1997 : 907 : 16 MAR 2021 : 48
+CAN : Shawn BEAUDOIN : decathlon : 21 FEB 1994 : 899 : 31 JUL 2021 : 49
+CAN : Ryan THOMSEN : decathlon : 25 FEB 1998 : 894 : 10 APR 2021 : 50

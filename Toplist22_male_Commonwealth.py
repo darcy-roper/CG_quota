@@ -177,8 +177,14 @@ while True:
                     elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "20km-race-walking" or event == "marathon" or event == "decathlon":
                         grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[10]').text  # 10th column for middle-long dist
 
+                    # fetching performance date to be used in SQL and filter by qualifying period
+                    if event == "100m" or event == "200m" or event == "110mh" or event == "long-jump" or event == "triple-jump":
+                        grab_date = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[10]').text  # 11th column for sprints
+                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "20km-race-walking" or event == "marathon" or event == "decathlon":
+                        grab_date = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[9]').text  # 10th column for middle-long dist
 
-                    print(nat_check, ":", grab_name, ":", event, ":", grab_DOB, ":", grab_score, ":", grab_rank)
+
+                    print(nat_check, ":", grab_name, ":", event, ":", grab_DOB, ":", grab_score, ":", grab_date, ":", grab_rank)
                     if event == "decathlon":
                         counter = counter + 2  # prints to txt file then adds 2 to counter to move down list for multi events
                     else:

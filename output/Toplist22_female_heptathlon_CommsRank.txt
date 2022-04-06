@@ -1,13 +1,22 @@
-AUS : Tori WEST : heptathlon : 14 OCT 1995 : 993 : 1
-AUS : Mia SCERRI : heptathlon : 26 MAR 2005 : 924 : 2
-RSA : Shannon VERSTER : heptathlon : 10 NOV 1999 : 900 : 3
-NZL : Christina RYAN : heptathlon : 15 FEB 1998 : 899 : 4
-NZL : Maddie WILSON : heptathlon : 05 APR 2002 : 871 : 5
-MAS : Norliyana KAMARUDDIN : heptathlon : 26 MAR 1991 : 849 : 6
-AUS : Christine GAYEN : heptathlon : 20 OCT 1996 : 839 : 7
-AUS : Hannah TAIT : heptathlon : 20 MAR 2003 : 829 : 8
-AUS : Ella KOSTER : heptathlon : 12 MAR 2003 : 792 : 9
-AUS : Lily TILT : heptathlon : 24 NOV 2004 : 786 : 10
-GBR : Lucy WALLIKER : heptathlon : 1999 : 781 : 11
-AUS : Margaret GAYEN : heptathlon : 10 JUL 1994 : 766 : 12
-NZL : Alice TAYLOR : heptathlon : 14 DEC 2002 : 766 : 13
+GBR : Isabel WAKEFIELD : heptathlon : 05 JAN 2000 : 1046 : 24 MAR 2022 : 1
+AUS : Taneille CRASE : heptathlon : 16 OCT 1994 : 1028 : 02 APR 2022 : 2
+AUS : Tori WEST : heptathlon : 14 OCT 1995 : 993 : 16 JAN 2022 : 3
+TTO : Saﬁya JOHN : heptathlon : 2001 : 972 : 24 MAR 2022 : 4
+GBR : Zoe HUGHES : heptathlon : 09 DEC 1997 : 958 : 24 MAR 2022 : 5
+AUS : Alysha BURNETT : heptathlon : 04 JAN 1997 : 941 : 02 APR 2022 : 6
+AUS : Mia SCERRI : heptathlon : 26 MAR 2005 : 937 : 02 APR 2022 : 7
+AUS : Emelia SURCH : heptathlon : 29 JUN 2003 : 931 : 02 APR 2022 : 8
+AUS : Tiana SOLLEY : heptathlon : 1998 : 913 : 02 APR 2022 : 9
+NZL : Maddie WILSON : heptathlon : 05 APR 2002 : 909 : 27 MAR 2022 : 10
+NZL : Christina RYAN : heptathlon : 15 FEB 1998 : 901 : 27 MAR 2022 : 11
+RSA : Shannon VERSTER : heptathlon : 10 NOV 1999 : 900 : 12 MAR 2022 : 12
+MAS : Norliyana KAMARUDDIN : heptathlon : 26 MAR 1991 : 849 : 06 MAR 2022 : 13
+AUS : Christine GAYEN : heptathlon : 20 OCT 1996 : 839 : 09 JAN 2022 : 14
+AUS : Hannah TAIT : heptathlon : 20 MAR 2003 : 833 : 02 APR 2022 : 15
+CAN : Hassanat FASHINA-BOMBALA : heptathlon : 1999 : 808 : 27 MAR 2022 : 16
+AUS : Ella KOSTER : heptathlon : 12 MAR 2003 : 792 : 16 JAN 2022 : 17
+AUS : Lily TILT : heptathlon : 24 NOV 2004 : 790 : 02 APR 2022 : 18
+AUS : Amie BOWREY : heptathlon : 15 NOV 2001 : 785 : 02 APR 2022 : 19
+GBR : Lucy WALLIKER : heptathlon : 1999 : 781 : 18 MAR 2022 : 20
+AUS : Margaret GAYEN : heptathlon : 10 JUL 1994 : 766 : 09 JAN 2022 : 21
+NZL : Alice TAYLOR : heptathlon : 14 DEC 2002 : 766 : 06 MAR 2022 : 22

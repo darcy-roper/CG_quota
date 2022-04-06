@@ -1,65 +1,100 @@
-NZL : Lauren BRUCE : hammer-throw : 23 MAR 1997 : 1147 : 1
-NZL : Julia RATCLIFFE : hammer-throw : 14 JUL 1993 : 1131 : 2
-NZL : Nicole BRADLEY : hammer-throw : 23 APR 1992 : 1100 : 3
-GBR : Katie HEAD : hammer-throw : 09 DEC 1999 : 1089 : 4
-AUS : Alexandra HULLEY : hammer-throw : 24 JUL 1997 : 1076 : 5
-GBR : Jessica MAYHO : hammer-throw : 14 JUN 1993 : 1063 : 6
-GBR : Anna PURCHASE : hammer-throw : 15 SEP 1999 : 1049 : 7
-GBR : Charlotte PAYNE : hammer-throw : 20 MAR 2002 : 1041 : 8
-GBR : Kayleigh PRESSWELL : hammer-throw : 14 MAR 1995 : 1009 : 9
-CYP : Chrystalla KYRIAKOU : hammer-throw : 04 OCT 1996 : 974 : 10
-GBR : Philippa DAVENALL : hammer-throw : 26 SEP 1998 : 963 : 11
-MAS : Grace WONG XIU MEI : hammer-throw : 18 JAN 2000 : 962 : 12
-IND : Sarita Romit SINGH : hammer-throw : 26 OCT 1989 : 961 : 13
-RSA : Phethisang MAKHETHE : hammer-throw : 05 SEP 2002 : 960 : 14
-JAM : Erica BELVIT : hammer-throw : 09 NOV 1998 : 958 : 15
-CYP : Valentina SAVVA : hammer-throw : 17 MAY 2005 : 954 : 16
-AUS : Stephanie RATCLIFFE : hammer-throw : 29 DEC 2000 : 946 : 17
-AUS : Lyvante SU'EMAI : hammer-throw : 12 DEC 2002 : 927 : 18
-JAM : Marie FORBES : hammer-throw : 16 MAR 2001 : 909 : 19
-RSA : Collette UYS : hammer-throw : 20 APR 2000 : 896 : 20
-AUS : Caitlyn HESTER : hammer-throw : 17 SEP 1999 : 884 : 21
-GBR : Charlotte WILLIAMS : hammer-throw : 20 SEP 2001 : 880 : 22
-AUS : Lara ROBERTS : hammer-throw : 07 NOV 2003 : 879 : 23
-NZL : Lexi MAPLES : hammer-throw : 17 DEC 1999 : 878 : 24
-NZL : Dyani SHEPHERD-OATES : hammer-throw : 09 FEB 2000 : 873 : 25
-BAH : Acacia ASTWOOD : hammer-throw : 20 OCT 2000 : 867 : 26
-GBR : Poppy BEAN : hammer-throw : 2000 : 855 : 27
-IND : Vedpathak SURABH : hammer-throw : 29 AUG 1998 : 855 : 28
-RSA : Danè COETZER : hammer-throw : 28 AUG 2002 : 849 : 29
-AUS : Alysha PEARSON : hammer-throw : 15 JUN 2002 : 846 : 30
-GBR : Candy LOCKETT : hammer-throw : 13 MAY 1999 : 845 : 31
-NZL : Mayce BALLANTYNE : hammer-throw : 19 AUG 1994 : 845 : 32
-KEN : Roselyn RAKAMBA : hammer-throw : 10 OCT 1990 : 838 : 33
-GBR : Lucy MARSHALL : hammer-throw : 28 NOV 1981 : 829 : 34
-KEN : Lucy Anyango OMONDI : hammer-throw : 04 JUL 1987 : 816 : 35
-NZL : Elizabeth HEWITT : hammer-throw : 09 MAR 2004 : 815 : 36
-RSA : Marinda GREYLING : hammer-throw : 04 JUN 1999 : 808 : 37
-IVB : Tynelle GUMBS : hammer-throw : 27 SEP 1998 : 808 : 38
-KEN : Linda Ngendo OSESO : hammer-throw : 25 JAN 1990 : 807 : 39
-RSA : Margo Chene PRETORIUS : hammer-throw : 09 JUN 1994 : 802 : 40
-AUS : Aliyah CANEPA : hammer-throw : 26 JUL 2002 : 801 : 41
-NZL : Alexandria MAPLES : hammer-throw :  : 800 : 42
-AUS : Renee HARDY : hammer-throw : 12 APR 2003 : 792 : 43
-GBR : Rachel MACLENNAN : hammer-throw :  : 786 : 44
-AUS : Olivia GRAHAM : hammer-throw : 24 OCT 2000 : 781 : 45
-MAS : Nurul Hidayah LUKMAN : hammer-throw : 28 APR 2001 : 777 : 46
-AUS : Natalie DEBELJUH : hammer-throw : 04 OCT 1988 : 777 : 47
-IND : Aakanksha SANDH : hammer-throw :  : 775 : 48
-AUS : Rachel HOSIE : hammer-throw : 14 FEB 2002 : 773 : 49
-IND : Sneha SURYAKAN : hammer-throw : 10 JAN 2000 : 773 : 50
-NZL : Mayce BATES : hammer-throw : 19 AUG 1994 : 767 : 51
-IND : Amandeep KAUR : hammer-throw : 18 FEB 1999 : 766 : 52
-IND : Divya SHANDILYA : hammer-throw : 05 JUL 1998 : 764 : 53
-IND : Amandeep KAUR : hammer-throw : 07 JAN 2002 : 763 : 54
-IND : . RITESH : hammer-throw : 07 JAN 1999 : 759 : 55
-IND : Bhadwati CHOUDHARY : hammer-throw : 23 JUL 2001 : 750 : 56
-AUS : Hannah EDWARDS : hammer-throw : 2005 : 749 : 57
-NZL : Teagan ASHLEY : hammer-throw : 17 APR 2002 : 744 : 58
-MLT : Mireya CASSAR : hammer-throw : 06 APR 2003 : 740 : 59
-NZL : Mile NAIME : hammer-throw : 06 MAY 2002 : 737 : 60
-CAN : Shiloh CORRALES NELSON : hammer-throw : 2001 : 733 : 61
-MAS : Nurfazira JALALUDIN : hammer-throw :  : 729 : 62
-AUS : Julia DIREEN : hammer-throw : 31 JAN 2001 : 729 : 63
-CAN : Jenna REID : hammer-throw : 2001 : 728 : 64
-IND : Preeti SHARAWAT : hammer-throw : 05 SEP 1998 : 724 : 65
+CAN : Camryn ROGERS : hammer-throw : 07 JUN 1999 : 1161 : 01 APR 2022 : 1
+NZL : Lauren BRUCE : hammer-throw : 23 MAR 1997 : 1147 : 05 MAR 2022 : 2
+NZL : Julia RATCLIFFE : hammer-throw : 14 JUL 1993 : 1131 : 23 MAR 2022 : 3
+NGR : Annette ECHIKUNWOKE : hammer-throw : 29 JUL 1996 : 1119 : 01 APR 2022 : 4
+NZL : Nicole BRADLEY : hammer-throw : 23 APR 1992 : 1100 : 05 MAR 2022 : 5
+GBR : Katie HEAD : hammer-throw : 09 DEC 1999 : 1089 : 13 FEB 2022 : 6
+AUS : Alexandra HULLEY : hammer-throw : 24 JUL 1997 : 1076 : 12 MAR 2022 : 7
+CAN : Jillian WEIR : hammer-throw : 09 FEB 1993 : 1067 : 01 APR 2022 : 8
+GBR : Jessica MAYHO : hammer-throw : 14 JUN 1993 : 1063 : 27 FEB 2022 : 9
+GBR : Anna PURCHASE : hammer-throw : 15 SEP 1999 : 1057 : 01 APR 2022 : 10
+GBR : Tara SIMPSON-SULLIVAN : hammer-throw : 02 DEC 2000 : 1042 : 02 APR 2022 : 11
+GBR : Charlotte PAYNE : hammer-throw : 20 MAR 2002 : 1041 : 27 FEB 2022 : 12
+GBR : Amy PHILLIPS : hammer-throw : 22 MAY 1998 : 1032 : 26 MAR 2022 : 13
+CAN : Kaila BUTLER : hammer-throw : 16 JUL 1998 : 1023 : 26 MAR 2022 : 14
+JAM : Nayoka CLUNIS : hammer-throw : 07 OCT 1995 : 1015 : 26 MAR 2022 : 15
+GBR : Kayleigh PRESSWELL : hammer-throw : 14 MAR 1995 : 1009 : 13 FEB 2022 : 16
+NGR : Oyesade OLATOYE : hammer-throw : 25 JAN 1997 : 999 : 25 MAR 2022 : 17
+GBR : Amber SIMPSON : hammer-throw : 03 JAN 1999 : 986 : 25 MAR 2022 : 18
+CYP : Chrystalla KYRIAKOU : hammer-throw : 04 OCT 1996 : 974 : 13 MAR 2022 : 19
+GBR : Philippa DAVENALL : hammer-throw : 26 SEP 1998 : 963 : 13 FEB 2022 : 20
+MAS : Xiu Mei GRACE WONG : hammer-throw : 18 JAN 2000 : 962 : 05 MAR 2022 : 21
+IND : Sarita Romit SINGH : hammer-throw : 26 OCT 1989 : 961 : 27 FEB 2022 : 22
+AUS : Stephanie RATCLIFFE : hammer-throw : 29 DEC 2000 : 960 : 01 APR 2022 : 23
+RSA : Phethisang MAKHETHE : hammer-throw : 05 SEP 2002 : 960 : 18 MAR 2022 : 24
+GBR : Alice BARNSDALE : hammer-throw : 23 FEB 1999 : 959 : 01 APR 2022 : 25
+JAM : Erica BELVIT : hammer-throw : 09 NOV 1998 : 958 : 18 MAR 2022 : 26
+CYP : Valentina SAVVA : hammer-throw : 17 MAY 2005 : 954 : 04 MAR 2022 : 27
+RSA : Leandri GEEL : hammer-throw : 14 JUL 1997 : 951 : 16 MAR 2022 : 28
+CAN : Tanessa MORRIS : hammer-throw : 1999 : 934 : 01 APR 2022 : 29
+AUS : Lyvante SU'EMAI : hammer-throw : 12 DEC 2002 : 927 : 11 MAR 2022 : 30
+JAM : Marie FORBES : hammer-throw : 16 MAR 2001 : 909 : 19 MAR 2022 : 31
+AUS : Samantha LENTON : hammer-throw : 11 JUN 1999 : 902 : 01 APR 2022 : 32
+GBR : Charlotte WILLIAMS : hammer-throw : 20 SEP 2001 : 898 : 01 APR 2022 : 33
+RSA : Collette UYS : hammer-throw : 20 APR 2000 : 896 : 11 MAR 2022 : 34
+RSA : Elaine PRETORIUS : hammer-throw : 26 NOV 2003 : 888 : 16 MAR 2022 : 35
+GBR : Candy LOCKETT : hammer-throw : 13 MAY 1999 : 887 : 26 MAR 2022 : 36
+AUS : Caitlyn HESTER : hammer-throw : 17 SEP 1999 : 884 : 18 MAR 2022 : 37
+JAM : Kadian CLARKE : hammer-throw : 06 AUG 1998 : 882 : 26 MAR 2022 : 38
+AUS : Lara ROBERTS : hammer-throw : 07 NOV 2003 : 879 : 05 FEB 2022 : 39
+NZL : Lexi MAPLES : hammer-throw : 17 DEC 1999 : 878 : 05 MAR 2022 : 40
+NZL : Dyani SHEPHERD-OATES : hammer-throw : 09 FEB 2000 : 873 : 29 JAN 2022 : 41
+BAH : Acacia ASTWOOD : hammer-throw : 20 OCT 2000 : 872 : 02 APR 2022 : 42
+RSA : Danè COETZER : hammer-throw : 28 AUG 2002 : 867 : 16 MAR 2022 : 43
+IND : Jyoti JAKHAR RANA : hammer-throw : 25 MAR 1993 : 867 : 30 MAR 2022 : 44
+IND : Rekha SINGH : hammer-throw : 30 DEC 1997 : 859 : 30 MAR 2022 : 45
+GBR : Hannah BLOOD : hammer-throw :  : 858 : 19 MAR 2022 : 46
+AUS : Alysha PEARSON : hammer-throw : 15 JUN 2002 : 856 : 30 MAR 2022 : 47
+GBR : Poppy BEAN : hammer-throw : 2000 : 855 : 19 MAR 2022 : 48
+IND : Vedpathak SURABH : hammer-throw : 29 AUG 1998 : 855 : 24 FEB 2022 : 49
+CAN : Shiloh CORRALES NELSON : hammer-throw : 2001 : 855 : 26 MAR 2022 : 50
+NZL : Mayce BALLANTYNE : hammer-throw : 19 AUG 1994 : 845 : 05 FEB 2022 : 51
+RSA : Elme BOTHA : hammer-throw : 07 JAN 2001 : 844 : 16 MAR 2022 : 52
+IND : Kulvinder KAUR : hammer-throw : 15 FEB 1998 : 843 : 30 MAR 2022 : 53
+KEN : Roselyn RAKAMBA : hammer-throw : 10 OCT 1990 : 838 : 04 MAR 2022 : 54
+JAM : Devia BROWN : hammer-throw : 21 MAR 1998 : 834 : 25 MAR 2022 : 55
+GBR : Luisa CHANTLER EDMOND : hammer-throw : 07 JUN 1999 : 834 : 02 APR 2022 : 56
+RSA : Marinda GREYLING : hammer-throw : 04 JUN 1999 : 832 : 02 MAR 2022 : 57
+GBR : Anna MERRITT : hammer-throw : 03 OCT 2002 : 832 : 02 APR 2022 : 58
+GBR : Lucy MARSHALL : hammer-throw : 28 NOV 1981 : 829 : 19 MAR 2022 : 59
+RSA : Lizelle FOURIE : hammer-throw : 05 JAN 1999 : 823 : 05 FEB 2022 : 60
+AUS : Aliyah CANEPA : hammer-throw : 26 JUL 2002 : 823 : 01 APR 2022 : 60
+KEN : Lucy Anyango OMONDI : hammer-throw : 07 APR 1987 : 816 : 04 MAR 2022 : 62
+RSA : Tamlyn LEONARD : hammer-throw : 21 JUN 1999 : 816 : 02 MAR 2022 : 63
+NZL : Elizabeth HEWITT : hammer-throw : 09 MAR 2004 : 815 : 04 MAR 2022 : 64
+IVB : Tynelle GUMBS : hammer-throw : 27 SEP 1996 : 808 : 18 MAR 2022 : 65
+KEN : Linda Ngendo OSESO : hammer-throw : 25 JAN 1990 : 807 : 05 MAR 2022 : 66
+RSA : Margo Chene PRETORIUS : hammer-throw : 09 JUN 1994 : 802 : 12 MAR 2022 : 67
+NZL : Alexandria MAPLES : hammer-throw :  : 800 : 30 JAN 2022 : 68
+AUS : Renee HARDY : hammer-throw : 12 APR 2003 : 792 : 13 FEB 2022 : 69
+GBR : Rachel MACLENNAN : hammer-throw :  : 786 : 13 MAR 2022 : 70
+CAN : Isabella HALL : hammer-throw : 2004 : 785 : 26 MAR 2022 : 71
+GBR : Ffion PALMER : hammer-throw : 20 MAR 2000 : 783 : 02 APR 2022 : 72
+AUS : Isabella SIMONELLI : hammer-throw : 23 JAN 2001 : 783 : 24 MAR 2022 : 73
+AUS : Olivia GRAHAM : hammer-throw : 24 OCT 2000 : 781 : 19 FEB 2022 : 74
+AUS : Hannah EDWARDS : hammer-throw : 2005 : 779 : 30 MAR 2022 : 75
+MAS : Nurul Hidayah LUKMAN : hammer-throw : 28 APR 2001 : 777 : 27 FEB 2022 : 76
+AUS : Natalie DEBELJUH : hammer-throw : 04 OCT 1988 : 777 : 19 FEB 2022 : 77
+IND : Aakanksha SANDH : hammer-throw :  : 775 : 24 FEB 2022 : 78
+AUS : Rachel HOSIE : hammer-throw : 14 FEB 2002 : 774 : 30 MAR 2022 : 79
+IND : Sneha SURYAKAN : hammer-throw : 10 JAN 2000 : 773 : 23 FEB 2022 : 80
+NZL : Mayce BATES : hammer-throw : 19 AUG 1994 : 767 : 19 MAR 2022 : 81
+NZL : Centaine NOOM-DUCKWORTH : hammer-throw : 05 JUL 2002 : 766 : 26 MAR 2022 : 82
+IND : Amandeep KAUR : hammer-throw : 18 FEB 1999 : 766 : 23 FEB 2022 : 83
+IND : Divya SHANDILYA : hammer-throw : 05 JUL 1998 : 764 : 24 FEB 2022 : 84
+IND : Amandeep KAUR : hammer-throw : 07 JAN 2002 : 763 : 24 FEB 2022 : 85
+IND : . RITESH : hammer-throw : 07 JAN 1999 : 759 : 24 FEB 2022 : 86
+GBR : Ava LEIGH : hammer-throw :  : 757 : 20 MAR 2022 : 87
+CAN : Zayna FRAY-SAMUELS : hammer-throw :  : 757 : 25 MAR 2022 : 88
+IND : . BHATERI : hammer-throw : 13 NOV 1998 : 752 : 13 MAR 2022 : 89
+MLT : Mireya CASSAR : hammer-throw : 06 APR 2003 : 751 : 26 MAR 2022 : 90
+IND : Bhadwati CHOUDHARY : hammer-throw : 23 JUL 2001 : 750 : 24 FEB 2022 : 91
+AUS : Natasha LYNCH : hammer-throw : 21 JAN 2006 : 748 : 01 APR 2022 : 92
+NZL : Teagan ASHLEY : hammer-throw : 17 APR 2002 : 744 : 05 MAR 2022 : 93
+IND : Senthilvel SRINITHI : hammer-throw : 14 JAN 1997 : 742 : 30 MAR 2022 : 94
+NZL : Mile NAIME : hammer-throw : 06 MAY 2002 : 737 : 04 FEB 2022 : 95
+GBR : Lilly MURRAY : hammer-throw : 2005 : 737 : 26 MAR 2022 : 96
+GBR : Hannah GELLATLY : hammer-throw :  : 736 : 03 APR 2022 : 97
+RSA : Kayla SMIT : hammer-throw : 06 APR 2001 : 736 : 23 MAR 2022 : 98
+CAN : Michelle DADSON : hammer-throw : 2002 : 735 : 26 MAR 2022 : 99
+IND : . AISHWARYA : hammer-throw : 24 SEP 2001 : 732 : 13 MAR 2022 : 100

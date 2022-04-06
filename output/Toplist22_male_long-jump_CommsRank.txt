@@ -1,98 +1,100 @@
-IND : J.Jeswin ALDRIN : long-jump : 24 DEC 2001 : 1184 : 1
-RSA : Jovan VAN VUUREN : long-jump : 17 JUL 1996 : 1177 : 2
-AUS : Christopher MITREVSKI : long-jump : 12 JUL 1996 : 1162 : 3
-BOT : Thapelo MONAIWA : long-jump : 18 FEB 1998 : 1127 : 4
-JAM : Adrian RILEY : long-jump : 22 JAN 1994 : 1109 : 5
-SRI : G.K.D.S. PIYARATHNA : long-jump : 15 APR 1994 : 1109 : 5
-AUS : Oscar MIERS : long-jump : 21 NOV 2001 : 1103 : 7
-GUY : Emanuel ARCHIBALD : long-jump : 09 SEP 1994 : 1101 : 8
-SRI : Janaka PRASAD : long-jump : 08 SEP 1992 : 1099 : 9
-AUS : Zane BRANCO : long-jump : 04 JAN 2000 : 1094 : 10
-AUS : Sam TAYLOR : long-jump : 22 MAY 2001 : 1090 : 11
-RSA : Karabo SATEKGE : long-jump : 07 OCT 2000 : 1088 : 12
-MLT : Jeremy ZAMMIT : long-jump : 02 SEP 2004 : 1079 : 13
-AUS : Alec DIAMOND : long-jump : 09 AUG 1997 : 1075 : 14
-IND : Muhammed Anees YAHIYA : long-jump : 03 DEC 1995 : 1073 : 15
-AUS : Liam ADCOCK : long-jump : 21 JUN 1996 : 1068 : 16
-AUS : Jalen RUCKER : long-jump : 18 FEB 1997 : 1068 : 16
-SRI : Hirusha Hashen WALIMUNI MENDIS ABESEKARA : long-jump : 25 MAR 2003 : 1071 : 18
-RSA : Peter MAKGATO : long-jump : 05 MAY 1996 : 1062 : 19
-AUS : Amiru CHANDRASENA : long-jump : 02 AUG 2002 : 1060 : 20
-AUS : Aiden HINSON : long-jump : 05 JUN 2003 : 1053 : 21
-NZL : Felix MCDONALD : long-jump : 30 APR 1998 : 1053 : 21
-GHA : Abraham SEANEKE : long-jump : 1996 : 1051 : 23
-SRI : Shreshan Dhananjaya LIYANAPEDIGE : long-jump : 07 JUN 1997 : 1059 : 24
-VIN : Uroy RYAN : long-jump : 22 MAR 2004 : 1049 : 24
-AUS : Liam FAIRWEATHER : long-jump : 23 JUL 2002 : 1047 : 26
-IND : Praveen CHITHRAVEL : long-jump : 05 JUN 2001 : 1047 : 26
-JAM : Shawn D. THOMPSON : long-jump : 20 JAN 1997 : 1054 : 28
-MAS : Andre ANURA : long-jump : 12 JUN 1999 : 1042 : 29
-AUS : Jeremy ANDREWS : long-jump : 03 NOV 1992 : 1040 : 30
-NZL : Shay VEITCH : long-jump : 17 DEC 2000 : 1038 : 31
-SRI : Dhanuka Liyana PATHIRANA : long-jump : 25 JUN 1993 : 1044 : 32
-SRI : Mahesh KUMARA : long-jump :  : 1034 : 33
-IND : P. DAVID : long-jump : 17 MAR 2002 : 1029 : 34
-AUS : Blake SHAW : long-jump :  : 1029 : 34
-JAM : Nickaoli WILLIAMS : long-jump : 07 OCT 2000 : 1029 : 34
-JAM : Aubrey ALLEN : long-jump : 19 JUL 1994 : 1030 : 37
-AUS : Shemaiah JAMES : long-jump : 12 JUL 1997 : 1027 : 37
-SRI : H.B.M. HERATH : long-jump :  : 1025 : 39
-TKS : Ifeanyichukwu OTUONYE : long-jump : 27 JUN 1994 : 1012 : 40
-IND : Yugant Shekhar SINGH : long-jump : 02 OCT 1997 : 1011 : 41
-RSA : Thato MALEMATSHA : long-jump : 06 MAY 2001 : 1008 : 41
-JAM : Safin WILLS : long-jump : 21 AUG 2000 : 1006 : 43
-AUS : Tristan SCHEIRS : long-jump : 20 APR 2000 : 1004 : 44
-RSA : Shaun MASWANGANYI : long-jump : 01 FEB 2001 : 1004 : 44
-SRI : Pasindu Malshan KUMARAPELI ARACHCHIGE : long-jump : 15 FEB 2003 : 999 : 46
-IVB : Khybah DAWSON : long-jump : 07 AUG 2004 : 995 : 47
-JAM : Royan WALTERS : long-jump : 02 APR 2004 : 1000 : 48
-BOT : Norman CHIBANE : long-jump : 1999 : 991 : 48
-SRI : W.I.K. PIYASIRI : long-jump :  : 991 : 48
-MAS : Luqman Hakim RAMLAN : long-jump : 08 MAR 1995 : 989 : 51
-SRI : M.I.M. ASAN : long-jump :  : 990 : 52
-RSA : Asande MTHEMBU : long-jump : 04 JUN 2004 : 984 : 53
-AUS : Mackenzie LIDDELOW : long-jump : 22 DEC 1997 : 982 : 54
-RSA : Michael SKOSANA : long-jump : 18 SEP 2000 : 982 : 54
-AUS : Thomas PITTS : long-jump : 29 SEP 2000 : 978 : 56
-AUS : Patrick KROPP : long-jump : 28 DEC 2000 : 978 : 56
-RSA : Junior MONDLANE : long-jump : 03 JUN 2003 : 978 : 56
-AUS : Ryan HATCH : long-jump : 19 JAN 2000 : 976 : 59
-RSA : Thapelo NKUNA : long-jump : 02 APR 2002 : 973 : 60
-ANT : Sheldon NOBLE : long-jump : 04 APR 2001 : 973 : 60
-AUS : William FREYER : long-jump : 26 OCT 1999 : 971 : 62
-SRI : J.H.G. SAMPATH : long-jump :  : 971 : 62
-AUS : Nicholas VAN GELDER : long-jump : 01 FEB 1995 : 969 : 64
-AUS : Jacob HRISTIANOPOULOS : long-jump : 2003 : 969 : 64
-JAM : Balvin ISRAEL : long-jump : 19 SEP 2005 : 969 : 64
-AUS : Ryan COOPER : long-jump : 11 SEP 1999 : 967 : 67
-RSA : Mark GAINES : long-jump : 19 AUG 2000 : 971 : 68
-AUS : Benan OZTORUN : long-jump : 17 NOV 1998 : 977 : 69
-BOT : Pushudi TSHIRELETSO : long-jump : 1999 : 963 : 69
-AUS : Nicholas HUM : long-jump : 29 JAN 1993 : 963 : 69
-AUS : Dylan JAMES : long-jump : 02 MAR 2002 : 975 : 69
-AUS : Angus GOULD : long-jump : 08 JAN 1994 : 958 : 73
-AUS : Ethan PETCOS : long-jump : 14 FEB 2003 : 958 : 73
-AUS : Brandon CLARK : long-jump : 17 MAY 1993 : 958 : 73
-NZL : Lewis ARTHUR : long-jump : 20 SEP 1999 : 954 : 76
-TTO : Aaron ANTOINE : long-jump : 2004 : 960 : 76
-GUY : Micaiah WASHINGTON : long-jump : 09 MAR 1997 : 952 : 78
-AUS : Oli CALLAHAN : long-jump : 22 DEC 1997 : 950 : 79
-AUS : Dean PASTRELLO : long-jump : 05 MAY 1999 : 950 : 79
-NZL : Aaron BOOTH : long-jump : 12 SEP 1996 : 953 : 79
-RSA : Fulufhelo NEMARUDE : long-jump : 08 NOV 2002 : 948 : 82
-IND : P.Asadullah MUJAHITH : long-jump : 17 JAN 2002 : 948 : 82
-AUS : Liam MULLEN : long-jump : 14 AUG 2001 : 946 : 84
-MAS : Muhammad Azim Abdul KEFLI : long-jump :  : 946 : 84
-NGR : David Oke EJUMETA : long-jump : 26 OCT 1997 : 946 : 84
-RSA : Fredriech PRETORIUS : long-jump : 04 AUG 1995 : 946 : 84
-NZL : Angus LYVER : long-jump : 22 APR 2004 : 951 : 88
-JAM : Apalos EDWARDS : long-jump : 18 OCT 2001 : 943 : 88
-BAR : Antonio WEEKES : long-jump : 1997 : 937 : 90
-AUS : Harrison WEIL : long-jump : 2005 : 943 : 90
-JAM : Jaydon HIBBERT : long-jump : 17 JAN 2005 : 937 : 90
-BAH : Kendrick THOMPSON : long-jump : 28 AUG 1997 : 937 : 90
-IND : T.J JOSEPH : long-jump : 20 DEC 2002 : 935 : 94
-JAM : Iangelo ATKINSTALL-DALEY : long-jump : 20 OCT 2002 : 931 : 95
-JAM : David EDMONDSON : long-jump : 17 NOV 2000 : 926 : 96
-JAM : Lansford CUNNINGHAM : long-jump : 28 DEC 2003 : 924 : 97
-ZAM : Bernard KALALE : long-jump : 2002 : 922 : 98
+IND : . SREESHANKAR : long-jump : 27 MAR 1999 : 1216 : 03 APR 2022 : 1
+AUS : Christopher MITREVSKI : long-jump : 12 JUL 1996 : 1184 : 02 APR 2022 : 2
+IND : Jeswin Aldrin JOHNSON : long-jump : 24 DEC 2001 : 1184 : 13 MAR 2022 : 3
+RSA : Jovan VAN VUUREN : long-jump : 17 JUL 1996 : 1177 : 11 MAR 2022 : 4
+RSA : Cheswill JOHNSON : long-jump : 30 SEP 1997 : 1162 : 12 FEB 2022 : 5
+BOT : Thapelo MONAIWA : long-jump : 18 FEB 1998 : 1127 : 19 FEB 2022 : 6
+JAM : Adrian RILEY : long-jump : 22 JAN 1994 : 1109 : 26 FEB 2022 : 7
+SRI : G.K.D.S. PIYARATHNA : long-jump : 15 APR 1994 : 1109 : 05 MAR 2022 : 7
+AUS : Oscar MIERS : long-jump : 21 NOV 2001 : 1103 : 06 MAR 2022 : 9
+JAM : Tajay GAYLE : long-jump : 02 AUG 1996 : 1103 : 02 APR 2022 : 9
+GUY : Emanuel ARCHIBALD : long-jump : 09 SEP 1994 : 1101 : 19 FEB 2022 : 11
+SRI : Janaka PRASAD : long-jump : 08 SEP 1992 : 1099 : 11 FEB 2022 : 12
+JAM : Shawn-D THOMPSON : long-jump : 20 JAN 1997 : 1099 : 02 APR 2022 : 12
+AUS : William FREYER : long-jump : 26 OCT 1999 : 1099 : 02 APR 2022 : 12
+AUS : Henry FRAYNE : long-jump : 14 APR 1990 : 1105 : 02 APR 2022 : 12
+JAM : Shakwon COKE : long-jump : 07 OCT 1999 : 1099 : 02 APR 2022 : 12
+AUS : Zane BRANCO : long-jump : 04 JAN 2000 : 1094 : 19 MAR 2022 : 17
+AUS : Sam TAYLOR : long-jump : 22 MAY 2001 : 1090 : 19 MAR 2022 : 18
+RSA : Karabo SATEKGE : long-jump : 07 OCT 2000 : 1088 : 16 MAR 2022 : 19
+MLT : Jeremy ZAMMIT : long-jump : 02 SEP 2004 : 1079 : 29 JAN 2022 : 20
+IND : Yugant Shekhar SINGH : long-jump : 02 OCT 1997 : 1077 : 02 APR 2022 : 21
+AUS : Alec DIAMOND : long-jump : 09 AUG 1997 : 1075 : 15 JAN 2022 : 22
+IND : Muhammed Anees YAHIYA : long-jump : 03 DEC 1995 : 1073 : 13 MAR 2022 : 23
+AUS : Liam ADCOCK : long-jump : 21 JUN 1996 : 1068 : 06 MAR 2022 : 24
+AUS : Jalen RUCKER : long-jump : 18 FEB 1997 : 1068 : 06 MAR 2022 : 24
+SRI : Hirusha Hashen WALIMUNI MENDIS ABESEKARA : long-jump : 25 MAR 2003 : 1071 : 11 FEB 2022 : 26
+RSA : Peter MAKGATO : long-jump : 05 MAY 1996 : 1062 : 16 MAR 2022 : 27
+JAM : Jullane WALKER : long-jump : 30 DEC 1995 : 1062 : 02 APR 2022 : 27
+AUS : Amiru CHANDRASENA : long-jump : 02 AUG 2002 : 1060 : 26 JAN 2022 : 29
+NGR : Afoke Simon OSHASHA : long-jump : 29 AUG 1995 : 1057 : 13 MAR 2022 : 30
+AUS : Aiden HINSON : long-jump : 05 JUN 2003 : 1053 : 15 JAN 2022 : 31
+NZL : Felix MCDONALD : long-jump : 30 APR 1998 : 1053 : 04 FEB 2022 : 31
+GBR : Timothy DUCKWORTH : long-jump : 18 JUN 1996 : 1053 : 26 MAR 2022 : 31
+IND : . SWAMINATHAN : long-jump : 07 APR 1996 : 1053 : 02 APR 2022 : 31
+GHA : Abraham SEANEKE : long-jump : 1996 : 1051 : 19 MAR 2022 : 35
+SRI : Shreshan Dhananjaya LIYANAPEDIGE : long-jump : 07 JUN 1997 : 1059 : 11 FEB 2022 : 36
+VIN : Uroy RYAN : long-jump : 22 MAR 2004 : 1049 : 05 MAR 2022 : 36
+AUS : Liam FAIRWEATHER : long-jump : 23 JUL 2002 : 1047 : 09 JAN 2022 : 38
+IND : Praveen CHITHRAVEL : long-jump : 05 JUN 2001 : 1047 : 13 MAR 2022 : 38
+NZL : Christopher GOODWIN : long-jump : 16 JUL 1998 : 1045 : 02 APR 2022 : 40
+MAS : Andre ANURA : long-jump : 12 JUN 1999 : 1042 : 05 MAR 2022 : 41
+AUS : Jeremy ANDREWS : long-jump : 03 NOV 1992 : 1040 : 11 MAR 2022 : 42
+AUS : Shemaiah JAMES : long-jump : 12 JUL 1997 : 1040 : 02 APR 2022 : 42
+AUS : Blake SHAW : long-jump : 2003 : 1040 : 02 APR 2022 : 42
+NZL : Shay VEITCH : long-jump : 17 DEC 2000 : 1038 : 22 JAN 2022 : 45
+SRI : Dhanuka Liyana PATHIRANA : long-jump : 25 JUN 1993 : 1044 : 11 FEB 2022 : 46
+IND : Sahil MAHABALI : long-jump : 27 DEC 1997 : 1039 : 31 MAR 2022 : 46
+SRI : Mahesh KUMARA : long-jump :  : 1034 : 11 FEB 2022 : 48
+RSA : Gundo DLAMINI SAMKELO : long-jump : 05 MAR 2004 : 1034 : 12 FEB 2022 : 48
+IND : P. DAVID : long-jump : 17 MAR 2002 : 1029 : 13 MAR 2022 : 50
+JAM : Nickaoli WILLIAMS : long-jump : 07 OCT 2000 : 1029 : 19 MAR 2022 : 50
+JAM : Aubrey ALLEN : long-jump : 19 JUL 1994 : 1030 : 19 FEB 2022 : 52
+JAM : Safin WILLS : long-jump : 21 AUG 2000 : 1027 : 01 APR 2022 : 52
+SRI : H.B.M. HERATH : long-jump :  : 1025 : 11 FEB 2022 : 54
+CMR : Leonard BOTIA : long-jump : 21 JAN 1999 : 1021 : 24 MAR 2022 : 55
+IND : Sidharth MOHAN NAIK : long-jump : 08 SEP 1995 : 1020 : 03 APR 2022 : 56
+CMR : Appolinaire YINRA : long-jump : 01 JAN 1998 : 1016 : 24 MAR 2022 : 57
+TTO : Clement CAMPBELL : long-jump : 15 DEC 1999 : 1016 : 01 APR 2022 : 57
+NGR : Jeffrey USMAN : long-jump : 09 JUL 2003 : 1014 : 13 MAR 2022 : 59
+MAS : Luqman Hakim RAMLAN : long-jump : 08 MAR 1995 : 1014 : 20 MAR 2022 : 59
+TKS : Ifeanyichukwu OTUONYE : long-jump : 27 JUN 1994 : 1012 : 19 MAR 2022 : 61
+IND : Sethu NAR : long-jump : 10 JUL 1997 : 1012 : 03 APR 2022 : 61
+RSA : Thato MALEMATSHA : long-jump : 06 MAY 2001 : 1008 : 16 MAR 2022 : 63
+TTO : Jaydon ANTOINE : long-jump : 01 DEC 2000 : 1013 : 26 MAR 2022 : 63
+IND : P.Asadullah MUJAHITH : long-jump : 17 JAN 2002 : 1008 : 02 APR 2022 : 63
+AUS : Henry SMITH : long-jump : 09 APR 1996 : 1006 : 02 APR 2022 : 66
+AUS : Tristan SCHEIRS : long-jump : 20 APR 2000 : 1004 : 10 FEB 2022 : 67
+RSA : Shaun MASWANGANYI : long-jump : 01 FEB 2001 : 1004 : 17 MAR 2022 : 67
+RSA : Asande MTHEMBU : long-jump : 04 JUN 2004 : 1001 : 09 FEB 2022 : 69
+GHA : Jeff HAMMOND : long-jump :  : 1001 : 25 MAR 2022 : 69
+SRI : Pasindu Malshan KUMARAPELI ARACHCHIGE : long-jump : 15 FEB 2003 : 999 : 11 FEB 2022 : 71
+IVB : Khybah DAWSON : long-jump : 07 AUG 2004 : 995 : 19 MAR 2022 : 72
+AUS : Ethan PETCOS : long-jump : 14 FEB 2003 : 995 : 28 MAR 2022 : 72
+JAM : Royan WALTERS : long-jump : 02 APR 2004 : 1000 : 19 FEB 2022 : 74
+BOT : Norman CHIBANE : long-jump : 1999 : 991 : 19 FEB 2022 : 74
+SRI : W.I.K. PIYASIRI : long-jump :  : 991 : 11 MAR 2022 : 74
+BAR : Aren SPENCER : long-jump :  : 987 : 12 FEB 2022 : 77
+SRI : M.I.M. ASAN : long-jump :  : 990 : 11 MAR 2022 : 77
+AUS : Mackenzie LIDDELOW : long-jump : 22 DEC 1997 : 982 : 14 JAN 2022 : 79
+RSA : Michael SKOSANA : long-jump : 18 SEP 2000 : 982 : 16 MAR 2022 : 79
+CMR : Raymond NKWEMY TCHOMFA : long-jump : 29 MAY 1995 : 985 : 24 MAR 2022 : 79
+IND : Lokesh SATHYANATHAN : long-jump : 21 DEC 1999 : 983 : 02 APR 2022 : 79
+RSA : Tikana SHABANGU : long-jump : 26 MAY 2004 : 980 : 09 FEB 2022 : 83
+AUS : Gary HAASBROEK : long-jump : 15 MAR 1999 : 980 : 02 APR 2022 : 83
+AUS : Thomas PITTS : long-jump : 29 SEP 2000 : 978 : 05 FEB 2022 : 85
+AUS : Patrick KROPP : long-jump : 28 DEC 2000 : 978 : 06 MAR 2022 : 85
+RSA : Junior MONDLANE : long-jump : 03 JUN 2003 : 978 : 16 MAR 2022 : 85
+SKN : Kizan DAVID : long-jump : 11 AUG 1998 : 978 : 26 MAR 2022 : 85
+AUS : Ryan HATCH : long-jump : 19 JAN 2000 : 976 : 26 FEB 2022 : 89
+RSA : Thapelo NKUNA : long-jump : 02 APR 2002 : 973 : 16 MAR 2022 : 90
+ANT : Sheldon NOBLE : long-jump : 04 APR 2001 : 973 : 19 MAR 2022 : 90
+AUS : Charlie CARROLL : long-jump : 13 FEB 2003 : 973 : 28 MAR 2022 : 90
+SRI : J.H.G. SAMPATH : long-jump :  : 971 : 11 MAR 2022 : 93
+NGR : Oghenetega Justin OREKEVWIE : long-jump : 05 OCT 2005 : 971 : 13 MAR 2022 : 93
+AUS : Nicholas VAN GELDER : long-jump : 01 FEB 1995 : 969 : 09 JAN 2022 : 95
+AUS : Jacob HRISTIANOPOULOS : long-jump : 2003 : 969 : 19 FEB 2022 : 95
+JAM : Balvin ISRAEL : long-jump : 19 SEP 2005 : 969 : 11 MAR 2022 : 95
+NGR : David Oke EJUMETA : long-jump : 26 OCT 1997 : 969 : 25 MAR 2022 : 95
+RSA : Sanele SHOBA : long-jump : 05 JUN 2003 : 967 : 09 FEB 2022 : 99
+AUS : Ryan COOPER : long-jump : 11 SEP 1999 : 967 : 19 MAR 2022 : 99

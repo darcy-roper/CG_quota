@@ -1,42 +1,78 @@
-BAH : Tamara MYERS : triple-jump : 27 JUL 1993 : 1096 : 1
-AUS : Desleigh OWUSU : triple-jump : 20 SEP 2001 : 1034 : 2
-AUS : Tiana BORAS : triple-jump : 04 MAR 2005 : 1026 : 3
-AUS : Annabelle PARMEGIANI : triple-jump : 13 NOV 1997 : 1016 : 4
-IND : Sandra BABU : triple-jump : 03 JUL 2001 : 1022 : 4
-MAS : Nurul ASHIKIN : triple-jump : 15 JUL 2000 : 1012 : 6
-AUS : Chloe GRENADE : triple-jump : 15 DEC 1999 : 1011 : 7
-IND : S. NANDHINI : triple-jump : 12 DEC 1998 : 1012 : 8
-MAS : Kirthana RAMASAMY : triple-jump : 04 AUG 1997 : 1007 : 9
-NZL : Anna THOMSON : triple-jump : 14 MAY 1995 : 1002 : 10
-IND : J. COLESHIYA : triple-jump : 24 NOV 2002 : 1006 : 11
-IND : Meera SHIBU : triple-jump : 25 JUL 2002 : 1001 : 12
-CAN : Busola AKINDURO : triple-jump : 2002 : 997 : 13
-AUS : Caitlin BLACKMAN : triple-jump : 17 DEC 2000 : 995 : 14
-IND : I. ASHA : triple-jump : 18 JUN 1999 : 987 : 15
-IND : P. BABISHA : triple-jump : 26 DEC 2001 : 985 : 16
-AUS : Jessie HARPER : triple-jump : 18 APR 1996 : 981 : 16
-AUS : Emilaya ELLIS : triple-jump : 14 JUN 2002 : 972 : 18
-IND : Arshdeep KAUR : triple-jump : 02 NOV 1999 : 968 : 19
-AUS : Charlotte MCGILL : triple-jump : 15 JAN 2002 : 967 : 20
-SRI : K.A.A. SEWWANDI : triple-jump :  : 965 : 21
-AUS : Linda LEVERTON : triple-jump : 22 MAR 1987 : 963 : 22
-JAM : Danielle SPENCE : triple-jump : 01 SEP 1998 : 962 : 23
-SRI : Randi HEMASHA COORAY : triple-jump :  : 959 : 24
-IND : P.R. AISWARYA : triple-jump : 18 NOV 1999 : 950 : 25
-JAM : Jo-anna PINNOCK : triple-jump : 26 NOV 2003 : 945 : 26
-IND : Gayathry SIVAKUMAR : triple-jump : 26 FEB 2001 : 946 : 27
-IND : Anu MATHEW : triple-jump : 07 JAN 2002 : 939 : 28
-MLT : Rebecca SARE : triple-jump : 25 JUN 1991 : 937 : 29
-AUS : Sophie ZARAFA : triple-jump : 2005 : 933 : 30
-IND : Sawant POORVA : triple-jump : 23 JAN 2003 : 933 : 30
-AUS : Kaelah ELVISH : triple-jump : 07 NOV 2000 : 929 : 32
-AUS : Eloise MILLINGTON : triple-jump : 20 APR 2001 : 926 : 33
-AUS : Nancy AGOSTINO : triple-jump : 2005 : 926 : 33
-JAM : Sherika CHRISTIE : triple-jump : 23 FEB 2004 : 926 : 35
-JAM : Jade-Ann DAWKINS : triple-jump : 07 SEP 2005 : 923 : 36
-AUS : Zara KECA : triple-jump : 08 MAY 1998 : 921 : 37
-AUS : Katherine BAYNES : triple-jump : 2005 : 919 : 38
-AUS : Siena FARRELL : triple-jump : 2006 : 918 : 39
-GBR : Allison WILDER : triple-jump : 30 OCT 1988 : 918 : 39
-BAH : Amelia PETERSON : triple-jump : 13 APR 2000 : 916 : 41
-JAM : Serena COLE : triple-jump : 26 JUN 2004 : 914 : 42
+JAM : Shanieka RICKETTS : triple-jump : 02 FEB 1992 : 1145 : 02 APR 2022 : 1
+IND : Aishwarya BABU SAB : triple-jump : 15 JUN 1997 : 1111 : 23 MAR 2022 : 2
+GUY : Natricia HOOPER : triple-jump : 24 NOV 1998 : 1112 : 25 MAR 2022 : 3
+JAM : Ackelia SMITH : triple-jump : 05 FEB 2002 : 1104 : 25 MAR 2022 : 4
+CMR : Véronique KOSSENDA REY : triple-jump : 23 SEP 1996 : 1098 : 25 MAR 2022 : 5
+BAH : Tamara MYERS : triple-jump : 27 JUL 1993 : 1096 : 05 FEB 2022 : 6
+IND : Renu GREWAL : triple-jump : 21 DEC 1998 : 1070 : 30 MAR 2022 : 7
+GHA : Jacqueline POKUAAH : triple-jump :  : 1069 : 25 MAR 2022 : 8
+VIN : Mikeisha WELCOME : triple-jump : 06 AUG 2000 : 1069 : 25 MAR 2022 : 8
+AUS : Desleigh OWUSU : triple-jump : 20 SEP 2001 : 1065 : 01 APR 2022 : 10
+GHA : Deborah ACQUAH : triple-jump : 23 MAY 1996 : 1061 : 25 MAR 2022 : 11
+NGR : Onaara OBAMUWAGUN : triple-jump : 09 JAN 1999 : 1050 : 02 APR 2022 : 12
+AUS : Kayla CUBA : triple-jump : 06 AUG 1999 : 1043 : 01 APR 2022 : 13
+IND : Gothandapni KARTHIKA : triple-jump : 02 JAN 1996 : 1030 : 05 APR 2022 : 14
+AUS : Tiana BORAS : triple-jump : 04 MAR 2005 : 1026 : 19 FEB 2022 : 15
+AUS : Annabelle PARMEGIANI : triple-jump : 13 NOV 1997 : 1016 : 29 JAN 2022 : 16
+IND : Sandra BABU : triple-jump : 03 JUL 2001 : 1022 : 22 FEB 2022 : 16
+CAN : Busola AKINDURO : triple-jump : 2002 : 1016 : 02 APR 2022 : 16
+MAS : Nurul ASHIKIN : triple-jump : 15 JUL 2000 : 1012 : 06 MAR 2022 : 19
+AUS : Chloe GRENADE : triple-jump : 15 DEC 1999 : 1011 : 19 FEB 2022 : 20
+MAS : Kirthana RAMASAMY : triple-jump : 04 AUG 1997 : 1012 : 18 MAR 2022 : 20
+IND : S. NANDHINI : triple-jump : 12 DEC 1998 : 1012 : 22 FEB 2022 : 22
+CMR : Pauline Raissa NGOUOPOU : triple-jump : 03 JAN 1999 : 1008 : 25 MAR 2022 : 23
+NGR : Mercy HONEST PETER : triple-jump : 28 AUG 1993 : 1003 : 13 MAR 2022 : 24
+NZL : Anna THOMSON : triple-jump : 14 MAY 1995 : 1002 : 04 FEB 2022 : 25
+IND : J. COLESHIYA : triple-jump : 24 NOV 2002 : 1006 : 22 FEB 2022 : 26
+JAM : Tissanna HICKLING : triple-jump : 07 JAN 1998 : 1000 : 26 MAR 2022 : 27
+CAN : Alissa MELVIN : triple-jump : 1999 : 1000 : 02 APR 2022 : 27
+IND : Meera SHIBU : triple-jump : 25 JUL 2002 : 1001 : 22 FEB 2022 : 29
+AUS : Caitlin BLACKMAN : triple-jump : 17 DEC 2000 : 995 : 20 FEB 2022 : 30
+IND : Bhairabi DAS : triple-jump : 02 FEB 1995 : 988 : 30 MAR 2022 : 31
+IND : I. ASHA : triple-jump : 18 JUN 1999 : 987 : 22 FEB 2022 : 32
+GBR : Temi OJORA : triple-jump : 24 JAN 2002 : 985 : 02 APR 2022 : 33
+IND : P. BABISHA : triple-jump : 26 DEC 2001 : 985 : 22 FEB 2022 : 34
+AUS : Jessie HARPER : triple-jump : 18 APR 1996 : 981 : 12 MAR 2022 : 34
+JAM : Danielle SPENCE : triple-jump : 01 SEP 1998 : 992 : 25 MAR 2022 : 34
+IND : Sharvari PARULEKAR : triple-jump : 21 MAR 2002 : 974 : 05 APR 2022 : 37
+AUS : Emilaya ELLIS : triple-jump : 14 JUN 2002 : 972 : 12 FEB 2022 : 38
+IND : Arshdeep KAUR : triple-jump : 02 NOV 1999 : 968 : 22 FEB 2022 : 39
+AUS : Charlotte MCGILL : triple-jump : 15 JAN 2002 : 967 : 12 MAR 2022 : 40
+AUS : Zoe CHESTER : triple-jump : 2006 : 966 : 03 APR 2022 : 41
+SRI : K.A.A. SEWWANDI : triple-jump :  : 965 : 10 FEB 2022 : 42
+AUS : Linda LEVERTON : triple-jump : 22 MAR 1987 : 963 : 19 FEB 2022 : 43
+NGR : Fejiro Praise DJOMA : triple-jump : 18 MAY 2006 : 961 : 13 MAR 2022 : 44
+AUS : Sienna BOND : triple-jump : 2005 : 971 : 03 APR 2022 : 44
+AUS : Kaelah ELVISH : triple-jump : 07 NOV 2000 : 960 : 01 APR 2022 : 46
+SRI : Randi HEMASHA COORAY : triple-jump :  : 959 : 10 FEB 2022 : 47
+GUY : Chantoba BRIGHT : triple-jump : 04 APR 2000 : 957 : 25 MAR 2022 : 48
+CAN : Jasmine SCOTT-KILGO : triple-jump : 2000 : 954 : 26 MAR 2022 : 49
+AUS : Sophie ZARAFA : triple-jump : 2005 : 954 : 03 APR 2022 : 49
+MLT : Rachela PACE : triple-jump : 15 JUN 2003 : 951 : 01 APR 2022 : 51
+IND : P.R. AISWARYA : triple-jump : 18 NOV 1999 : 950 : 22 FEB 2022 : 52
+JAM : Jo-anna PINNOCK : triple-jump : 26 NOV 2003 : 945 : 13 MAR 2022 : 53
+JAM : Amanda CARTY : triple-jump :  : 945 : 03 APR 2022 : 53
+IND : Gayathry SIVAKUMAR : triple-jump : 26 FEB 2001 : 946 : 22 FEB 2022 : 55
+AUS : Izobelle LOUISON-ROE : triple-jump : 2007 : 939 : 28 MAR 2022 : 56
+IND : Anu MATHEW : triple-jump : 07 JAN 2002 : 939 : 22 FEB 2022 : 57
+MLT : Rebecca SARE : triple-jump : 25 JUN 1991 : 937 : 05 FEB 2022 : 58
+RSA : Johani VAN TONDER : triple-jump : 19 FEB 2004 : 935 : 09 FEB 2022 : 59
+IND : Sawant POORVA : triple-jump : 23 JAN 2003 : 933 : 22 FEB 2022 : 60
+AUS : Zoe EDWARDS : triple-jump : 2004 : 929 : 29 MAR 2022 : 61
+AUS : Eloise MILLINGTON : triple-jump : 20 APR 2001 : 943 : 30 MAR 2022 : 62
+AUS : Nancy AGOSTINO : triple-jump : 2005 : 926 : 19 FEB 2022 : 63
+AUS : Geena DAVY : triple-jump : 2007 : 926 : 28 MAR 2022 : 63
+AUS : Alexandra YORK : triple-jump : 07 APR 2003 : 926 : 29 MAR 2022 : 63
+BAH : Amelia PETERSON : triple-jump : 13 APR 2000 : 925 : 02 APR 2022 : 66
+IND : Rintu MATHEW : triple-jump : 27 MAY 1992 : 924 : 30 MAR 2022 : 67
+JAM : Sherika CHRISTIE : triple-jump : 23 FEB 2004 : 926 : 15 MAR 2022 : 68
+JAM : Jade-Ann DAWKINS : triple-jump : 07 SEP 2005 : 923 : 15 MAR 2022 : 69
+AUS : Zara KECA : triple-jump : 08 MAY 1998 : 921 : 12 FEB 2022 : 70
+AUS : Teresa ANTHONY : triple-jump : 2006 : 921 : 29 MAR 2022 : 70
+AUS : Katherine BAYNES : triple-jump : 2005 : 919 : 12 FEB 2022 : 72
+AUS : Siena FARRELL : triple-jump : 2006 : 918 : 19 FEB 2022 : 73
+GBR : Allison WILDER : triple-jump : 30 OCT 1988 : 918 : 12 MAR 2022 : 73
+AUS : Tahla PONT : triple-jump : 03 AUG 2000 : 918 : 30 MAR 2022 : 73
+AUS : Raphaila IDRIS : triple-jump : 08 FEB 2006 : 918 : 03 APR 2022 : 73
+AUS : Olivia DIMECH : triple-jump : 15 APR 2005 : 918 : 03 APR 2022 : 77
+JAM : Serena COLE : triple-jump : 26 JUN 2004 : 914 : 15 MAR 2022 : 78

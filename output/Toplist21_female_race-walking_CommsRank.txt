@@ -1,56 +1,56 @@
-AUS : Jemima MONTAG : race-walking : 15 FEB 1998 : 1172 : 1
-AUS : Katie HAYWARD : race-walking : 23 JUL 2000 : 1129 : 2
-AUS : Rebecca HENDERSON : race-walking : 04 JUL 2001 : 1078 : 3
-GBR : Bethan DAVIES : race-walking : 07 NOV 1990 : 1073 : 4
-GBR : Heather LEWIS : race-walking : 25 OCT 1993 : 1030 : 5
-AUS : Clara SMITH : race-walking : 09 MAR 1998 : 1016 : 6
-AUS : Olivia SANDERY : race-walking : 22 JAN 2003 : 1015 : 7
-IND : Munita PRAJAPATI : race-walking : 15 JAN 2002 : 987 : 8
-NZL : Alana BARBER : race-walking : 08 JUL 1987 : 986 : 9
-RSA : Zelda BOTHA : race-walking : 15 FEB 1992 : 974 : 10
-NGR : Fadekemi OLUDE : race-walking : 08 SEP 1998 : 972 : 11
-IND : Baljeet KAUR : race-walking : 23 JAN 2002 : 972 : 12
-IND : Roji PATEL : race-walking : 23 AUG 2001 : 970 : 13
-IND : Reshma PATEL : race-walking : 15 SEP 2004 : 969 : 14
-RSA : Marissa SWANEPOEL : race-walking : 22 JAN 2002 : 965 : 15
-KEN : Emily Wamusyi NGII : race-walking : 13 AUG 1986 : 964 : 16
-AUS : Alanna PEART : race-walking : 06 SEP 2003 : 963 : 17
-KEN : Margaret Gati CHACHA : race-walking :  : 959 : 18
-IND : Geeta LOHAR : race-walking : 30 DEC 2002 : 953 : 19
-IND : . BALJEET KAUR : race-walking : 28 JAN 2002 : 951 : 20
-KEN : Margret GATI : race-walking : 20 JAN 2003 : 942 : 21
-IND : . MONIKA : race-walking : 17 JAN 2002 : 942 : 22
-RSA : Janise NELL : race-walking : 27 JAN 2004 : 927 : 23
-KEN : Grace Wanjiru NJUE : race-walking : 10 JAN 1979 : 923 : 24
-IND : . RACHANA : race-walking : 29 NOV 2003 : 918 : 25
-AUS : Hannah MISON : race-walking : 14 NOV 2001 : 886 : 26
-IND : Bharti BHADANA : race-walking : 25 JUL 2002 : 886 : 27
-IND : Mansi NEGI : race-walking : 03 MAY 2003 : 875 : 28
-GBR : Erika KELLY : race-walking : 06 DEC 1982 : 875 : 29
-IND : K. AKSHAYA : race-walking : 17 MAR 2001 : 854 : 30
-AUS : Emma BLANCH : race-walking : 01 APR 2003 : 850 : 31
-GBR : Abigail JENNINGS : race-walking : 10 JUL 2000 : 849 : 32
-KEN : Silvia KEMBOI : race-walking :  : 843 : 33
-GBR : Jasmine NICHOLLS : race-walking : 23 AUG 1995 : 841 : 34
-NZL : Courtney RUSKE : race-walking : 14 JUL 1994 : 840 : 35
-KEN : Naomi CHEPKIRUI : race-walking :  : 814 : 36
-AUS : Charlotte HAY : race-walking : 2003 : 811 : 37
-AUS : Allanah PITCHER : race-walking : 19 SEP 2003 : 802 : 38
-SRI : P.B. GAYANI : race-walking : 05 APR 1994 : 799 : 39
-IND : Deepika SHARMA : race-walking : 15 FEB 2003 : 796 : 40
-AUS : Melissa LEWIS : race-walking : 1987 : 785 : 41
-IND : I. PAVITHRA : race-walking : 04 FEB 2002 : 784 : 42
-AUS : Gabriella HILL : race-walking : 2003 : 775 : 43
-RSA : Jessica GROENEWALD : race-walking : 22 APR 1992 : 771 : 44
-GBR : Mia DUNWELL : race-walking : 14 JUN 2005 : 768 : 45
-IND : . JYOTI : race-walking : 01 NOV 2002 : 764 : 46
-IND : Komal PAL : race-walking : 16 MAR 2003 : 764 : 47
-RSA : Annette KOEN : race-walking : 04 JUN 1999 : 759 : 48
-GBR : Millie MORRIS : race-walking : 2003 : 756 : 49
-GBR : Pagen SPOONER : race-walking : 28 FEB 2001 : 749 : 50
-KEN : Salomen KERUBO : race-walking : 24 JUL 2005 : 745 : 51
-RSA : Meanri ERASMUS : race-walking : 28 FEB 2001 : 738 : 52
-IND : Mokavi MUTHURATHINAM : race-walking : 09 JUL 2002 : 736 : 53
-AUS : Hannah PARKER : race-walking : 2002 : 731 : 54
-IND : Sandra SURENDRAN : race-walking : 26 JUN 2002 : 724 : 55
-MAS : Nurul Alyahaziqah KAMARUZAMAN : race-walking : 06 JUL 2001 : 715 : 56
+AUS : Jemima MONTAG : race-walking : 15 FEB 1998 : 1172 : 31 JAN 2021 : 1
+AUS : Katie HAYWARD : race-walking : 23 JUL 2000 : 1129 : 15 APR 2021 : 2
+AUS : Rebecca HENDERSON : race-walking : 04 JUL 2001 : 1078 : 15 APR 2021 : 3
+GBR : Bethan DAVIES : race-walking : 07 NOV 1990 : 1073 : 15 AUG 2021 : 4
+GBR : Heather LEWIS : race-walking : 25 OCT 1993 : 1030 : 15 AUG 2021 : 5
+AUS : Clara SMITH : race-walking : 09 MAR 1998 : 1016 : 15 APR 2021 : 6
+AUS : Olivia SANDERY : race-walking : 22 JAN 2003 : 1015 : 15 APR 2021 : 7
+IND : Munita PRAJAPATI : race-walking : 15 JAN 2002 : 987 : 09 FEB 2021 : 8
+NZL : Alana BARBER : race-walking : 08 JUL 1987 : 986 : 07 FEB 2021 : 9
+RSA : Zelda BOTHA : race-walking : 15 FEB 1992 : 974 : 18 JUN 2021 : 10
+NGR : Fadekemi OLUDE : race-walking : 08 SEP 1998 : 972 : 12 MAR 2021 : 11
+IND : Baljeet KAUR : race-walking : 23 JAN 2002 : 972 : 09 FEB 2021 : 12
+IND : Roji PATEL : race-walking : 23 AUG 2001 : 970 : 09 FEB 2021 : 13
+IND : Reshma PATEL : race-walking : 15 SEP 2004 : 969 : 26 JAN 2021 : 14
+RSA : Marissa SWANEPOEL : race-walking : 22 JAN 2002 : 965 : 10 APR 2021 : 15
+KEN : Emily Wamusyi NGII : race-walking : 13 AUG 1986 : 964 : 15 MAY 2021 : 16
+AUS : Alanna PEART : race-walking : 06 SEP 2003 : 963 : 31 JAN 2021 : 17
+KEN : Margaret Gati CHACHA : race-walking :  : 959 : 02 JUL 2021 : 18
+IND : Geeta LOHAR : race-walking : 30 DEC 2002 : 953 : 09 FEB 2021 : 19
+IND : . BALJEET KAUR : race-walking : 28 JAN 2002 : 951 : 21 AUG 2021 : 20
+KEN : Margret GATI : race-walking : 20 JAN 2003 : 942 : 21 AUG 2021 : 21
+IND : . MONIKA : race-walking : 17 JAN 2002 : 942 : 09 FEB 2021 : 22
+RSA : Janise NELL : race-walking : 27 JAN 2004 : 927 : 10 APR 2021 : 23
+KEN : Grace Wanjiru NJUE : race-walking : 10 JAN 1979 : 923 : 15 MAY 2021 : 24
+IND : . RACHANA : race-walking : 29 NOV 2003 : 918 : 26 JAN 2021 : 25
+AUS : Hannah MISON : race-walking : 14 NOV 2001 : 886 : 15 APR 2021 : 26
+IND : Bharti BHADANA : race-walking : 25 JUL 2002 : 886 : 09 FEB 2021 : 27
+IND : Mansi NEGI : race-walking : 03 MAY 2003 : 875 : 26 JAN 2021 : 28
+GBR : Erika KELLY : race-walking : 06 DEC 1992 : 875 : 10 MAY 2021 : 29
+IND : K. AKSHAYA : race-walking : 17 MAR 2001 : 854 : 09 FEB 2021 : 30
+AUS : Emma BLANCH : race-walking : 01 APR 2003 : 850 : 15 APR 2021 : 31
+GBR : Abigail JENNINGS : race-walking : 10 JUL 2000 : 849 : 20 JUN 2021 : 32
+KEN : Silvia Jerono KEMBOI : race-walking : 11 DEC 1988 : 843 : 27 FEB 2021 : 33
+GBR : Jasmine NICHOLLS : race-walking : 23 AUG 1995 : 841 : 15 AUG 2021 : 34
+NZL : Courtney RUSKE : race-walking : 14 JUL 1994 : 840 : 27 MAR 2021 : 35
+KEN : Naomi CHEPKIRUI : race-walking :  : 814 : 27 FEB 2021 : 36
+AUS : Charlotte HAY : race-walking : 2003 : 811 : 15 APR 2021 : 37
+AUS : Allanah PITCHER : race-walking : 19 SEP 2003 : 802 : 15 APR 2021 : 38
+SRI : P.B. GAYANI : race-walking : 05 APR 1994 : 799 : 23 NOV 2021 : 39
+IND : Deepika SHARMA : race-walking : 15 FEB 2003 : 796 : 02 AUG 2021 : 40
+AUS : Melissa LEWIS : race-walking : 1987 : 785 : 20 FEB 2021 : 41
+IND : I. PAVITHRA : race-walking : 04 FEB 2002 : 784 : 09 FEB 2021 : 42
+AUS : Gabriella HILL : race-walking : 2003 : 775 : 14 MAR 2021 : 43
+RSA : Jessica GROENEWALD : race-walking : 22 APR 1992 : 771 : 12 MAR 2021 : 44
+GBR : Mia DUNWELL : race-walking : 14 JUN 2005 : 768 : 10 MAY 2021 : 45
+IND : . JYOTI : race-walking : 01 NOV 2002 : 764 : 02 AUG 2021 : 46
+IND : Komal PAL : race-walking : 16 MAR 2003 : 764 : 26 JAN 2021 : 47
+RSA : Annette KOEN : race-walking : 04 JUN 1999 : 759 : 14 MAY 2021 : 48
+GBR : Millie MORRIS : race-walking : 2003 : 756 : 19 JUN 2021 : 49
+GBR : Pagen SPOONER : race-walking : 28 FEB 2001 : 749 : 06 MAR 2021 : 50
+KEN : Salomen KERUBO : race-walking : 24 JUL 2005 : 745 : 02 JUL 2021 : 51
+RSA : Meanri ERASMUS : race-walking : 28 FEB 2001 : 738 : 12 MAR 2021 : 52
+IND : Mokavi MUTHURATHINAM : race-walking : 09 JUL 2002 : 736 : 02 AUG 2021 : 53
+AUS : Hannah PARKER : race-walking : 2002 : 731 : 15 APR 2021 : 54
+IND : Sandra SURENDRAN : race-walking : 26 JUN 2002 : 724 : 17 FEB 2021 : 55
+MAS : Nurul Alyahaziqah KAMARUZAMAN : race-walking : 06 JUL 2001 : 715 : 18 DEC 2021 : 56

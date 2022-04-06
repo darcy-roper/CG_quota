@@ -1,5 +1,10 @@
-AUS : Alec DIAMOND : decathlon : 09 AUG 1997 : 1061 : 1
-AUS : Christian PAYNTER : decathlon : 23 APR 1997 : 1036 : 2
-NZL : Aaron BOOTH : decathlon : 12 SEP 1996 : 1024 : 3
-RSA : Fredriech PRETORIUS : decathlon : 04 AUG 1995 : 928 : 4
-AUS : Dean PASTRELLO : decathlon : 05 MAY 1999 : 907 : 5
+AUS : Cedric DUBLER : decathlon : 13 JAN 1995 : 1187 : 02 APR 2022 : 1
+AUS : Alec DIAMOND : decathlon : 09 AUG 1997 : 1127 : 02 APR 2022 : 2
+JAM : Asani HYLTON : decathlon : 01 JUN 1997 : 1075 : 24 MAR 2022 : 3
+AUS : Christian PAYNTER : decathlon : 23 APR 1997 : 1036 : 09 JAN 2022 : 4
+NZL : Aaron BOOTH : decathlon : 12 SEP 1996 : 1024 : 06 MAR 2022 : 5
+NZL : Max ATTWELL : decathlon : 14 SEP 1996 : 991 : 27 MAR 2022 : 6
+AUS : Martin CLARK : decathlon : 24 NOV 1992 : 961 : 02 APR 2022 : 7
+RSA : Fredriech PRETORIUS : decathlon : 04 AUG 1995 : 928 : 12 MAR 2022 : 8
+AUS : Riley HIGGINS : decathlon : 15 APR 2002 : 927 : 02 APR 2022 : 9
+AUS : Dean PASTRELLO : decathlon : 05 MAY 1999 : 907 : 09 JAN 2022 : 10

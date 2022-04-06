@@ -1,64 +1,100 @@
-AUS : Max STEVENS : 3000msc : 16 NOV 1994 : 1118 : 1
-KEN : Amos SEREM : 3000msc : 28 AUG 2002 : 1116 : 2
-AUS : Matthew CLARKE : 3000msc : 29 APR 1995 : 1092 : 3
-KEN : James MWANZIA : 3000msc : 20 DEC 2002 : 1087 : 4
-KEN : Vincent KIPCHUMBA : 3000msc : 26 DEC 2001 : 1077 : 5
-KEN : Wesley LANGAT : 3000msc : 1995 : 1068 : 6
-KEN : Benjamin KIGEN : 3000msc : 05 JUL 1993 : 1064 : 7
-AUS : Ben BUCKINGHAM : 3000msc : 08 NOV 1991 : 1056 : 8
-KEN : Kipsambu KIMAKAI : 3000msc :  : 1054 : 9
-KEN : Vincent KIPYEGON : 3000msc : 31 DEC 1998 : 1054 : 10
-KEN : Wilberforce Chemiat KONES : 3000msc : 19 SEP 1993 : 1052 : 11
-KEN : Elkana CHEROP : 3000msc :  : 1049 : 12
-KEN : Richard ETIR : 3000msc :  : 1049 : 13
-KEN : Isaac KIRWA : 3000msc :  : 1042 : 14
-KEN : Harun KIBET : 3000msc :  : 1034 : 15
-IND : Lokesh CHAUDHARY : 3000msc : 01 JUL 1999 : 1031 : 16
-KEN : Lawi KIPNGENO : 3000msc : 01 JUN 2000 : 1027 : 17
-KEN : Nicholas Kiptonui BETT : 3000msc : 20 DEC 1996 : 1018 : 18
-KEN : Lawrence Kemboi KIPSANG : 3000msc : 15 JUN 1993 : 1014 : 19
-IND : Prince RAJ : 3000msc : 01 MAR 1999 : 1013 : 20
-AUS : Joe BURGESS : 3000msc : 27 DEC 1996 : 1012 : 21
-AUS : Liam CASHIN : 3000msc : 06 OCT 1997 : 1012 : 22
-AUS : Luke GRAVES : 3000msc : 18 MAR 1999 : 1008 : 23
-KEN : Samuel KIBATHI : 3000msc : 06 AUG 2004 : 1006 : 24
-IND : Sumit KUMAR : 3000msc : 04 JUL 2000 : 1005 : 25
-AUS : Archie NOAKES : 3000msc : 09 DEC 2004 : 1004 : 26
-AUS : Aidan HOBBS : 3000msc : 06 OCT 1986 : 1004 : 27
-KEN : Geoffrey Kipkemoi KIRWA : 3000msc : 03 JUL 2001 : 996 : 28
-KEN : Emmanuel WAFULA : 3000msc :  : 994 : 29
-AUS : Christopher DALE : 3000msc : 29 DEC 1991 : 980 : 30
-KEN : Elisha KIBET : 3000msc :  : 979 : 31
-SRI : Udaya Bandara HERATH : 3000msc : 30 AUG 1995 : 963 : 32
-KEN : Eliezar KIBET : 3000msc :  : 962 : 33
-KEN : Cosmas KOECH : 3000msc :  : 958 : 34
-IND : Shubham BHANDARE : 3000msc :  : 956 : 35
-KEN : Peter RONO : 3000msc :  : 955 : 36
-AUS : Toby O'BRIEN : 3000msc : 22 OCT 1995 : 954 : 37
-AUS : Jordan WILLIAMSZ : 3000msc : 21 AUG 1992 : 948 : 38
-KEN : Erick KIPLANGAT : 3000msc :  : 947 : 39
-IND : . RAVI : 3000msc :  : 935 : 40
-IND : Pujari SIDDHANT : 3000msc :  : 933 : 41
-NZL : George GUERIN : 3000msc : 19 JUN 2001 : 933 : 42
-SRI : W.P.M. SAMARAWEERA : 3000msc :  : 933 : 43
-KEN : Philemon KOSGEI : 3000msc : 1993 : 933 : 44
-KEN : Enock KIPRORIR : 3000msc :  : 930 : 45
-SRI : T.M.L.C. GUNARATHNE : 3000msc :  : 929 : 46
-SRI : H.M.S.Karunarathna BANDA : 3000msc :  : 928 : 47
-KEN : Barnabas KIPYEGO : 3000msc : 12 JUN 1995 : 922 : 48
-NZL : Ieuan VAN DER PEET : 3000msc : 12 AUG 1996 : 921 : 49
-KEN : Philip KORIR : 3000msc :  : 921 : 50
-KEN : Festus KORIR : 3000msc :  : 913 : 51
-AUS : Alexander KWA : 3000msc :  : 913 : 52
-AUS : Nathan PEARCE : 3000msc : 01 JUN 1996 : 912 : 53
-KEN : Simon NGEERA : 3000msc :  : 909 : 54
-IND : Goyal KUMAR : 3000msc :  : 909 : 55
-RSA : Dikotsi LEKOPA : 3000msc : 07 JUL 1988 : 909 : 56
-KEN : Elias KIPRUTO : 3000msc :  : 907 : 57
-KEN : Timothy KIBET : 3000msc :  : 906 : 58
-IND : R. RAGHAV : 3000msc : 01 FEB 2002 : 903 : 59
-IND : Suraj PAL : 3000msc : 20 MAY 2002 : 897 : 60
-SRI : R.M.C.D.M. RATHNAYAKE : 3000msc :  : 891 : 61
-IND : . SAURABH : 3000msc : 14 OCT 1999 : 887 : 62
-KEN : Festus KIPRONO : 3000msc : 29 DEC 1995 : 882 : 63
-NZL : Luke CLEMENTS : 3000msc : 2004 : 881 : 64
+IND : Avinash Mukund SABLE : 3000msc : 13 SEP 1994 : 1184 : 23 MAR 2022 : 1
+AUS : Max STEVENS : 3000msc : 16 NOV 1994 : 1118 : 19 MAR 2022 : 2
+KEN : Amos SEREM : 3000msc : 28 AUG 2002 : 1116 : 05 MAR 2022 : 3
+IND : Shankar Lal SWAMI : 3000msc : 05 JUL 1996 : 1113 : 04 APR 2022 : 4
+AUS : Matthew CLARKE : 3000msc : 29 APR 1995 : 1110 : 31 MAR 2022 : 5
+CAN : Ryan SMEETON : 3000msc : 26 OCT 1998 : 1103 : 01 APR 2022 : 6
+GBR : Jonathan HOPKINS : 3000msc : 03 JUN 1992 : 1101 : 01 APR 2022 : 7
+KEN : Felix KANDIE : 3000msc :  : 1091 : 01 APR 2022 : 8
+KEN : James MWANZIA : 3000msc : 20 DEC 2002 : 1087 : 05 MAR 2022 : 9
+IND : . BALKISHAN : 3000msc : 09 NOV 1998 : 1086 : 04 APR 2022 : 10
+KEN : Vincent KIPCHUMBA : 3000msc : 26 DEC 2001 : 1077 : 04 FEB 2022 : 11
+IND : Prince RAJ : 3000msc : 01 MAR 1999 : 1072 : 04 APR 2022 : 12
+KEN : Wesley LANGAT : 3000msc : 1995 : 1068 : 04 FEB 2022 : 13
+AUS : Liam CASHIN : 3000msc : 06 OCT 1997 : 1064 : 31 MAR 2022 : 14
+KEN : Benjamin KIGEN : 3000msc : 05 JUL 1993 : 1064 : 05 MAR 2022 : 15
+AUS : Ben BUCKINGHAM : 3000msc : 08 NOV 1991 : 1056 : 12 FEB 2022 : 16
+KEN : Kipsambul KIMAKAL : 3000msc : 24 AUG 2000 : 1054 : 04 FEB 2022 : 17
+KEN : Vincent KIPYEGON : 3000msc : 31 DEC 1998 : 1054 : 05 MAR 2022 : 18
+IND : Lal PUKESHWAR : 3000msc :  : 1054 : 04 APR 2022 : 18
+KEN : Wilberforce Chemiat KONES : 3000msc : 19 SEP 1993 : 1052 : 05 MAR 2022 : 20
+KEN : Elkana CHEROP : 3000msc :  : 1049 : 04 FEB 2022 : 21
+KEN : Richard ETIR : 3000msc :  : 1049 : 05 MAR 2022 : 22
+AUS : Luke GRAVES : 3000msc : 18 MAR 1999 : 1048 : 31 MAR 2022 : 23
+KEN : Isaac KIRWA : 3000msc :  : 1042 : 04 FEB 2022 : 24
+AUS : Edward TRIPPAS : 3000msc : 22 SEP 1998 : 1040 : 24 MAR 2022 : 25
+KEN : Harun KIBET : 3000msc :  : 1034 : 05 MAR 2022 : 26
+IND : Mohd NUR HASAN : 3000msc : 16 AUG 2001 : 1032 : 04 APR 2022 : 27
+IND : Lokesh CHAUDHARY : 3000msc : 01 JUL 1999 : 1031 : 04 JAN 2022 : 28
+KEN : Lawi KIPNGENO : 3000msc : 01 JUN 2000 : 1027 : 04 FEB 2022 : 29
+IND : Rao SANDEEP : 3000msc : 11 NOV 1995 : 1025 : 04 APR 2022 : 30
+KEN : Kelvin Kipkoech LIMO : 3000msc : 15 MAR 2000 : 1025 : 01 APR 2022 : 31
+IND : Atul POONIA : 3000msc : 01 OCT 2000 : 1022 : 23 MAR 2022 : 32
+CAN : Kevin ROBERTSON : 3000msc : 2001 : 1021 : 25 MAR 2022 : 33
+KEN : Nicholas Kiptonui BETT : 3000msc : 20 DEC 1996 : 1018 : 04 FEB 2022 : 34
+KEN : Lawrence Kemboi KIPSANG : 3000msc : 15 JUN 1993 : 1014 : 05 MAR 2022 : 35
+AUS : Joe BURGESS : 3000msc : 27 DEC 1996 : 1012 : 19 MAR 2022 : 36
+KEN : Albert KOSGEI : 3000msc :  : 1011 : 25 MAR 2022 : 37
+KEN : Samuel KIBATHI : 3000msc : 06 AUG 2004 : 1006 : 05 MAR 2022 : 38
+IND : Sumit KUMAR : 3000msc : 04 JUL 2000 : 1005 : 04 JAN 2022 : 39
+AUS : Archie NOAKES : 3000msc : 09 DEC 2004 : 1004 : 20 FEB 2022 : 40
+AUS : Aidan HOBBS : 3000msc : 06 OCT 1986 : 1004 : 19 MAR 2022 : 41
+IND : Rakesh KUMAR : 3000msc : 07 JAN 1994 : 1002 : 04 APR 2022 : 42
+KEN : Geoffrey Kipkemoi KIRWA : 3000msc : 03 JUL 2001 : 996 : 05 MAR 2022 : 43
+KEN : Emmanuel WAFULA : 3000msc :  : 994 : 05 MAR 2022 : 44
+IND : Puran RAI : 3000msc : 28 FEB 1995 : 994 : 04 APR 2022 : 45
+IND : Vishal CHAUHAN : 3000msc : 16 OCT 2003 : 990 : 04 APR 2022 : 46
+GBR : Declan NEARY : 3000msc : 18 FEB 1997 : 987 : 24 MAR 2022 : 47
+CAN : Tate WYATT : 3000msc : 17 JUL 2000 : 985 : 25 MAR 2022 : 48
+AUS : Christopher DALE : 3000msc : 29 DEC 1991 : 980 : 19 MAR 2022 : 49
+AUS : Toby O'BRIEN : 3000msc : 22 OCT 1995 : 980 : 31 MAR 2022 : 49
+IND : R. RAGHAV : 3000msc : 01 FEB 2002 : 979 : 04 APR 2022 : 51
+KEN : Elisha KIBET : 3000msc :  : 979 : 04 FEB 2022 : 52
+IND : Ravi GANESH : 3000msc :  : 970 : 12 MAR 2022 : 53
+GBR : Joey CROFT : 3000msc : 23 MAY 2000 : 970 : 24 MAR 2022 : 54
+AUS : Flynn PUMPA : 3000msc : 2004 : 966 : 28 MAR 2022 : 55
+AUS : Alexander KWA : 3000msc : 2004 : 966 : 28 MAR 2022 : 56
+SRI : Udaya Bandara HERATH : 3000msc : 30 AUG 1995 : 963 : 11 MAR 2022 : 57
+KEN : Eliezar KIBET : 3000msc :  : 962 : 05 MAR 2022 : 58
+NZL : Jack BEAUMONT : 3000msc : 11 MAY 1997 : 958 : 24 MAR 2022 : 59
+KEN : Cosmas KOECH : 3000msc :  : 958 : 05 MAR 2022 : 60
+KEN : Nixon KORIR : 3000msc :  : 957 : 25 MAR 2022 : 61
+IND : Shubham BHANDARE : 3000msc :  : 956 : 04 JAN 2022 : 62
+KEN : Peter RONO : 3000msc :  : 955 : 04 FEB 2022 : 63
+AUS : Jordan WILLIAMSZ : 3000msc : 21 AUG 1992 : 948 : 12 FEB 2022 : 64
+AUS : Bailey CRABTREE : 3000msc : 2002 : 947 : 31 MAR 2022 : 65
+KEN : Erick KIPLANGAT : 3000msc :  : 947 : 04 FEB 2022 : 66
+KEN : Dennis KIPTOO : 3000msc :  : 943 : 25 MAR 2022 : 67
+IND : Sumit GORAI : 3000msc : 11 FEB 1999 : 942 : 04 APR 2022 : 68
+CAN : Talman YOUNG : 3000msc :  : 940 : 25 MAR 2022 : 69
+IND : . RAMPAL : 3000msc :  : 939 : 23 MAR 2022 : 70
+IND : . RAVI : 3000msc :  : 935 : 04 JAN 2022 : 71
+IND : Pujari SIDDHANT : 3000msc :  : 933 : 04 JAN 2022 : 72
+NZL : George GUERIN : 3000msc : 19 JUN 2001 : 933 : 04 FEB 2022 : 73
+SRI : W.P.M. SAMARAWEERA : 3000msc :  : 933 : 11 FEB 2022 : 74
+KEN : Philemon KOSGEI : 3000msc : 1993 : 933 : 04 FEB 2022 : 75
+CAN : Jaxon MACKIE : 3000msc :  : 930 : 01 APR 2022 : 76
+KEN : Enock KIPRORIR : 3000msc :  : 930 : 05 MAR 2022 : 77
+SRI : T.M.L.C. GUNARATHNE : 3000msc :  : 929 : 11 FEB 2022 : 78
+SRI : H.M.S.Karunarathna BANDA : 3000msc :  : 928 : 11 MAR 2022 : 79
+KEN : Maxwell KIPLAGAT : 3000msc :  : 927 : 25 MAR 2022 : 80
+KEN : Barnabas KIPYEGO : 3000msc : 12 JUN 1995 : 922 : 05 MAR 2022 : 81
+NZL : Ieuan VAN DER PEET : 3000msc : 12 AUG 1996 : 921 : 04 FEB 2022 : 82
+KEN : Philip KORIR : 3000msc :  : 921 : 05 MAR 2022 : 83
+KEN : Denis LAGAT : 3000msc :  : 920 : 25 MAR 2022 : 84
+IND : Rohit VERMA : 3000msc : 20 OCT 1998 : 919 : 04 APR 2022 : 85
+IND : Bhupal SINGH : 3000msc : 10 JAN 1997 : 919 : 04 APR 2022 : 86
+CAN : Liam WALSH : 3000msc : 2002 : 915 : 01 APR 2022 : 87
+AUS : Gus GANNON : 3000msc : 2003 : 914 : 28 MAR 2022 : 88
+KEN : Festus KORIR : 3000msc :  : 913 : 04 FEB 2022 : 89
+AUS : Nathan PEARCE : 3000msc : 01 JUN 1996 : 912 : 29 JAN 2022 : 90
+KEN : Simon NGEERA : 3000msc :  : 909 : 05 MAR 2022 : 91
+IND : Goyal KUMAR : 3000msc :  : 909 : 06 JAN 2022 : 92
+RSA : Dikotsi LEKOPA : 3000msc : 07 JUL 1988 : 909 : 11 MAR 2022 : 93
+KEN : Elias KIPRUTO : 3000msc :  : 907 : 05 MAR 2022 : 94
+KEN : Timothy KIBET : 3000msc :  : 906 : 05 MAR 2022 : 95
+IND : Suraj PAL : 3000msc : 20 MAY 2002 : 897 : 04 JAN 2022 : 96
+KEN : Kip YEGON : 3000msc :  : 894 : 31 MAR 2022 : 97
+AUS : Harvey CRAMB : 3000msc : 2004 : 892 : 31 MAR 2022 : 98
+SRI : R.M.C.D.M. RATHNAYAKE : 3000msc :  : 891 : 11 MAR 2022 : 99
+IND : . SAURABH : 3000msc : 14 OCT 1999 : 887 : 06 JAN 2022 : 100
