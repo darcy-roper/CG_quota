@@ -1,13 +1,12 @@
 Taneille CRASE : heptathlon : 16 OCT 1994 : 1089 : 1 : 1030 : 1028 :  :  :  : 19 DEC 2021 : 02 APR 2022 :  :  : 
-Tori WEST : heptathlon : 14 OCT 1995 : 1071 : 2 : 1080 : 993 :  :  :  : 16 FEB 2020 : 16 JAN 2022 :  :  : 
-Rachel LIMBURG : heptathlon : 07 JUL 1997 : 1004 : 3 : 972 : 936 :  :  :  : 16 FEB 2020 : 16 APR 2021 :  :  : 
-Alysha BURNETT : heptathlon : 04 JAN 1997 : 999 : 4 : 998 : 941 :  :  :  : 20 DEC 2020 : 02 APR 2022 :  :  : 
+Annaliese BUSH : heptathlon : 16 SEP 1999 : 1003 : 2 : 1003 : 994 :  :  :  : 26 FEB 2021 : 14 APR 2022 :  :  : 
+Alysha BURNETT : heptathlon : 04 JAN 1997 : 999 : 3 : 998 : 941 :  :  :  : 20 DEC 2020 : 02 APR 2022 :  :  : 
+Camryn NEWTON-SMITH : heptathlon : 27 APR 2000 : 987 : 4 : 990 : 974 :  :  :  : 24 FEB 2020 : 14 APR 2022 :  :  : 
 Tiana SOLLEY : heptathlon : 1998 : 955 : 5 : 913 : 902 :  :  :  : 02 APR 2022 : 19 DEC 2021 :  :  : 
 Mia SCERRI : heptathlon : 26 MAR 2005 : 940 : 6 : 937 : 924 :  :  :  : 02 APR 2022 : 09 JAN 2022 :  :  : 
-Tiana MORRISON : heptathlon : 08 JAN 1998 : 939 : 7 : 909 : 884 :  :  :  : 16 APR 2021 : 16 FEB 2020 :  :  : 
+Tiana MORRISON : heptathlon : 08 JAN 1998 : 925 : 7 : 909 : 894 :  :  :  : 16 APR 2021 : 20 DEC 2020 :  :  : 
 Emelia SURCH : heptathlon : 29 JUN 2003 : 921 : 8 : 931 : 895 :  :  :  : 02 APR 2022 : 19 DEC 2021 :  :  : 
-Andrea THOMPSON : heptathlon : 02 OCT 1998 : 911 : 9 : 947 : 821 :  :  :  : 16 FEB 2020 : 17 JAN 2021 :  :  : 
-Christine GAYEN : heptathlon : 20 OCT 1996 : 902 : 10 : 880 : 874 :  :  :  : 16 APR 2021 : 10 JAN 2021 :  :  : 
-Isabel DAINES : heptathlon : 17 FEB 2002 : 860 : 11 : 879 : 832 :  :  :  : 16 FEB 2020 : 22 FEB 2022 :  :  : 
-Hannah TAIT : heptathlon : 20 MAR 2003 : 848 : 12 : 851 : 829 :  :  :  : 19 DEC 2021 : 16 JAN 2022 :  :  : 
-Amie BOWREY : heptathlon : 15 NOV 2001 : 825 : 13 : 795 : 785 :  :  :  : 16 APR 2021 : 02 APR 2022 :  :  : 
+Christine GAYEN : heptathlon : 20 OCT 1996 : 902 : 9 : 880 : 874 :  :  :  : 16 APR 2021 : 10 JAN 2021 :  :  : 
+Isabel DAINES : heptathlon : 17 FEB 2002 : 874 : 10 : 917 : 832 :  :  :  : 14 APR 2022 : 22 FEB 2022 :  :  : 
+Hannah TAIT : heptathlon : 20 MAR 2003 : 848 : 11 : 851 : 829 :  :  :  : 19 DEC 2021 : 16 JAN 2022 :  :  : 
+Amie BOWREY : heptathlon : 15 NOV 2001 : 825 : 12 : 795 : 785 :  :  :  : 16 APR 2021 : 02 APR 2022 :  :  : 

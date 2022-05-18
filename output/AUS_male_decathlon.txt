@@ -2,10 +2,9 @@ Ashley MOLONEY : decathlon : 13 MAR 2000 : 1376 : 1 : 1227 : 1206 :  :  :  : 05 
 Cedric DUBLER : decathlon : 13 JAN 1995 : 1234 : 2 : 1187 : 1131 :  :  :  : 02 APR 2022 : 26 JUN 2019 :  :  : 
 Daniel GOLUBOVIC : decathlon : 29 NOV 1993 : 1214 : 3 : 1178 : 1161 :  :  :  : 19 DEC 2021 : 19 JUN 2021 :  :  : 
 Alec DIAMOND : decathlon : 09 AUG 1997 : 1162 : 4 : 1127 : 1126 :  :  :  : 02 APR 2022 : 19 JUN 2021 :  :  : 
-David BROCK : decathlon : 08 JUN 1994 : 1048 : 5 : 1015 : 991 :  :  :  : 16 FEB 2020 : 16 APR 2021 :  :  : 
-Christian PAYNTER : decathlon : 23 APR 1997 : 1048 : 6 : 1005 : 1036 :  :  :  : 02 APR 2022 : 09 JAN 2022 :  :  : 
-Sebastian REYNEKE : decathlon : 25 MAR 2001 : 1012 : 7 : 1013 : 1002 :  :  :  : 07 FEB 2021 : 22 FEB 2022 :  :  : 
-Martin CLARK : decathlon : 24 NOV 1992 : 1008 : 8 : 970 : 961 :  :  :  : 19 DEC 2021 : 02 APR 2022 :  :  : 
-Matthew WECKER : decathlon : 27 DEC 1997 : 983 : 9 : 945 : 956 :  :  :  : 16 FEB 2020 : 16 APR 2021 :  :  : 
-Sam TAYLOR : decathlon : 22 MAY 2001 : 951 : 10 : 968 : 890 :  :  :  : 16 APR 2021 : 24 JAN 2021 :  :  : 
-Tom GALVIN : decathlon : 15 SEP 1997 : 867 : 11 : 871 : 827 :  :  :  : 02 APR 2022 : 13 FEB 2022 :  :  : 
+Christian PAYNTER : decathlon : 23 APR 1997 : 1048 : 5 : 1005 : 1036 :  :  :  : 02 APR 2022 : 09 JAN 2022 :  :  : 
+Sebastian REYNEKE : decathlon : 25 MAR 2001 : 1012 : 6 : 1013 : 1002 :  :  :  : 07 FEB 2021 : 22 FEB 2022 :  :  : 
+Martin CLARK : decathlon : 24 NOV 1992 : 1008 : 7 : 970 : 961 :  :  :  : 19 DEC 2021 : 02 APR 2022 :  :  : 
+David BROCK : decathlon : 08 JUN 1994 : 1002 : 8 : 991 : 970 :  :  :  : 16 APR 2021 : 07 FEB 2021 :  :  : 
+Sam TAYLOR : decathlon : 22 MAY 2001 : 951 : 9 : 968 : 890 :  :  :  : 16 APR 2021 : 24 JAN 2021 :  :  : 
+Tom GALVIN : decathlon : 15 SEP 1997 : 867 : 10 : 871 : 827 :  :  :  : 02 APR 2022 : 13 FEB 2022 :  :  : 

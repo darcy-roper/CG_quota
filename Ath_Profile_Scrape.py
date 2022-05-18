@@ -3,6 +3,10 @@
 # IF athlete's best performance is before start of qual period, the program will return all results
 # in that athlete's profile within the period
 
+# need some more appropriate function to call on for loading times replacing time.sleep operations eg = once loading complete continue through program
+
+# ATTENTION!!!!
+# repetitive errors found and since moved to begin new version using some code blocks from this program.... continue work in "Profile_Scrape2.0"
 
 from selenium import webdriver
 import time
@@ -19,79 +23,130 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 #options for events
 # put this in a list to read item in list so bot operated through items automatically
-event100 = str("100m")
-event200 = str("200m")
-event400 = str("400m")
-event800 = str("800m")
-event1500 = str("1500m")
-eventSC = str("3000msc")
-event5K = str("5000m")
-event10K = str("10000m")
-event110H = str("110mh")
-event400H = str("400mh")
-eventLJ = str("long-jump")
-eventTJ = str("triple-jump")
-eventHJ = str("high-jump")
-eventPV = str("pole-vault")
-eventDT = str("discus-throw")
-eventSP = str("shot-put")
-eventJT = str("javelin-throw")
-eventHT = str("hammer-throw")
-eventX10 = str("decathlon")
-event20kw = str("20km-race-walking")
-eventMAR = str("marathon")
-# make list from variables [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event110H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, event20kw, eventMAR, eventX10
+event100 = str("100 Meters")
+event200 = str("200 Meters")
+event400 = str("400 Meters")
+event800 = str("800 Meters")
+event1500 = str("1500 Meters")
+eventSC = str("3000 Metres Steeplechase")
+event5K = str("5000 Meters")
+event10K = str("10000 Meters")
+event110H = str("110 Meter Hurdles")
+event400H = str("400 Meter Hurdles")
+eventLJ = str("Long Jump")
+eventTJ = str("Triple Jump")
+eventHJ = str("High Jump")
+eventPV = str("Pole Vault")
+eventDT = str("Discus Throw")
+eventSP = str("Shot Put")
+eventJT = str("Javelin Throw")
+eventHT = str("Hammer Throw")
+eventX10 = str("Decathlon")
+event10kw = str("10,000 Meters Race Walk")
+eventMAR = str("Marathon")
+# make list from variables [event100, event200, event400, event800, event1500, eventSC, event5K, event10K, event110H, event400H, eventLJ, eventTJ, eventHJ, eventPV, eventDT, eventHT, eventJT, eventSP, event10kw, eventMAR, eventX10
 # we use this comment list above to quickly paste in or over below list to begin running program from an event
 # without rewriting all the events starting from event100 if that event executed correctly
 event_list = [eventLJ]
 
+# list variables for wind affected events
+windy_events = ["100 Meters", "200 Meters", "110 Meters Hurdles", "Long Jump", "Triple Jump"]
+no_wind_events = ["400 Meters", "800 Meters", "1500 Meters", "3000 Meters Steeplechase", "5000 Meters", "10000 Meters", "400 Meter Hurdle", "Pole Vault", "High Jump", "Shot Put", "Discus Throw", "Javelin Throw", "Hammer Throw", "10,000 Meters Race Walk", "Marathon", "Decathlon"]
+above_limit = ["+2.1", "+2.2", "+2.3", "+2.4", "+2.5", "+2.6", "+2.7", "+2.8", "+2.9", "+3.0", "+3.1", "+3.2", "+3.3", "+3.4", "+3.5", "+3.6", "+3.7", "+3.8", "+3.9", "+4.0", "+4.1", "+4.2", "+4.3", "+4.4", "+4.5", "+4.6", "+4.7", "+4.8", "+4.9", "+5.0", "+5.1", "+5.2", "+5.3", "+5.4", "+5.5", "+5.6", "+5.7", "+5.8", "+5.9", "+6.0"]
 
 while True:
     for item in event_list:
         event = item
         # grouping events by numbers for the selection in the dropdown filter list the number becomes the option when the list drops after click()
-        if event == "100m":
+        if event == "100 Meters":
             event_num = "2"
-        elif event == "200m":
+        elif event == "200 Meters":
             event_num = "3"
-        elif event == "400m":
+        elif event == "400 Meters":
             event_num = "5"
-        elif event == "800m":
+        elif event == "800 Meters":
             event_num = "7"
-        elif event == "1500m":
+        elif event == "1500 Meters":
             event_num = "9"
-        elif event == "5000m":
+        elif event == "5000 Meters":
             event_num = "14"
-        elif event == "10000m":
+        elif event == "10000 Meters":
             event_num = "16"
-        elif event == "3000msc":
+        elif event == "3000 Meters Steeplechase":
             event_num = "24"
-        elif event == "110mh":
+        elif event == "110 Meter Hurdles":
             event_num = "25"
-        elif event == "400mh":
+        elif event == "400 Meter Hurdles":
             event_num = "26"
-        elif event == "long-jump":
+        elif event == "Long Jump":
             event_num = "29"
-        elif event == "triple-jump":
+        elif event == "Triple Jump":
             event_num = "30"
-        elif event == "high-jump":
+        elif event == "High Jump":
             event_num = "27"
-        elif event == "pole-vault":
+        elif event == "Pole Vault":
             event_num = "28"
-        elif event == "discus-throw":
+        elif event == "Discus Throw":
             event_num = "32"
-        elif event == "shot-put":
+        elif event == "Shot Put":
             event_num = "31"
-        elif event == "hammer-throw":
+        elif event == "Hammer Throw":
             event_num = "33"
-        elif event == "javelin-throw":
+        elif event == "Javelin Throw":
             event_num = "34"
-        elif event == "decathlon":
+        elif event == "Decathlon":
             event_num = "35"
-        elif event == "20km-race-walking":
+        elif event == "10,000 Meters Race Walk":
             event_num = "39"
-        elif event == "marathon":
+        elif event == "Marathon":
             event_num = "22"
+
+    # PROBABLY NOT NECESSARY NOW!!!!!!
+    for item in event_list:
+        tblkey = item
+        # grouping events in new variables for scraping results of athlete profile page
+        if tblkey == "100m":
+            tblkey_100 = "100 Metres"
+        elif tblkey == "200m":
+            tblkey_200 = "200 Metres"
+        elif tblkey == "400m":
+            tblkey_400 = "400 Metres"
+        elif tblkey == "800m":
+            tblkey_800 = "400 Metres"
+        elif tblkey == "1500m":
+            tblkey_1500 = "1500 Metres"
+        elif tblkey == "5000m":
+            tblkey_5k = "5000 Metres"
+        elif tblkey == "10000m":
+            tblkey_10k = "10000 Metres"
+        elif tblkey == "3000msc":
+            tblkey_3ksc = "3000 Metres Steeplechase"
+        elif tblkey == "110mh":
+            tblkey_110h = "110 Metre Hurdles"
+        elif tblkey == "400mh":
+            tblkey_400h = "400 Metre Hurdles"
+        elif tblkey == "long-jump":
+            tblkey_lj = "Long Jump"
+        elif tblkey == "triple-jump":
+            tblkey_tj = "Triple Jump"
+        elif tblkey == "high-jump":
+            tblkey_hj = "High Jump"
+        elif tblkey == "pole-vault":
+            tblkey_pv = "Pole Vault"
+        elif tblkey == "discus-throw":
+            tblkey_dt = "Discus Throw"
+        elif tblkey == "shot-put":
+            tblkey_sp = "Shot Put"
+        elif tblkey == "hammer-throw":
+            tblkey_ht = "Hammer Throw"
+        elif tblkey == "javelin-throw":
+            tblkey_jt = "Javelin Throw"
+        elif tblkey == "decathlon":
+            tblkey_dec = "Decathlon"
+        elif tblkey == "20km-race-walking":
+            tblkey_wlk = "10,000 Metres Race Walk"  # seems incorrect though 10k is the event for comms
+        elif tblkey == "marathon":
+            tblkey_mar = "Marathon"
 
 
         sys.stdout = open('output/Toplist21_male' + '_' + event + '_CommsRank' + '.txt', 'wt')  # creates a txt file in folder location `output`
@@ -103,56 +158,57 @@ while True:
         cookie_button.click()
 
         #Apply filters for XPATH based on the event
-        #selecting senior
-        age_category = driver.find_element(By.XPATH, '//*[@id="ageCategory"]')
-        age_category.click()
-        senior = driver.find_element(By.XPATH, '//*[@id="ageCategory"]/option[1]')
-        senior.click()
-        #selecting outdoor
-        in_outdoor = driver.find_element(By.XPATH, '//*[@id="environment"]')
-        in_outdoor.click()
-        outdoor = driver.find_element(By.XPATH, '//*[@id="environment"]/option[2]')
-        outdoor.click()
-        #selecting season
-        season = driver.find_element(By.XPATH, '//*[@id="season"]')
-        season.click()
-        year = driver.find_element(By.XPATH, '//*[@id="season"]/option[2]')  # 1 = current year DESC
-        year.click()
-        #selecting gender
-        gender = driver.find_element(By.XPATH, '//*[@id="gender"]')
-        gender.click()
-        male = driver.find_element(By.XPATH, '//*[@id="gender"]/option[1]')  # option 2 is female
-        male.click()
-        #selecting event
-        event_filter = driver.find_element(By.XPATH, '//*[@id="disciplineCode"]')
-        event_filter.click()
-        event_variable = driver.find_element(By.XPATH, '//*[@id="disciplineCode"]/option['+event_num+']')  # this is determined by event variable
-        event_variable.click()
-        time.sleep(1.5)  # allows for loading table data if stale element error produced
-        countries = driver.find_element(By.XPATH, '//*[@id="regionType"]')  # only after this is clicked can we get the dropdown for groups
-        countries.click()
-        group_countries = driver.find_element(By.XPATH, '//*[@id="regionType"]/option[4]')
-        group_countries.click()
-        time.sleep(1) # allows for loading
-        group_click = driver.find_element(By.XPATH, '//*[@id="region"]')
-        group_click.click()
-        commgames = driver.find_element(By.XPATH, '//*[@id="region"]/option[6]')
-        commgames.click()
-        time.sleep(5) # allowing for table load time
+        #selecting senior male athletes in commonwealth for year 2021
+        def male_21_filters():
+            age_category = driver.find_element(By.XPATH, '//*[@id="ageCategory"]')
+            age_category.click()
+            senior = driver.find_element(By.XPATH, '//*[@id="ageCategory"]/option[1]')
+            senior.click()
+            #selecting outdoor
+            in_outdoor = driver.find_element(By.XPATH, '//*[@id="environment"]')
+            in_outdoor.click()
+            outdoor = driver.find_element(By.XPATH, '//*[@id="environment"]/option[2]')
+            outdoor.click()
+            #selecting season
+            season = driver.find_element(By.XPATH, '//*[@id="season"]')
+            season.click()
+            year = driver.find_element(By.XPATH, '//*[@id="season"]/option[2]')  # 1 = current year DESC
+            year.click()
+            #selecting gender
+            gender = driver.find_element(By.XPATH, '//*[@id="gender"]')
+            gender.click()
+            male = driver.find_element(By.XPATH, '//*[@id="gender"]/option[1]')  # option 2 is female
+            male.click()
+            #selecting event
+            event_filter = driver.find_element(By.XPATH, '//*[@id="disciplineCode"]')
+            event_filter.click()
+            event_variable = driver.find_element(By.XPATH, '//*[@id="disciplineCode"]/option[' + event_num + ']')  # this is determined by event variable
+            event_variable.click()
+            time.sleep(1.5)  # allows for loading table data if stale element error produced
+            countries = driver.find_element(By.XPATH, '//*[@id="regionType"]')  # only after this is clicked can we get the dropdown for groups
+            countries.click()
+            group_countries = driver.find_element(By.XPATH, '//*[@id="regionType"]/option[4]')
+            group_countries.click()
+            time.sleep(1) # allows for loading
+            group_click = driver.find_element(By.XPATH, '//*[@id="region"]')
+            group_click.click()
+            commgames = driver.find_element(By.XPATH, '//*[@id="region"]/option[6]')
+            commgames.click()
+            time.sleep(5) # allowing for table load time
 
+        male_21_filters()
 
-        # now get all athletes
         counter = 1
         str(counter)
         while counter < 101:
             try:  # Nationality IF statements are unique to the event because the column ordering changes between events
-                if event == "100m" or event == "200m" or event == "110mh" or event == "long-jump" or event == "triple-jump":
+                if event in windy_events:
                     nat_check = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[6]').text  # checking tr6 for AUS
-                elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "20km-race-walking" or event == "marathon" or event == "decathlon":
+                elif event in no_wind_events:
                     nat_check = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[5]').text  # checking tr5 for AUS
             except:
                 break
-                # this break skips to new event
+
 
             # If false add 1 to the counter in order to move through the list to the next ranked athlete
             while True:
@@ -160,39 +216,47 @@ while True:
                     # rank will always be in column 1 so this doesn't need to be determined with an IF statement
                     grab_rank = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[1]').text
 
+                    # performance always in column 2
+                    grab_perf = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[2]').text
+
                     # fetching names based on event
-                    if event == "100m" or event == "200m" or event == "110mh" or event == "long-jump" or event == "triple-jump":
+                    if event in windy_events:
                         grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 4th column for sprints
-                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "20km-race-walking" or event == "marathon" or event == "decathlon":
+                    elif event in no_wind_events:
                         grab_name = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[3]').text  # 3rd column for middle-long dist
 
                     # fetching DOB based on event
-                    if event == "100m" or event == "200m" or event == "110mh" or event == "long-jump" or event == "triple-jump":
+                    if event in windy_events:
                         grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[5]').text  # 5th column for sprints
-                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "20km-race-walking" or event == "marathon" or event == "decathlon":
+                    elif event in no_wind_events:
                         grab_DOB = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]').text  # 4th column for middle-long dist
 
                     # fetching score based on event
-                    if event == "100m" or event == "200m" or event == "110mh" or event == "long-jump" or event == "triple-jump":
+                    if event in windy_events:
                         grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[11]').text  # 11th column for sprints
-                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "20km-race-walking" or event == "marathon" or event == "decathlon":
+                    elif event in no_wind_events:
                         grab_score = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[10]').text  # 10th column for middle-long dist
 
 
                     # fetching performance date to be used in SQL and filter by qualifying period
-                    if event == "100m" or event == "200m" or event == "110mh" or event == "long-jump" or event == "triple-jump":
+                    if event in windy_events:
                         temp_grab = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[10]').text  # 11th column for sprints
-                    elif event == "400m" or event == "800m" or event == "1500m" or event == "3000msc" or event == "5000m" or event == "10000m" or event == "400mh" or event == "pole-vault" or event == "high-jump" or event == "shot-put" or event == "discus-throw" or event == "javelin-throw" or event == "hammer-throw" or event == "20km-race-walking" or event == "marathon" or event == "decathlon":
+                    elif event in no_wind_events:
                         temp_grab = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[9]').text  # 10th column for middle-long dist
 
 
                     # number strip for date check
                     perf_mth = ''.join([i for i in temp_grab if not i.isdigit()])
 
-                    if 'JAN' or 'FEB' or 'MAR' or 'APR' or 'MAY' or 'JUN' in perf_mth:  # if performances JAN-JUN then we open profile to search for next best
+                    if perf_mth == ' JUL ' or perf_mth == ' AUG ' or perf_mth == ' SEP ' or perf_mth == ' OCT ' or perf_mth == ' NOV ' or perf_mth == ' DEC ':  # performances post JUN in 2021 will count
+                        grab_date = temp_grab
+                        print(nat_check, "|", grab_name, "|", event, "|", grab_DOB, "|", grab_score, "|", grab_perf, "|", grab_date)
+                        counter = counter + 1  # probably won't work for decathlon
+                        break  # should break back to new row on list
+                    elif perf_mth == ' JAN ' or perf_mth == ' FEB ' or perf_mth == ' MAR ' or perf_mth == ' APR ' or perf_mth == ' MAY ' or perf_mth == ' JUN ':  # if performances JAN-JUN then we open profile to search for next best
                         open_profile = driver.find_element(By.XPATH, '//*[@id="toplists"]/div[3]/table/tbody/tr['+str(counter)+']/td[4]/a')  # left `.txt` off this XPATH because we need .click operation
                         open_profile.click()
-                        time.sleep(8)
+                        time.sleep(6)  # need some more appropriate function to call on for loading times replacing time.sleep operations eg once loading complete continue through program
                         cookie_button = driver.find_element(By.XPATH, '//*[@id="c-right"]/a')
                         cookie_button.click()
                         time.sleep(2)
@@ -205,28 +269,46 @@ while True:
                         year_21 = driver.find_element(By.XPATH, '//*[@id="resultsYearSelect"]/option[2]')
                         year_21.click()
                         time.sleep(4)
-                        # probably want some other counter and a while loop to iterate through table rows
-                        # date
-                        r1_c1 = '//*[@id="__next"]/div[3]/div/div[2]/div/div[4]/div[2]/div[2]/div/table/tbody/tr[1]/td[1]'
-                        # event = event variable
-                        r1_c3 = '//*[@id="__next"]/div[3]/div/div[2]/div/div[4]/div[2]/div[2]/div/table/tbody/tr[1]/td[3]'
-                        # performance score
-                        r1_c9 = '//*[@id="__next"]/div[3]/div/div[2]/div/div[4]/div[2]/div[2]/div/table/tbody/tr[1]/td[8]'
-                        # wind reading.... only for wind affected events
+                        # from here we will be looking at the athlete's performances across all events in that year
+                        # somehow want to only look in the event table body xpath for performances
+
+                        # while true loop to iterate through table rows in table
+                        tbl_rowcount = 1
+                        tbl_count = 1
+                        pro_loop = 1
+                        while pro_loop < 20:
+                            tblID = driver.find_element(By.XPATH, '//*[@id="__next"]/div[3]/div/div[2]/div/div[4]/div[2]/div[2]/div['+str(tbl_count)+']/div[2]').text  # will return top table event text
+                            if tblID == event:
+                                date_x = driver.find_element(By.XPATH, '//*[@id="__next"]/div[3]/div/div[2]/div/div[4]/div[2]/div[2]/div['+str(tbl_count)+']/div[3]/table/tbody/tr['+str(tbl_rowcount)+']/td[1]').text
+                                p_mth = ''.join([a for a in date_x if not a.isdigit()])  # strips all digit characters in date
+                                if p_mth == ' JAN ' or p_mth == ' FEB ' or p_mth == ' MAR ' or p_mth == ' APR ' or p_mth == ' MAY ' or p_mth == ' JUN ':
+                                    tbl_rowcount = tbl_rowcount + 1
+
+                                elif p_mth == ' JUL ' or p_mth == ' AUG ' or p_mth == ' SEP ' or p_mth == ' OCT ' or p_mth == ' NOV ' or p_mth == ' DEC ':
+                                    grab_date = driver.find_element(By.XPATH, '//*[@id="__next"]/div[3]/div/div[2]/div/div[4]/div[2]/div[2]/div['+str(tbl_count)+']/div[3]/table/tbody/tr['+str(tbl_rowcount)+']/td[1]').text  # gets overwritten again if month contains correct month(s)
+                                    grab_perf = driver.find_element(By.XPATH, '//*[@id="__next"]/div[3]/div/div[2]/div/div[4]/div[2]/div[2]/div['+str(tbl_count)+']/div[3]/table/tbody/tr['+str(tbl_rowcount)+']/td[7]').text
+                                    grab_score = driver.find_element(By.XPATH, '//*[@id="__next"]/div[3]/div/div[2]/div/div[4]/div[2]/div[2]/div['+str(tbl_count)+']/div[3]/table/tbody/tr['+str(tbl_rowcount)+']/td[8]').text  # overwrites the points score found outside the period
+                                    pro_loop = pro_loop + 1
+                                    #print(nat_check, "|", grab_name, "|", event, "|", grab_DOB, "|", grab_score, "|", grab_perf, "|", grab_date) # serves as a print capture for the profile scrape
+                                if event in windy_events:
+                                    wind_rec = driver.find_element(By.XPATH, '//*[@id="__next"]/div[3]/div/div[2]/div/div[4]/div[2]/div[2]/div['+str(tbl_count)+']/div[3]/table/tbody/tr['+str(tbl_rowcount)+']/td[9]').text
+                                elif event in no_wind_events:
+                                    wind_rec = ""  # NA for non-wind affected events.
+
+                                if wind_rec in above_limit: # excess of limits skip to next performance
+                                    tbl_rowcount = tbl_rowcount + 1
+                                    break
+
+                            else:
+                                tbl_count = tbl_count + 1
+
+            # repetitive errors found and since moved to begin new version using some code blocks from this program.... continue work in "Profile_Scrape2.0"
+            # driver.back()
+            # male_21_filters()
 
 
-
-
-
-
-
-                    elif 'JUL' or 'AUG' or 'SEP' or 'OCT' or 'NOV' or 'DEC' in perf_mth:  # performances post JUN in 2021 will count
-                        grab_date = temp_grab
-
-
-
-                    print(nat_check, ":", grab_name, ":", event, ":", grab_DOB, ":", grab_score, ":", grab_date, ":", grab_rank)
-                    if event == "decathlon":
+                    print(nat_check, "|", grab_name, "|", event, "|", grab_DOB, "|", grab_score, "|", grab_perf, "|", grab_date)
+                    if event == "Decathlon":
                         counter = counter + 2  # prints to txt file then adds 2 to counter to move down list for multi events
                     else:
                         counter = counter + 1

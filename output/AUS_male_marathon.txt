@@ -5,18 +5,22 @@ Edward GODDARD : marathon : 24 OCT 1997 : 1098 : 4 : 1099 : 1097 :  :  :  : 03 A
 Thomas DO CANTO : marathon : 30 MAY 1986 : 1092 : 5 : 1099 : 1084 :  :  :  : 13 DEC 2020 : 12 DEC 2021 :  :  : 
 Riley COCKS : marathon : 27 DEC 1995 : 1054 : 6 : 1072 : 1036 :  :  :  : 13 JUN 2021 : 12 DEC 2021 :  :  : 
 Dean MENZIES : marathon : 04 FEB 1988 : 1011 : 7 : 1020 : 1001 :  :  :  : 17 OCT 2021 : 08 MAR 2020 :  :  : 
-Jacob COCKS : marathon : 19 MAY 1994 : 972 : 8 : 979 : 966 :  :  :  : 12 DEC 2021 : 13 DEC 2020 :  :  : 
-Ben ST. LAWRENCE : marathon : 07 NOV 1981 : 970 : 9 : 1063 : 877 :  :  :  : 13 JUN 2021 : 08 MAR 2020 :  :  : 
-Ben KELLY : marathon : 14 JUN 1996 : 959 : 10 : 983 : 936 :  :  :  : 12 DEC 2021 : 13 DEC 2020 :  :  : 
-Matt GUNTHER : marathon : 16 OCT 1993 : 948 : 11 : 981 : 911 :  :  :  : 12 DEC 2021 : 04 APR 2021 :  :  : 
-Brady THRELFALL : marathon : 29 DEC 1987 : 943 : 12 : 990 : 896 :  :  :  : 12 DEC 2021 : 11 APR 2021 :  :  : 
-Toby MENDAY : marathon : 1995 : 941 : 13 : 996 : 886 :  :  :  : 12 DEC 2021 : 11 APR 2021 :  :  : 
-Daniel HART : marathon :  : 921 : 14 : 940 : 903 :  :  :  : 08 MAR 2020 : 12 DEC 2021 :  :  : 
-Brett ELLIS : marathon : 23 JUN 1994 : 904 : 15 : 927 : 880 :  :  :  : 13 DEC 2020 : 04 APR 2021 :  :  : 
-Tom MIDDLETON : marathon : 24 JUN 1986 : 900 : 16 : 919 : 882 :  :  :  : 16 JAN 2022 : 13 JUN 2021 :  :  : 
-Chris RANCIE : marathon : 1984 : 891 : 17 : 920 : 863 :  :  :  : 08 MAR 2020 : 12 DEC 2021 :  :  : 
-Andrew FERGUSON : marathon :  : 837 : 18 : 866 : 809 :  :  :  : 12 DEC 2021 : 11 APR 2021 :  :  : 
-Nicholas LEE : marathon :  : 830 : 19 : 857 : 799 :  :  :  : 06 JUN 2021 : 28 MAR 2021 :  :  : 
-Lachlan OAKES : marathon : 02 SEP 1987 : 825 : 20 : 859 : 790 :  :  :  : 25 APR 2021 : 09 JAN 2022 :  :  : 
-Sam HOPPER : marathon :  : 824 : 21 : 847 : 801 :  :  :  : 13 JUN 2021 : 12 DEC 2021 :  :  : 
-Wayne SPIES : marathon :  : 808 : 22 : 836 : 776 :  :  :  : 09 JAN 2022 : 13 DEC 2020 :  :  : 
+Toby MENDAY : marathon : 1995 : 1004 : 8 : 1013 : 996 :  :  :  : 10 APR 2022 : 12 DEC 2021 :  :  : 
+Brad KAHLEFELDT : marathon :  : 994 : 9 : 1011 : 978 :  :  :  : 25 APR 2021 : 10 APR 2022 :  :  : 
+Jacob COCKS : marathon : 19 MAY 1994 : 972 : 10 : 979 : 966 :  :  :  : 12 DEC 2021 : 13 DEC 2020 :  :  : 
+Ben ST. LAWRENCE : marathon : 07 NOV 1981 : 970 : 11 : 1063 : 877 :  :  :  : 13 JUN 2021 : 08 MAR 2020 :  :  : 
+Ben KELLY : marathon : 14 JUN 1996 : 959 : 12 : 983 : 936 :  :  :  : 12 DEC 2021 : 13 DEC 2020 :  :  : 
+Michael ROEGER : marathon : 14 MAY 1988 : 956 : 13 : 1018 : 895 :  :  :  : 25 APR 2021 : 18 APR 2022 :  :  : 
+Matt GUNTHER : marathon : 16 OCT 1993 : 948 : 14 : 981 : 911 :  :  :  : 12 DEC 2021 : 04 APR 2021 :  :  : 
+Brady THRELFALL : marathon : 29 DEC 1987 : 943 : 15 : 990 : 896 :  :  :  : 12 DEC 2021 : 11 APR 2021 :  :  : 
+Daniel HART : marathon :  : 921 : 16 : 940 : 903 :  :  :  : 08 MAR 2020 : 12 DEC 2021 :  :  : 
+Brett ELLIS : marathon : 23 JUN 1994 : 904 : 17 : 927 : 880 :  :  :  : 13 DEC 2020 : 04 APR 2021 :  :  : 
+Tom MIDDLETON : marathon : 24 JUN 1986 : 900 : 18 : 919 : 882 :  :  :  : 16 JAN 2022 : 13 JUN 2021 :  :  : 
+Chris RANCIE : marathon : 1984 : 891 : 19 : 920 : 863 :  :  :  : 08 MAR 2020 : 12 DEC 2021 :  :  : 
+Matthew SCHAUMBERG : marathon :  : 881 : 20 : 886 : 876 :  :  :  : 10 APR 2022 : 12 DEC 2021 :  :  : 
+Andrew FERGUSON : marathon :  : 837 : 21 : 866 : 809 :  :  :  : 12 DEC 2021 : 11 APR 2021 :  :  : 
+Nicholas LEE : marathon :  : 830 : 22 : 857 : 799 :  :  :  : 06 JUN 2021 : 28 MAR 2021 :  :  : 
+Jamie LACEY : marathon :  : 830 : 23 : 832 : 823 :  :  :  : 10 APR 2022 : 28 MAR 2021 :  :  : 
+Lachlan OAKES : marathon : 02 SEP 1987 : 825 : 24 : 859 : 790 :  :  :  : 25 APR 2021 : 09 JAN 2022 :  :  : 
+Sam HOPPER : marathon :  : 824 : 25 : 847 : 801 :  :  :  : 13 JUN 2021 : 12 DEC 2021 :  :  : 
+Wayne SPIES : marathon :  : 808 : 26 : 836 : 776 :  :  :  : 09 JAN 2022 : 13 DEC 2020 :  :  : 
