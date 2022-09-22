@@ -1,100 +1,100 @@
-JAM : Lamara DISTIN : high-jump : 03 MAR 2000 : 1180 : 26 MAR 2022 : 1
+JAM : Lamara DISTIN : high-jump : 03 MAR 2000 : 1190 : 30 APR 2022 : 1
 TTO : Tyra GITTENS : high-jump : 06 JUN 1998 : 1170 : 02 APR 2022 : 2
 AUS : Nicola MCDERMOTT : high-jump : 28 DEC 1996 : 1160 : 02 APR 2022 : 3
-NZL : Keeley O'HAGAN : high-jump : 11 MAR 1994 : 1101 : 05 MAR 2022 : 4
-NZL : Imogen SKELTON : high-jump : 15 OCT 2000 : 1082 : 05 MAR 2022 : 5
-AUS : Eleanor PATTERSON : high-jump : 22 MAY 1996 : 1072 : 29 JAN 2022 : 6
-IND : Gracena GLISTUS MERY : high-jump : 23 MAY 2000 : 1062 : 22 FEB 2022 : 7
-GHA : Abigail KWARTENG : high-jump : 13 JAN 1997 : 1062 : 19 MAR 2022 : 7
-CYP : Yelena KULICHENKO : high-jump : 28 JUL 2002 : 1062 : 01 APR 2022 : 7
-AUS : Erin SHAW : high-jump : 07 SEP 2004 : 1052 : 29 JAN 2022 : 10
-IND : Abinaya Sudhakara SHETTY : high-jump : 16 JUN 1999 : 1052 : 29 MAR 2022 : 10
-IND : Swapna BARMAN : high-jump : 29 OCT 1996 : 1043 : 04 APR 2022 : 12
-JAM : Kimberly WILLIAMSON : high-jump : 02 OCT 1993 : 1033 : 02 APR 2022 : 13
-AUS : Alexandra HARRISON : high-jump : 13 NOV 2003 : 1023 : 15 JAN 2022 : 14
-AUS : Emily WHELAN : high-jump : 10 JAN 2000 : 1023 : 22 JAN 2022 : 14
-AUS : Annie STAPLETON : high-jump : 27 OCT 2002 : 1023 : 20 FEB 2022 : 14
-AUS : Chelsea FRIEDRICH : high-jump : 02 NOV 2005 : 1023 : 01 APR 2022 : 14
-SGP : Michelle SNG : high-jump : 19 MAY 1987 : 1013 : 22 JAN 2022 : 18
-AUS : Toby STOLBERG : high-jump : 2006 : 1013 : 18 FEB 2022 : 18
-IND : Angel DEVASYA P. : high-jump : 06 DEC 1994 : 1013 : 05 MAR 2022 : 18
-GBR : Lucy WALLIKER : high-jump : 1999 : 1013 : 17 MAR 2022 : 18
-NZL : Maddie WILSON : high-jump : 05 APR 2002 : 1004 : 30 JAN 2022 : 22
-JAM : Annishka MCDONALD : high-jump : 30 OCT 2003 : 1004 : 12 MAR 2022 : 22
-RSA : Yvonne ROBSON : high-jump : 12 SEP 1999 : 994 : 16 FEB 2022 : 24
-NZL : Josephine REEVES : high-jump : 25 MAR 2001 : 994 : 20 FEB 2022 : 24
-SWZ : Nonhlanhla Erikah SEYAMA : high-jump : 19 JAN 1994 : 994 : 02 MAR 2022 : 24
-BER : Sakari FAMOUS : high-jump : 10 FEB 2000 : 994 : 25 MAR 2022 : 24
-JAM : Daniella ANGLIN : high-jump : 15 NOV 2001 : 994 : 25 MAR 2022 : 24
-AUS : Tryphena HEWETT : high-jump : 22 OCT 2005 : 994 : 01 APR 2022 : 24
-AUS : Alysha BURNETT : high-jump : 04 JAN 1997 : 994 : 01 APR 2022 : 24
-NZL : Jessica HENDREN : high-jump : 26 APR 2005 : 984 : 04 FEB 2022 : 31
-IND : A.Kevinaa ASWINE : high-jump : 23 MAR 2002 : 984 : 22 FEB 2022 : 31
-CAN : Falyn REAUGH : high-jump : 29 JUN 1999 : 984 : 19 MAR 2022 : 31
-AUS : Rosie TOZER : high-jump : 07 MAY 2002 : 974 : 08 JAN 2022 : 34
-JAM : Torian CAVEN : high-jump : 28 OCT 2004 : 974 : 08 JAN 2022 : 34
-RSA : Shannon VERSTER : high-jump : 10 NOV 1999 : 974 : 12 FEB 2022 : 34
-JAM : Malaika CUNNINGHAM : high-jump : 29 JUL 2004 : 974 : 19 FEB 2022 : 34
-GUY : Natrena HOOPER : high-jump : 02 FEB 1991 : 974 : 19 FEB 2022 : 34
-AUS : Izobelle LOUISON-ROE : high-jump : 2007 : 974 : 27 FEB 2022 : 34
-AUS : Elizabeth MOSS : high-jump : 22 MAR 2002 : 974 : 06 MAR 2022 : 34
-AUS : Sophie LILLICRAP : high-jump : 2004 : 974 : 06 MAR 2022 : 34
-JAM : Deijanae BRUCE : high-jump : 19 NOV 2005 : 974 : 12 MAR 2022 : 34
-JAM : Shackala HENRY : high-jump : 31 OCT 2004 : 974 : 12 MAR 2022 : 34
-GBR : Temi OJORA : high-jump : 24 JAN 2002 : 974 : 19 MAR 2022 : 34
-GBR : Rebecca HAWKINS : high-jump : 27 SEP 1999 : 974 : 25 MAR 2022 : 34
-JAM : Ramona HYLTON : high-jump : 23 OCT 2000 : 974 : 02 APR 2022 : 34
-NZL : Naomi WAITE : high-jump : 01 OCT 2006 : 965 : 30 JAN 2022 : 47
-NZL : Alex HYLAND : high-jump : 29 JAN 1999 : 965 : 30 JAN 2022 : 47
-AUS : Emily MALAKOVSKI : high-jump : 21 APR 2005 : 965 : 01 APR 2022 : 47
-AUS : Tiana SOLLEY : high-jump : 1998 : 965 : 01 APR 2022 : 47
-AUS : Denise SNYDER : high-jump : 07 JAN 1992 : 955 : 05 FEB 2022 : 51
-IND : K.H. SALIHA : high-jump : 14 SEP 2002 : 955 : 22 FEB 2022 : 51
-MAS : Norliyana KAMARUDDIN : high-jump : 26 MAR 1991 : 955 : 05 MAR 2022 : 51
-RSA : Michelle NGOZO : high-jump : 15 MAY 2000 : 955 : 12 MAR 2022 : 51
-AUS : Vanessa APEL : high-jump : 2006 : 945 : 27 FEB 2022 : 55
-RSA : Kristi SNYMAN : high-jump : 15 DEC 2000 : 945 : 01 APR 2022 : 55
-BAN : Umme Hafsa RUMKI : high-jump : 26 SEP 2001 : 936 : 03 JAN 2022 : 57
-AUS : Tori WEST : high-jump : 14 OCT 1995 : 936 : 15 JAN 2022 : 57
-IND : . TANU : high-jump : 14 NOV 2002 : 936 : 22 FEB 2022 : 57
-IND : . MANSHI : high-jump : 03 SEP 2002 : 936 : 22 FEB 2022 : 57
-IND : Athira SOMARAJ : high-jump : 26 OCT 1998 : 936 : 01 MAR 2022 : 57
-NZL : Alice TAYLOR : high-jump : 14 DEC 2002 : 936 : 05 MAR 2022 : 57
-RSA : Carla DU PLESSIS : high-jump : 01 MAY 2002 : 936 : 19 MAR 2022 : 57
-CYP : Styliana IOANNIDOU : high-jump : 17 DEC 2003 : 936 : 19 MAR 2022 : 57
-JAM : Shanniqua WILLIAMS : high-jump : 18 FEB 2007 : 936 : 26 MAR 2022 : 57
-AUS : Kalliyan SEREMET : high-jump : 2005 : 936 : 01 APR 2022 : 57
-AUS : Oceana D'ABBS : high-jump : 2005 : 936 : 01 APR 2022 : 57
-AUS : Taneille CRASE : high-jump : 16 OCT 1994 : 936 : 01 APR 2022 : 57
-IND : Rubina YADAV : high-jump : 14 JAN 2001 : 936 : 05 APR 2022 : 57
-AUS : Zoe PEACOCK : high-jump : 2006 : 926 : 15 JAN 2022 : 70
-AUS : Brianna LEUNG : high-jump : 2005 : 926 : 15 JAN 2022 : 70
-JAM : Rasheeda SAMUELS : high-jump : 10 JAN 2005 : 926 : 22 JAN 2022 : 70
-NZL : Rosie ELLIOTT : high-jump : 06 NOV 1997 : 926 : 29 JAN 2022 : 70
-AUS : Polly DEANE-JOHNS : high-jump : 02 MAY 2004 : 926 : 05 FEB 2022 : 70
-RSA : Mahlatsi DOMBENI : high-jump : 21 JAN 1999 : 926 : 12 FEB 2022 : 70
-AUS : Elizabeth STAPLES : high-jump : 2002 : 926 : 18 FEB 2022 : 70
-IND : . REKHA : high-jump : 24 JAN 1999 : 926 : 22 FEB 2022 : 70
-JAM : Rhianna LUGG : high-jump : 02 JUL 2006 : 926 : 04 MAR 2022 : 70
-IND : Libia SHAJI : high-jump : 16 APR 1997 : 926 : 05 MAR 2022 : 70
-AUS : Ashleigh REID : high-jump : 25 FEB 1988 : 926 : 06 MAR 2022 : 70
-RSA : Mia JANSE VAN RENSBURG : high-jump : 17 DEC 2006 : 926 : 12 MAR 2022 : 70
-NGR : Laura ODIVWRI : high-jump : 05 NOV 2005 : 926 : 13 MAR 2022 : 70
-JAM : Rohanna SUDLOW : high-jump : 2006 : 926 : 15 MAR 2022 : 70
-JAM : Asia MCKAY : high-jump : 17 OCT 2007 : 926 : 16 MAR 2022 : 70
-GRN : Ahshareah ENOE : high-jump : 10 JUN 2003 : 926 : 16 MAR 2022 : 70
-GBR : Madeleine WOOD : high-jump : 03 SEP 2002 : 926 : 25 MAR 2022 : 70
-GBR : Lillie FRANKS : high-jump : 29 OCT 1999 : 926 : 25 MAR 2022 : 70
-CAN : Asia HAMILTON : high-jump : 2002 : 926 : 26 MAR 2022 : 70
-JAM : Shania INGRAM : high-jump : 09 JAN 1999 : 926 : 26 MAR 2022 : 70
-IND : . TANUSHREE : high-jump : 14 FEB 2002 : 926 : 04 APR 2022 : 70
-AUS : Viktorija CALUSIC : high-jump : 2006 : 916 : 27 FEB 2022 : 91
-NZL : Olivia POWER : high-jump : 09 FEB 2005 : 916 : 04 MAR 2022 : 91
-JAM : Annia ASHLEY : high-jump : 19 JAN 2000 : 916 : 24 MAR 2022 : 91
-NZL : Christina RYAN : high-jump : 15 FEB 1998 : 916 : 26 MAR 2022 : 91
-CAN : Barbara BITCHOKA : high-jump : 1996 : 916 : 02 APR 2022 : 91
-JAM : Daniel HINDS : high-jump : 15 DEC 2002 : 907 : 12 FEB 2022 : 96
-JAM : Richelle STANLEY : high-jump : 2005 : 907 : 12 FEB 2022 : 96
-JAM : Cordaelia WILLIAMS : high-jump : 14 OCT 2003 : 907 : 12 FEB 2022 : 96
-NZL : Amelia DE LAUTOUR : high-jump : 07 NOV 2004 : 907 : 26 FEB 2022 : 96
-SRI : Renindi PEHANSA : high-jump : 2004 : 907 : 10 MAR 2022 : 96
+GBR : Morgan LAKE : high-jump : 12 MAY 1997 : 1150 : 01 MAY 2022 : 4
+JAM : Kimberly WILLIAMSON : high-jump : 02 OCT 1993 : 1150 : 05 JUN 2022 : 4
+GHA : Abigail KWARTENG : high-jump : 13 JAN 1997 : 1140 : 16 APR 2022 : 6
+GBR : Laura ZIALOR : high-jump : 04 AUG 1998 : 1131 : 07 MAY 2022 : 7
+NZL : Keeley O'HAGAN : high-jump : 11 MAR 1994 : 1101 : 05 MAR 2022 : 8
+CYP : Yelena KULICHENKO : high-jump : 28 JUL 2002 : 1091 : 29 APR 2022 : 9
+CAN : Barbara BITCHOKA : high-jump : 1996 : 1091 : 07 MAY 2022 : 9
+GBR : Emily BORTHWICK : high-jump : 02 SEP 1997 : 1091 : 11 JUN 2022 : 9
+NZL : Imogen SKELTON : high-jump : 15 OCT 2000 : 1082 : 05 MAR 2022 : 12
+AUS : Eleanor PATTERSON : high-jump : 22 MAY 1996 : 1072 : 29 JAN 2022 : 13
+GBR : Niamh EMERSON : high-jump : 22 APR 1999 : 1072 : 04 JUN 2022 : 13
+AUS : Erin SHAW : high-jump : 07 SEP 2004 : 1072 : 07 JUN 2022 : 13
+IND : Gracena GLISTUS MERY : high-jump : 23 MAY 2000 : 1062 : 22 FEB 2022 : 16
+CAN : Marguerite LORENZO : high-jump : 1999 : 1062 : 28 MAY 2022 : 16
+BER : Sakari FAMOUS : high-jump : 10 FEB 2000 : 1062 : 28 MAY 2022 : 16
+IND : Abinaya Sudhakara SHETTY : high-jump : 16 JUN 1999 : 1052 : 29 MAR 2022 : 19
+IND : Swapna BARMAN : high-jump : 29 OCT 1996 : 1043 : 04 APR 2022 : 20
+JAM : Alliyah MCNEIL : high-jump : 25 SEP 2001 : 1043 : 20 MAY 2022 : 20
+SGP : Suat Li Michelle SNG : high-jump : 19 MAY 1987 : 1033 : 16 APR 2022 : 22
+CYP : Despoina CHARALAMBOUS : high-jump : 22 MAY 2000 : 1033 : 16 APR 2022 : 22
+GBR : Lucy WALLIKER : high-jump : 1999 : 1033 : 05 MAY 2022 : 22
+JAM : Daniella ANGLIN : high-jump : 15 NOV 2001 : 1033 : 28 MAY 2022 : 22
+AUS : Alexandra HARRISON : high-jump : 13 NOV 2003 : 1023 : 15 JAN 2022 : 26
+AUS : Emily WHELAN : high-jump : 10 JAN 2000 : 1023 : 22 JAN 2022 : 26
+AUS : Annie STAPLETON : high-jump : 27 OCT 2002 : 1023 : 20 FEB 2022 : 26
+AUS : Chelsea FRIEDRICH : high-jump : 02 NOV 2005 : 1023 : 01 APR 2022 : 26
+GHA : Rose Amoanimaa YEBOAH : high-jump : 23 DEC 2001 : 1023 : 02 APR 2022 : 26
+CAN : Alexa PORPACZY : high-jump : 07 MAY 2000 : 1023 : 15 APR 2022 : 26
+JAM : Nia ROBINSON : high-jump : 08 DEC 2001 : 1023 : 07 MAY 2022 : 26
+MAS : Norliyana KAMARUDDIN : high-jump : 26 MAR 1991 : 1023 : 16 MAY 2022 : 26
+AUS : Toby STOLBERG : high-jump : 15 MAY 2006 : 1013 : 18 FEB 2022 : 34
+IND : Angel DEVASYA P. : high-jump : 06 DEC 1994 : 1013 : 05 MAR 2022 : 34
+JAM : Torian CAVEN : high-jump : 28 OCT 2004 : 1013 : 09 APR 2022 : 34
+JAM : Roschell CLAYTON : high-jump : 16 JAN 2001 : 1013 : 09 APR 2022 : 34
+GBR : Allie ROUTLEDGE : high-jump : 08 JUL 2002 : 1013 : 13 APR 2022 : 34
+AUS : Taneille CRASE : high-jump : 06 OCT 1994 : 1013 : 07 JUN 2022 : 34
+AUS : Alysha BURNETT : high-jump : 04 JAN 1997 : 1013 : 07 JUN 2022 : 34
+NGR : Temitope ADESHINA : high-jump :  : 1013 : 09 JUN 2022 : 34
+RSA : Yvonne ROBSON : high-jump : 12 SEP 1999 : 1013 : 09 JUN 2022 : 34
+NZL : Maddie WILSON : high-jump : 05 APR 2002 : 1004 : 30 JAN 2022 : 43
+JAM : Annishka MCDONALD : high-jump : 30 OCT 2003 : 1004 : 12 MAR 2022 : 43
+GUY : Natrena HOOPER : high-jump : 02 FEB 1991 : 1004 : 18 MAR 2022 : 43
+RSA : Shanese DE CLERK : high-jump : 15 DEC 2005 : 1004 : 21 APR 2022 : 43
+GBR : Lauren EVANS : high-jump : 07 AUG 2000 : 1004 : 22 MAY 2022 : 43
+NZL : Josephine REEVES : high-jump : 25 MAR 2001 : 1004 : 28 MAY 2022 : 43
+SWZ : Nonhlanhla Erikah SEYAMA : high-jump : 19 JAN 1994 : 994 : 02 MAR 2022 : 49
+AUS : Tryphena HEWETT : high-jump : 22 OCT 2005 : 994 : 01 APR 2022 : 49
+NGR : Esther ISA : high-jump : 09 SEP 1999 : 994 : 08 APR 2022 : 49
+RSA : Carla DU PLESSIS : high-jump : 01 MAY 2002 : 994 : 29 APR 2022 : 49
+GBR : Amaya SCOTT-RULE : high-jump : 15 FEB 2001 : 994 : 02 MAY 2022 : 49
+GBR : Emily RACE : high-jump : 11 SEP 2000 : 994 : 02 MAY 2022 : 49
+GBR : Katarina JOHNSON-THOMPSON : high-jump : 09 JAN 1993 : 994 : 28 MAY 2022 : 49
+GBR : Holly MILLS : high-jump : 15 APR 2000 : 994 : 28 MAY 2022 : 49
+GBR : Kate ANSON : high-jump : 14 MAR 1995 : 994 : 28 MAY 2022 : 49
+NZL : Jessica HENDREN : high-jump : 26 APR 2005 : 984 : 04 FEB 2022 : 58
+IND : A.Kevinaa ASWINE : high-jump : 23 MAR 2002 : 984 : 22 FEB 2022 : 58
+CAN : Falyn REAUGH : high-jump : 29 JUN 1999 : 984 : 19 MAR 2022 : 58
+GRN : Ahshareah ENOE : high-jump : 10 JUN 2003 : 984 : 08 APR 2022 : 58
+JAM : Malaika CUNNINGHAM : high-jump : 29 JUL 2004 : 984 : 08 APR 2022 : 58
+JAM : Shackala HENRY : high-jump : 31 OCT 2004 : 984 : 09 APR 2022 : 58
+GBR : Rebecca HAWKINS : high-jump : 27 SEP 1999 : 984 : 23 APR 2022 : 58
+AUS : Camryn NEWTON-SMITH : high-jump : 27 APR 2000 : 984 : 29 APR 2022 : 58
+GBR : Eloise HIND : high-jump : 2004 : 984 : 30 APR 2022 : 58
+IND : . REKHA : high-jump : 24 JAN 1999 : 984 : 02 MAY 2022 : 58
+BAH : Daejah MOSS : high-jump : 1999 : 984 : 13 MAY 2022 : 58
+RSA : Kristi SNYMAN : high-jump : 15 DEC 2000 : 984 : 13 MAY 2022 : 58
+NZL : Josie TAYLOR : high-jump : 13 DEC 2002 : 984 : 15 MAY 2022 : 58
+GBR : Halle FERGUSON : high-jump : 06 DEC 2004 : 984 : 02 JUN 2022 : 58
+AUS : Rosie TOZER : high-jump : 07 MAY 2002 : 974 : 08 JAN 2022 : 72
+RSA : Shannon VERSTER : high-jump : 10 NOV 1999 : 974 : 12 FEB 2022 : 72
+AUS : Izobelle LOUISON-ROE : high-jump : 2007 : 974 : 27 FEB 2022 : 72
+AUS : Elizabeth MOSS : high-jump : 22 MAR 2002 : 974 : 06 MAR 2022 : 72
+AUS : Sophie LILLICRAP : high-jump : 2004 : 974 : 06 MAR 2022 : 72
+JAM : Deijanae BRUCE : high-jump : 19 NOV 2005 : 974 : 12 MAR 2022 : 72
+GBR : Temi OJORA : high-jump : 24 JAN 2002 : 974 : 19 MAR 2022 : 72
+JAM : Ramona HYLTON : high-jump : 23 OCT 2000 : 974 : 02 APR 2022 : 72
+RSA : Mia JANSE VAN RENSBURG : high-jump : 17 DEC 2006 : 974 : 13 APR 2022 : 72
+GBR : Claire MCGARVEY : high-jump : 15 JUN 2001 : 974 : 23 APR 2022 : 72
+TTO : Saﬁya JOHN : high-jump : 2001 : 974 : 23 APR 2022 : 72
+IND : Rubina YADAV : high-jump : 14 JAN 2001 : 974 : 14 MAY 2022 : 72
+CYP : Styliana IOANNIDOU : high-jump : 17 DEC 2003 : 974 : 21 MAY 2022 : 72
+GBR : Bernice COULSON : high-jump : 25 APR 1998 : 974 : 22 MAY 2022 : 72
+GBR : Janet BROWNE : high-jump :  : 974 : 02 JUN 2022 : 72
+GBR : Jordanna MORRISH : high-jump : 19 OCT 1995 : 974 : 04 JUN 2022 : 72
+NZL : Naomi WAITE : high-jump : 01 OCT 2006 : 965 : 30 JAN 2022 : 88
+NZL : Alex HYLAND : high-jump : 29 JAN 1999 : 965 : 30 JAN 2022 : 88
+AUS : Emily MALAKOVSKI : high-jump : 21 APR 2005 : 965 : 01 APR 2022 : 88
+AUS : Tiana SOLLEY : high-jump : 1998 : 965 : 01 APR 2022 : 88
+JAM : Shanniqua WILLIAMS : high-jump : 18 FEB 2007 : 965 : 07 APR 2022 : 88
+GBR : Emily MADDEN : high-jump : 29 SEP 1999 : 965 : 02 MAY 2022 : 88
+JAM : Annia ASHLEY : high-jump : 19 JAN 2000 : 965 : 15 MAY 2022 : 88
+GBR : Jade O'DOWDA : high-jump : 09 SEP 1999 : 965 : 28 MAY 2022 : 88
+GBR : Hannah TAPLEY : high-jump : 01 OCT 1998 : 965 : 02 JUN 2022 : 88
+AUS : Denise SNYDER : high-jump : 07 JAN 1992 : 955 : 05 FEB 2022 : 97
+IND : K.H. SALIHA : high-jump : 14 SEP 2002 : 955 : 22 FEB 2022 : 97
+RSA : Michelle NGOZO : high-jump : 15 MAY 2000 : 955 : 12 MAR 2022 : 97
+MAS : Xia Jia NGU : high-jump : 22 SEP 2000 : 955 : 27 MAR 2022 : 97

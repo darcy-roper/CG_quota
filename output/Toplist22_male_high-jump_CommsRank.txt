@@ -1,100 +1,100 @@
 NZL : Hamish KERR : high-jump : 17 AUG 1996 : 1179 : 20 FEB 2022 : 1
-AUS : Joel BADEN : high-jump : 01 FEB 1996 : 1152 : 19 FEB 2022 : 2
-SRI : Ushan Thiwanka PERERA : high-jump : 22 JAN 1998 : 1152 : 26 MAR 2022 : 2
-IND : Sarvesh Anil KUSHARE : high-jump : 17 JUN 1995 : 1135 : 04 APR 2022 : 4
-AUS : Yual REATH : high-jump : 18 MAY 2000 : 1099 : 19 FEB 2022 : 5
-JAM : Lushane WILSON : high-jump : 11 SEP 1998 : 1099 : 26 FEB 2022 : 5
-RSA : Mpho LINKS : high-jump : 20 JUN 1996 : 1090 : 16 MAR 2022 : 7
-RSA : Brian RAATS : high-jump : 17 JAN 2004 : 1090 : 16 MAR 2022 : 7
-JAM : Romaine BECKFORD : high-jump : 09 JUL 2002 : 1081 : 01 APR 2022 : 9
-BAH : Jamal WILSON : high-jump : 01 SEP 1988 : 1072 : 18 MAR 2022 : 10
-AUS : Simioluwa THOMSEN-AJAYI : high-jump : 12 APR 2000 : 1055 : 12 MAR 2022 : 11
-AUS : Oscar MIERS : high-jump : 21 NOV 2001 : 1046 : 15 JAN 2022 : 12
-SGP : Kampton KAM : high-jump : 06 MAR 2001 : 1046 : 22 JAN 2022 : 12
-MAS : Moh. Eizlan DAHALAN : high-jump : 05 SEP 1999 : 1046 : 18 MAR 2022 : 12
-BAH : Shaun MILLER JR. : high-jump : 30 JUL 2001 : 1046 : 25 MAR 2022 : 12
-AUS : Lachlan O'KEEFE : high-jump : 05 FEB 2005 : 1046 : 31 MAR 2022 : 12
-IND : R. MANIVANNAN : high-jump : 19 DEC 1996 : 1046 : 04 APR 2022 : 12
-IND : Jesse SANDESH : high-jump : 22 OCT 1995 : 1046 : 04 APR 2022 : 12
-IND : Chetan BALASUBRAMANYA : high-jump : 18 AUG 1992 : 1046 : 04 APR 2022 : 12
-JAM : Aaron MCKENZIE : high-jump : 09 APR 2006 : 1028 : 05 MAR 2022 : 20
-SRI : S.A.Tharinda DASUN : high-jump : 1999 : 1028 : 10 MAR 2022 : 20
-AUS : Michael CHRISTIE : high-jump : 07 MAY 2002 : 1019 : 20 FEB 2022 : 22
-IND : Kaustabha JAISWAL : high-jump : 28 JAN 2000 : 1011 : 05 JAN 2022 : 23
-IND : Pedakama RAJU : high-jump :  : 1011 : 05 JAN 2022 : 23
-GRN : Nishorn PIERRE : high-jump : 25 FEB 2002 : 1011 : 26 MAR 2022 : 23
-AUS : Cedric DUBLER : high-jump : 13 JAN 1995 : 1011 : 01 APR 2022 : 23
-KEN : Kemboi Asbel KIPROP : high-jump : 05 FEB 1998 : 1002 : 04 FEB 2022 : 27
-RSA : Gayisa MASWANGAYI : high-jump : 21 MAR 2001 : 1002 : 12 FEB 2022 : 27
-AUS : Darcy HOLMES : high-jump : 18 FEB 2004 : 1002 : 18 FEB 2022 : 27
-AUS : Angus CLARK : high-jump : 08 FEB 2001 : 1002 : 18 FEB 2022 : 27
-MAS : Hup Wei LEE : high-jump : 05 MAY 1987 : 1002 : 06 MAR 2022 : 27
-MAS : Farrell Glenn FELIX : high-jump : 2001 : 1002 : 06 MAR 2022 : 27
-IND : Manu FRANCIS : high-jump : 11 APR 1998 : 1002 : 06 MAR 2022 : 27
-JAM : Brandon POTTINGER : high-jump : 08 JUN 2004 : 1002 : 12 MAR 2022 : 27
-TTO : Aaron ANTOINE : high-jump : 2004 : 1002 : 13 MAR 2022 : 27
-AUS : Jonathan TITMARSH : high-jump : 18 MAR 2002 : 1002 : 17 MAR 2022 : 27
-RSA : Breyton POOLE : high-jump : 23 MAR 2000 : 1002 : 23 MAR 2022 : 27
-AUS : Ethan PETCOS : high-jump : 14 FEB 2003 : 1002 : 27 MAR 2022 : 27
-IND : Swadhin KUMAR MAJHI : high-jump : 04 OCT 2000 : 1002 : 04 APR 2022 : 27
-SRI : P. THAYAGA : high-jump :  : 993 : 10 MAR 2022 : 40
-SRI : Indika UDAYA : high-jump :  : 993 : 10 MAR 2022 : 40
-IND : Geo JOSE : high-jump : 24 SEP 1998 : 993 : 30 MAR 2022 : 40
-IND : Kaushik RAJENDRA : high-jump : 21 DEC 2002 : 984 : 05 JAN 2022 : 43
-IND : Deva KARTHICK : high-jump : 03 JUL 2002 : 984 : 05 JAN 2022 : 43
-NZL : Marcus WOLTON : high-jump : 29 APR 1995 : 984 : 04 FEB 2022 : 43
-AUS : Alex PERIN : high-jump : 26 NOV 2004 : 984 : 04 FEB 2022 : 43
-CMR : François Joël MOUDIO : high-jump : 24 JUN 2000 : 975 : 12 FEB 2022 : 47
-AUS : Nicholas KOLLIAS : high-jump : 05 JUN 2001 : 967 : 18 FEB 2022 : 48
-AUS : Matthew TILLEY : high-jump : 16 DEC 1996 : 967 : 18 FEB 2022 : 48
-BAH : Jyles ETIENNE : high-jump : 17 MAR 1999 : 967 : 01 APR 2022 : 48
-IND : . DEEPANSHU : high-jump : 21 DEC 2004 : 958 : 05 JAN 2022 : 51
-IND : Uchchaal KUMAR ROY : high-jump : 11 OCT 2002 : 958 : 05 JAN 2022 : 51
-RSA : Usaamah VALLY : high-jump : 10 JAN 2001 : 958 : 22 JAN 2022 : 51
-SGP : Abel LEE : high-jump : 2004 : 958 : 22 JAN 2022 : 51
-RSA : Devan DE WET : high-jump : 06 JAN 2004 : 958 : 09 FEB 2022 : 51
-RSA : Chris MOLEYA : high-jump : 27 JAN 1997 : 958 : 02 MAR 2022 : 51
-NZL : Adam STACK : high-jump : 19 JAN 2003 : 958 : 03 MAR 2022 : 51
-JAM : Verrol SAM : high-jump : 30 MAY 2003 : 958 : 05 MAR 2022 : 51
-AUS : Zane PATERSON : high-jump : 2003 : 958 : 06 MAR 2022 : 51
-SRI : Roshen Dulmin SANDANAM : high-jump : 2002 : 958 : 10 MAR 2022 : 51
-SRI : K. Chamod Laksamudra MENDIS : high-jump : 18 JUN 1999 : 958 : 10 MAR 2022 : 51
-NGR : Justine Osigwe JIMOH : high-jump :  : 958 : 13 MAR 2022 : 51
-CAN : Stefan DUVIVIER : high-jump : 1996 : 958 : 15 MAR 2022 : 51
-CAN : Noel VANDERZEE : high-jump : 18 FEB 1999 : 958 : 19 MAR 2022 : 51
-JAM : Asani HYLTON : high-jump : 01 JUN 1997 : 958 : 23 MAR 2022 : 51
-AUS : Sebastian REYNEKE : high-jump : 25 MAR 2001 : 958 : 23 MAR 2022 : 51
-RSA : Keegan FOURIE : high-jump : 07 SEP 1991 : 958 : 23 MAR 2022 : 51
-BAH : Kyle ALCINE : high-jump : 29 JUN 1999 : 958 : 25 MAR 2022 : 51
-IND : Srikakolapu Ped KAMARAJU : high-jump : 10 MAY 1999 : 958 : 04 APR 2022 : 51
-IND : Praveen KUMAR : high-jump : 15 MAY 2003 : 958 : 04 APR 2022 : 51
-IND : Chandra MOHAN : high-jump : 10 JAN 2000 : 958 : 04 APR 2022 : 51
-AUS : Bradley CARRUTHERS : high-jump : 2005 : 949 : 31 MAR 2022 : 72
-NZL : Jayden WILLIAMSON : high-jump : 30 JAN 2003 : 940 : 04 FEB 2022 : 73
-IND : Abhar ATUL : high-jump : 22 OCT 2002 : 940 : 01 MAR 2022 : 73
-IND : J. Aadarsh RAM : high-jump : 27 SEP 1997 : 940 : 30 MAR 2022 : 73
-AUS : Christian PAYNTER : high-jump : 23 APR 1997 : 932 : 08 JAN 2022 : 76
-SRI : Udil TENNAKOON : high-jump : 2004 : 932 : 10 FEB 2022 : 76
-NGR : Monday Charles GODWIN : high-jump : 04 APR 1999 : 932 : 26 MAR 2022 : 76
-AUS : Grant SZALEK : high-jump : 02 MAY 1998 : 932 : 02 APR 2022 : 76
-SRI : Manjula Kumara WIJESEKARA : high-jump : 30 JAN 1984 : 923 : 08 JAN 2022 : 80
-NZL : Mate PODUJE : high-jump :  : 923 : 29 JAN 2022 : 80
-BOT : Karabo SELEKA : high-jump : 2002 : 923 : 12 FEB 2022 : 80
-AUS : Jackson MCMENAMIN : high-jump : 29 MAR 2004 : 923 : 20 FEB 2022 : 80
-NZL : Rafe COIUILLAULT : high-jump : 26 APR 2003 : 923 : 03 MAR 2022 : 80
-NZL : Ethan BONE : high-jump : 12 JUN 2005 : 923 : 04 MAR 2022 : 80
-IND : T. SANJID : high-jump :  : 923 : 06 MAR 2022 : 80
-IND : V.C ASWIN : high-jump : 26 APR 2001 : 923 : 06 MAR 2022 : 80
-IND : Muhammed JASEEM : high-jump : 06 MAR 2000 : 914 : 04 JAN 2022 : 88
-IND : MD. Asraf ALI : high-jump : 16 JAN 2003 : 914 : 04 JAN 2022 : 88
-IND : T.N DILSHITH : high-jump : 13 AUG 2000 : 914 : 04 JAN 2022 : 88
-IND : Muthu JENITHARA : high-jump :  : 914 : 04 JAN 2022 : 88
-IND : J. ARVINDD : high-jump :  : 914 : 04 JAN 2022 : 88
-JAM : Corey OTTEY : high-jump : 19 NOV 2002 : 914 : 08 JAN 2022 : 88
-BOT : Mothomme Blessing THUTO : high-jump : 2002 : 914 : 29 JAN 2022 : 88
-KEN : Edwin Kipmutai TOO : high-jump : 14 APR 1995 : 914 : 04 FEB 2022 : 88
-AUS : Liam TULLY : high-jump : 11 DEC 2001 : 914 : 05 FEB 2022 : 88
-BAH : Ryan INGRAHAM : high-jump : 02 NOV 1993 : 914 : 05 FEB 2022 : 88
-RSA : Jadrin VAN BLERK : high-jump : 03 OCT 2005 : 914 : 09 FEB 2022 : 88
-RSA : Paul VAN DEN BERG : high-jump : 03 MAR 2004 : 914 : 09 FEB 2022 : 88
-RSA : Ryan STOCKHIL : high-jump : 13 NOV 2004 : 914 : 12 FEB 2022 : 88
+CAN : Django LOVETT : high-jump : 06 JUL 1992 : 1161 : 21 MAY 2022 : 2
+AUS : Joel BADEN : high-jump : 01 FEB 1996 : 1152 : 19 FEB 2022 : 3
+SRI : Ushan Thiwanka PERERA : high-jump : 22 JAN 1998 : 1152 : 26 MAR 2022 : 3
+GBR : Joel CLARKE-KHAN : high-jump : 30 SEP 1999 : 1152 : 02 JUN 2022 : 3
+IND : Tejaswin SHANKAR : high-jump : 21 DEC 1998 : 1152 : 10 JUN 2022 : 3
+RSA : Brian RAATS : high-jump : 17 JAN 2004 : 1143 : 06 APR 2022 : 7
+BAH : Shaun MILLER JR. : high-jump : 30 JUL 2001 : 1143 : 30 APR 2022 : 7
+IND : Sarvesh Anil KUSHARE : high-jump : 17 JUN 1995 : 1135 : 04 APR 2022 : 9
+RSA : Mpho LINKS : high-jump : 20 JUN 1996 : 1135 : 22 APR 2022 : 9
+GBR : David SMITH : high-jump : 14 JUL 1991 : 1135 : 02 JUN 2022 : 9
+KEN : Mathew SAWE : high-jump : 02 JUL 1988 : 1126 : 14 MAY 2022 : 12
+AUS : Brandon STARC : high-jump : 24 NOV 1993 : 1126 : 09 JUN 2022 : 12
+JAM : Romaine BECKFORD : high-jump : 09 JUL 2002 : 1117 : 30 APR 2022 : 14
+AUS : Yual REATH : high-jump : 18 MAY 2000 : 1108 : 09 APR 2022 : 15
+BAH : Jamal WILSON : high-jump : 01 SEP 1988 : 1108 : 12 MAY 2022 : 15
+JAM : Lushane WILSON : high-jump : 11 SEP 1998 : 1099 : 26 FEB 2022 : 17
+SGP : Kampton KAM : high-jump : 06 MAR 2001 : 1090 : 16 APR 2022 : 18
+CYP : Vasilios KONSTANTINOU : high-jump : 13 SEP 1992 : 1090 : 28 MAY 2022 : 18
+IND : Vincent BHARATHI : high-jump : 20 MAY 1994 : 1081 : 14 MAY 2022 : 20
+GRN : Nishorn PIERRE : high-jump : 25 FEB 2002 : 1081 : 27 MAY 2022 : 20
+GBR : William GRIMSEY : high-jump : 14 DEC 1996 : 1081 : 02 JUN 2022 : 20
+NGR : Omamuyovwi ERHIRE : high-jump : 16 AUG 2002 : 1072 : 16 APR 2022 : 23
+MAS : Nauraj Singh RANDHAWA : high-jump : 27 JAN 1992 : 1072 : 18 MAY 2022 : 23
+MAS : Moh. Eizlan DAHALAN : high-jump : 05 SEP 1999 : 1072 : 18 MAY 2022 : 23
+IND : Jesse SANDESH : high-jump : 22 OCT 1995 : 1072 : 21 MAY 2022 : 23
+AUS : Simioluwa THOMSEN-AJAYI : high-jump : 12 APR 2000 : 1055 : 12 MAR 2022 : 27
+TTO : Aaron ANTOINE : high-jump : 2004 : 1055 : 16 APR 2022 : 27
+GBR : Kelechi AGUOCHA : high-jump : 10 FEB 2001 : 1055 : 22 MAY 2022 : 27
+AUS : Oscar MIERS : high-jump : 21 NOV 2001 : 1046 : 15 JAN 2022 : 30
+AUS : Lachlan O'KEEFE : high-jump : 05 FEB 2005 : 1046 : 31 MAR 2022 : 30
+IND : R. MANIVANNAN : high-jump : 19 DEC 1996 : 1046 : 04 APR 2022 : 30
+IND : Chetan BALASUBRAMANYA : high-jump : 18 AUG 1992 : 1046 : 04 APR 2022 : 30
+LCA : Micky FERDINAND : high-jump : 17 SEP 1995 : 1046 : 09 APR 2022 : 30
+AUS : Angus CLARK : high-jump : 08 FEB 2001 : 1046 : 20 APR 2022 : 30
+AUS : Nicholas KOLLIAS : high-jump : 05 JUN 2001 : 1046 : 20 APR 2022 : 30
+SRI : Indika UDAYA : high-jump :  : 1046 : 23 APR 2022 : 30
+CAN : Noel VANDERZEE : high-jump : 18 FEB 1999 : 1046 : 07 MAY 2022 : 30
+GBR : Divine DURUAKU : high-jump : 10 FEB 2002 : 1046 : 07 MAY 2022 : 30
+BAH : Kyle ALCINE : high-jump : 29 JUN 1999 : 1046 : 27 MAY 2022 : 30
+JAM : Brandon POTTINGER : high-jump : 08 JUN 2004 : 1037 : 16 APR 2022 : 41
+AUS : Grant SZALEK : high-jump : 02 MAY 1998 : 1037 : 14 MAY 2022 : 41
+BAH : Jyles ETIENNE : high-jump : 17 MAR 1999 : 1037 : 15 MAY 2022 : 41
+JAM : Aaron MCKENZIE : high-jump : 09 APR 2006 : 1028 : 05 MAR 2022 : 44
+SRI : S.A.Tharinda DASUN : high-jump : 1999 : 1028 : 10 MAR 2022 : 44
+CAN : Thomas SÉNÉCHAL-BECKER : high-jump : 2003 : 1028 : 13 MAY 2022 : 44
+NGR : Mike EDWARDS : high-jump : 11 JUL 1990 : 1028 : 02 JUN 2022 : 44
+AUS : Michael CHRISTIE : high-jump : 07 MAY 2002 : 1019 : 20 FEB 2022 : 48
+AUS : Jonathan TITMARSH : high-jump : 18 MAR 2002 : 1019 : 20 APR 2022 : 48
+SRI : Amitha KASUN : high-jump : 04 APR 1989 : 1019 : 23 APR 2022 : 48
+KEN : Kemboi Asbel KIPROP : high-jump : 05 FEB 1998 : 1019 : 26 APR 2022 : 48
+GBR : Toni ADEMUWAGUN : high-jump : 07 AUG 2000 : 1019 : 02 MAY 2022 : 48
+SRI : Seniru AMARASINGHE : high-jump : 24 MAR 2001 : 1019 : 15 MAY 2022 : 48
+CYP : Kyriakos PAMPAKA : high-jump : 14 JUL 2001 : 1019 : 22 MAY 2022 : 48
+IND : Kaustabha JAISWAL : high-jump : 28 JAN 2000 : 1011 : 05 JAN 2022 : 55
+IND : Pedakama RAJU : high-jump :  : 1011 : 05 JAN 2022 : 55
+AUS : Cedric DUBLER : high-jump : 13 JAN 1995 : 1011 : 01 APR 2022 : 55
+RSA : Keegan FOURIE : high-jump : 07 SEP 1991 : 1011 : 22 APR 2022 : 55
+JAM : Asani HYLTON : high-jump : 01 JUN 1997 : 1011 : 14 MAY 2022 : 55
+RSA : Gayisa MASWANGAYI : high-jump : 21 MAR 2001 : 1002 : 12 FEB 2022 : 60
+AUS : Darcy HOLMES : high-jump : 18 FEB 2004 : 1002 : 18 FEB 2022 : 60
+MAS : Hup Wei LEE : high-jump : 05 MAY 1987 : 1002 : 06 MAR 2022 : 60
+MAS : Farrell Glenn FELIX : high-jump : 2001 : 1002 : 06 MAR 2022 : 60
+IND : Manu FRANCIS : high-jump : 11 APR 1998 : 1002 : 06 MAR 2022 : 60
+RSA : Breyton POOLE : high-jump : 23 MAR 2000 : 1002 : 23 MAR 2022 : 60
+AUS : Ethan PETCOS : high-jump : 14 FEB 2003 : 1002 : 27 MAR 2022 : 60
+IND : Swadhin KUMAR MAJHI : high-jump : 04 OCT 2000 : 1002 : 04 APR 2022 : 60
+CAN : Eric CHATTEN : high-jump : 10 SEP 1997 : 1002 : 16 APR 2022 : 60
+GUY : Mark JHALU : high-jump : 04 OCT 1994 : 1002 : 30 APR 2022 : 60
+JAM : Raymond RICHARDS : high-jump : 28 APR 2001 : 1002 : 07 MAY 2022 : 60
+GBR : Thomas HEWES : high-jump : 15 SEP 1999 : 1002 : 07 MAY 2022 : 60
+BAH : Donald THOMAS : high-jump : 01 JUL 1984 : 1002 : 12 MAY 2022 : 60
+GBR : Adam BROOKS : high-jump : 13 APR 1999 : 1002 : 22 MAY 2022 : 60
+SRI : P. THAYAGA : high-jump :  : 993 : 10 MAR 2022 : 74
+IND : Geo JOSE : high-jump : 24 SEP 1998 : 993 : 30 MAR 2022 : 74
+AUS : Lochlan CURRY : high-jump : 26 JUL 2003 : 993 : 20 APR 2022 : 74
+PAK : Sharoz KHAN : high-jump : 10 MAR 1997 : 993 : 27 APR 2022 : 74
+JAM : Zayne PALOMINO : high-jump : 2002 : 993 : 30 APR 2022 : 74
+CAN : Stefan DUVIVIER : high-jump : 1996 : 993 : 05 JUN 2022 : 74
+IND : Kaushik RAJENDRA : high-jump : 21 DEC 2002 : 984 : 05 JAN 2022 : 80
+IND : Deva KARTHICK : high-jump : 03 JUL 2002 : 984 : 05 JAN 2022 : 80
+NZL : Marcus WOLTON : high-jump : 29 APR 1995 : 984 : 04 FEB 2022 : 80
+AUS : Alex PERIN : high-jump : 26 NOV 2004 : 984 : 04 FEB 2022 : 80
+CYP : Georgios YIAZOS : high-jump : 22 JUL 2005 : 984 : 13 APR 2022 : 80
+GBR : Charlie HUSBANDS : high-jump :  : 984 : 07 MAY 2022 : 80
+JAM : Kobe-Jordan RHOOMS : high-jump : 09 MAY 1999 : 984 : 12 MAY 2022 : 80
+IND : J. ARAVIND : high-jump : 24 JUN 2002 : 984 : 14 MAY 2022 : 80
+IND : K VINITH : high-jump : 08 NOV 1995 : 984 : 14 MAY 2022 : 80
+CMR : François Joël MOUDIO : high-jump : 24 JUN 2000 : 975 : 12 FEB 2022 : 89
+IND : Uchchaal KUMAR ROY : high-jump : 11 OCT 2002 : 975 : 06 MAY 2022 : 89
+GBR : Lewis MCGUIRE : high-jump : 22 OCT 1997 : 975 : 22 MAY 2022 : 89
+GBR : Jack ENNIS : high-jump : 07 JUN 2002 : 975 : 22 MAY 2022 : 89
+GBR : Luke BALL : high-jump : 28 OCT 2004 : 975 : 29 MAY 2022 : 89
+IND : Amiket SUBHASH : high-jump : 05 JUL 2004 : 975 : 07 JUN 2022 : 89
+AUS : Matthew TILLEY : high-jump : 16 DEC 1996 : 967 : 18 FEB 2022 : 95
+BAH : Ken MULLINGS : high-jump : 28 APR 1997 : 967 : 08 APR 2022 : 95
+RSA : Garth ELLIS : high-jump : 17 FEB 1992 : 967 : 22 APR 2022 : 95
+GBR : Owen SOUTHERN : high-jump : 08 OCT 2001 : 967 : 02 MAY 2022 : 95
+GBR : Rory DWYER : high-jump : 11 OCT 1997 : 967 : 02 MAY 2022 : 95
+GBR : Tom KWISSA : high-jump :  : 967 : 02 MAY 2022 : 95

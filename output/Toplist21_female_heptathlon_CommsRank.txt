@@ -5,7 +5,7 @@ GBR : Jade O'DOWDA : heptathlon : 09 SEP 1999 : 1084 : 30 MAY 2021 : 4
 GBR : Ellen BARBER : heptathlon : 05 DEC 1997 : 1080 : 30 MAY 2021 : 5
 GBR : Jodie SMITH : heptathlon : 02 NOV 2001 : 1052 : 30 MAY 2021 : 6
 GBR : Katie STAINTON : heptathlon : 08 JAN 1995 : 1048 : 27 JUN 2021 : 7
-AUS : Taneille CRASE : heptathlon : 16 OCT 1994 : 1030 : 19 DEC 2021 : 8
+AUS : Taneille CRASE : heptathlon : 06 OCT 1994 : 1030 : 19 DEC 2021 : 8
 GBR : Emma NWOFOR : heptathlon : 22 AUG 1996 : 1013 : 15 MAY 2021 : 9
 IND : Swapna BARMAN : heptathlon : 29 OCT 1996 : 1004 : 18 MAR 2021 : 10
 CAN : Skylar SIEBEN : heptathlon : 06 DEC 2000 : 1004 : 15 MAY 2021 : 11

@@ -7,7 +7,7 @@ Download links are available here: https://chromedriver.chromium.org/downloads
 Also check you have installed selenium to run the webdriver:
 - use pip to install selenium 
 
-As noted in issues you will have to edit file save/print paths and folder names of stored txt files for the program to run without errors (because I am yet to discover how to run a python script that identifies a local device username then determines subsequent folder pathways...?)
+As noted in issues you will have to edit file save/print paths and folder names of stored txt files for the program to run without errors
 
 P.S. I apologise in advance if anything is unclear. I've never worked on any collaborative projects before having only completed introductory programming courses at uni as electives for a bit of fun. 
 

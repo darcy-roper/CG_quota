@@ -11,90 +11,90 @@ CAN : Rowan HAMILTON : hammer-throw : 29 JAN 2000 : 1071 : 02 MAY 2021 : 10
 RSA : Tshepang MAKHETHE : hammer-throw : 19 FEB 1996 : 1068 : 16 APR 2021 : 11
 RSA : Carel HAASBROEK : hammer-throw : 27 FEB 1998 : 1062 : 31 MAR 2021 : 12
 GBR : Joseph ELLIS : hammer-throw : 10 APR 1996 : 1047 : 15 MAY 2021 : 13
-IND : Gurmeet SINGH : hammer-throw : 15 MAR 1994 : 1047 : 19 MAR 2021 : 14
-CAN : Ethan KATZBERG : hammer-throw : 05 APR 2002 : 1044 : 24 APR 2021 : 15
-GBR : Jac PALMER : hammer-throw : 13 MAR 1996 : 1044 : 15 MAY 2021 : 16
-RSA : Renaldo FRECHOU : hammer-throw : 04 MAR 1992 : 1026 : 01 MAY 2021 : 17
-GBR : Ben HAWKES : hammer-throw : 08 NOV 2000 : 1017 : 20 JUN 2021 : 18
-AUS : Ned WEATHERLY : hammer-throw : 12 JAN 1998 : 1012 : 16 APR 2021 : 19
-GBR : Tom PARKER : hammer-throw : 07 OCT 1994 : 1012 : 26 MAR 2021 : 20
-AUS : James JOYCEY : hammer-throw : 12 OCT 1999 : 1006 : 27 MAR 2021 : 21
-AUS : Costa KOUSPARIS : hammer-throw : 12 JUN 1996 : 1005 : 24 JAN 2021 : 22
-GBR : Chris SHORTHOUSE : hammer-throw : 23 JUN 1988 : 1003 : 12 AUG 2021 : 23
-GBR : Najee FOX : hammer-throw : 01 DEC 1992 : 1001 : 28 AUG 2021 : 24
-GBR : Ruben BANKS : hammer-throw : 17 NOV 2001 : 999 : 24 APR 2021 : 25
-JAM : Phillipe BARNETT : hammer-throw : 11 JUN 1999 : 996 : 14 MAY 2021 : 26
-NZL : Anthony NOBILO : hammer-throw : 28 APR 1999 : 995 : 04 DEC 2021 : 27
-MAS : Jackie Wong SIEW CHEER : hammer-throw : 07 APR 1992 : 993 : 10 APR 2021 : 28
-AUS : Jack DALTON : hammer-throw : 20 MAY 1994 : 991 : 10 APR 2021 : 29
-AUS : William BROWN : hammer-throw : 21 OCT 1996 : 990 : 16 APR 2021 : 30
-GBR : Ciaran WRIGHT : hammer-throw : 17 SEP 1996 : 990 : 10 APR 2021 : 31
-GBR : Bayley CAMPBELL : hammer-throw : 24 JUN 2000 : 984 : 26 MAY 2021 : 32
-IND : Damneet SINGH : hammer-throw : 10 MAR 2000 : 980 : 19 SEP 2021 : 33
-AUS : Timothy HEYES : hammer-throw : 17 DEC 1997 : 977 : 07 MAR 2021 : 34
-GBR : Thomas HEAD : hammer-throw : 15 JAN 1996 : 977 : 31 JUL 2021 : 35
-CAN : Joey LUSSIER : hammer-throw : 1993 : 976 : 24 JUL 2021 : 36
-GBR : Edward JEANS : hammer-throw : 28 SEP 1998 : 974 : 14 MAY 2021 : 37
-CAN : Jared SKEATH : hammer-throw : 1994 : 971 : 15 AUG 2021 : 38
-GBR : Jack PAGET : hammer-throw : 30 JAN 1997 : 962 : 18 AUG 2021 : 39
-GBR : Callum BROWN : hammer-throw : 20 JUL 1994 : 960 : 02 OCT 2021 : 40
-GBR : Joe BLOOMFIELD : hammer-throw : 03 NOV 1990 : 956 : 11 JUL 2021 : 41
-IND : Nitesh POONIA : hammer-throw : 31 DEC 2000 : 955 : 13 APR 2021 : 42
-IND : Praveen KUMAR : hammer-throw : 14 DEC 2000 : 953 : 08 SEP 2021 : 43
-CAN : Sam WILLETT : hammer-throw : 1997 : 950 : 09 JUN 2021 : 44
-IND : Bajender SINGH : hammer-throw : 10 JAN 1990 : 944 : 19 SEP 2021 : 45
-IND : Jaswinder SINGH : hammer-throw : 12 OCT 1994 : 943 : 19 MAR 2021 : 46
-IND : Sukhdev SINGH : hammer-throw : 10 OCT 1993 : 942 : 19 SEP 2021 : 47
-IND : . AJAY : hammer-throw : 10 OCT 1995 : 940 : 08 MAR 2021 : 48
-GBR : Oliver GRAHAM : hammer-throw : 16 MAY 2001 : 938 : 20 JUN 2021 : 49
-IND : Taranveer SINGH : hammer-throw : 01 OCT 1996 : 935 : 19 MAR 2021 : 50
-IND : Pradeep KUMAR : hammer-throw : 15 DEC 1998 : 930 : 19 MAR 2021 : 51
-RSA : Damien Mornay BOTHMA : hammer-throw : 01 MAR 2001 : 926 : 16 APR 2021 : 52
-IND : . RAVI : hammer-throw : 23 OCT 1999 : 923 : 19 SEP 2021 : 53
-IND : Meraj ALI : hammer-throw : 30 MAY 1999 : 918 : 19 MAR 2021 : 54
-GBR : Shaun KERRY : hammer-throw : 13 DEC 2001 : 915 : 10 APR 2021 : 55
-GBR : Jonathan EDWARDS : hammer-throw : 09 OCT 1992 : 913 : 20 JUN 2021 : 56
-CAN : Andreas TROSCHKE : hammer-throw : 1999 : 910 : 23 JUL 2021 : 57
-IND : Neeraj KUMAR : hammer-throw : 17 SEP 1990 : 910 : 19 SEP 2021 : 58
-GBR : Andrew FROST : hammer-throw : 17 APR 1981 : 909 : 28 AUG 2021 : 59
-IND : Prakash SINGH : hammer-throw : 02 MAY 1996 : 908 : 19 MAR 2021 : 60
-IND : Harish YADAV : hammer-throw : 01 OCT 1995 : 907 : 19 SEP 2021 : 61
-MRI : Jean Ian CARRE : hammer-throw : 06 FEB 1993 : 904 : 31 AUG 2021 : 62
-RSA : Pieter-Juan VORSTMAN : hammer-throw : 14 AUG 2002 : 902 : 16 APR 2021 : 63
-AUS : Huw PEACOCK : hammer-throw : 12 MAY 1992 : 898 : 27 MAR 2021 : 64
-IND : Pradeep KUMAR : hammer-throw :  : 895 : 13 APR 2021 : 65
-KEN : Dominic Ongidi ABUNDA : hammer-throw : 08 AUG 1993 : 892 : 15 MAY 2021 : 66
-MAS : Sadat Merzuqi AJISAN : hammer-throw : 23 JAN 2001 : 892 : 10 APR 2021 : 67
-IND : Aftab ALAM : hammer-throw : 03 MAY 1997 : 889 : 04 SEP 2021 : 68
-GBR : Alex WARNER : hammer-throw : 07 NOV 1989 : 887 : 28 AUG 2021 : 69
-CYP : Iosef KESIDES : hammer-throw : 19 AUG 2005 : 885 : 23 MAY 2021 : 70
-IND : Vipin KUMAR : hammer-throw : 03 MAR 2003 : 882 : 08 MAR 2021 : 71
-NZL : Kaleb SOLA : hammer-throw : 09 SEP 2003 : 880 : 23 JAN 2021 : 72
-IND : Naveen YADAV : hammer-throw : 28 OCT 2000 : 875 : 29 SEP 2021 : 73
-RSA : Francois PRINSLOO : hammer-throw : 11 NOV 2001 : 874 : 13 MAY 2021 : 74
-NZL : Warren BUTTON : hammer-throw : 21 JUN 1988 : 871 : 08 OCT 2021 : 75
-JAM : Daniel COPE : hammer-throw : 05 MAR 2000 : 870 : 30 APR 2021 : 76
-IND : N. SHANKAR : hammer-throw : 11 JUL 1991 : 869 : 19 MAR 2021 : 77
-AUS : Jett CARLIN : hammer-throw : 14 JUL 2003 : 869 : 16 APR 2021 : 78
-IND : Bhupinder SINGH : hammer-throw : 27 JUN 1990 : 867 : 04 SEP 2021 : 79
-GBR : Richard MARTIN : hammer-throw : 08 JAN 1984 : 866 : 02 SEP 2021 : 80
-CYP : Dimitris PANAGIOTI GRIGORIOU : hammer-throw : 20 JUN 2003 : 864 : 23 MAY 2021 : 81
-KEN : Adelbert MUSEVENI : hammer-throw : 1990 : 863 : 27 MAY 2021 : 82
-IND : Shiv KUMAR : hammer-throw : 16 JUL 1986 : 862 : 18 MAR 2021 : 83
-IND : Jai CHAND : hammer-throw : 08 JUL 2001 : 862 : 13 APR 2021 : 83
-MRI : Nicolas LI YUN FONG : hammer-throw : 28 AUG 1982 : 861 : 27 FEB 2021 : 85
-IND : . BADAL : hammer-throw : 10 DEC 1998 : 861 : 13 APR 2021 : 85
-GBR : James HAMBLIN : hammer-throw : 01 JUL 1996 : 861 : 28 AUG 2021 : 85
-CAN : Johnny VANOS : hammer-throw : 1999 : 861 : 30 APR 2021 : 88
-GBR : Michael BOMBA : hammer-throw : 10 OCT 1986 : 854 : 28 AUG 2021 : 89
-IND : . MUKUL : hammer-throw : 13 NOV 2001 : 854 : 29 SEP 2021 : 89
-IND : Kaushal SINGH : hammer-throw : 16 NOV 1988 : 854 : 04 SEP 2021 : 91
-IND : Ajay KUMAR : hammer-throw : 10 JUL 1999 : 853 : 29 SEP 2021 : 92
-IND : Rahul KUMAR : hammer-throw : 07 DEC 1996 : 852 : 19 SEP 2021 : 93
-IND : Amit GILL : hammer-throw : 28 JAN 1991 : 852 : 18 MAR 2021 : 94
-RSA : Paul DU PLESSIS : hammer-throw :  : 851 : 16 APR 2021 : 95
-GBR : James BEDFORD : hammer-throw : 29 DEC 1988 : 850 : 09 OCT 2021 : 96
-IND : Sachin YADAV : hammer-throw : 30 DEC 2001 : 850 : 18 MAR 2021 : 97
-IND : Gurdev SINGH : hammer-throw : 08 APR 2001 : 848 : 18 MAR 2021 : 98
-NZL : Todd BATES : hammer-throw : 29 NOV 1994 : 845 : 06 FEB 2021 : 99
-GBR : Peter CASSIDY : hammer-throw : 22 JAN 1998 : 844 : 08 AUG 2021 : 100
+CAN : Ethan KATZBERG : hammer-throw : 05 APR 2002 : 1044 : 24 APR 2021 : 14
+GBR : Jac PALMER : hammer-throw : 13 MAR 1996 : 1044 : 15 MAY 2021 : 15
+RSA : Renaldo FRECHOU : hammer-throw : 04 MAR 1992 : 1026 : 01 MAY 2021 : 16
+GBR : Ben HAWKES : hammer-throw : 08 NOV 2000 : 1017 : 20 JUN 2021 : 17
+AUS : Ned WEATHERLY : hammer-throw : 12 JAN 1998 : 1012 : 16 APR 2021 : 18
+GBR : Tom PARKER : hammer-throw : 07 OCT 1994 : 1012 : 26 MAR 2021 : 19
+AUS : James JOYCEY : hammer-throw : 12 OCT 1999 : 1006 : 27 MAR 2021 : 20
+AUS : Costa KOUSPARIS : hammer-throw : 12 JUN 1996 : 1005 : 24 JAN 2021 : 21
+GBR : Chris SHORTHOUSE : hammer-throw : 23 JUN 1988 : 1003 : 12 AUG 2021 : 22
+GBR : Najee FOX : hammer-throw : 01 DEC 1992 : 1001 : 28 AUG 2021 : 23
+GBR : Ruben BANKS : hammer-throw : 17 NOV 2001 : 999 : 24 APR 2021 : 24
+JAM : Phillipe BARNETT : hammer-throw : 11 JUN 1999 : 996 : 14 MAY 2021 : 25
+NZL : Anthony NOBILO : hammer-throw : 28 APR 1999 : 995 : 04 DEC 2021 : 26
+MAS : Jackie Wong SIEW CHEER : hammer-throw : 07 APR 1992 : 993 : 10 APR 2021 : 27
+AUS : Jack DALTON : hammer-throw : 20 MAY 1994 : 991 : 10 APR 2021 : 28
+AUS : William BROWN : hammer-throw : 21 OCT 1996 : 990 : 16 APR 2021 : 29
+GBR : Ciaran WRIGHT : hammer-throw : 17 SEP 1996 : 990 : 10 APR 2021 : 30
+GBR : Bayley CAMPBELL : hammer-throw : 24 JUN 2000 : 984 : 26 MAY 2021 : 31
+IND : Damneet SINGH : hammer-throw : 10 MAR 2000 : 980 : 19 SEP 2021 : 32
+AUS : Timothy HEYES : hammer-throw : 17 DEC 1997 : 977 : 07 MAR 2021 : 33
+GBR : Thomas HEAD : hammer-throw : 15 JAN 1996 : 977 : 31 JUL 2021 : 34
+CAN : Joey LUSSIER : hammer-throw : 1993 : 976 : 24 JUL 2021 : 35
+GBR : Edward JEANS : hammer-throw : 28 SEP 1998 : 974 : 14 MAY 2021 : 36
+CAN : Jared SKEATH : hammer-throw : 1994 : 971 : 15 AUG 2021 : 37
+GBR : Jack PAGET : hammer-throw : 30 JAN 1997 : 962 : 18 AUG 2021 : 38
+GBR : Callum BROWN : hammer-throw : 20 JUL 1994 : 960 : 02 OCT 2021 : 39
+GBR : Joe BLOOMFIELD : hammer-throw : 03 NOV 1990 : 956 : 11 JUL 2021 : 40
+IND : Nitesh POONIA : hammer-throw : 31 DEC 2000 : 955 : 13 APR 2021 : 41
+IND : Praveen KUMAR : hammer-throw : 14 DEC 2000 : 953 : 08 SEP 2021 : 42
+CAN : Sam WILLETT : hammer-throw : 1997 : 950 : 09 JUN 2021 : 43
+IND : Bajender SINGH : hammer-throw : 10 JAN 1990 : 944 : 19 SEP 2021 : 44
+IND : Jaswinder SINGH : hammer-throw : 12 OCT 1994 : 943 : 19 MAR 2021 : 45
+IND : Sukhdev SINGH : hammer-throw : 10 OCT 1993 : 942 : 19 SEP 2021 : 46
+IND : . AJAY : hammer-throw : 10 OCT 1995 : 940 : 08 MAR 2021 : 47
+GBR : Oliver GRAHAM : hammer-throw : 16 MAY 2001 : 938 : 20 JUN 2021 : 48
+IND : Taranveer SINGH : hammer-throw : 01 OCT 1996 : 935 : 19 MAR 2021 : 49
+IND : Pradeep KUMAR : hammer-throw : 15 DEC 1998 : 930 : 19 MAR 2021 : 50
+RSA : Damien Mornay BOTHMA : hammer-throw : 01 MAR 2001 : 926 : 16 APR 2021 : 51
+IND : . RAVI : hammer-throw : 23 OCT 1999 : 923 : 19 SEP 2021 : 52
+IND : Meraj ALI : hammer-throw : 30 MAY 1999 : 918 : 19 MAR 2021 : 53
+GBR : Shaun KERRY : hammer-throw : 13 DEC 2001 : 915 : 10 APR 2021 : 54
+GBR : Jonathan EDWARDS : hammer-throw : 09 OCT 1992 : 913 : 20 JUN 2021 : 55
+CAN : Andreas TROSCHKE : hammer-throw : 1999 : 910 : 23 JUL 2021 : 56
+IND : Neeraj KUMAR : hammer-throw : 17 SEP 1990 : 910 : 19 SEP 2021 : 57
+GBR : Andrew FROST : hammer-throw : 17 APR 1981 : 909 : 28 AUG 2021 : 58
+IND : Prakash SINGH : hammer-throw : 02 MAY 1996 : 908 : 19 MAR 2021 : 59
+IND : Harish YADAV : hammer-throw : 01 OCT 1995 : 907 : 19 SEP 2021 : 60
+MRI : Jean Ian CARRE : hammer-throw : 06 FEB 1993 : 904 : 31 AUG 2021 : 61
+RSA : Pieter-Juan VORSTMAN : hammer-throw : 14 AUG 2002 : 902 : 16 APR 2021 : 62
+AUS : Huw PEACOCK : hammer-throw : 12 MAY 1992 : 898 : 27 MAR 2021 : 63
+IND : Pradeep KUMAR : hammer-throw :  : 895 : 13 APR 2021 : 64
+KEN : Dominic Ongidi ABUNDA : hammer-throw : 08 AUG 1993 : 892 : 15 MAY 2021 : 65
+MAS : Sadat Merzuqi AJISAN : hammer-throw : 23 JAN 2001 : 892 : 10 APR 2021 : 66
+IND : Aftab ALAM : hammer-throw : 03 MAY 1997 : 889 : 04 SEP 2021 : 67
+GBR : Alex WARNER : hammer-throw : 07 NOV 1989 : 887 : 28 AUG 2021 : 68
+CYP : Iosif KESIDIS : hammer-throw : 19 AUG 2005 : 885 : 23 MAY 2021 : 69
+IND : Vipin KUMAR : hammer-throw : 03 MAR 2003 : 882 : 08 MAR 2021 : 70
+NZL : Kaleb SOLA : hammer-throw : 09 SEP 2003 : 880 : 23 JAN 2021 : 71
+IND : Naveen YADAV : hammer-throw : 28 OCT 2000 : 875 : 29 SEP 2021 : 72
+RSA : Francois PRINSLOO : hammer-throw : 11 NOV 2001 : 874 : 13 MAY 2021 : 73
+NZL : Warren BUTTON : hammer-throw : 21 JUN 1988 : 871 : 08 OCT 2021 : 74
+JAM : Daniel COPE : hammer-throw : 05 MAR 2000 : 870 : 30 APR 2021 : 75
+IND : N. SHANKAR : hammer-throw : 11 JUL 1991 : 869 : 19 MAR 2021 : 76
+AUS : Jett CARLIN : hammer-throw : 14 JUL 2003 : 869 : 16 APR 2021 : 77
+IND : Bhupinder SINGH : hammer-throw : 27 JUN 1990 : 867 : 04 SEP 2021 : 78
+GBR : Richard MARTIN : hammer-throw : 08 JAN 1984 : 866 : 02 SEP 2021 : 79
+CYP : Dimitris PANAGIOTI GRIGORIOU : hammer-throw : 20 JUN 2003 : 864 : 23 MAY 2021 : 80
+KEN : Adelbert MUSEVENI : hammer-throw : 1990 : 863 : 27 MAY 2021 : 81
+IND : Shiv KUMAR : hammer-throw : 16 JUL 1986 : 862 : 18 MAR 2021 : 82
+IND : Jai CHAND : hammer-throw : 08 JUL 2001 : 862 : 13 APR 2021 : 82
+MRI : Nicolas LI YUN FONG : hammer-throw : 28 AUG 1982 : 861 : 27 FEB 2021 : 84
+IND : . BADAL : hammer-throw : 10 DEC 1998 : 861 : 13 APR 2021 : 84
+GBR : James HAMBLIN : hammer-throw : 01 JUL 1996 : 861 : 28 AUG 2021 : 84
+CAN : Johnny VANOS : hammer-throw : 1999 : 861 : 30 APR 2021 : 87
+GBR : Michael BOMBA : hammer-throw : 10 OCT 1986 : 854 : 28 AUG 2021 : 88
+IND : . MUKUL : hammer-throw : 13 NOV 2001 : 854 : 29 SEP 2021 : 88
+IND : Kaushal SINGH : hammer-throw : 16 NOV 1988 : 854 : 04 SEP 2021 : 90
+IND : Ajay KUMAR : hammer-throw : 10 JUL 1999 : 853 : 29 SEP 2021 : 91
+IND : Rahul KUMAR : hammer-throw : 07 DEC 1996 : 852 : 19 SEP 2021 : 92
+IND : Amit GILL : hammer-throw : 28 JAN 1991 : 852 : 18 MAR 2021 : 93
+RSA : Paul DU PLESSIS : hammer-throw : 22 MAR 2000 : 851 : 16 APR 2021 : 94
+GBR : James BEDFORD : hammer-throw : 29 DEC 1988 : 850 : 09 OCT 2021 : 95
+IND : Sachin YADAV : hammer-throw : 30 DEC 2001 : 850 : 18 MAR 2021 : 96
+IND : Gurdev SINGH : hammer-throw : 08 APR 2001 : 848 : 18 MAR 2021 : 97
+NZL : Todd BATES : hammer-throw : 29 NOV 1994 : 845 : 06 FEB 2021 : 98
+GBR : Peter CASSIDY : hammer-throw : 22 JAN 1998 : 844 : 08 AUG 2021 : 99
+IND : Bhupendra SINGH : hammer-throw : 1991 : 844 : 18 MAR 2021 : 100

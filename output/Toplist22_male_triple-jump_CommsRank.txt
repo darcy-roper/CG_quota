@@ -1,100 +1,100 @@
-IND : Eldhose PAUL : triple-jump : 07 NOV 1996 : 1159 : 23 MAR 2022 : 1
-IND : Abdulla Aboobacker NARANGOLINTEVIDA : triple-jump : 17 JAN 1996 : 1136 : 23 MAR 2022 : 2
-JAM : Jaydon HIBBERT : triple-jump : 17 JAN 2005 : 1118 : 13 MAR 2022 : 3
-SRI : Chamal K.L. WADUGE : triple-jump : 02 FEB 1998 : 1089 : 10 MAR 2022 : 4
-AUS : Julian KONLE : triple-jump : 04 JUN 1997 : 1084 : 12 FEB 2022 : 5
-AUS : Aiden HINSON : triple-jump : 05 JUN 2003 : 1075 : 01 APR 2022 : 6
-SRI : Shreshan Dhananjaya LIYANAPEDIGE : triple-jump : 07 JUN 1997 : 1074 : 12 FEB 2022 : 7
-TTO : Kelsey DANIEL : triple-jump : 17 APR 2001 : 1074 : 02 APR 2022 : 7
-AUS : Ayo ORE : triple-jump : 23 APR 1997 : 1070 : 19 FEB 2022 : 9
-MAS : Andre ANURA : triple-jump : 12 JUN 1999 : 1068 : 06 MAR 2022 : 10
-IND : Gailey Venister DEVASAHAYAM : triple-jump : 31 JAN 2000 : 1068 : 23 MAR 2022 : 10
-IND : Mohammed Salahuddin SHARFUDEEN NIZAMUDDIN : triple-jump : 24 MAR 1994 : 1068 : 23 MAR 2022 : 10
-AUS : Shemaiah JAMES : triple-jump : 12 JUL 1997 : 1067 : 01 APR 2022 : 13
-BAH : Kaiwan CULMER : triple-jump : 25 OCT 1996 : 1060 : 19 MAR 2022 : 14
-BAR : Jemuel MILLER : triple-jump :  : 1053 : 25 MAR 2022 : 15
-NAM : Roger HAITENGI : triple-jump : 17 SEP 1983 : 1044 : 02 MAR 2022 : 16
-SRI : Sandun Krishantha KUMARA : triple-jump : 2001 : 1044 : 10 MAR 2022 : 16
-JAM : Safin WILLS : triple-jump : 21 AUG 2000 : 1041 : 19 MAR 2022 : 18
-AUS : Connor MURPHY : triple-jump : 22 OCT 2001 : 1038 : 01 APR 2022 : 19
-AUS : Emmanuel FAKIYE : triple-jump : 27 JAN 1997 : 1035 : 01 APR 2022 : 20
-JAM : Tevin DUNN : triple-jump : 1998 : 1035 : 02 APR 2022 : 20
-SRI : Pasindu Malshan KUMARAPELI ARACHCHIGE : triple-jump : 15 FEB 2003 : 1025 : 12 FEB 2022 : 22
-SRI : Sanjaya JAYASINGHE : triple-jump : 20 APR 1982 : 1021 : 12 FEB 2022 : 23
-RSA : Junior MPEFU : triple-jump : 18 JUL 1998 : 1025 : 12 FEB 2022 : 23
-AUS : Grant SZALEK : triple-jump : 02 MAY 1998 : 1019 : 19 MAR 2022 : 25
-IND : C.D.Akhil KUMAR : triple-jump : 26 JUN 2001 : 1019 : 23 MAR 2022 : 25
-IND : Arpinder SINGH : triple-jump : 30 DEC 1992 : 1019 : 23 MAR 2022 : 25
-MAS : Brendon Ting LI KING : triple-jump :  : 1018 : 06 MAR 2022 : 28
-BAR : Jonathan Edward MILLER : triple-jump : 22 AUG 2000 : 1013 : 25 MAR 2022 : 29
-SRI : C.G.S.T. SENEVIRATHNE : triple-jump : 26 JUN 1992 : 1014 : 10 MAR 2022 : 30
-SRI : T.G.V.S. WIJESEKARA : triple-jump :  : 1008 : 12 FEB 2022 : 31
-NGR : Monday Charles GODWIN : triple-jump : 04 APR 1999 : 1004 : 19 MAR 2022 : 32
-JAM : Nickaoli WILLIAMS : triple-jump : 07 OCT 2000 : 1000 : 25 MAR 2022 : 33
-AUS : Oluwapemi AKIN OJELABI : triple-jump : 25 AUG 1998 : 999 : 19 FEB 2022 : 34
-JAM : Apalos EDWARDS : triple-jump : 18 OCT 2001 : 1011 : 25 MAR 2022 : 34
-SRI : Atheetha N.KARUNASINGHE : triple-jump : 30 NOV 1995 : 1001 : 12 FEB 2022 : 36
-RSA : Peace ADEDOKUN : triple-jump : 18 NOV 2003 : 991 : 09 FEB 2022 : 37
-CYP : Grigoris NIKOLAOU : triple-jump : 22 JAN 2003 : 990 : 25 MAR 2022 : 38
-ANT : Taeco O'GARRO : triple-jump : 03 SEP 2001 : 986 : 19 MAR 2022 : 39
-IND : S. ROBINSON : triple-jump : 03 MAR 2001 : 987 : 23 MAR 2022 : 39
-NZL : Welrè OLIVIER : triple-jump : 04 NOV 2002 : 987 : 18 MAR 2022 : 41
-NZL : Matt WALSH : triple-jump : 19 MAR 1999 : 980 : 19 MAR 2022 : 42
-CMR : Raymond NKWEMY TCHOMFA : triple-jump : 29 MAY 1995 : 981 : 25 MAR 2022 : 42
-SRI : Sandun THUSHARA : triple-jump :  : 978 : 12 FEB 2022 : 44
-BAR : Jadon BROME : triple-jump : 21 FEB 2000 : 977 : 17 MAR 2022 : 45
-JAM : Royan WALTERS : triple-jump : 02 APR 2004 : 976 : 13 MAR 2022 : 46
-SRI : S.D. LUDOWYKE : triple-jump :  : 975 : 12 FEB 2022 : 47
-JAM : Chad WILLIAMS : triple-jump : 25 JUN 2000 : 974 : 12 MAR 2022 : 48
-AUS : Tetteh ANANG : triple-jump : 05 APR 1993 : 972 : 01 APR 2022 : 49
-CAN : Praise ANIAMAKA : triple-jump : 2003 : 971 : 02 APR 2022 : 50
-JAM : Lushane WILSON : triple-jump : 11 SEP 1998 : 978 : 29 JAN 2022 : 51
-GBR : Wesley MATSUKA-WILLIAMS : triple-jump : 15 JUN 2000 : 969 : 26 MAR 2022 : 51
-JAM : Rajaun RICKETTS : triple-jump : 20 AUG 2003 : 965 : 05 MAR 2022 : 53
-MAS : Mohd Shah SHOLIKIN AZHAR : triple-jump :  : 965 : 06 MAR 2022 : 53
-CMR : Derrick GAMA : triple-jump : 15 SEP 1996 : 963 : 25 MAR 2022 : 55
-RSA : Oageng MDLELA : triple-jump : 11 FEB 2000 : 962 : 02 MAR 2022 : 56
-ZAM : Harris MBEMBA : triple-jump :  : 959 : 26 MAR 2022 : 57
-SRI : K.V.M. YASIRU : triple-jump :  : 960 : 12 FEB 2022 : 58
-IND : CR AUSHAL : triple-jump : 21 SEP 1999 : 948 : 23 MAR 2022 : 59
-GUY : Trevon HAMER : triple-jump : 2004 : 944 : 20 FEB 2022 : 60
-TTO : Lorenzo LUCES : triple-jump : 2002 : 948 : 27 FEB 2022 : 61
-JAM : Michael CURRIAH : triple-jump : 01 SEP 2004 : 937 : 13 MAR 2022 : 62
-GUY : Dennies ROBERTS : triple-jump : 1998 : 935 : 20 FEB 2022 : 63
-AUS : Dylan JAMES : triple-jump : 02 MAR 2002 : 933 : 03 APR 2022 : 64
-CMR : Victoire KOBOBE : triple-jump : 18 JUL 1988 : 928 : 25 MAR 2022 : 65
-AUS : Tristan SCHEIRS : triple-jump : 20 APR 2000 : 928 : 19 FEB 2022 : 66
-GBR : Bera AJALA : triple-jump : 26 AUG 2002 : 926 : 26 MAR 2022 : 67
-GBR : Aidan QUINN : triple-jump : 10 FEB 2000 : 924 : 02 APR 2022 : 68
-AUS : Thomas PITTS : triple-jump : 29 SEP 2000 : 920 : 01 APR 2022 : 69
-AUS : Kipchumba LANGAT : triple-jump : 2004 : 922 : 29 JAN 2022 : 70
-JAM : Aubrey ALLEN : triple-jump : 19 JUL 1994 : 922 : 02 APR 2022 : 70
-GUY : Stafon ROACH : triple-jump : 2003 : 917 : 05 MAR 2022 : 72
-AUS : Ryan MARSHALL : triple-jump : 2002 : 923 : 12 MAR 2022 : 72
-PNG : Peniel RICHARD : triple-jump : 14 JUN 1994 : 917 : 02 APR 2022 : 72
-BAH : Johnathan RODGERS : triple-jump :  : 924 : 05 FEB 2022 : 75
-AUS : Jay LOUISON-ROE : triple-jump : 24 SEP 2003 : 915 : 29 MAR 2022 : 75
-AUS : Finn MURPHY : triple-jump : 2003 : 913 : 19 FEB 2022 : 77
-AUS : Uchenna EGBU : triple-jump : 2005 : 913 : 29 MAR 2022 : 77
-BAH : Brandon HUTCHINSON : triple-jump : 16 FEB 2004 : 930 : 02 APR 2022 : 79
-RSA : Matthew CLOETE : triple-jump : 29 AUG 2003 : 915 : 12 FEB 2022 : 80
-RSA : Blessing TAKUNDWA : triple-jump : 13 APR 2004 : 906 : 09 FEB 2022 : 81
-NZL : Scott THOMSON : triple-jump : 22 JUN 1992 : 904 : 01 APR 2022 : 82
-NZL : Ebuka OKPALA : triple-jump : 10 MAR 1993 : 903 : 12 FEB 2022 : 83
-AUS : Cameron PAPPAS : triple-jump : 31 MAR 1996 : 904 : 05 MAR 2022 : 83
-AUS : Angus WOOD : triple-jump : 10 JAN 2001 : 902 : 12 MAR 2022 : 85
-AUS : Nathan TAVERNER : triple-jump : 2005 : 901 : 01 APR 2022 : 86
-MAS : Muhd Sunik MUSLIMIN : triple-jump : 2001 : 892 : 06 MAR 2022 : 87
-AUS : William MOIR : triple-jump : 05 AUG 2004 : 892 : 29 MAR 2022 : 87
-AUS : Joshua HWABA : triple-jump : 2003 : 891 : 19 FEB 2022 : 89
-JAM : Iangelo ATKINSTALL-DALEY : triple-jump : 20 OCT 2002 : 894 : 26 MAR 2022 : 90
-BAH : Antone HIGGS : triple-jump :  : 910 : 02 APR 2022 : 90
-BAR : Nathan CRAWFORD-WALLIS : triple-jump : 28 JAN 2002 : 887 : 05 MAR 2022 : 92
-JAM : Javar THOMAS : triple-jump : 21 OCT 2004 : 885 : 12 FEB 2022 : 93
-AUS : Brandon CLARK : triple-jump : 17 MAY 1993 : 884 : 15 JAN 2022 : 94
-AUS : Mackenzie LIDDELOW : triple-jump : 22 DEC 1997 : 882 : 20 FEB 2022 : 95
-MAS : NG Tak SING : triple-jump :  : 882 : 06 MAR 2022 : 95
-JAM : Zachary GORDON : triple-jump : 2004 : 881 : 13 MAR 2022 : 97
-VIN : Ronaldo ANDREWS : triple-jump : 2004 : 879 : 26 MAR 2022 : 98
-TTO : Jean-Jon MATTHEWS : triple-jump : 2002 : 883 : 27 FEB 2022 : 99
-RSA : Sifiso MIYA : triple-jump : 01 JUN 2001 : 877 : 02 APR 2022 : 99
+IND : Abdulla Aboobacker NARANGOLINTEVIDA : triple-jump : 17 JAN 1996 : 1185 : 21 MAY 2022 : 1
+IND : Karthik UNNIKRISHNAN : triple-jump : 03 JUN 1993 : 1175 : 21 MAY 2022 : 2
+IND : Eldhose PAUL : triple-jump : 07 NOV 1996 : 1163 : 06 APR 2022 : 3
+BER : Jah-Nhai PERINCHIEF : triple-jump : 31 DEC 1997 : 1159 : 29 MAY 2022 : 4
+IND : Praveen CHITHRAVEL : triple-jump : 05 JUN 2001 : 1147 : 06 APR 2022 : 5
+GBR : Ben WILLIAMS : triple-jump : 25 JAN 1992 : 1145 : 02 JUN 2022 : 6
+JAM : Jaydon HIBBERT : triple-jump : 17 JAN 2005 : 1129 : 08 APR 2022 : 7
+BOT : Thalosang TSHIRELETSO : triple-jump : 14 MAY 1991 : 1127 : 11 JUN 2022 : 8
+JAM : Owayne OWENS : triple-jump : 08 MAR 2000 : 1123 : 30 APR 2022 : 9
+AUS : Julian KONLE : triple-jump : 04 JUN 1997 : 1118 : 14 MAY 2022 : 10
+MAS : Andre ANURA : triple-jump : 12 JUN 1999 : 1112 : 17 MAY 2022 : 11
+JAM : Jordan SCOTT : triple-jump : 29 JUN 1997 : 1107 : 12 MAY 2022 : 12
+SRI : Chamal K.L. WADUGE : triple-jump : 02 FEB 1998 : 1101 : 23 APR 2022 : 13
+JAM : Apalos EDWARDS : triple-jump : 18 OCT 2001 : 1100 : 10 JUN 2022 : 14
+AUS : Ayo ORE : triple-jump : 23 APR 1997 : 1086 : 28 MAY 2022 : 15
+JAM : Safin WILLS : triple-jump : 21 AUG 2000 : 1080 : 23 APR 2022 : 16
+GBR : Jude BRIGHT-DAVIES : triple-jump : 27 MAR 1999 : 1077 : 22 MAY 2022 : 17
+IND : Gailey Venister DEVASAHAYAM : triple-jump : 31 JAN 2000 : 1076 : 21 MAY 2022 : 18
+AUS : Aiden HINSON : triple-jump : 05 JUN 2003 : 1075 : 01 APR 2022 : 19
+SRI : Shreshan Dhananjaya LIYANAPEDIGE : triple-jump : 07 JUN 1997 : 1074 : 12 FEB 2022 : 20
+TTO : Kelsey DANIEL : triple-jump : 17 APR 2001 : 1074 : 02 APR 2022 : 20
+RSA : Lleyton DAVIDS : triple-jump : 12 SEP 2001 : 1075 : 21 APR 2022 : 22
+JAM : Malik CUNNINGHAM : triple-jump : 17 NOV 1999 : 1069 : 30 APR 2022 : 23
+IND : Krishna SINGH : triple-jump : 18 JUL 1998 : 1069 : 02 MAY 2022 : 23
+BAR : Nathan CRAWFORD-WALLIS : triple-jump : 28 JAN 2002 : 1069 : 10 JUN 2022 : 23
+IND : Mohammed Salahuddin SHARFUDEEN NIZAMUDDIN : triple-jump : 24 MAR 1994 : 1068 : 23 MAR 2022 : 26
+AUS : Shemaiah JAMES : triple-jump : 12 JUL 1997 : 1067 : 01 APR 2022 : 27
+BAR : Jemuel Edward MILLER : triple-jump : 19 SEP 2001 : 1065 : 27 MAY 2022 : 28
+CMR : Marcel Richard MAYACK II : triple-jump : 17 NOV 1990 : 1064 : 15 MAY 2022 : 29
+KEN : Isaac KIRWA : triple-jump : 23 NOV 1994 : 1063 : 11 JUN 2022 : 30
+IND : T. Selva PRABHU : triple-jump : 28 DEC 2004 : 1062 : 02 MAY 2022 : 31
+BAH : Kaiwan CULMER : triple-jump : 25 OCT 1996 : 1060 : 19 MAR 2022 : 32
+NZL : Ethan OLIVIER : triple-jump : 07 AUG 2005 : 1057 : 21 APR 2022 : 33
+NGR : Chidozie Ikenga KALU : triple-jump : 31 MAR 2001 : 1056 : 13 MAY 2022 : 33
+NAM : Roger HAITENGI : triple-jump : 17 SEP 1983 : 1051 : 13 APR 2022 : 35
+NZL : Welrè OLIVIER : triple-jump : 04 NOV 2002 : 1050 : 14 MAY 2022 : 36
+IND : Vimal Mugesh THAMIZHCHELVAN : triple-jump : 25 MAR 1996 : 1045 : 06 APR 2022 : 37
+SRI : Sandun Krishantha KUMARA : triple-jump : 2001 : 1044 : 10 MAR 2022 : 38
+JAM : Ryan BROWN : triple-jump : 11 OCT 1998 : 1043 : 14 MAY 2022 : 39
+AUS : Dylan JAMES : triple-jump : 02 MAR 2002 : 1041 : 15 MAY 2022 : 40
+AUS : Connor MURPHY : triple-jump : 22 OCT 2001 : 1038 : 01 APR 2022 : 41
+BAR : Aren SPENCER : triple-jump : 2003 : 1037 : 18 APR 2022 : 42
+CMR : Derrick GAMA : triple-jump : 15 SEP 1996 : 1037 : 11 JUN 2022 : 42
+AUS : Emmanuel FAKIYE : triple-jump : 27 JAN 1997 : 1035 : 01 APR 2022 : 44
+JAM : Tevin DUNN : triple-jump : 1998 : 1035 : 02 APR 2022 : 44
+GBR : Daniel FALODE : triple-jump : 27 NOV 2002 : 1034 : 10 JUN 2022 : 46
+GBR : Nathan DOUGLAS : triple-jump : 04 DEC 1982 : 1035 : 02 JUN 2022 : 47
+BAH : Shyrone KEMP : triple-jump :  : 1032 : 28 MAY 2022 : 48
+GBR : Michael PUPLAMPU : triple-jump : 11 JAN 1990 : 1030 : 02 JUN 2022 : 49
+AUS : Jay LOUISON-ROE : triple-jump : 24 SEP 2003 : 1028 : 10 JUN 2022 : 50
+JAM : Kobe-Jordan RHOOMS : triple-jump : 09 MAY 1999 : 1029 : 23 APR 2022 : 51
+SRI : Pasindu Malshan KUMARAPELI ARACHCHIGE : triple-jump : 15 FEB 2003 : 1025 : 12 FEB 2022 : 52
+BAR : Jadon BROME : triple-jump : 21 FEB 2000 : 1022 : 15 MAY 2022 : 53
+PNG : Peniel RICHARD : triple-jump : 14 JUN 1994 : 1022 : 15 MAY 2022 : 53
+SRI : Sanjaya JAYASINGHE : triple-jump : 20 APR 1982 : 1021 : 12 FEB 2022 : 55
+RSA : Junior MPEFU : triple-jump : 18 JUL 1998 : 1025 : 12 FEB 2022 : 55
+GBR : Daniel IGBOKWE : triple-jump : 28 JUN 1998 : 1020 : 06 MAY 2022 : 57
+AUS : Grant SZALEK : triple-jump : 02 MAY 1998 : 1019 : 19 MAR 2022 : 58
+IND : C.D.Akhil KUMAR : triple-jump : 26 JUN 2001 : 1019 : 23 MAR 2022 : 58
+IND : Arpinder SINGH : triple-jump : 30 DEC 1992 : 1019 : 23 MAR 2022 : 58
+MAS : Brendon Ting LI KING : triple-jump : 09 JAN 2002 : 1018 : 06 MAR 2022 : 61
+MRI : Jonathan DRACK : triple-jump : 06 NOV 1988 : 1016 : 08 MAY 2022 : 62
+JAM : Royan WALTERS : triple-jump : 02 APR 2004 : 1015 : 18 APR 2022 : 63
+JAM : Shemar MILLER : triple-jump : 24 JUN 1999 : 1015 : 10 MAY 2022 : 63
+GBR : Aidan QUINN : triple-jump : 10 FEB 2000 : 1014 : 14 MAY 2022 : 65
+BAR : Jonathan Edward MILLER : triple-jump : 22 AUG 2000 : 1013 : 25 MAR 2022 : 66
+SRI : Sandun THUSHARA : triple-jump :  : 1013 : 23 APR 2022 : 66
+SRI : C.G.S.T. SENEVIRATHNE : triple-jump : 26 JUN 1992 : 1014 : 10 MAR 2022 : 68
+GBR : Sean OKOME : triple-jump : 26 MAR 1995 : 1009 : 02 JUN 2022 : 69
+SRI : T.G.V.S. WIJESEKARA : triple-jump :  : 1008 : 12 FEB 2022 : 70
+NGR : Blessing OLUWAYEMI : triple-jump : 13 FEB 1997 : 1007 : 21 APR 2022 : 71
+GBR : Sam TRIGG-PETROVIĆ : triple-jump : 01 NOV 1993 : 1007 : 22 MAY 2022 : 71
+CAN : Kenneth WEST : triple-jump : 2002 : 1025 : 16 APR 2022 : 73
+NGR : Monday Charles GODWIN : triple-jump : 04 APR 1999 : 1005 : 09 APR 2022 : 74
+NGR : Ineh Emmeanuel ORITSEMEYIWA : triple-jump : 17 MAR 2001 : 1002 : 14 MAY 2022 : 75
+CAN : Brian O'BONNA : triple-jump : 17 SEP 1996 : 1003 : 19 MAY 2022 : 75
+JAM : Nickaoli WILLIAMS : triple-jump : 07 OCT 2000 : 1000 : 25 MAR 2022 : 77
+GUY : Lloyd MCCURDY : triple-jump : 30 NOV 1997 : 1000 : 14 MAY 2022 : 77
+AUS : Oluwapemi AKIN OJELABI : triple-jump : 25 AUG 1998 : 999 : 19 FEB 2022 : 79
+SRI : Atheetha N.KARUNASINGHE : triple-jump : 30 NOV 1995 : 1001 : 12 FEB 2022 : 80
+IND : . AKHILESH : triple-jump : 07 JAN 2003 : 996 : 04 JUN 2022 : 81
+GBR : Archie YEO : triple-jump : 08 MAR 2003 : 995 : 22 MAY 2022 : 82
+KEN : Gilbert PKEMOI : triple-jump : 06 JAN 1995 : 995 : 11 JUN 2022 : 82
+IND : J. MOHANRAJ : triple-jump : 26 JUN 2001 : 1004 : 21 MAY 2022 : 84
+BAH : Tamar GREENE : triple-jump : 21 AUG 1998 : 997 : 27 MAY 2022 : 84
+RSA : Peace ADEDOKUN : triple-jump : 18 NOV 2003 : 991 : 09 FEB 2022 : 86
+CYP : Grigoris NIKOLAOU : triple-jump : 22 JAN 2003 : 990 : 25 MAR 2022 : 87
+GBR : Joseph GILKES : triple-jump :  : 989 : 01 MAY 2022 : 88
+GBR : Bera AJALA : triple-jump : 26 AUG 2002 : 987 : 27 MAY 2022 : 89
+ANT : Taeco O'GARRO : triple-jump : 03 SEP 2001 : 986 : 19 MAR 2022 : 90
+IND : S. ROBINSON : triple-jump : 03 MAR 2001 : 987 : 23 MAR 2022 : 90
+GUY : Stafon ROACH : triple-jump : 2003 : 986 : 18 APR 2022 : 90
+RSA : Tristan FARO : triple-jump : 15 MAY 2001 : 988 : 21 APR 2022 : 93
+GBR : Montel NEVERS : triple-jump : 22 MAY 1996 : 984 : 07 MAY 2022 : 94
+NGR : Oghenetega Justin OREKEVWIE : triple-jump : 05 OCT 2005 : 981 : 13 MAY 2022 : 95
+NZL : Matt WALSH : triple-jump : 19 MAR 1999 : 980 : 19 MAR 2022 : 96
+CMR : Raymond NKWEMY TCHOMFA : triple-jump : 29 MAY 1995 : 981 : 25 MAR 2022 : 96
+CAN : Daxx TURNER : triple-jump : 2002 : 978 : 07 MAY 2022 : 98
+NGR : Abiola OLAJIDE : triple-jump : 08 JUL 1993 : 976 : 29 APR 2022 : 99
+NGR : Omamuyovwi ERHIRE : triple-jump : 16 AUG 2002 : 976 : 15 MAY 2022 : 99

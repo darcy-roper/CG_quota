@@ -1,5 +1,5 @@
 CAN : Camryn ROGERS : hammer-throw : 07 JUN 1999 : 1182 : 10 JUN 2021 : 1
-NGR : Annette ECHIKUNWOKE : hammer-throw : 29 JUL 1996 : 1182 : 22 MAY 2021 : 2
+NGR : Annette Nneka ECHIKUNWOKE : hammer-throw : 29 JUL 1996 : 1182 : 22 MAY 2021 : 2
 NZL : Lauren BRUCE : hammer-throw : 23 MAR 1997 : 1168 : 20 MAY 2021 : 3
 NZL : Julia RATCLIFFE : hammer-throw : 14 JUL 1993 : 1151 : 26 MAR 2021 : 4
 CAN : Jillian WEIR : hammer-throw : 09 FEB 1993 : 1130 : 30 APR 2021 : 5
@@ -15,7 +15,7 @@ JAM : Erica BELVIT : hammer-throw : 09 NOV 1998 : 1035 : 26 JUN 2021 : 14
 GBR : Amy HERRINGTON : hammer-throw : 22 MAY 1998 : 1030 : 07 MAY 2021 : 15
 GBR : Rachel HUNTER : hammer-throw : 30 AUG 1993 : 1020 : 26 JUN 2021 : 16
 GBR : Katie HEAD : hammer-throw : 09 DEC 1999 : 1019 : 28 AUG 2021 : 17
-NGR : Temi OGUNRINDE : hammer-throw : 29 FEB 1996 : 1016 : 30 APR 2021 : 18
+NGR : Temilola Olatoke OGUNRINDE : hammer-throw : 29 FEB 1996 : 1016 : 30 APR 2021 : 18
 IND : Manju BALA SINGH : hammer-throw : 01 JUL 1989 : 1010 : 13 APR 2021 : 19
 GBR : Amber SIMPSON : hammer-throw : 03 JAN 1999 : 1007 : 16 APR 2021 : 20
 RSA : Marga CUMMING : hammer-throw : 12 OCT 1998 : 1006 : 18 SEP 2021 : 21

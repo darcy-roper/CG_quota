@@ -31,7 +31,7 @@ GBR : Philip KASTNER : decathlon : 01 OCT 2001 : 979 : 30 MAY 2021 : 30
 GBR : Bradley EISNOR : decathlon : 24 NOV 1996 : 976 : 19 SEP 2021 : 31
 CAN : Rostam TURNER : decathlon : 11 MAY 1995 : 976 : 14 MAY 2021 : 32
 GBR : Elliot THOMPSON : decathlon : 10 AUG 1992 : 976 : 26 JUN 2021 : 33
-GBR : Oliver THORNER : decathlon : 16 MAR 2001 : 975 : 26 JUN 2021 : 34
+GBR : Ollie THORNER : decathlon : 16 MAR 2001 : 975 : 26 JUN 2021 : 34
 AUS : Martin CLARK : decathlon : 24 NOV 1992 : 970 : 19 DEC 2021 : 35
 CAN : Telvin TAVERNIER : decathlon : 1993 : 968 : 31 JUL 2021 : 36
 AUS : Sam TAYLOR : decathlon : 22 MAY 2001 : 968 : 16 APR 2021 : 37

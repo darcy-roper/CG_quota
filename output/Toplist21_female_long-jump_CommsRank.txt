@@ -17,7 +17,7 @@ DMA : Thea LAFOND : long-jump : 05 APR 1994 : 1123 : 27 MAR 2021 : 16
 GBR : Jahisha THOMAS : long-jump : 22 NOV 1994 : 1123 : 31 MAY 2021 : 16
 JAM : Nia ROBINSON : long-jump : 08 DEC 2001 : 1131 : 29 APR 2021 : 18
 JAM : Taishia PRYCE : long-jump : 14 JUL 1997 : 1117 : 27 MAY 2021 : 19
-NGR : Mercy ABIRE : long-jump : 20 JUL 1997 : 1112 : 19 JUN 2021 : 20
+NGR : Uyoyo Mercy ABIRE : long-jump : 20 JUL 1997 : 1112 : 19 JUN 2021 : 20
 IND : Aishwarya BABU SAB : long-jump : 15 JUN 1997 : 1119 : 17 SEP 2021 : 20
 CYP : Filippa FOTOPOULOU : long-jump : 20 DEC 1996 : 1108 : 08 MAY 2021 : 22
 AUS : Tomysha CLARK : long-jump : 12 NOV 2002 : 1106 : 12 JUN 2021 : 23
@@ -76,7 +76,7 @@ JAM : Ackelia SMITH : long-jump : 05 FEB 2002 : 1027 : 06 MAR 2021 : 75
 GBR : Katie STAINTON : long-jump : 08 JAN 1995 : 1027 : 17 JUL 2021 : 75
 NGR : Ubongabasi Ini OKOPIDO : long-jump :  : 1025 : 31 MAR 2021 : 77
 DMA : Mariah TOUSSAINT : long-jump : 06 NOV 1992 : 1025 : 11 JUN 2021 : 77
-AUS : Taneille CRASE : long-jump : 16 OCT 1994 : 1025 : 19 DEC 2021 : 77
+AUS : Taneille CRASE : long-jump : 06 OCT 1994 : 1025 : 19 DEC 2021 : 77
 IND : Mareena GEORGE : long-jump : 02 APR 1995 : 1023 : 18 FEB 2021 : 80
 CAN : Tatiana AHOLOU : long-jump : 26 NOV 2000 : 1023 : 02 APR 2021 : 80
 NGR : Esther ISA : long-jump : 09 SEP 1999 : 1023 : 15 MAY 2021 : 80

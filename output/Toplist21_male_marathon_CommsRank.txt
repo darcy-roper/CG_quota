@@ -28,73 +28,73 @@ KEN : Silas TOO : marathon : 13 JAN 1988 : 1218 : 10 OCT 2021 : 27
 KEN : Bernard Kiprop KIPYEGO : marathon : 16 JUL 1986 : 1218 : 17 OCT 2021 : 27
 KEN : Solomon Kirwa YEGO : marathon : 10 MAY 1987 : 1216 : 11 APR 2021 : 29
 KEN : Kipkemoi KIPRONO : marathon : 12 SEP 1995 : 1215 : 07 NOV 2021 : 30
-KEN : Abel KIRUI : marathon : 04 JUN 1982 : 1213 : 16 MAY 2021 : 31
+KEN : Abel KIRUI : marathon : 06 APR 1982 : 1213 : 16 MAY 2021 : 31
 KEN : Martin KIPRUGUT KOSGEY : marathon : 21 MAR 1989 : 1212 : 10 OCT 2021 : 32
 KEN : Timothy KIPLAGAT : marathon :  : 1210 : 10 OCT 2021 : 33
 KEN : Simon KIPKOSGEI : marathon : 03 MAY 1998 : 1209 : 10 OCT 2021 : 34
-KEN : Mike KIPTUM : marathon : 14 SEP 1992 : 1209 : 17 OCT 2021 : 34
+KEN : Mike Kiptum BOIT : marathon : 14 SEP 1992 : 1209 : 17 OCT 2021 : 34
 KEN : Simon KARIUKI : marathon : 01 APR 1996 : 1205 : 28 FEB 2021 : 36
 KEN : Reuben KERIO : marathon : 02 JUN 1994 : 1205 : 03 OCT 2021 : 36
 KEN : Bernard Kipkemoi NGENO : marathon :  : 1205 : 05 DEC 2021 : 36
-UGA : Filex CHEMONGES : marathon : 19 AUG 1993 : 1205 : 07 NOV 2021 : 39
+UGA : Filex CHEMONGESI : marathon : 19 AUG 1993 : 1205 : 07 NOV 2021 : 39
 KEN : Lucas Kimeli ROTICH : marathon : 16 APR 1990 : 1204 : 11 APR 2021 : 40
+KEN : Hosea CHIRCHIR : marathon :  : 1200 : 17 OCT 2021 : 41
 KEN : Mark KORIR : marathon : 10 JAN 1985 : 1200 : 12 DEC 2021 : 41
-KEN : Bethwell KIPKEMBOI : marathon : 06 APR 1993 : 1199 : 11 APR 2021 : 42
-KEN : Kennedy CHEBOROR : marathon : 26 APR 1990 : 1199 : 02 MAY 2021 : 43
-TAN : Alphonce Felix SIMBU : marathon : 14 FEB 1992 : 1196 : 26 NOV 2021 : 44
-KEN : Edwin KOSGEI : marathon : 17 SEP 1989 : 1196 : 11 APR 2021 : 45
-KEN : Michel GITHAE : marathon : 26 AUG 1994 : 1196 : 05 DEC 2021 : 45
-KEN : Albert KANGOGO : marathon : 16 AUG 1987 : 1196 : 03 OCT 2021 : 47
-KEN : Laban Kipngetich KORIR : marathon : 30 JUN 1985 : 1195 : 17 OCT 2021 : 48
-KEN : Vincent RONO : marathon : 10 NOV 1990 : 1190 : 16 MAY 2021 : 49
-KEN : Edwin KIPLAGAT : marathon : 19 FEB 1993 : 1189 : 02 MAY 2021 : 50
-KEN : Albert KORIR : marathon : 02 MAR 1994 : 1187 : 07 NOV 2021 : 51
-KEN : Clement Kiprono LANGAT : marathon : 18 DEC 1991 : 1187 : 19 SEP 2021 : 52
-UGA : Fred MUSOBO : marathon : 12 AUG 1996 : 1187 : 11 APR 2021 : 53
-KEN : James Gitahi RUNGARU : marathon : 14 JAN 1993 : 1187 : 05 DEC 2021 : 54
-KEN : Michael KUNYUGA : marathon : 27 JUL 1987 : 1186 : 11 APR 2021 : 55
-KEN : Emmanuel NAIBEI : marathon : 20 JUL 1983 : 1186 : 19 SEP 2021 : 55
-UGA : Jackson KIPROP : marathon : 20 OCT 1986 : 1186 : 03 OCT 2021 : 55
-KEN : Wilson Kwambai CHEBET : marathon : 12 JUL 1985 : 1183 : 16 MAY 2021 : 58
-KEN : Cosmas MATOLO : marathon :  : 1181 : 26 SEP 2021 : 59
-KEN : Stephen CHEBOGUT : marathon : 09 JAN 1985 : 1180 : 17 OCT 2021 : 60
-KEN : Thomas KIBET : marathon :  : 1180 : 17 OCT 2021 : 60
-KEN : Stanley BETT : marathon : 13 DEC 1986 : 1178 : 11 APR 2021 : 62
-KEN : Zablon CHUMBA : marathon : 20 DEC 1991 : 1177 : 07 NOV 2021 : 63
-KEN : CyBrian KOTUT : marathon : 06 JUN 1992 : 1177 : 28 NOV 2021 : 64
-KEN : Alfred KOECH : marathon :  : 1177 : 10 OCT 2021 : 65
-UGA : Stephen KIPROTICH : marathon : 27 FEB 1989 : 1176 : 18 APR 2021 : 66
-KEN : Shadrack Kimutai KOECH : marathon : 28 DEC 1999 : 1176 : 17 OCT 2021 : 66
-KEN : Barnaba KIPKOECH : marathon : 27 APR 1993 : 1174 : 17 OCT 2021 : 68
-KEN : Leonard LANGAT : marathon : 02 AUG 1996 : 1170 : 12 SEP 2021 : 69
-KEN : Dominic NYAIRO : marathon : 22 AUG 1997 : 1167 : 19 DEC 2021 : 70
-KEN : Edwin KOECH : marathon : 25 MAR 1992 : 1165 : 11 APR 2021 : 71
-KEN : Bernard KIPROTICH : marathon :  : 1165 : 07 NOV 2021 : 72
-KEN : Ezekiel KOECH : marathon :  : 1165 : 24 OCT 2021 : 73
-KEN : David KIPRONO : marathon : 1990 : 1164 : 19 SEP 2021 : 74
-UGA : Geofrey KUSURO : marathon : 12 FEB 1989 : 1162 : 18 APR 2021 : 75
-KEN : Raymond Kipchumba CHOGE : marathon : 02 JAN 1988 : 1162 : 12 DEC 2021 : 75
-KEN : Mathew Sang KIBIWOT : marathon : 1986 : 1162 : 18 APR 2021 : 77
-KEN : Samuel LOMOI : marathon :  : 1162 : 28 NOV 2021 : 77
-KEN : Bethwel KIBET : marathon : 1991 : 1161 : 10 OCT 2021 : 79
-RSA : Stephen MOKOKA : marathon : 31 JAN 1985 : 1160 : 17 OCT 2021 : 80
-KEN : Laban MUTAI : marathon : 15 JAN 1988 : 1160 : 07 NOV 2021 : 81
-CAN : Cameron LEVINS : marathon : 28 MAR 1989 : 1156 : 23 MAY 2021 : 82
-UGA : Martin MUSAU : marathon : 05 OCT 1998 : 1156 : 12 SEP 2021 : 83
-KEN : Gilbert CHUMBA : marathon : 06 JUL 1986 : 1156 : 11 APR 2021 : 84
-KEN : Benson KIPRUTO : marathon : 17 MAR 1991 : 1156 : 30 MAY 2021 : 84
-UGA : Victor KIPLANGAT : marathon : 10 NOV 1999 : 1155 : 07 NOV 2021 : 86
-KEN : Robert KIPKEMBOI : marathon : 19 JUN 1988 : 1154 : 07 NOV 2021 : 87
-NAM : Tomas Hilifa RAINHOLD : marathon : 07 FEB 1991 : 1154 : 11 APR 2021 : 88
-LES : Tebello RAMAKONGOANA : marathon : 13 OCT 1996 : 1154 : 17 OCT 2021 : 88
-UGA : Solomon MUTAI : marathon : 22 OCT 1992 : 1153 : 07 NOV 2021 : 90
-KEN : Dickson CHUMBA : marathon : 27 OCT 1986 : 1153 : 30 MAY 2021 : 91
-KEN : Nobert KIGEN : marathon : 24 JAN 1993 : 1153 : 30 MAY 2021 : 92
-KEN : Moses KEMEI : marathon : 03 SEP 1993 : 1152 : 07 NOV 2021 : 93
-KEN : Elkanah LANGAT : marathon : 1996 : 1151 : 14 NOV 2021 : 94
-KEN : Charles JUMA : marathon : 10 JAN 1993 : 1148 : 10 OCT 2021 : 95
-KEN : John LANGAT : marathon : 02 OCT 1993 : 1148 : 24 OCT 2021 : 95
-KEN : Felix KIMUTAI : marathon : 12 FEB 1989 : 1147 : 26 NOV 2021 : 97
-KEN : Benard KIMELI : marathon : 10 SEP 1995 : 1146 : 26 SEP 2021 : 98
-GBR : Chris THOMPSON : marathon : 17 APR 1981 : 1146 : 26 MAR 2021 : 99
-KEN : Leonard LANGAT : marathon : 07 AUG 1990 : 1145 : 02 MAY 2021 : 100
+KEN : Bethwell KIPKEMBOI : marathon : 06 APR 1993 : 1199 : 11 APR 2021 : 43
+KEN : Kennedy CHEBOROR : marathon : 26 APR 1990 : 1199 : 02 MAY 2021 : 44
+TAN : Alphonce Felix SIMBU : marathon : 14 FEB 1992 : 1196 : 26 NOV 2021 : 45
+KEN : Edwin KOSGEI : marathon : 17 SEP 1989 : 1196 : 11 APR 2021 : 46
+KEN : Michel GITHAE : marathon : 26 AUG 1994 : 1196 : 05 DEC 2021 : 46
+KEN : Albert KANGOGO : marathon : 16 AUG 1987 : 1196 : 03 OCT 2021 : 48
+KEN : Laban Kipngetich KORIR : marathon : 30 JUN 1985 : 1195 : 17 OCT 2021 : 49
+KEN : Vincent RONO : marathon : 10 NOV 1990 : 1190 : 16 MAY 2021 : 50
+KEN : Edwin KIPLAGAT : marathon : 19 FEB 1993 : 1189 : 02 MAY 2021 : 51
+KEN : Albert KORIR : marathon : 02 MAR 1994 : 1187 : 07 NOV 2021 : 52
+KEN : Clement Kiprono LANGAT : marathon : 18 DEC 1991 : 1187 : 19 SEP 2021 : 53
+UGA : Fred MUSOBO : marathon : 12 AUG 1996 : 1187 : 11 APR 2021 : 54
+KEN : James Gitahi RUNGARU : marathon : 14 JAN 1993 : 1187 : 05 DEC 2021 : 55
+KEN : Michael KUNYUGA : marathon : 27 JUL 1987 : 1186 : 11 APR 2021 : 56
+KEN : Emmanuel NAIBEI : marathon : 20 JUL 1983 : 1186 : 19 SEP 2021 : 56
+UGA : Jackson KIPROP : marathon : 20 OCT 1986 : 1186 : 03 OCT 2021 : 56
+KEN : Wilson Kwambai CHEBET : marathon : 12 JUL 1985 : 1183 : 16 MAY 2021 : 59
+KEN : Cosmas MATOLO : marathon :  : 1181 : 26 SEP 2021 : 60
+KEN : Stephen CHEBOGUT : marathon : 09 JAN 1985 : 1180 : 17 OCT 2021 : 61
+KEN : Thomas KIBET : marathon :  : 1180 : 17 OCT 2021 : 61
+KEN : Stanley BETT : marathon : 13 DEC 1986 : 1178 : 11 APR 2021 : 63
+KEN : Zablon CHUMBA : marathon : 20 DEC 1991 : 1177 : 07 NOV 2021 : 64
+KEN : CyBrian KOTUT : marathon : 06 JUN 1992 : 1177 : 28 NOV 2021 : 65
+KEN : Alfred KOECH : marathon :  : 1177 : 10 OCT 2021 : 66
+UGA : Stephen KIPROTICH : marathon : 27 FEB 1989 : 1176 : 18 APR 2021 : 67
+KEN : Shadrack Kimutai KOECH : marathon : 28 DEC 1999 : 1176 : 17 OCT 2021 : 67
+KEN : Barnaba KIPKOECH : marathon : 27 APR 1993 : 1174 : 17 OCT 2021 : 69
+KEN : Edwin Cheruiyot SOI : marathon : 03 MAR 1986 : 1172 : 28 NOV 2021 : 70
+KEN : Leonard LANGAT : marathon : 02 AUG 1996 : 1170 : 12 SEP 2021 : 71
+KEN : David KIPRONO : marathon : 1990 : 1169 : 28 NOV 2021 : 72
+KEN : Dominic NYAIRO : marathon : 22 AUG 1997 : 1167 : 19 DEC 2021 : 73
+KEN : Edwin KOECH : marathon : 25 MAR 1992 : 1165 : 11 APR 2021 : 74
+KEN : Bernard KIPROTICH : marathon :  : 1165 : 07 NOV 2021 : 75
+KEN : Ezekiel KOECH : marathon :  : 1165 : 24 OCT 2021 : 76
+UGA : Geofrey KUSURO : marathon : 12 FEB 1989 : 1162 : 18 APR 2021 : 77
+KEN : Raymond Kipchumba CHOGE : marathon : 02 JAN 1988 : 1162 : 12 DEC 2021 : 77
+KEN : Mathew Sang KIBIWOT : marathon : 1986 : 1162 : 18 APR 2021 : 79
+KEN : Samuel LOMOI : marathon :  : 1162 : 28 NOV 2021 : 79
+KEN : Bethwel KIBET : marathon : 1991 : 1161 : 10 OCT 2021 : 81
+RSA : Stephen MOKOKA : marathon : 31 JAN 1985 : 1160 : 17 OCT 2021 : 82
+KEN : Laban MUTAI : marathon : 15 JAN 1988 : 1160 : 07 NOV 2021 : 83
+CAN : Cameron LEVINS : marathon : 28 MAR 1989 : 1156 : 23 MAY 2021 : 84
+UGA : Martin MUSAU : marathon : 05 OCT 1998 : 1156 : 12 SEP 2021 : 85
+KEN : Gilbert CHUMBA : marathon : 06 JUL 1986 : 1156 : 11 APR 2021 : 86
+KEN : Benson KIPRUTO : marathon : 17 MAR 1991 : 1156 : 30 MAY 2021 : 86
+UGA : Victor KIPLANGAT : marathon : 10 NOV 1999 : 1155 : 07 NOV 2021 : 88
+KEN : Robert KIPKEMBOI : marathon : 19 JUN 1988 : 1154 : 07 NOV 2021 : 89
+NAM : Tomas Hilifa RAINHOLD : marathon : 07 FEB 1991 : 1154 : 11 APR 2021 : 90
+LES : Tebello RAMAKONGOANA : marathon : 13 OCT 1996 : 1154 : 17 OCT 2021 : 90
+UGA : Solomon MUTAI : marathon : 22 OCT 1992 : 1153 : 07 NOV 2021 : 92
+KEN : Dickson CHUMBA : marathon : 27 OCT 1986 : 1153 : 30 MAY 2021 : 93
+KEN : Nobert KIGEN : marathon : 24 JAN 1993 : 1153 : 30 MAY 2021 : 94
+KEN : Moses KEMEI : marathon : 03 SEP 1993 : 1152 : 07 NOV 2021 : 95
+KEN : Elkanah LANGAT : marathon : 1996 : 1151 : 14 NOV 2021 : 96
+KEN : Charles JUMA : marathon : 10 JAN 1993 : 1148 : 10 OCT 2021 : 97
+KEN : John LANGAT : marathon : 02 OCT 1993 : 1148 : 24 OCT 2021 : 97
+KEN : Felix KIMUTAI : marathon : 12 FEB 1989 : 1147 : 26 NOV 2021 : 99
+KEN : Benard KIMELI : marathon : 10 SEP 1995 : 1146 : 26 SEP 2021 : 100

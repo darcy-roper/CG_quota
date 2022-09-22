@@ -1,6 +1,6 @@
-NZL : Tomas WALSH : shot-put : 01 MAR 1992 : 1269 : 05 AUG 2021 : 1
+NZL : Tom WALSH : shot-put : 01 MAR 1992 : 1269 : 05 AUG 2021 : 1
 NZL : Jacko GILL : shot-put : 20 DEC 1994 : 1214 : 10 JUL 2021 : 2
-NGR : Chukwuebuka ENEKWECHI : shot-put : 28 JAN 1993 : 1212 : 06 JUN 2021 : 3
+NGR : Chukwuebuka Cornnell ENEKWECHI : shot-put : 28 JAN 1993 : 1212 : 06 JUN 2021 : 3
 IND : Tajinderpal Singh TOOR : shot-put : 13 NOV 1994 : 1210 : 21 JUN 2021 : 4
 GBR : Scott LINCOLN : shot-put : 07 MAY 1993 : 1197 : 13 JUN 2021 : 5
 RSA : Kyle BLIGNAUT : shot-put : 09 NOV 1999 : 1193 : 15 MAY 2021 : 6
@@ -89,7 +89,7 @@ JAM : Rasheed DOWNER : shot-put : 1999 : 912 : 19 JUN 2021 : 88
 IND : Shakti SOLANKI : shot-put : 17 DEC 1996 : 911 : 20 JAN 2021 : 89
 FIJ : Mustafa William FALL : shot-put : 11 APR 1995 : 911 : 18 MAR 2021 : 89
 MAS : Mohd ZIYAD ZULKIFLI : shot-put : 15 MAR 1990 : 911 : 11 APR 2021 : 91
-MAS : Jonah Chang ANAK RIGAN : shot-put :  : 910 : 11 APR 2021 : 92
+MAS : Jonah Chang ANAK RIGAN : shot-put : 25 MAR 2003 : 910 : 11 APR 2021 : 92
 GBR : Daniel CARTWRIGHT : shot-put : 14 NOV 1998 : 910 : 06 JUN 2021 : 92
 JAM : Moses PARKINSON : shot-put : 15 OCT 1998 : 908 : 05 JUN 2021 : 94
 GBR : Gregory BEARD : shot-put : 10 SEP 1982 : 908 : 12 AUG 2021 : 94

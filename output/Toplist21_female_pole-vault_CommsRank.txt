@@ -36,7 +36,7 @@ IND : Vengatesh PAVITHRA : pole-vault : 08 DEC 2001 : 929 : 15 SEP 2021 : 31
 GBR : Imogen SMITH : pole-vault : 02 SEP 1999 : 920 : 13 JUN 2021 : 36
 GBR : Elizabeth EDDEN : pole-vault : 29 JUN 1994 : 917 : 02 JUN 2021 : 37
 AUS : Grace BATH : pole-vault : 18 NOV 1994 : 914 : 16 JAN 2021 : 38
-RSA : Nicole JANSE VAN RENSBURG : pole-vault :  : 908 : 15 MAY 2021 : 39
+RSA : Nicole JANSE VAN RENSBURG : pole-vault : 2001 : 908 : 15 MAY 2021 : 39
 CAN : Sonya URBANOWICZ : pole-vault : 2004 : 908 : 04 JUL 2021 : 39
 CAN : Makiah HUNT : pole-vault : 24 JAN 1998 : 902 : 26 MAR 2021 : 41
 RSA : Tonet TALLIE : pole-vault : 26 MAR 2002 : 898 : 17 MAR 2021 : 42
@@ -85,16 +85,16 @@ AUS : Megan SEVE : pole-vault : 08 SEP 1996 : 838 : 18 DEC 2021 : 70
 MAS : Nor Sarah ADI : pole-vault : 20 AUG 2000 : 838 : 19 DEC 2021 : 70
 AUS : Zoe LAURENSON : pole-vault : 2005 : 825 : 06 FEB 2021 : 86
 GBR : Maddy MUDD : pole-vault : 20 JAN 1999 : 825 : 02 JUN 2021 : 86
-RSA : Nicole Janse VAN RENSBURG : pole-vault : 2001 : 822 : 19 MAR 2021 : 88
 GBR : Lois WARDEN : pole-vault : 26 MAR 2002 : 822 : 24 APR 2021 : 88
-RSA : Sumri BESTER : pole-vault :  : 813 : 17 MAR 2021 : 90
-GBR : Jessica ROBINSON : pole-vault : 26 JUN 1999 : 810 : 29 MAY 2021 : 91
-AUS : Sarah MELSOM : pole-vault : 15 DEC 2001 : 807 : 27 FEB 2021 : 92
-AUS : Haneefa RANE : pole-vault : 24 MAR 2006 : 807 : 27 FEB 2021 : 92
-AUS : Zoe AYRES : pole-vault : 11 APR 2001 : 807 : 06 MAR 2021 : 92
-RSA : Nadja FOURIE : pole-vault : 25 JAN 1999 : 807 : 13 MAR 2021 : 92
-SRI : K.A.K. LAKRANI PERERA : pole-vault : 1986 : 807 : 08 APR 2021 : 92
-AUS : Anais FITZPATRICK : pole-vault : 2006 : 807 : 13 APR 2021 : 92
-GBR : Hayley MILLS : pole-vault :  : 807 : 16 MAY 2021 : 92
-GBR : Kaliska NOWERS : pole-vault :  : 807 : 13 JUN 2021 : 92
-GBR : Nyree PERRY : pole-vault :  : 807 : 10 JUL 2021 : 92
+RSA : Sumri BESTER : pole-vault :  : 813 : 17 MAR 2021 : 89
+GBR : Jessica ROBINSON : pole-vault : 26 JUN 1999 : 810 : 29 MAY 2021 : 90
+AUS : Sarah MELSOM : pole-vault : 15 DEC 2001 : 807 : 27 FEB 2021 : 91
+AUS : Haneefa RANE : pole-vault : 24 MAR 2006 : 807 : 27 FEB 2021 : 91
+AUS : Zoe AYRES : pole-vault : 11 APR 2001 : 807 : 06 MAR 2021 : 91
+RSA : Nadja FOURIE : pole-vault : 25 JAN 1999 : 807 : 13 MAR 2021 : 91
+SRI : K.A.K. LAKRANI PERERA : pole-vault : 1986 : 807 : 08 APR 2021 : 91
+AUS : Anais FITZPATRICK : pole-vault : 2006 : 807 : 13 APR 2021 : 91
+GBR : Hayley MILLS : pole-vault :  : 807 : 16 MAY 2021 : 91
+GBR : Kaliska NOWERS : pole-vault :  : 807 : 13 JUN 2021 : 91
+GBR : Nyree PERRY : pole-vault :  : 807 : 10 JUL 2021 : 91
+GBR : Charley O'NEILL : pole-vault :  : 807 : 31 JUL 2021 : 91

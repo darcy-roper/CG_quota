@@ -19,7 +19,7 @@ KEN : Margaret Gati CHACHA : race-walking :  : 959 : 02 JUL 2021 : 18
 IND : Geeta LOHAR : race-walking : 30 DEC 2002 : 953 : 09 FEB 2021 : 19
 IND : . BALJEET KAUR : race-walking : 28 JAN 2002 : 951 : 21 AUG 2021 : 20
 KEN : Margret GATI : race-walking : 20 JAN 2003 : 942 : 21 AUG 2021 : 21
-IND : . MONIKA : race-walking : 17 JAN 2002 : 942 : 09 FEB 2021 : 22
+IND : .. MONIKA : race-walking : 17 JAN 2002 : 942 : 09 FEB 2021 : 22
 RSA : Janise NELL : race-walking : 27 JAN 2004 : 927 : 10 APR 2021 : 23
 KEN : Grace Wanjiru NJUE : race-walking : 10 JAN 1979 : 923 : 15 MAY 2021 : 24
 IND : . RACHANA : race-walking : 29 NOV 2003 : 918 : 26 JAN 2021 : 25

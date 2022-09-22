@@ -2,82 +2,99 @@ KEN : Brigid KOSGEI : marathon : 20 FEB 1994 : 1274 : 06 MAR 2022 : 1
 KEN : Ruth CHEPNGETICH : marathon : 08 AUG 1994 : 1261 : 13 MAR 2022 : 2
 KEN : Angela TANUI : marathon : 27 JUL 1992 : 1247 : 06 MAR 2022 : 3
 KEN : Judith Jeptum KORIR : marathon : 12 DEC 1995 : 1235 : 03 APR 2022 : 4
-KEN : Vivian KIPLAGAT : marathon : 09 NOV 1991 : 1230 : 03 APR 2022 : 5
-GBR : Jess PIASECKI : marathon : 18 APR 1990 : 1208 : 20 FEB 2022 : 6
-KEN : Pamela ROTICH : marathon : 25 DEC 1984 : 1206 : 03 APR 2022 : 7
-KEN : Jackline CHEPNGENO : marathon : 16 JAN 1993 : 1183 : 03 APR 2022 : 8
-AUS : Eloise WELLINGS : marathon : 09 NOV 1982 : 1181 : 13 MAR 2022 : 9
-KEN : Janet RUGURU : marathon : 1993 : 1173 : 03 APR 2022 : 10
-KEN : Judith JERUBET : marathon : 31 AUG 1988 : 1170 : 03 APR 2022 : 11
-GBR : Rose HARVEY : marathon : 25 AUG 1992 : 1159 : 20 FEB 2022 : 12
-KEN : Betty JEPLETING : marathon : 28 JUL 1988 : 1151 : 27 FEB 2022 : 13
-KEN : Tecla KIRONGO : marathon : 05 MAY 1993 : 1149 : 27 FEB 2022 : 14
-KEN : Gladys KIPTOO : marathon :  : 1145 : 27 MAR 2022 : 15
-KEN : Gladys CHEPKURUI : marathon : 17 AUG 1994 : 1143 : 03 APR 2022 : 16
-GBR : Becky BRIGGS : marathon : 02 MAR 2000 : 1142 : 03 APR 2022 : 17
-GBR : Alice WRIGHT : marathon : 03 NOV 1994 : 1141 : 16 JAN 2022 : 18
-KEN : Antonina KWAMBAI : marathon : 01 APR 1992 : 1130 : 20 MAR 2022 : 19
-KEN : Bornes CHEPKIRUI : marathon : 23 NOV 1986 : 1130 : 05 MAR 2022 : 20
-KEN : Flomena CHEPKIACH : marathon :  : 1126 : 03 APR 2022 : 21
-GBR : Naomi MITCHELL : marathon : 24 NOV 1993 : 1124 : 03 APR 2022 : 22
-KEN : Beatrice CHEPTOO : marathon :  : 1122 : 03 APR 2022 : 23
-GBR : Georgina SCHWIENING : marathon : 15 DEC 1994 : 1117 : 03 APR 2022 : 24
-GBR : Sonia THOMAS-SAMUELS : marathon : 16 MAY 1979 : 1108 : 03 APR 2022 : 25
-GBR : Chloe RICHARDSON : marathon : 04 DEC 1993 : 1099 : 03 APR 2022 : 26
-KEN : Martha AKENO : marathon : 15 DEC 1993 : 1093 : 20 MAR 2022 : 27
-GBR : Anna BRACEGIRDLE : marathon : 1994 : 1090 : 03 APR 2022 : 28
-GBR : Emily KEARNEY : marathon : 10 NOV 1995 : 1089 : 16 JAN 2022 : 29
-GBR : Philippa BOWDEN : marathon : 29 MAR 1995 : 1089 : 20 FEB 2022 : 30
-KEN : Naomi Jepkosgei MAIYO : marathon : 05 APR 1989 : 1077 : 12 FEB 2022 : 31
-GBR : Heather SEAWARD : marathon : 1990 : 1077 : 03 APR 2022 : 31
-KEN : Helen JEPKURGAT : marathon : 21 FEB 1989 : 1076 : 10 JAN 2022 : 33
-RWA : Clementine MUKANDANGA : marathon : 08 DEC 1985 : 1064 : 27 FEB 2022 : 34
-GBR : Emma STYLES : marathon :  : 1058 : 03 APR 2022 : 35
-GBR : Stephanie DAVIS : marathon : 26 AUG 1990 : 1058 : 20 FEB 2022 : 36
-KEN : Sharon Jemutai CHEROP : marathon : 16 MAR 1984 : 1055 : 12 FEB 2022 : 37
-KEN : Shelmith NYAWIRA : marathon : 02 NOV 1984 : 1052 : 10 JAN 2022 : 38
-RSA : Stella MARAIS : marathon : 25 NOV 1992 : 1052 : 20 FEB 2022 : 38
-GBR : Sophie WOOD : marathon : 23 JAN 1981 : 1051 : 03 APR 2022 : 40
-KEN : Caroline ROTICH : marathon : 13 MAY 1984 : 1050 : 20 MAR 2022 : 41
-GBR : Sally RATCLIFFE : marathon : 15 APR 1994 : 1041 : 20 FEB 2022 : 42
-TAN : Natalia Elisante SULLE : marathon : 19 JUL 1988 : 1034 : 03 APR 2022 : 43
-KEN : Jane Jelagat SEUREY : marathon : 02 MAR 1986 : 1031 : 12 FEB 2022 : 44
-KEN : Beatrice CHEROP : marathon : 1986 : 1029 : 12 FEB 2022 : 45
-GBR : Victoria KENNY : marathon : 03 JUN 1995 : 1022 : 20 FEB 2022 : 46
-AUS : Milly CLARK : marathon : 01 MAR 1989 : 1021 : 03 APR 2022 : 47
-GBR : Rebecca BUNTING : marathon : 01 APR 1983 : 1019 : 03 APR 2022 : 48
-GBR : Elizabeth RENONDEAU : marathon : 31 MAY 1979 : 1016 : 03 APR 2022 : 49
-KEN : Euliter TANUI : marathon : 15 MAY 1991 : 1005 : 12 FEB 2022 : 50
-GBR : Laura THOMAS : marathon : 22 MAY 1993 : 1004 : 03 APR 2022 : 51
-GBR : Anya CULLING : marathon :  : 1002 : 27 MAR 2022 : 52
-AUS : Melissah GIBSON : marathon : 1984 : 1001 : 20 FEB 2022 : 53
-KEN : Caren CHEPEOCK : marathon :  : 998 : 12 FEB 2022 : 54
-GBR : Vicky FOUHY : marathon : 07 JAN 1990 : 996 : 03 APR 2022 : 55
-GBR : Carla MOLINARO : marathon : 27 JUL 1984 : 979 : 20 FEB 2022 : 56
-GBR : Gemma HILLIER : marathon : 19 JUN 1988 : 975 : 03 APR 2022 : 57
-GBR : Holly RUSH : marathon : 23 SEP 1977 : 973 : 03 APR 2022 : 58
-GBR : Hannah LORD : marathon :  : 972 : 03 APR 2022 : 59
-KEN : Valentine KIPKETER : marathon : 05 JAN 1993 : 971 : 05 MAR 2022 : 60
-GBR : Charlie HANSON : marathon :  : 960 : 03 APR 2022 : 61
-MLT : Lisa Marie BEZZINA : marathon : 05 NOV 1979 : 954 : 20 FEB 2022 : 62
-GBR : TAMSIN ANDERSON : marathon :  : 944 : 20 FEB 2022 : 63
-NZL : Lisa CROSS : marathon : 09 MAR 1983 : 937 : 23 JAN 2022 : 64
-CAN : Ailsa MACDONALD : marathon :  : 935 : 20 MAR 2022 : 65
-GBR : Hannah OLDROYD : marathon : 27 MAY 1987 : 919 : 23 JAN 2022 : 66
-IND : Arati PATIL : marathon : 26 MAR 1997 : 913 : 10 JAN 2022 : 67
-GBR : Sarah GURNEY : marathon :  : 911 : 20 FEB 2022 : 68
-IND : Jyoti GAWATE : marathon : 22 FEB 1987 : 906 : 10 JAN 2022 : 69
-GBR : Rachel STRINGER : marathon : 28 FEB 1990 : 905 : 03 APR 2022 : 70
-RSA : Ann ASWORTH : marathon :  : 903 : 06 MAR 2022 : 71
-RSA : Kate REES : marathon : 10 JAN 1978 : 901 : 20 FEB 2022 : 72
-GBR : Gillian SANDERS : marathon :  : 898 : 20 FEB 2022 : 73
-GBR : Katie LYSONS : marathon :  : 890 : 20 FEB 2022 : 74
-RSA : Cornelia JOUBERT : marathon : 22 JUN 1988 : 890 : 06 MAR 2022 : 75
-RSA : Renata VOSLOO : marathon : 20 JUN 1983 : 886 : 06 MAR 2022 : 76
-GBR : Karla BORLAND : marathon :  : 884 : 20 FEB 2022 : 77
-SGP : Jasmine LING : marathon :  : 882 : 20 FEB 2022 : 78
-RSA : Jeannie HENDERSON : marathon : 25 SEP 1979 : 882 : 20 FEB 2022 : 79
-CAN : Jen ELLIOTT : marathon :  : 868 : 20 MAR 2022 : 80
-RSA : Charné BOSMAN : marathon : 06 NOV 1975 : 867 : 06 MAR 2022 : 81
-RSA : Danette SMITH WALLEY : marathon : 13 DEC 1988 : 864 : 20 FEB 2022 : 82
-RSA : Sarah SILBER : marathon :  : 863 : 20 FEB 2022 : 83
+KEN : Celestine CHEPCHIRCHIR : marathon : 18 DEC 1995 : 1232 : 17 APR 2022 : 5
+KEN : Vivian KIPLAGAT : marathon : 09 NOV 1991 : 1230 : 03 APR 2022 : 6
+KEN : Vibian CHEPKURUI : marathon : 05 JUN 1994 : 1223 : 24 APR 2022 : 7
+KEN : Ruth CHEBITOK : marathon : 26 DEC 1990 : 1223 : 24 APR 2022 : 8
+KEN : Maurine CHEPKEMOI : marathon : 24 MAY 1998 : 1221 : 24 APR 2022 : 9
+GBR : Jess PIASECKI : marathon : 18 APR 1990 : 1208 : 20 FEB 2022 : 10
+KEN : Pamela ROTICH : marathon : 25 DEC 1984 : 1206 : 03 APR 2022 : 11
+KEN : Sheila JEROTICH : marathon : 06 JUN 1989 : 1202 : 24 APR 2022 : 12
+KEN : Philomena CHEYECH : marathon : 05 JUL 1982 : 1194 : 24 APR 2022 : 13
+KEN : Helah Jelagat KIPROP : marathon : 07 APR 1985 : 1191 : 15 MAY 2022 : 14
+KEN : Jackline CHEPNGENO : marathon : 16 JAN 1993 : 1183 : 03 APR 2022 : 15
+KEN : Agnes KEINO : marathon : 17 JAN 1988 : 1181 : 15 MAY 2022 : 16
+AUS : Eloise WELLINGS : marathon : 09 NOV 1982 : 1181 : 13 MAR 2022 : 17
+KEN : Purity CHANGWONY : marathon : 1990 : 1181 : 08 MAY 2022 : 18
+KEN : Janet RUGURU : marathon : 1993 : 1173 : 03 APR 2022 : 19
+KEN : Caroline JEPCHIRCHIR : marathon :  : 1171 : 24 APR 2022 : 20
+KEN : Judith JERUBET : marathon : 31 AUG 1988 : 1170 : 03 APR 2022 : 21
+UGA : Linet Toroitich CHEBET : marathon : 04 NOV 1992 : 1169 : 24 APR 2022 : 22
+KEN : Gladys CHESIR : marathon : 20 FEB 1993 : 1167 : 15 MAY 2022 : 23
+GBR : Rose HARVEY : marathon : 25 AUG 1992 : 1159 : 20 FEB 2022 : 24
+KEN : Naom JEBET : marathon : 05 APR 1994 : 1152 : 24 APR 2022 : 25
+KEN : Cynthia KOSGEI : marathon : 12 DEC 1993 : 1152 : 17 APR 2022 : 26
+KEN : Betty JEPLETING : marathon : 28 JUL 1988 : 1151 : 27 FEB 2022 : 27
+KEN : Lilian CHEMWENO : marathon : 22 OCT 1995 : 1149 : 17 APR 2022 : 28
+KEN : Tecla KIRONGO : marathon : 05 MAY 1993 : 1149 : 27 FEB 2022 : 29
+KEN : Brenda KIPRONO : marathon :  : 1148 : 24 APR 2022 : 30
+KEN : Marion KIBOR : marathon : 27 SEP 1994 : 1147 : 15 MAY 2022 : 31
+KEN : Gladys KIPTOO : marathon :  : 1145 : 27 MAR 2022 : 32
+KEN : Prisca JEPTOO : marathon : 24 JUN 1984 : 1144 : 24 APR 2022 : 33
+KEN : Gladys CHEPKURUI : marathon : 17 AUG 1994 : 1143 : 03 APR 2022 : 34
+GBR : Becky BRIGGS : marathon : 02 MAR 2000 : 1142 : 03 APR 2022 : 35
+GBR : Alice WRIGHT : marathon : 03 NOV 1994 : 1141 : 16 JAN 2022 : 36
+KEN : Caroline Cheptanui KILEL : marathon : 21 MAR 1981 : 1138 : 24 APR 2022 : 37
+KEN : Risper CHEBET : marathon : 06 JUN 1992 : 1134 : 08 MAY 2022 : 38
+CAN : Kinsey MIDDLETON : marathon : 22 NOV 1992 : 1131 : 29 MAY 2022 : 39
+KEN : Antonina KWAMBAI : marathon : 01 APR 1992 : 1130 : 20 MAR 2022 : 40
+KEN : Bornes CHEPKIRUI : marathon : 23 NOV 1986 : 1130 : 05 MAR 2022 : 41
+KEN : Violet JELAGAT : marathon : 30 JUL 1993 : 1126 : 24 APR 2022 : 42
+KEN : Flomena CHEPKIACH : marathon :  : 1126 : 03 APR 2022 : 43
+KEN : Daisy CHEROTICH : marathon : 30 MAY 1997 : 1126 : 10 APR 2022 : 43
+AUS : Sarah KLEIN : marathon : 19 APR 1985 : 1125 : 03 APR 2022 : 45
+KEN : Selly Chepyego KAPTICH : marathon : 03 OCT 1985 : 1124 : 17 APR 2022 : 46
+GBR : Naomi MITCHELL : marathon : 24 NOV 1993 : 1124 : 03 APR 2022 : 47
+KEN : Helen JEPKURGAT : marathon : 21 FEB 1989 : 1124 : 17 APR 2022 : 47
+KEN : Beatrice CHEPTOO : marathon :  : 1122 : 03 APR 2022 : 49
+KEN : Euliter TANUI : marathon : 15 MAY 1991 : 1120 : 24 APR 2022 : 50
+UGA : Rebecca CHEPTEGEI : marathon : 22 FEB 1991 : 1119 : 24 APR 2022 : 51
+GBR : Georgina SCHWIENING : marathon : 15 DEC 1994 : 1117 : 03 APR 2022 : 52
+KEN : Abigael JEPKEMBOI : marathon :  : 1116 : 15 MAY 2022 : 53
+KEN : Teresiah OMOSA : marathon : 05 FEB 1995 : 1116 : 24 APR 2022 : 54
+KEN : Pauline Chemning KORIKWIANG : marathon : 01 MAR 1988 : 1110 : 04 JUN 2022 : 55
+GBR : Sonia THOMAS-SAMUELS : marathon : 16 MAY 1979 : 1108 : 03 APR 2022 : 56
+KEN : Sharon CHELIMO : marathon : 27 JUL 1994 : 1103 : 15 MAY 2022 : 57
+KEN : Anne BERERWE : marathon : 04 NOV 1982 : 1101 : 17 APR 2022 : 58
+GBR : Chloe RICHARDSON : marathon : 04 DEC 1993 : 1099 : 03 APR 2022 : 59
+CAN : Élissa LEGAULT : marathon : 1994 : 1099 : 29 MAY 2022 : 60
+KEN : Mercy KWAMBAU : marathon :  : 1096 : 04 JUN 2022 : 61
+KEN : Martha AKENO : marathon : 15 DEC 1993 : 1093 : 20 MAR 2022 : 62
+GBR : Anna BRACEGIRDLE : marathon : 1994 : 1090 : 03 APR 2022 : 63
+KEN : Shauline CHEPKIRUI : marathon : 1991 : 1090 : 17 APR 2022 : 64
+KEN : Salina JEBET : marathon : 11 DEC 1986 : 1089 : 17 APR 2022 : 65
+GBR : Emily KEARNEY : marathon : 10 NOV 1995 : 1089 : 16 JAN 2022 : 66
+GBR : Philippa BOWDEN : marathon : 29 MAR 1995 : 1089 : 20 FEB 2022 : 67
+KEN : Judith CHERONO : marathon : 29 NOV 1994 : 1087 : 04 JUN 2022 : 68
+KEN : Margaret AGAI : marathon : 10 JUN 1988 : 1080 : 29 MAY 2022 : 69
+KEN : Naomi Jepkosgei MAIYO : marathon : 05 APR 1989 : 1077 : 12 FEB 2022 : 70
+GBR : Heather SEAWARD : marathon : 1990 : 1077 : 03 APR 2022 : 70
+KEN : Rebecca KORIR : marathon : 12 AUG 1992 : 1072 : 29 MAY 2022 : 72
+CAN : Dayna PIDHORESKY : marathon : 18 NOV 1986 : 1071 : 29 MAY 2022 : 73
+KEN : Lydia WAFULA : marathon : 15 FEB 1988 : 1069 : 17 APR 2022 : 74
+KEN : Pascalia JEPKOGEI : marathon :  : 1067 : 15 MAY 2022 : 75
+RWA : Clementine MUKANDANGA : marathon : 08 DEC 1985 : 1064 : 27 FEB 2022 : 76
+KEN : Betty CHEPKWONY : marathon : 26 APR 1995 : 1063 : 04 JUN 2022 : 77
+KEN : Esther CHESANG KAKURI : marathon : 26 OCT 1994 : 1060 : 04 JUN 2022 : 78
+GBR : Emma STYLES : marathon :  : 1058 : 03 APR 2022 : 79
+GBR : Stephanie DAVIS : marathon : 26 AUG 1990 : 1058 : 20 FEB 2022 : 80
+KEN : Sharon Jemutai CHEROP : marathon : 16 MAR 1984 : 1055 : 12 FEB 2022 : 81
+KEN : Rodah JEPKORIR : marathon : 23 APR 1991 : 1053 : 24 APR 2022 : 82
+KEN : Shelmith NYAWIRA : marathon : 02 NOV 1984 : 1052 : 10 JAN 2022 : 83
+RSA : Stella MARAIS : marathon : 25 NOV 1992 : 1052 : 20 FEB 2022 : 83
+GBR : Sophie WOOD : marathon : 23 JAN 1981 : 1051 : 03 APR 2022 : 85
+NZL : Hannah MILLER : marathon : 21 NOV 1997 : 1050 : 05 MAR 2022 : 86
+KEN : Caroline ROTICH : marathon : 13 MAY 1984 : 1050 : 20 MAR 2022 : 86
+KEN : Rita Jeptoo SITIENEI : marathon : 15 FEB 1981 : 1043 : 29 MAY 2022 : 88
+KEN : Caroline CHEPKWONY : marathon : 24 JUL 1985 : 1041 : 04 JUN 2022 : 89
+GBR : Sally RATCLIFFE : marathon : 15 APR 1994 : 1041 : 20 FEB 2022 : 90
+CAN : Lanni MARCHANT : marathon : 11 APR 1984 : 1039 : 29 MAY 2022 : 91
+MRI : Marie PERRIER : marathon : 30 MAR 1995 : 1039 : 08 MAY 2022 : 92
+TAN : Natalia Elisante SULLE : marathon : 19 JUL 1988 : 1034 : 03 APR 2022 : 93
+KEN : Alice CHERONO : marathon : 09 NOV 1993 : 1032 : 24 APR 2022 : 94
+KEN : Jane Jelagat SEUREY : marathon : 02 MAR 1986 : 1031 : 12 FEB 2022 : 95
+KEN : Beatrice CHEROP : marathon : 1986 : 1029 : 12 FEB 2022 : 96
+KEN : Bency CHERIYUOT : marathon :  : 1026 : 24 APR 2022 : 97
+AUS : Marina WONG : marathon : 14 DEC 1978 : 1026 : 10 APR 2022 : 98
+KEN : Lydia Njeri MATHATHI : marathon : 11 NOV 1985 : 1025 : 24 APR 2022 : 99
+GBR : Victoria KENNY : marathon : 03 JUN 1995 : 1022 : 20 FEB 2022 : 100

@@ -67,7 +67,7 @@ TTO : Diamond Rose THOMAS : discus-throw : 20 SEP 1996 : 872 : 12 JUN 2021 : 66
 GBR : Zara OBAMAKINWA : discus-throw : 30 MAR 2004 : 870 : 28 AUG 2021 : 67
 GBR : Kathryn WOODCOCK : discus-throw : 29 APR 1997 : 870 : 13 JUN 2021 : 68
 IND : Suravi BISWAS : discus-throw : 13 OCT 1997 : 869 : 18 FEB 2021 : 69
-CYP : Paraskevi THRASYBOLOU : discus-throw : 21 FEB 1994 : 867 : 22 MAY 2021 : 70
+CYP : Paraskeovulla THRASYVOULOU : discus-throw : 21 FEB 1994 : 867 : 22 MAY 2021 : 70
 GBR : Adele NICOLL : discus-throw : 28 SEP 1996 : 864 : 14 AUG 2021 : 71
 IND : Gurveer KAUR : discus-throw : 19 OCT 1995 : 863 : 19 SEP 2021 : 72
 AUS : Hannah EDWARDS : discus-throw : 2005 : 861 : 11 JUL 2021 : 73
@@ -88,13 +88,13 @@ AUS : Samantha PEACE : discus-throw : 22 NOV 1998 : 837 : 17 JAN 2021 : 87
 NZL : Zharna BEATTIE : discus-throw : 01 OCT 2002 : 835 : 27 MAR 2021 : 88
 RSA : Lesedi KHUNOU : discus-throw : 04 AUG 2004 : 833 : 17 APR 2021 : 89
 GBR : Luisa CHANTLER EDMOND : discus-throw : 07 JUN 1999 : 833 : 01 MAY 2021 : 89
-CYP : Paraskeovulla THRASYVOULOU : discus-throw : 21 FEB 1994 : 832 : 28 APR 2021 : 91
-GBR : Sophie MACE : discus-throw : 07 OCT 1998 : 831 : 11 SEP 2021 : 92
-NGR : Onome OGBENI : discus-throw : 17 JUN 2001 : 829 : 20 MAR 2021 : 93
-GBR : Heather CUBBAGE : discus-throw : 20 JAN 2001 : 829 : 13 JUN 2021 : 94
-JAM : Adrienne ADAMS : discus-throw : 30 JAN 2000 : 828 : 24 APR 2021 : 95
-IND : Sunita DEVI : discus-throw : 20 MAR 2000 : 828 : 28 SEP 2021 : 95
-IND : . GARIMA : discus-throw : 18 JUL 2002 : 826 : 07 FEB 2021 : 97
-CAN : Julianna THOMSON : discus-throw : 20 AUG 1998 : 826 : 15 MAY 2021 : 97
-GBR : Emma BOTHAM : discus-throw : 2001 : 826 : 04 JUL 2021 : 99
-RSA : Zonica LINDEQUE : discus-throw : 23 FEB 2004 : 825 : 13 MAR 2021 : 100
+GBR : Sophie MACE : discus-throw : 07 OCT 1998 : 831 : 11 SEP 2021 : 91
+NGR : Onome OGBENI : discus-throw : 17 JUN 2001 : 829 : 20 MAR 2021 : 92
+GBR : Heather CUBBAGE : discus-throw : 20 JAN 2001 : 829 : 13 JUN 2021 : 93
+JAM : Adrienne ADAMS : discus-throw : 30 JAN 2000 : 828 : 24 APR 2021 : 94
+IND : Sunita DEVI : discus-throw : 20 MAR 2000 : 828 : 28 SEP 2021 : 94
+IND : . GARIMA : discus-throw : 18 JUL 2002 : 826 : 07 FEB 2021 : 96
+CAN : Julianna THOMSON : discus-throw : 20 AUG 1998 : 826 : 15 MAY 2021 : 96
+GBR : Emma BOTHAM : discus-throw : 2001 : 826 : 04 JUL 2021 : 98
+RSA : Zonica LINDEQUE : discus-throw : 23 FEB 2004 : 825 : 13 MAR 2021 : 99
+AUS : Jessica SIVIOUR : discus-throw : 19 DEC 1998 : 824 : 24 FEB 2021 : 100

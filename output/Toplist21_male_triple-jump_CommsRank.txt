@@ -31,7 +31,7 @@ JAM : Apalos EDWARDS : triple-jump : 18 OCT 2001 : 1086 : 06 MAR 2021 : 29
 NGR : Ineh Emmeanuel ORITSEMEYIWA : triple-jump : 17 MAR 2001 : 1067 : 26 MAR 2021 : 31
 SRI : T.G.Vinod SANDARUWAN : triple-jump :  : 1073 : 09 APR 2021 : 31
 GBR : Julian REID : triple-jump : 23 SEP 1988 : 1066 : 23 MAY 2021 : 33
-NGR : Chidozie Ikenga KALU : triple-jump : 2001 : 1065 : 10 APR 2021 : 34
+NGR : Chidozie Ikenga KALU : triple-jump : 31 MAR 2001 : 1065 : 10 APR 2021 : 34
 BAR : Jadon BROME : triple-jump : 21 FEB 2000 : 1064 : 16 MAY 2021 : 35
 BAH : LaQuan NAIRN : triple-jump : 31 JUL 1996 : 1064 : 28 MAY 2021 : 35
 BAH : Latario COLLIE-MINNS : triple-jump : 10 MAR 1994 : 1064 : 27 JUN 2021 : 35
@@ -93,7 +93,7 @@ JAM : Jhavor BENNETT : triple-jump : 19 MAR 2002 : 1012 : 14 MAY 2021 : 91
 JAM : Safin WILLS : triple-jump : 21 AUG 2000 : 1012 : 16 MAY 2021 : 91
 BOT : Norman CHIBANE : triple-jump : 1999 : 1012 : 16 MAY 2021 : 91
 IND : P. Kapil ANAND : triple-jump : 31 DEC 1995 : 1011 : 18 SEP 2021 : 95
-RSA : Ethan OLIVIER : triple-jump :  : 1010 : 16 APR 2021 : 96
+NZL : Ethan OLIVIER : triple-jump : 07 AUG 2005 : 1010 : 16 APR 2021 : 96
 GBR : Aidan QUINN : triple-jump : 10 FEB 2000 : 1010 : 15 MAY 2021 : 96
 JAM : Tevin DUNN : triple-jump : 1998 : 1008 : 13 MAR 2021 : 98
 IND : V. DINESH : triple-jump : 03 MAY 1997 : 1008 : 18 SEP 2021 : 98

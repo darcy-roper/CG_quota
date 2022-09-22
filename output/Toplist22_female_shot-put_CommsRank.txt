@@ -1,100 +1,100 @@
-NZL : Maddison-Lee WESCHE : shot-put : 13 JUN 1999 : 1151 : 06 MAR 2022 : 1
-CAN : Sarah MITTON : shot-put : 20 JUN 1996 : 1136 : 05 MAR 2022 : 2
-GBR : Divine OLADIPO : shot-put : 05 OCT 1998 : 1047 : 02 APR 2022 : 3
-CAN : Brittany CREW : shot-put : 06 MAR 1994 : 1034 : 25 MAR 2022 : 4
-NGR : Orobosa Anabel FRANK : shot-put : 08 DEC 1991 : 1033 : 13 MAR 2022 : 5
-RSA : Miné DE KLERK : shot-put : 30 MAR 2003 : 1032 : 02 APR 2022 : 6
-IND : Abha KHATUA : shot-put : 09 JUL 1995 : 1028 : 13 MAR 2022 : 7
-GBR : Amelia STRICKLER : shot-put : 24 JAN 1994 : 1014 : 12 MAR 2022 : 8
-IND : Manpreet KAUR : shot-put : 06 JUL 1990 : 1006 : 13 MAR 2022 : 9
-IND : Manpreet KAUR : shot-put : 05 MAR 1996 : 1004 : 27 FEB 2022 : 10
-JAM : Danielle SLOLEY : shot-put : 17 JUN 2001 : 962 : 25 MAR 2022 : 11
-RSA : Meike STRYDOM : shot-put : 25 AUG 2000 : 957 : 12 FEB 2022 : 12
-NZL : Tapenisa HAVEA : shot-put : 19 APR 2003 : 956 : 06 MAR 2022 : 13
-GBR : Serena VINCENT : shot-put : 05 DEC 2001 : 946 : 12 MAR 2022 : 14
-RSA : Collette UYS : shot-put : 20 APR 2000 : 939 : 19 MAR 2022 : 15
-JAM : Gabrielle BAILEY : shot-put : 19 OCT 1998 : 934 : 24 MAR 2022 : 16
-GRN : Kelsie MURREL-ROSS : shot-put : 09 JUN 2002 : 929 : 19 MAR 2022 : 17
-CAY : Lacee BARNES : shot-put : 19 AUG 1999 : 929 : 02 APR 2022 : 18
-RSA : Dane ROETS : shot-put : 16 JAN 2002 : 927 : 12 FEB 2022 : 19
-JAM : Kadian CLARKE : shot-put : 06 AUG 1998 : 927 : 26 MAR 2022 : 19
-CAN : Grace TENNANT : shot-put : 02 FEB 1999 : 922 : 24 MAR 2022 : 21
-AUS : Lyvante SU'EMAI : shot-put : 12 DEC 2002 : 920 : 01 APR 2022 : 22
-NAM : Tuane SILVER : shot-put : 17 MAY 2004 : 911 : 09 FEB 2022 : 23
-JAM : Janell FULLERTON : shot-put : 17 JUL 1997 : 907 : 19 MAR 2022 : 24
-GBR : Nana GYEDU : shot-put : 04 NOV 2002 : 906 : 02 APR 2022 : 25
-RSA : Zonica LINDEQUE : shot-put : 23 FEB 2004 : 902 : 09 FEB 2022 : 26
-NGR : Princess KARA : shot-put : 02 JUN 2000 : 897 : 26 MAR 2022 : 27
-IND : Kachnar CHAUDHARY : shot-put : 17 MAY 1999 : 892 : 03 APR 2022 : 28
-JAM : Fiona RICHARDS : shot-put : 20 NOV 1998 : 892 : 02 APR 2022 : 29
-NZL : Natalia RANKIN-CHITAR : shot-put : 11 MAR 2004 : 888 : 20 FEB 2022 : 30
-IND : . YOGITA : shot-put : 01 NOV 2000 : 884 : 22 FEB 2022 : 31
-JAM : Alieasha SHAW : shot-put : 04 SEP 2000 : 879 : 02 APR 2022 : 32
-RSA : Cellonika VAN DER BERG : shot-put : 20 JAN 2006 : 878 : 02 MAR 2022 : 33
-IND : Yogita KUMAR : shot-put :  : 874 : 13 MAR 2022 : 34
-JAM : Britannia JOHNSON : shot-put : 03 JUL 2004 : 874 : 11 MAR 2022 : 35
-GBR : Sarah OMOREGIE : shot-put : 02 APR 2000 : 873 : 17 MAR 2022 : 36
-AUS : Emma BERG : shot-put : 19 FEB 2001 : 871 : 20 FEB 2022 : 37
-IND : V. AMBIKA : shot-put : 13 APR 2000 : 866 : 22 FEB 2022 : 38
-GBR : Teddy TEHOUDJA : shot-put : 27 MAR 2003 : 856 : 13 MAR 2022 : 39
-GRN : Jamora ALVES : shot-put : 12 SEP 2003 : 849 : 19 FEB 2022 : 40
-RSA : Juanita DE NECKER : shot-put : 10 JUL 2002 : 846 : 12 FEB 2022 : 41
-GBR : Olivia DOBSON : shot-put : 27 MAR 2001 : 844 : 26 MAR 2022 : 42
-IND : P.S UMA : shot-put : 15 NOV 1996 : 844 : 31 MAR 2022 : 42
-RSA : Bodine DEGLI UMBERTI : shot-put : 31 JAN 2002 : 842 : 25 MAR 2022 : 44
-IND : . REKHA : shot-put : 24 JAN 1999 : 842 : 22 FEB 2022 : 45
-JAM : Samantha HALL : shot-put : 19 APR 1993 : 841 : 19 MAR 2022 : 46
-TTO : Ianna ROACH : shot-put : 17 JAN 2000 : 837 : 19 MAR 2022 : 47
-IND : Jasmine KAUR : shot-put : 11 FEB 2003 : 830 : 22 FEB 2022 : 48
-NZL : Lauren BRUCE : shot-put : 23 MAR 1997 : 827 : 30 JAN 2022 : 49
-AUS : Sally SHOKRY : shot-put : 14 APR 2002 : 825 : 19 FEB 2022 : 50
-IND : Ramneet KAUR : shot-put : 28 DEC 2003 : 825 : 23 MAR 2022 : 50
-IND : . REKHA : shot-put : 02 FEB 2001 : 824 : 21 FEB 2022 : 52
-RSA : Mia VAN OUDSTHOORN : shot-put :  : 823 : 05 MAR 2022 : 53
-IND : Poorna RAORANE : shot-put : 26 DEC 2000 : 818 : 02 APR 2022 : 54
-AUS : Sinead DU TOIT : shot-put : 05 DEC 2001 : 812 : 04 FEB 2022 : 55
-CYP : Paraskeovulla THRASYVOULOU : shot-put : 21 FEB 1994 : 812 : 04 MAR 2022 : 56
-JAM : Rochele SOLMON : shot-put : 06 AUG 2004 : 811 : 16 MAR 2022 : 57
-AUS : Alysha BURNETT : shot-put : 04 JAN 1997 : 809 : 19 FEB 2022 : 58
-CAN : Dolly GABRI : shot-put : 09 SEP 2001 : 807 : 18 MAR 2022 : 59
-AUS : Kaitlyn COULTER : shot-put : 15 DEC 2004 : 807 : 26 MAR 2022 : 60
-JAM : Daveina WATSON : shot-put : 29 NOV 2001 : 806 : 02 APR 2022 : 61
-IND : Anamika DAS : shot-put : 28 MAR 1999 : 804 : 31 MAR 2022 : 62
-AUS : Sarah THORPE : shot-put : 08 JUN 1999 : 803 : 12 MAR 2022 : 63
-GBR : Mhairi PORTERFIELD-WALTERS : shot-put : 19 JUN 1981 : 803 : 13 MAR 2022 : 63
-SRI : Kumudumali FERNANDO : shot-put : 13 OCT 1990 : 802 : 10 MAR 2022 : 65
-GBR : Emma DAKIN : shot-put : 25 DEC 1999 : 801 : 03 APR 2022 : 66
-JAM : Leonie SAMUELS : shot-put : 11 SEP 2001 : 801 : 05 MAR 2022 : 67
-NZL : TeRina KEENAN : shot-put : 29 SEP 1990 : 797 : 05 FEB 2022 : 68
-GBR : Samantha CALLAWAY : shot-put : 04 MAR 2002 : 796 : 19 MAR 2022 : 69
-AUS : Alysha PEARSON : shot-put : 15 JUN 2002 : 795 : 12 MAR 2022 : 70
-JAM : Shania SCOTT : shot-put : 04 FEB 2000 : 795 : 18 MAR 2022 : 70
-IND : Divya JEETHBHAD : shot-put : 30 APR 1992 : 794 : 27 FEB 2022 : 72
-JAM : Britannie JOHNSON : shot-put : 03 JUL 2004 : 791 : 11 MAR 2022 : 73
-JAM : Tafada WRIGHT : shot-put : 01 DEC 2003 : 791 : 19 FEB 2022 : 74
-AUS : Rebecca LODGE : shot-put : 25 MAR 1994 : 789 : 20 FEB 2022 : 75
-JAM : Shadae LAWRENCE : shot-put : 31 DEC 1995 : 788 : 29 JAN 2022 : 76
-AUS : Marley RAIKIWASA : shot-put : 07 AUG 2005 : 788 : 20 FEB 2022 : 76
-KEN : Sarah OTIENO : shot-put : 1996 : 788 : 04 MAR 2022 : 76
-JAM : Johnelle JOHNSON : shot-put : 29 AUG 2000 : 788 : 26 MAR 2022 : 79
-BIZ : Sylvester MIA : shot-put : 27 SEP 2004 : 786 : 06 MAR 2022 : 80
-AUS : Tahlee FERGUSON : shot-put : 21 JUL 2003 : 786 : 05 MAR 2022 : 81
-NGR : Judith Anulika ANIEFUNA : shot-put : 19 MAY 1996 : 786 : 13 MAR 2022 : 81
-NZL : Lexi MAPLES : shot-put : 17 DEC 1999 : 785 : 06 MAR 2022 : 83
-JAM : Cedricka WILLIAMS : shot-put : 02 JUN 2004 : 784 : 19 FEB 2022 : 84
-AUS : Sina WILDRAUT : shot-put : 02 NOV 1999 : 781 : 01 APR 2022 : 85
-IND : Jyoti VAISHNAV : shot-put : 26 JAN 2004 : 780 : 27 FEB 2022 : 86
-CAN : Shiloh CORRALES NELSON : shot-put : 2001 : 780 : 26 MAR 2022 : 87
-JAM : Monifa EDWARDS : shot-put : 02 OCT 2002 : 779 : 16 MAR 2022 : 88
-NGR : Onome OGBENI : shot-put : 17 JUN 2001 : 779 : 03 APR 2022 : 88
-RSA : Lesedi KHUNOU : shot-put : 04 AUG 2004 : 778 : 09 FEB 2022 : 90
-AUS : Isabella HIPPEL : shot-put : 14 JAN 2004 : 778 : 20 FEB 2022 : 90
-IND : Prity CHAKRABORTY : shot-put : 30 MAR 2002 : 778 : 22 FEB 2022 : 90
-CAN : Biniosa EZUKUSE : shot-put : 2002 : 775 : 26 MAR 2022 : 93
-JAM : Shakera WILLIAMS : shot-put : 17 FEB 2001 : 772 : 02 APR 2022 : 94
-JAM : Natalie ALBERT : shot-put : 14 JUL 2003 : 772 : 19 FEB 2022 : 95
-GBR : Ellen BARBER : shot-put : 05 DEC 1997 : 772 : 02 APR 2022 : 95
-RSA : Savannah VISSER : shot-put : 03 JAN 2006 : 771 : 22 JAN 2022 : 97
-IND : Suravi BISWAS : shot-put : 13 OCT 1997 : 771 : 31 MAR 2022 : 97
-BAH : Canitra MACKEY : shot-put : 28 SEP 2002 : 771 : 02 APR 2022 : 97
-JAM : Juliet SMITH : shot-put : 11 JUN 2004 : 770 : 19 MAR 2022 : 100
+CAN : Sarah MITTON : shot-put : 20 JUN 1996 : 1181 : 07 MAY 2022 : 1
+JAM : Danniel THOMAS-DODD : shot-put : 11 NOV 1992 : 1178 : 21 MAY 2022 : 2
+NZL : Maddison-Lee WESCHE : shot-put : 13 JUN 1999 : 1151 : 06 MAR 2022 : 3
+JAM : Lloydricia CAMERON : shot-put : 08 APR 1996 : 1083 : 05 JUN 2022 : 4
+GBR : Divine OLADIPO : shot-put : 05 OCT 1998 : 1081 : 13 MAY 2022 : 5
+GBR : Amelia STRICKLER : shot-put : 24 JAN 1994 : 1077 : 16 APR 2022 : 6
+TTO : Portious WARREN : shot-put : 02 MAR 1996 : 1072 : 19 MAY 2022 : 7
+CAN : Brittany CREW : shot-put : 06 MAR 1994 : 1034 : 25 MAR 2022 : 8
+NGR : Orobosa Anabel FRANK : shot-put : 08 DEC 1991 : 1033 : 13 MAR 2022 : 9
+RSA : Miné DE KLERK : shot-put : 30 MAR 2003 : 1032 : 02 APR 2022 : 10
+GBR : Sophie MCKINNA : shot-put : 31 AUG 1994 : 1031 : 06 JUN 2022 : 11
+IND : Abha KHATUA : shot-put : 09 JUL 1995 : 1028 : 13 MAR 2022 : 12
+JAM : Gabrielle BAILEY : shot-put : 19 OCT 1998 : 1021 : 13 MAY 2022 : 13
+IND : Manpreet KAUR : shot-put : 05 MAR 1996 : 1018 : 19 MAR 2022 : 14
+IND : Manpreet KAUR : shot-put : 06 JUL 1990 : 1008 : 21 MAY 2022 : 15
+JAM : Devia BROWN : shot-put : 21 MAR 1998 : 1003 : 23 APR 2022 : 16
+GBR : Adele NICOLL : shot-put : 28 SEP 1996 : 1003 : 04 MAY 2022 : 17
+CAN : Grace TENNANT : shot-put : 02 FEB 1999 : 985 : 13 MAY 2022 : 18
+RSA : Ischke SENEKAL : shot-put : 08 JAN 1993 : 983 : 08 JUN 2022 : 19
+TGA : Ata Maama TUUTAFAIVA : shot-put : 25 MAY 1997 : 976 : 07 JUN 2022 : 20
+GBR : Serena VINCENT : shot-put : 05 DEC 2001 : 975 : 22 MAY 2022 : 21
+JAM : Janell FULLERTON : shot-put : 17 JUL 1997 : 972 : 07 MAY 2022 : 22
+GBR : Sarah OMOREGIE : shot-put : 02 APR 2000 : 964 : 23 APR 2022 : 23
+JAM : Danielle SLOLEY : shot-put : 17 JUN 2001 : 962 : 25 MAR 2022 : 24
+AUS : Lyvante SU'EMAI : shot-put : 12 DEC 2002 : 962 : 01 MAY 2022 : 24
+IND : Srishti VIG : shot-put : 15 JUL 1995 : 962 : 12 MAY 2022 : 24
+GRN : Kelsie MURREL-ROSS : shot-put : 09 JUN 2002 : 958 : 22 APR 2022 : 27
+RSA : Meike STRYDOM : shot-put : 25 AUG 2000 : 957 : 12 FEB 2022 : 28
+NZL : Tapenisa HAVEA : shot-put : 19 APR 2003 : 956 : 06 MAR 2022 : 29
+RSA : Zonica LINDEQUE : shot-put : 23 FEB 2004 : 945 : 08 JUN 2022 : 30
+RSA : Collette UYS : shot-put : 20 APR 2000 : 939 : 19 MAR 2022 : 31
+JAM : Kadian CLARKE : shot-put : 06 AUG 1998 : 935 : 02 APR 2022 : 32
+RSA : Ashley ERASMUS : shot-put : 07 JUN 2005 : 934 : 13 APR 2022 : 33
+CAY : Lacee BARNES : shot-put : 19 AUG 1999 : 929 : 02 APR 2022 : 34
+RSA : Dane ROETS : shot-put : 16 JAN 2002 : 927 : 12 FEB 2022 : 35
+GBR : Nana GYEDU : shot-put : 04 NOV 2002 : 917 : 30 APR 2022 : 36
+NGR : Ashley ANUMBA : shot-put : 11 JUN 1999 : 914 : 08 APR 2022 : 37
+NAM : Tuane SILVER : shot-put : 17 MAY 2004 : 911 : 09 FEB 2022 : 38
+NGR : Onome OGBENI : shot-put : 17 JUN 2001 : 906 : 03 APR 2022 : 39
+JAM : Alieasha SHAW : shot-put : 04 SEP 2000 : 902 : 13 MAY 2022 : 40
+GBR : Eden FRANCIS : shot-put : 19 OCT 1988 : 902 : 02 JUN 2022 : 40
+AUS : Emma BERG : shot-put : 19 FEB 2001 : 899 : 07 JUN 2022 : 42
+NGR : Princess KARA : shot-put : 02 JUN 2000 : 897 : 26 MAR 2022 : 43
+IND : Kachnar CHAUDHARY : shot-put : 17 MAY 1999 : 895 : 21 MAY 2022 : 44
+JAM : Fiona RICHARDS : shot-put : 20 NOV 1998 : 892 : 02 APR 2022 : 45
+NZL : Natalia RANKIN-CHITAR : shot-put : 11 MAR 2004 : 888 : 20 FEB 2022 : 46
+RSA : Juanita DE NECKER : shot-put : 10 JUL 2002 : 888 : 08 MAR 2022 : 46
+IND : . YOGITA : shot-put : 01 NOV 2000 : 884 : 22 FEB 2022 : 48
+GBR : Shauna THOMPSON : shot-put : 08 APR 1992 : 878 : 14 MAY 2022 : 49
+RSA : Cellonika VAN DER BERG : shot-put : 20 JAN 2006 : 878 : 02 MAR 2022 : 50
+IND : Paramjot KAUR : shot-put : 16 NOV 2000 : 877 : 19 MAR 2022 : 51
+TTO : Ianna ROACH : shot-put : 17 JAN 2000 : 877 : 23 APR 2022 : 51
+IND : Yogita KUMAR : shot-put : 01 NOV 2000 : 874 : 13 MAR 2022 : 53
+JAM : Britannia JOHNSON : shot-put : 03 JUL 2004 : 874 : 11 MAR 2022 : 54
+JAM : Jazmyn JAMES : shot-put : 07 OCT 2003 : 874 : 20 MAY 2022 : 54
+GBR : Teddy TEHOUDJA : shot-put : 27 MAR 2003 : 873 : 24 APR 2022 : 56
+GBR : Cleo AGYEPONG : shot-put : 11 MAR 2005 : 870 : 16 APR 2022 : 57
+CAN : Kaitlin BROOKS : shot-put : 1996 : 870 : 05 JUN 2022 : 57
+DMA : Treneese HAMILTON : shot-put : 23 JUN 2003 : 870 : 17 APR 2022 : 59
+IND : V. AMBIKA : shot-put : 13 APR 2000 : 866 : 22 FEB 2022 : 60
+GBR : Olivia DOBSON : shot-put : 27 MAR 2001 : 866 : 13 APR 2022 : 60
+GBR : Sophie MERRITT : shot-put : 09 APR 1998 : 861 : 22 MAY 2022 : 62
+IND : Krishna JAYASANKAR : shot-put : 10 NOV 2002 : 861 : 09 APR 2022 : 63
+IND : Poorna RAORANE : shot-put : 26 DEC 2000 : 858 : 30 APR 2022 : 64
+RSA : Mia VAN OUDSTHOORN : shot-put :  : 853 : 02 APR 2022 : 65
+JAM : Sah jay STEVENS : shot-put : 18 JAN 1998 : 852 : 21 APR 2022 : 66
+CAN : Dolly GABRI : shot-put : 09 SEP 2001 : 850 : 13 MAY 2022 : 67
+NZL : Lisa ADAMS : shot-put :  : 850 : 04 JUN 2022 : 68
+GRN : Jamora ALVES : shot-put : 12 SEP 2003 : 849 : 19 FEB 2022 : 69
+RSA : Bodine DEGLI UMBERTI : shot-put : 31 JAN 2002 : 847 : 09 APR 2022 : 70
+JAM : Leonie SAMUELS : shot-put : 11 SEP 2001 : 847 : 23 MAY 2022 : 70
+KEN : Sarah OTIENO : shot-put : 1996 : 847 : 27 APR 2022 : 72
+CAN : Biniosa EZUKUSE : shot-put : 2002 : 846 : 13 MAY 2022 : 73
+CMR : Sandrine NGOUNOU : shot-put : 17 AUG 1982 : 845 : 05 JUN 2022 : 74
+IND : P.S UMA : shot-put : 15 NOV 1996 : 844 : 31 MAR 2022 : 75
+IND : . REKHA : shot-put : 24 JAN 1999 : 842 : 22 FEB 2022 : 76
+JAM : Samantha HALL : shot-put : 19 APR 1993 : 841 : 19 MAR 2022 : 77
+JAM : Santornya RALLIFORD : shot-put : 12 MAR 2001 : 833 : 20 MAY 2022 : 78
+IND : Jasmine KAUR : shot-put : 11 FEB 2003 : 830 : 22 FEB 2022 : 79
+JAM : Shania PARKINSON : shot-put : 26 NOV 2000 : 830 : 13 MAY 2022 : 79
+JAM : Johnelle JOHNSON : shot-put : 29 AUG 2000 : 829 : 13 MAY 2022 : 81
+GBR : Jo ROWLAND : shot-put : 29 DEC 1989 : 829 : 14 MAY 2022 : 81
+CYP : Styliana KYRIAKIDOU : shot-put : 14 AUG 2000 : 829 : 22 MAY 2022 : 81
+NZL : Lauren BRUCE : shot-put : 23 MAR 1997 : 827 : 30 JAN 2022 : 84
+IND : . REKHA : shot-put : 02 FEB 2001 : 825 : 01 MAY 2022 : 85
+AUS : Sally SHOKRY : shot-put : 14 APR 2002 : 825 : 19 FEB 2022 : 86
+IND : Ramneet KAUR : shot-put : 28 DEC 2003 : 825 : 23 MAR 2022 : 86
+JAM : Shakera WILLIAMS : shot-put : 17 FEB 2001 : 824 : 23 APR 2022 : 88
+CYP : Paraskeovulla THRASYVOULOU : shot-put : 21 FEB 1994 : 823 : 04 JUN 2022 : 89
+GBR : Niamh EMERSON : shot-put : 22 APR 1999 : 822 : 04 JUN 2022 : 90
+BAH : Canitra MACKEY : shot-put : 28 SEP 2002 : 820 : 07 MAY 2022 : 91
+KEN : Felister BOSIRE : shot-put :  : 817 : 16 APR 2022 : 92
+IVB : Trevia GUMBS : shot-put : 27 SEP 1996 : 816 : 29 APR 2022 : 93
+GBR : Samantha CALLAWAY : shot-put : 04 MAR 2002 : 815 : 09 APR 2022 : 94
+AUS : Sinead DU TOIT : shot-put : 05 DEC 2001 : 812 : 04 FEB 2022 : 95
+JAM : Daveina WATSON : shot-put : 29 NOV 2001 : 812 : 26 MAY 2022 : 95
+JAM : Rochele SOLMON : shot-put : 06 AUG 2004 : 811 : 16 MAR 2022 : 97
+AUS : Alysha PEARSON : shot-put : 15 JUN 2002 : 811 : 21 APR 2022 : 97
+AUS : Alysha BURNETT : shot-put : 04 JAN 1997 : 809 : 19 FEB 2022 : 99
+IND : B. ANAMIKADAS : shot-put :  : 809 : 15 MAY 2022 : 99

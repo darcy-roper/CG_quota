@@ -81,7 +81,7 @@ CAN : Callan SALDUTTO : javelin-throw : 20 FEB 2002 : 957 : 13 MAY 2021 : 80
 AUS : Saxon WARD : javelin-throw : 08 DEC 1995 : 957 : 06 MAR 2021 : 81
 JAM : Rajheim CARBY : javelin-throw :  : 955 : 09 MAY 2021 : 82
 SRI : P.A. LAKMAL : javelin-throw : 16 MAY 1994 : 951 : 07 APR 2021 : 83
-CYP : Eleftherios KONTONIKOLA : javelin-throw : 03 SEP 2003 : 950 : 14 APR 2021 : 84
+CYP : Eleftherios KONTONIKOLAS : javelin-throw : 03 SEP 2003 : 950 : 14 APR 2021 : 84
 IND : Rishab NEHRA : javelin-throw : 10 DEC 1999 : 949 : 17 MAR 2021 : 85
 GBR : Tom HEWSON : javelin-throw : 24 SEP 2000 : 949 : 17 APR 2021 : 86
 KEN : Boniface Kyalo KILONZO : javelin-throw : 25 JUL 1995 : 946 : 28 MAY 2021 : 87

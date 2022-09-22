@@ -63,11 +63,11 @@ AUS : James WOODS : pole-vault : 01 FEB 2003 : 940 : 23 JAN 2021 : 62
 AUS : Jordan KILDARE : pole-vault : 17 OCT 1998 : 940 : 27 FEB 2021 : 62
 SGP : Devey NG : pole-vault : 10 DEC 1996 : 940 : 28 FEB 2021 : 62
 RSA : Fredriech PRETORIUS : pole-vault : 04 AUG 1995 : 940 : 06 MAR 2021 : 62
-RSA : Arend PRETORIUS : pole-vault :  : 940 : 13 MAR 2021 : 62
+RSA : Arend PRETORIUS : pole-vault : 06 AUG 2002 : 940 : 13 MAR 2021 : 62
 AUS : Martin CLARK : pole-vault : 24 NOV 1992 : 940 : 14 MAR 2021 : 62
 IND : R.Madhan KUMAR : pole-vault : 04 SEP 1994 : 940 : 18 MAR 2021 : 62
 IND : Dhirendra KUMAR : pole-vault : 28 AUG 1999 : 940 : 18 MAR 2021 : 62
-GBR : Oliver THORNER : pole-vault : 16 MAR 2001 : 940 : 15 MAY 2021 : 62
+GBR : Ollie THORNER : pole-vault : 16 MAR 2001 : 940 : 15 MAY 2021 : 62
 CYP : Andreas KAZAMIAS : pole-vault : 27 AUG 2001 : 940 : 09 JUN 2021 : 62
 AUS : Alec DIAMOND : pole-vault : 09 AUG 1997 : 940 : 19 JUN 2021 : 62
 IND : Shekhar KUMAR : pole-vault : 01 FEB 2001 : 940 : 25 JUN 2021 : 62

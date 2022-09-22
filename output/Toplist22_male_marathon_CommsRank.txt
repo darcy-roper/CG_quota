@@ -1,100 +1,100 @@
 KEN : Eliud KIPCHOGE : marathon : 05 NOV 1984 : 1285 : 06 MAR 2022 : 1
 KEN : Amos KIPRUTO : marathon : 16 SEP 1992 : 1275 : 06 MAR 2022 : 2
-KEN : Titus KIPRUTO : marathon : 25 JUN 1998 : 1243 : 03 APR 2022 : 3
-KEN : Daniel KIBET : marathon :  : 1239 : 03 APR 2022 : 4
-TAN : Alphonce Felix SIMBU : marathon : 14 FEB 1992 : 1222 : 03 APR 2022 : 5
-KEN : Laban Kipngetich KORIR : marathon : 30 JUN 1985 : 1217 : 06 MAR 2022 : 6
-KEN : Hillary KIPSAMBU : marathon : 04 FEB 1985 : 1212 : 03 APR 2022 : 7
-KEN : Dickson CHUMBA : marathon : 27 OCT 1986 : 1207 : 03 APR 2022 : 8
-KEN : Zablon CHUMBA : marathon : 20 DEC 1991 : 1205 : 03 APR 2022 : 9
-KEN : Barnabas KIPTUM : marathon : 08 DEC 1986 : 1201 : 05 MAR 2022 : 10
-KEN : Michel GITHAE : marathon : 26 AUG 1994 : 1195 : 06 MAR 2022 : 11
-KEN : Elkanah LANGAT : marathon : 1996 : 1195 : 03 APR 2022 : 12
-KEN : Jonathan KORIR : marathon : 20 NOV 1986 : 1192 : 06 MAR 2022 : 13
-KEN : Joel Kemboi KIMURER : marathon : 21 JAN 1988 : 1189 : 05 MAR 2022 : 14
-KEN : Kipkemoi KIPRONO : marathon : 12 SEP 1995 : 1189 : 05 MAR 2022 : 15
-KEN : Cornelius KIBET : marathon : 28 DEC 1997 : 1187 : 03 APR 2022 : 16
-KEN : Chesari Kirui JACOB : marathon : 06 APR 1984 : 1182 : 27 MAR 2022 : 17
-KEN : John Nzau MWANGANGI : marathon : 11 JAN 1990 : 1175 : 20 FEB 2022 : 18
-KEN : John KORIR : marathon : 02 DEC 1996 : 1175 : 20 MAR 2022 : 19
-KEN : Joshua KOGO : marathon :  : 1174 : 27 MAR 2022 : 20
-KEN : Bethwell KIPKEMBOI : marathon : 06 APR 1993 : 1172 : 03 APR 2022 : 21
-KEN : Ronald KORIR : marathon : 10 APR 1991 : 1170 : 27 FEB 2022 : 22
-KEN : Douglas CHEBII : marathon : 01 NOV 1993 : 1169 : 27 FEB 2022 : 23
-KEN : Vincent Kipsang RONO : marathon : 10 NOV 1990 : 1169 : 10 JAN 2022 : 24
-KEN : Samuel Naibei KIPLIMO : marathon : 17 JUN 1993 : 1165 : 27 MAR 2022 : 25
-UGA : Jackson KIPROP : marathon : 20 OCT 1986 : 1165 : 03 APR 2022 : 26
-KEN : Ernest NGENO : marathon : 20 MAY 1995 : 1162 : 27 MAR 2022 : 27
-KEN : Victor KIPCHIRCHIR : marathon : 05 DEC 1987 : 1158 : 20 FEB 2022 : 28
-KEN : Denis CHIRCHIR : marathon : 15 JAN 1990 : 1155 : 03 APR 2022 : 29
-KEN : Mathew Sang KIBIWOT : marathon : 1986 : 1154 : 03 APR 2022 : 30
-KEN : Samwel KIPTOO : marathon : 1992 : 1153 : 27 FEB 2022 : 31
-KEN : Edwin KIPLAGAT : marathon : 19 FEB 1993 : 1148 : 20 MAR 2022 : 32
-GBR : Jonathan MELLOR : marathon : 27 DEC 1986 : 1148 : 03 APR 2022 : 33
-KEN : James NGANDU : marathon : 02 APR 1990 : 1143 : 16 JAN 2022 : 34
-KEN : Mike KIPTUM : marathon : 14 SEP 1992 : 1141 : 05 MAR 2022 : 35
-KEN : Amos KIPLAGAT : marathon :  : 1140 : 27 FEB 2022 : 36
-KEN : Elisha Kiprop BARNO : marathon : 1985 : 1139 : 16 JAN 2022 : 37
-KEN : Nicholas KIRWA : marathon : 16 JUN 1994 : 1138 : 03 APR 2022 : 38
-GBR : Joshua GRIFFITHS : marathon : 03 NOV 1993 : 1136 : 20 FEB 2022 : 39
-GBR : Luke CALDWELL : marathon : 02 AUG 1991 : 1135 : 16 JAN 2022 : 40
-KEN : Silas TOO : marathon : 13 JAN 1988 : 1133 : 05 MAR 2022 : 41
-GBR : Ross MILLINGTON : marathon : 19 SEP 1989 : 1133 : 03 APR 2022 : 41
-KEN : Laban MUTAI : marathon : 15 JAN 1988 : 1133 : 03 APR 2022 : 43
-GBR : Mohamud AADAN : marathon : 01 JAN 1990 : 1117 : 20 FEB 2022 : 44
-KEN : Zaphania CHERUIYOT : marathon :  : 1114 : 06 MAR 2022 : 45
-RWA : Felicien MUHITIRA : marathon : 04 NOV 1994 : 1114 : 03 APR 2022 : 46
-NAM : Tomas Hilifa RAINHOLD : marathon : 07 FEB 1991 : 1112 : 03 APR 2022 : 47
-GBR : Dean WILLIAMSON : marathon :  : 1112 : 03 APR 2022 : 47
-KEN : David Barmasai TUMO : marathon : 1987 : 1101 : 12 FEB 2022 : 49
-KEN : James Gitahi RUNGARU : marathon : 14 JAN 1993 : 1099 : 27 FEB 2022 : 50
-AUS : Edward GODDARD : marathon : 24 OCT 1997 : 1099 : 03 APR 2022 : 50
-KEN : Eliud Kibet TOO : marathon :  : 1098 : 27 FEB 2022 : 52
-KEN : Josphat Kiprop KIPTIS : marathon : 16 NOV 1993 : 1098 : 03 APR 2022 : 52
-GBR : Andrew HEYES : marathon : 20 JUN 1990 : 1097 : 03 APR 2022 : 54
-GBR : Andrew DAVIES : marathon : 30 OCT 1979 : 1089 : 20 FEB 2022 : 55
-KEN : Emmanuel NAIBEI : marathon : 20 JUL 1983 : 1084 : 12 FEB 2022 : 56
-KEN : Wilfred KIPTOO : marathon : 14 DEC 1994 : 1083 : 03 APR 2022 : 57
-KEN : Rodgers GESABWA : marathon : 14 OCT 1987 : 1082 : 16 JAN 2022 : 58
-UGA : Vitalis KWEMOI : marathon : 22 MAY 1990 : 1082 : 03 APR 2022 : 59
-KEN : Bethwel KIBET : marathon : 1991 : 1080 : 03 APR 2022 : 60
-KEN : Thomas KIBET : marathon :  : 1076 : 20 FEB 2022 : 61
-KEN : Daniel MUIVA KITONYI : marathon : 12 JAN 1994 : 1074 : 06 MAR 2022 : 62
-GBR : Nigel MARTIN : marathon : 23 MAR 1987 : 1074 : 03 APR 2022 : 62
-KEN : Gilbert MASAI : marathon : 16 DEC 1989 : 1070 : 12 FEB 2022 : 64
-GBR : Dan NASH : marathon : 23 MAR 1994 : 1070 : 03 APR 2022 : 64
-GBR : Adam CLARKE : marathon : 03 APR 1991 : 1069 : 20 FEB 2022 : 66
-KEN : Simon NJERI : marathon : 1987 : 1069 : 27 MAR 2022 : 66
-KEN : Alfred KOECH : marathon :  : 1069 : 25 FEB 2022 : 68
-KEN : Douglas KIPRUGUT : marathon :  : 1066 : 27 MAR 2022 : 69
-KEN : Julius TUWEI : marathon : 26 SEP 1993 : 1066 : 12 FEB 2022 : 70
-KEN : Felix KIRWA : marathon : 08 OCT 1995 : 1064 : 12 FEB 2022 : 71
-IND : Nitendra Singh RAWAT : marathon : 29 SEP 1986 : 1062 : 27 MAR 2022 : 72
-KEN : Ezekiel KOECH : marathon :  : 1060 : 12 FEB 2022 : 73
-GBR : Frank BADDICK : marathon : 29 NOV 1985 : 1058 : 03 APR 2022 : 74
-IND : Bugatha SRINU : marathon : 16 JUN 1992 : 1056 : 10 JAN 2022 : 75
-IND : Anish THAPA : marathon :  : 1052 : 27 MAR 2022 : 76
-IND : Anil KUMAR : marathon :  : 1050 : 27 MAR 2022 : 77
-KEN : Thomas EKIRU : marathon : 1983 : 1050 : 06 MAR 2022 : 78
-GBR : Ross BRADEN : marathon : 17 JUN 1993 : 1050 : 20 FEB 2022 : 79
-GBR : Ronnie RICHMOND : marathon : 08 SEP 1982 : 1047 : 03 APR 2022 : 80
-GBR : William MYCROFT : marathon : 08 JAN 1991 : 1047 : 03 APR 2022 : 81
-IND : Ashish KUMAR : marathon :  : 1046 : 27 MAR 2022 : 82
-IND : Appachangada BELLIAPPA : marathon : 11 FEB 1992 : 1045 : 27 MAR 2022 : 83
-GBR : Adam BOWDEN : marathon : 05 AUG 1982 : 1042 : 03 APR 2022 : 84
-KEN : Daniel KEMBOI : marathon : 1986 : 1041 : 05 MAR 2022 : 85
-KEN : John LANGAT : marathon : 02 OCT 1993 : 1034 : 25 FEB 2022 : 86
-GBR : Alex MILNE : marathon : 11 MAR 1990 : 1033 : 03 APR 2022 : 87
-GBR : William BRYAN : marathon : 1997 : 1033 : 03 APR 2022 : 88
-GBR : Ian ALLEN : marathon :  : 1032 : 03 APR 2022 : 89
-GBR : William STRANGEWAY : marathon : 06 APR 1986 : 1031 : 03 APR 2022 : 90
-GBR : Nick BOWKER : marathon :  : 1029 : 03 APR 2022 : 91
-IND : Kalidas HIRAVE : marathon : 24 SEP 1991 : 1028 : 27 MAR 2022 : 92
-GBR : Matthew CREHAN : marathon : 10 OCT 1991 : 1027 : 03 APR 2022 : 93
-KEN : Felix KIMUTAI : marathon : 12 FEB 1989 : 1025 : 20 MAR 2022 : 94
-GBR : Linton TAYLOR : marathon : 20 JAN 1995 : 1018 : 03 APR 2022 : 95
-KEN : Japhet KIPKOECH : marathon : 1990 : 1017 : 16 JAN 2022 : 96
-GBR : Michael KALLENBERG : marathon : 09 JAN 1991 : 1017 : 03 APR 2022 : 97
-KEN : Robert KWAMBAI : marathon : 22 NOV 1985 : 1014 : 12 FEB 2022 : 98
-IND : Sher SINGH : marathon : 10 JAN 1992 : 1006 : 27 MAR 2022 : 99
-GBR : Kieran WALKER : marathon :  : 1006 : 03 APR 2022 : 99
+KEN : CyBrian KOTUT : marathon : 06 JUN 1992 : 1248 : 24 APR 2022 : 3
+UGA : Stephen KISSA : marathon : 01 DEC 1995 : 1248 : 24 APR 2022 : 4
+KEN : Titus KIPRUTO : marathon : 25 JUN 1998 : 1243 : 03 APR 2022 : 5
+UGA : Victor KIPLANGAT : marathon : 10 NOV 1999 : 1242 : 24 APR 2022 : 6
+KEN : Reuben Kiprop KIPYEGO : marathon : 21 AUG 1996 : 1241 : 10 APR 2022 : 7
+KEN : Daniel KIBET : marathon :  : 1239 : 03 APR 2022 : 8
+KEN : Mike Kiptum BOIT : marathon : 14 SEP 1992 : 1225 : 08 MAY 2022 : 9
+TAN : Alphonce Felix SIMBU : marathon : 14 FEB 1992 : 1222 : 03 APR 2022 : 10
+KEN : Kenneth CHESERER : marathon :  : 1221 : 10 APR 2022 : 11
+KEN : Felix KIBITOK : marathon : 09 JUN 1991 : 1220 : 08 MAY 2022 : 12
+KEN : Laban Kipngetich KORIR : marathon : 30 JUN 1985 : 1217 : 06 MAR 2022 : 13
+KEN : Edwin KIPTOO : marathon : 14 AUG 1993 : 1213 : 24 APR 2022 : 14
+KEN : Hillary KIPSAMBU : marathon : 04 FEB 1985 : 1212 : 03 APR 2022 : 15
+KEN : Cosmas MATOLO : marathon :  : 1212 : 24 APR 2022 : 15
+KEN : Mark KORIR : marathon : 10 JAN 1985 : 1212 : 17 APR 2022 : 17
+KEN : Moses KIBET : marathon : 04 FEB 1997 : 1212 : 17 APR 2022 : 18
+KEN : Leonard LANGAT : marathon : 07 AUG 1990 : 1211 : 24 APR 2022 : 19
+KEN : Abraham KIPTOO : marathon : 16 JUL 1999 : 1211 : 24 APR 2022 : 19
+KEN : Kennedy CHEBOROR : marathon : 26 APR 1990 : 1210 : 08 MAY 2022 : 21
+KEN : Philemon RONO : marathon : 08 FEB 1991 : 1210 : 17 APR 2022 : 22
+KEN : Dickson CHUMBA : marathon : 27 OCT 1986 : 1207 : 03 APR 2022 : 23
+KEN : Zablon CHUMBA : marathon : 20 DEC 1991 : 1205 : 03 APR 2022 : 24
+KEN : Felix Kipchirchir KANDIE : marathon : 10 APR 1987 : 1205 : 17 APR 2022 : 24
+KEN : Timothy KIPLAGAT : marathon :  : 1204 : 08 MAY 2022 : 26
+KEN : Abel KIRUI : marathon : 06 APR 1982 : 1203 : 08 MAY 2022 : 27
+KEN : Bernard Kipkemoi NGENO : marathon :  : 1203 : 24 APR 2022 : 28
+KEN : Barnabas KIPTUM : marathon : 08 DEC 1986 : 1201 : 05 MAR 2022 : 29
+KEN : Julius TUWEI : marathon : 26 SEP 1993 : 1198 : 24 APR 2022 : 30
+KEN : Evans SAMBU : marathon : 21 AUG 1993 : 1198 : 08 MAY 2022 : 30
+KEN : Enock ONCHARI : marathon : 16 JAN 1999 : 1196 : 24 APR 2022 : 32
+KEN : Nobert KIGEN : marathon : 24 JAN 1993 : 1195 : 08 MAY 2022 : 33
+KEN : Michel GITHAE : marathon : 26 AUG 1994 : 1195 : 06 MAR 2022 : 34
+KEN : Elkanah LANGAT : marathon : 1996 : 1195 : 03 APR 2022 : 35
+KEN : Jonathan KORIR : marathon : 20 NOV 1986 : 1192 : 06 MAR 2022 : 36
+KEN : Charles JUMA : marathon : 10 JAN 1993 : 1190 : 24 APR 2022 : 37
+KEN : Joel Kemboi KIMURER : marathon : 21 JAN 1988 : 1189 : 05 MAR 2022 : 38
+KEN : Kipkemoi KIPRONO : marathon : 12 SEP 1995 : 1189 : 05 MAR 2022 : 39
+KEN : Kenneth KETER : marathon : 04 AUG 1996 : 1188 : 17 APR 2022 : 40
+KEN : Cornelius KIBET : marathon : 28 DEC 1997 : 1187 : 03 APR 2022 : 41
+KEN : Raymond Kipchumba CHOGE : marathon : 02 JAN 1988 : 1185 : 24 APR 2022 : 42
+KEN : Chesari Kirui JACOB : marathon : 06 APR 1984 : 1182 : 27 MAR 2022 : 43
+KEN : Daniel Kipchumba CHEBII : marathon : 25 MAY 1985 : 1178 : 15 MAY 2022 : 44
+KEN : Edwin KOSGEI : marathon : 17 SEP 1989 : 1177 : 08 MAY 2022 : 45
+KEN : Samuel Kiplimo KOSGEI : marathon : 20 JAN 1986 : 1177 : 08 MAY 2022 : 46
+KEN : John Nzau MWANGANGI : marathon : 11 JAN 1990 : 1175 : 20 FEB 2022 : 47
+KEN : John KORIR : marathon : 02 DEC 1996 : 1175 : 20 MAR 2022 : 48
+KEN : Josphat KIPROTICH : marathon : 02 JUL 1993 : 1175 : 24 APR 2022 : 48
+KEN : Joshua KOGO : marathon :  : 1174 : 27 MAR 2022 : 50
+KEN : Edwin Cheruiyot SOI : marathon : 03 MAR 1986 : 1174 : 24 APR 2022 : 51
+KEN : Bethwell KIPKEMBOI : marathon : 06 APR 1993 : 1172 : 03 APR 2022 : 52
+UGA : Geofrey KUSURO : marathon : 12 FEB 1989 : 1170 : 24 APR 2022 : 53
+KEN : Ronald KORIR : marathon : 10 APR 1991 : 1170 : 27 FEB 2022 : 54
+KEN : Lani RUTTO : marathon : 29 MAR 1989 : 1169 : 17 APR 2022 : 55
+KEN : Douglas CHEBII : marathon : 01 NOV 1993 : 1169 : 27 FEB 2022 : 56
+KEN : Vincent Kipsang RONO : marathon : 10 NOV 1990 : 1169 : 10 JAN 2022 : 57
+KEN : Rodgers GESABWA : marathon : 14 OCT 1987 : 1166 : 10 APR 2022 : 58
+KEN : Samuel Naibei KIPLIMO : marathon : 17 JUN 1993 : 1165 : 27 MAR 2022 : 59
+KEN : Kenneth KIPLAGAT : marathon : 14 AUG 1990 : 1165 : 24 APR 2022 : 59
+UGA : Jackson KIPROP : marathon : 20 OCT 1986 : 1165 : 03 APR 2022 : 61
+KEN : Edwin KIMAIYO : marathon : 1986 : 1165 : 15 MAY 2022 : 62
+KEN : John LANGAT : marathon : 02 OCT 1993 : 1164 : 24 APR 2022 : 63
+KEN : Ernest NGENO : marathon : 20 MAY 1995 : 1162 : 27 MAR 2022 : 64
+KEN : Noah KIPKEMBOI : marathon : 02 JUL 1993 : 1162 : 24 APR 2022 : 65
+KEN : Leonard LANGAT : marathon : 02 AUG 1996 : 1161 : 29 MAY 2022 : 66
+KEN : Francis CHERUIYOT : marathon :  : 1161 : 10 APR 2022 : 67
+KEN : Alfonce KIBIWOTT : marathon : 1993 : 1160 : 24 APR 2022 : 68
+KEN : Victor KIPCHIRCHIR : marathon : 05 DEC 1987 : 1158 : 20 FEB 2022 : 69
+KEN : Philemon KACHERAN : marathon : 04 JUL 1992 : 1157 : 10 APR 2022 : 70
+KEN : Denis CHIRCHIR : marathon : 15 JAN 1990 : 1155 : 03 APR 2022 : 71
+KEN : Mathew Sang KIBIWOT : marathon : 1986 : 1154 : 03 APR 2022 : 72
+KEN : Kenneth CHESEREK : marathon :  : 1154 : 24 APR 2022 : 72
+KEN : Samwel KIPTOO : marathon : 1992 : 1153 : 27 FEB 2022 : 74
+TAN : Emanuel Giniki GISAMODA : marathon : 18 MAY 1988 : 1149 : 15 MAY 2022 : 75
+KEN : Edwin KIPLAGAT : marathon : 19 FEB 1993 : 1148 : 20 MAR 2022 : 76
+GBR : Jonathan MELLOR : marathon : 27 DEC 1986 : 1148 : 03 APR 2022 : 77
+KEN : Abraham KIPYATICH : marathon : 10 MAY 1993 : 1146 : 24 APR 2022 : 78
+KEN : Thomas KIPLAGAT : marathon : 01 MAR 1987 : 1146 : 24 APR 2022 : 79
+UGA : Solomon MUTAI : marathon : 22 OCT 1992 : 1143 : 24 APR 2022 : 80
+KEN : James NGANDU : marathon : 02 APR 1990 : 1143 : 16 JAN 2022 : 81
+KEN : Felix KIRWA : marathon : 08 OCT 1995 : 1141 : 04 JUN 2022 : 82
+KEN : Amos KIPLAGAT : marathon :  : 1140 : 27 FEB 2022 : 83
+KEN : Mark Kosgei KIPTOO : marathon : 21 JUN 1976 : 1140 : 24 APR 2022 : 84
+KEN : Elisha Kiprop BARNO : marathon : 1985 : 1139 : 16 JAN 2022 : 85
+KEN : Nicholas KIRWA : marathon : 16 JUN 1994 : 1138 : 03 APR 2022 : 86
+KEN : Meshack Kiprop KOECH : marathon : 27 JUL 1989 : 1138 : 17 APR 2022 : 87
+KEN : Bernard Kiprop KIPYEGO : marathon : 16 JUL 1986 : 1137 : 17 APR 2022 : 88
+KEN : Felix KIRUI : marathon : 1986 : 1137 : 17 APR 2022 : 89
+GBR : Joshua GRIFFITHS : marathon : 03 NOV 1993 : 1136 : 20 FEB 2022 : 90
+KEN : Mike CHESIRE : marathon : 1996 : 1135 : 24 APR 2022 : 91
+KEN : Sila KIPTOO : marathon : 05 MAY 1998 : 1135 : 15 MAY 2022 : 91
+GBR : Luke CALDWELL : marathon : 02 AUG 1991 : 1135 : 16 JAN 2022 : 93
+KEN : Silas TOO : marathon : 13 JAN 1988 : 1133 : 05 MAR 2022 : 94
+GBR : Ross MILLINGTON : marathon : 19 SEP 1989 : 1133 : 03 APR 2022 : 94
+KEN : Laban MUTAI : marathon : 15 JAN 1988 : 1133 : 03 APR 2022 : 96
+KEN : Sammy Kigen KORIR : marathon : 29 SEP 1985 : 1130 : 15 MAY 2022 : 97
+KEN : Stanley BETT : marathon :  : 1127 : 15 MAY 2022 : 98
+KEN : Stephen KIPLIMO : marathon : 15 DEC 1987 : 1126 : 24 APR 2022 : 99
+UGA : Filex CHEMONGESI : marathon : 19 AUG 1993 : 1123 : 17 APR 2022 : 100

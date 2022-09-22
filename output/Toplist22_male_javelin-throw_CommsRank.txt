@@ -1,100 +1,100 @@
-TTO : Keshorn WALCOTT : javelin-throw : 02 APR 1993 : 1168 : 18 MAR 2022 : 1
-GRN : Anderson PETERS : javelin-throw : 21 OCT 1997 : 1162 : 26 MAR 2022 : 2
+GRN : Anderson PETERS : javelin-throw : 21 OCT 1997 : 1288 : 13 MAY 2022 : 1
+TTO : Keshorn WALCOTT : javelin-throw : 02 APR 1993 : 1230 : 06 JUN 2022 : 2
 IND : D.P MANU : javelin-throw : 24 JAN 2000 : 1136 : 13 MAR 2022 : 3
-IND : Rohit YADAV : javelin-throw : 06 JUN 2001 : 1127 : 03 APR 2022 : 4
-SRI : Sumedha RANASINGHE : javelin-throw : 10 FEB 1991 : 1127 : 10 MAR 2022 : 5
-RSA : Waldo SMIT : javelin-throw : 1999 : 1097 : 15 FEB 2022 : 6
-AUS : Cameron MCENTYRE : javelin-throw : 10 FEB 1999 : 1096 : 09 JAN 2022 : 7
-BAH : Keyshawn STRACHAN : javelin-throw : 18 DEC 2003 : 1082 : 18 MAR 2022 : 8
-NGR : Chinecherem NNAMDI : javelin-throw : 12 JUL 2002 : 1079 : 25 MAR 2022 : 9
-IND : Vikrant MALIK : javelin-throw : 02 JAN 1996 : 1070 : 07 JAN 2022 : 10
-IND : Yash Vir SINGH : javelin-throw : 22 OCT 2001 : 1069 : 07 JAN 2022 : 11
-AUS : Cruz HOGAN : javelin-throw : 22 FEB 1994 : 1063 : 02 APR 2022 : 12
-AUS : Hamish PEACOCK : javelin-throw : 15 OCT 1990 : 1061 : 19 FEB 2022 : 13
-IND : Sahil SILWAL : javelin-throw : 17 DEC 2000 : 1059 : 27 FEB 2022 : 14
-IND : Kunwer Ajai Raj Singh RANA : javelin-throw : 13 JAN 2002 : 1054 : 07 JAN 2022 : 15
-IND : Uttam PATIL : javelin-throw : 01 NOV 1994 : 1049 : 13 MAR 2022 : 16
-RSA : Johan GROBLER : javelin-throw : 06 AUG 1997 : 1038 : 22 FEB 2022 : 17
-AUS : Liam O'BRIEN : javelin-throw : 13 APR 1996 : 1038 : 19 MAR 2022 : 17
-AUS : Howard MCDONALD : javelin-throw : 23 AUG 2001 : 1034 : 06 MAR 2022 : 19
-GBR : Joe HARRIS : javelin-throw : 23 MAY 1997 : 1033 : 27 FEB 2022 : 20
-IND : Sachin YADAV : javelin-throw : 25 OCT 1999 : 1020 : 04 JAN 2022 : 21
-RSA : Hercules VAN VUUREN : javelin-throw : 15 APR 1998 : 1017 : 12 MAR 2022 : 22
-CYP : Paraskevas BATZAVALIS : javelin-throw : 25 NOV 1994 : 1016 : 04 MAR 2022 : 23
-SRI : D. G. Sampath RANASINGHE : javelin-throw : 01 SEP 1988 : 1015 : 10 MAR 2022 : 24
-AUS : William WHITE : javelin-throw : 06 JUN 1994 : 1015 : 02 APR 2022 : 24
-JAM : Oralndo THOMAS : javelin-throw : 13 JAN 1995 : 1012 : 29 JAN 2022 : 26
-AUS : Neil JANSE : javelin-throw : 23 OCT 2000 : 1010 : 19 MAR 2022 : 27
-IND : Vikas YADAV : javelin-throw : 22 DEC 2001 : 1008 : 13 MAR 2022 : 28
-SRI : Rankoth PEDIGE W.L.D. : javelin-throw : 14 MAY 1988 : 1008 : 11 FEB 2022 : 29
-IND : Rishab NEHRA : javelin-throw : 10 DEC 1999 : 1007 : 07 JAN 2022 : 30
-TTO : Tyriq HORSFORD : javelin-throw : 17 JAN 2000 : 1007 : 26 MAR 2022 : 31
-IND : Abhishek SINGH : javelin-throw : 20 MAY 1995 : 1005 : 03 APR 2022 : 32
-IND : Harish KUMAR : javelin-throw : 30 OCT 1996 : 1003 : 03 APR 2022 : 33
-GBR : Daniel BAINBRIDGE : javelin-throw : 02 JUN 1999 : 1001 : 27 FEB 2022 : 34
-CYP : Spyros SAVVA : javelin-throw : 24 JAN 2000 : 996 : 04 MAR 2022 : 35
-JAM : Elvis GRAHAM : javelin-throw : 03 OCT 1996 : 988 : 19 MAR 2022 : 36
-IND : Arshdeep SINGH : javelin-throw : 05 APR 1999 : 987 : 03 APR 2022 : 37
-IND : Arun BABY : javelin-throw : 30 APR 1993 : 979 : 05 MAR 2022 : 38
-IND : Abhishek DRALL : javelin-throw : 11 MAY 1998 : 973 : 03 APR 2022 : 39
-IND : Jay KUMAR : javelin-throw : 10 OCT 2002 : 972 : 04 JAN 2022 : 40
-IND : Ankit KUMAR : javelin-throw :  : 966 : 13 MAR 2022 : 41
-IND : Anmol RANA : javelin-throw : 22 APR 1999 : 963 : 07 JAN 2022 : 42
-AUS : Michael CRITICOS : javelin-throw : 26 JAN 1995 : 962 : 02 APR 2022 : 43
-SRI : W.B.R.N. FERNANDO : javelin-throw :  : 961 : 10 MAR 2022 : 44
-AUS : Saxon WARD : javelin-throw : 08 DEC 1995 : 957 : 19 FEB 2022 : 45
-LCA : Albert REYNOLDS : javelin-throw : 28 MAR 1988 : 952 : 27 FEB 2022 : 46
-CYP : Eleftherios KONTONIKOLA : javelin-throw : 03 SEP 2003 : 947 : 04 MAR 2022 : 47
-IND : Anil KUMAR : javelin-throw : 08 APR 1992 : 946 : 03 APR 2022 : 48
-AUS : Oscar SULLIVAN : javelin-throw : 30 DEC 2000 : 942 : 02 APR 2022 : 49
-IND : Izhar AHMAD : javelin-throw : 03 MAR 2003 : 938 : 07 JAN 2022 : 50
-KEN : Duncan Kinyanchui MONG'ARE : javelin-throw : 07 JAN 1996 : 938 : 05 MAR 2022 : 51
-CAN : Joshua MATHER : javelin-throw : 1999 : 932 : 19 MAR 2022 : 52
-SRI : D.C. WICKRAMARATHNE : javelin-throw :  : 927 : 10 MAR 2022 : 53
-IND : . NAVEEN : javelin-throw :  : 926 : 04 JAN 2022 : 54
-IND : AVG KRISHNAMA : javelin-throw :  : 925 : 04 JAN 2022 : 55
-IND : Ravi TANWAR : javelin-throw : 15 DEC 2002 : 921 : 12 MAR 2022 : 56
-AUS : Oliver BLACKBURN : javelin-throw : 19 JUL 2002 : 918 : 19 MAR 2022 : 57
-CAN : Callan SALDUTTO : javelin-throw : 20 FEB 2002 : 916 : 25 MAR 2022 : 58
-AUS : Jonathan BELL : javelin-throw : 20 NOV 2000 : 916 : 02 APR 2022 : 59
-SRI : Rumesh Tharanga PATHIRAGE : javelin-throw : 21 MAR 2003 : 914 : 11 FEB 2022 : 60
-FIJ : Eliot LECARPENTIER : javelin-throw : 17 NOV 1998 : 913 : 15 JAN 2022 : 61
-JAM : Devon SPENCER : javelin-throw : 1994 : 911 : 02 APR 2022 : 62
-SRI : D.A. KOLAMBAARACHCHI : javelin-throw :  : 910 : 11 FEB 2022 : 63
-IND : Amit MALIK : javelin-throw : 11 DEC 1998 : 908 : 03 APR 2022 : 64
-SRI : Pragathi PRASANNA : javelin-throw : 1999 : 905 : 11 FEB 2022 : 65
-IND : Ashish SINGH : javelin-throw : 29 NOV 1994 : 904 : 31 MAR 2022 : 66
-GHA : John AMPOMAH : javelin-throw : 11 JUL 1990 : 904 : 02 APR 2022 : 67
-JAM : Zaavan RICHARDS : javelin-throw : 21 APR 1995 : 899 : 19 MAR 2022 : 68
-SRI : K.G. YOGARAJ : javelin-throw :  : 898 : 11 FEB 2022 : 69
-KEN : Nelson MALAKWEN : javelin-throw :  : 897 : 05 MAR 2022 : 70
-AUS : Rhys STEIN : javelin-throw : 15 MAY 1996 : 895 : 19 FEB 2022 : 71
-IND : Gaurav KUMAR : javelin-throw : 18 OCT 2002 : 894 : 04 JAN 2022 : 72
-AUS : Haddi EL SHORBAGY : javelin-throw : 2004 : 890 : 28 MAR 2022 : 73
-IND : Sunny CHAUDHARY : javelin-throw : 1999 : 889 : 04 JAN 2022 : 74
-IND : Amit KUMAR : javelin-throw :  : 887 : 04 JAN 2022 : 75
-JAM : Akeel HANCHARD : javelin-throw : 08 SEP 2001 : 886 : 12 MAR 2022 : 76
-CAN : Roan ALLEN : javelin-throw : 1998 : 885 : 24 MAR 2022 : 77
-AUS : Thomas HILDITCH : javelin-throw : 2002 : 885 : 19 FEB 2022 : 78
-SRI : R. RATHUSAN : javelin-throw :  : 883 : 10 MAR 2022 : 79
-IND : S.Braveman HEART : javelin-throw : 20 SEP 1998 : 883 : 04 JAN 2022 : 80
-GBR : Jonah MCCAFFERTY : javelin-throw : 28 JAN 2003 : 882 : 02 APR 2022 : 81
-AUS : Christian PAYNTER : javelin-throw : 23 APR 1997 : 880 : 09 JAN 2022 : 82
-SRI : E.K.C.K. PADMASIRI : javelin-throw : 1995 : 880 : 10 MAR 2022 : 83
-IND : R. MATHESHWARAN : javelin-throw : 19 FEB 2000 : 877 : 04 JAN 2022 : 84
-JAM : Adrian MITCHELL : javelin-throw :  : 873 : 19 MAR 2022 : 85
-CAN : Jarrett CHONG : javelin-throw : 2001 : 873 : 01 APR 2022 : 86
-GBR : Joss FOOT : javelin-throw : 22 FEB 2000 : 872 : 28 MAR 2022 : 87
-IND : Avinash YADAV : javelin-throw : 24 DEC 2000 : 870 : 04 JAN 2022 : 88
-IND : Anuj KALERA : javelin-throw : 28 NOV 2001 : 866 : 04 JAN 2022 : 89
-IND : Nithish TADAV : javelin-throw :  : 865 : 04 JAN 2022 : 90
-CMR : Claude CHAMAKEN : javelin-throw : 18 MAY 1988 : 864 : 23 MAR 2022 : 91
-RSA : Reuben BOOYSEN : javelin-throw : 01 DEC 2003 : 862 : 12 FEB 2022 : 92
-KEN : Methusellah KIPROP : javelin-throw : 1991 : 861 : 05 MAR 2022 : 93
-KEN : Boniface Kyalo KILONZO : javelin-throw : 25 JUL 1995 : 860 : 04 FEB 2022 : 94
-AUS : Luke STACHOWICZ : javelin-throw : 2004 : 858 : 06 MAR 2022 : 95
-IND : Amit YADAV : javelin-throw : 22 JUL 2000 : 857 : 27 FEB 2022 : 96
-RSA : Duncan ROBERTSON : javelin-throw : 06 MAR 2003 : 857 : 05 FEB 2022 : 97
-RSA : Tobie HOLTZHAUSEN : javelin-throw : 25 MAY 1987 : 856 : 12 MAR 2022 : 98
-MLT : Bradley MIFSUD : javelin-throw : 23 JAN 1996 : 855 : 19 FEB 2022 : 99
-KEN : Nelson YEGON : javelin-throw : 24 APR 1993 : 854 : 04 FEB 2022 : 100
+SRI : Sumedha RANASINGHE : javelin-throw : 10 FEB 1991 : 1132 : 23 APR 2022 : 4
+IND : Yash Vir SINGH : javelin-throw : 22 OCT 2001 : 1131 : 24 MAY 2022 : 5
+AUS : Cameron MCENTYRE : javelin-throw : 10 FEB 1999 : 1129 : 22 APR 2022 : 6
+IND : Rohit YADAV : javelin-throw : 06 JUN 2001 : 1127 : 03 APR 2022 : 7
+NGR : Chinecherem NNAMDI : javelin-throw : 12 JUL 2002 : 1119 : 25 MAY 2022 : 8
+BAH : Keyshawn STRACHAN : javelin-throw : 18 DEC 2003 : 1100 : 16 APR 2022 : 9
+RSA : Waldo SMIT : javelin-throw : 1999 : 1097 : 15 FEB 2022 : 10
+KEN : Julius YEGO : javelin-throw : 04 JAN 1989 : 1095 : 07 MAY 2022 : 11
+GBR : Joe HARRIS : javelin-throw : 23 MAY 1997 : 1094 : 15 MAY 2022 : 12
+AUS : Cruz HOGAN : javelin-throw : 22 FEB 1994 : 1091 : 07 JUN 2022 : 13
+RSA : Johan GROBLER : javelin-throw : 06 AUG 1997 : 1089 : 07 MAY 2022 : 14
+KEN : Alex Toroitich KIPROTICH : javelin-throw : 10 OCT 1994 : 1080 : 22 APR 2022 : 15
+IND : Vikrant MALIK : javelin-throw : 02 JAN 1996 : 1070 : 07 JAN 2022 : 16
+RSA : Rocco VAN ROOYEN : javelin-throw : 23 DEC 1992 : 1063 : 09 APR 2022 : 17
+AUS : Hamish PEACOCK : javelin-throw : 15 OCT 1990 : 1061 : 19 FEB 2022 : 18
+IND : Sahil SILWAL : javelin-throw : 17 DEC 2000 : 1059 : 27 FEB 2022 : 19
+IND : Kunwer Ajai Raj Singh RANA : javelin-throw : 13 JAN 2002 : 1054 : 07 JAN 2022 : 20
+IND : Rishab NEHRA : javelin-throw : 10 DEC 1999 : 1053 : 01 MAY 2022 : 21
+AUS : Liam O'BRIEN : javelin-throw : 13 APR 1996 : 1053 : 21 APR 2022 : 22
+IND : Uttam PATIL : javelin-throw : 01 NOV 1994 : 1049 : 13 MAR 2022 : 23
+RSA : Phil-Mar VAN RENSBURG : javelin-throw : 23 JUN 1989 : 1037 : 13 APR 2022 : 24
+GBR : Joe DUNDERDALE : javelin-throw : 04 SEP 1992 : 1037 : 22 MAY 2022 : 25
+AUS : Howard MCDONALD : javelin-throw : 23 AUG 2001 : 1034 : 06 MAR 2022 : 26
+PAK : Muhammad YASIR : javelin-throw : 01 MAY 1998 : 1033 : 13 APR 2022 : 27
+CAN : Roan ALLEN : javelin-throw : 1998 : 1031 : 09 APR 2022 : 28
+IND : Abhishek DRALL : javelin-throw : 11 MAY 1998 : 1030 : 12 MAY 2022 : 29
+GBR : Daniel BAINBRIDGE : javelin-throw : 02 JUN 1999 : 1026 : 22 MAY 2022 : 30
+IND : S.Braveman HEART : javelin-throw : 20 SEP 1998 : 1025 : 14 MAY 2022 : 31
+IND : Sachin YADAV : javelin-throw : 25 OCT 1999 : 1020 : 04 JAN 2022 : 32
+RSA : Hercules VAN VUUREN : javelin-throw : 15 APR 1998 : 1017 : 12 MAR 2022 : 33
+CYP : Paraskevas BATZAVALIS : javelin-throw : 25 NOV 1994 : 1016 : 04 MAR 2022 : 34
+SRI : D. G. Sampath RANASINGHE : javelin-throw : 01 SEP 1988 : 1015 : 10 MAR 2022 : 35
+AUS : William WHITE : javelin-throw : 06 JUN 1994 : 1015 : 02 APR 2022 : 35
+JAM : Oralndo THOMAS : javelin-throw : 13 JAN 1995 : 1012 : 29 JAN 2022 : 37
+AUS : Neil JANSE : javelin-throw : 23 OCT 2000 : 1010 : 19 MAR 2022 : 38
+IND : Kishore KUMAR JENA : javelin-throw : 09 JUN 1995 : 1009 : 24 MAY 2022 : 39
+IND : Vikas YADAV : javelin-throw : 22 DEC 2001 : 1008 : 13 MAR 2022 : 40
+SRI : Rankoth PEDIGE W.L.D. : javelin-throw : 14 MAY 1988 : 1008 : 11 FEB 2022 : 41
+TTO : Tyriq HORSFORD : javelin-throw : 17 JAN 2000 : 1007 : 26 MAR 2022 : 42
+CYP : Eleftherios KONTONIKOLAS : javelin-throw : 03 SEP 2003 : 1007 : 22 MAY 2022 : 42
+IND : Abhishek SINGH : javelin-throw : 20 MAY 1995 : 1005 : 03 APR 2022 : 44
+CYP : Spyros SAVVA : javelin-throw : 24 JAN 2000 : 1005 : 22 MAY 2022 : 45
+IND : Harish KUMAR : javelin-throw : 30 OCT 1996 : 1003 : 03 APR 2022 : 46
+NGR : Samuel KURE : javelin-throw : 20 DEC 1993 : 998 : 29 APR 2022 : 47
+GRN : Markim FELIX : javelin-throw : 08 OCT 1997 : 992 : 08 JUN 2022 : 48
+IND : Arshdeep SINGH : javelin-throw : 05 APR 1999 : 991 : 19 MAR 2022 : 49
+JAM : Elvis GRAHAM : javelin-throw : 03 OCT 1996 : 988 : 19 MAR 2022 : 50
+GUY : Leslain BAIRD : javelin-throw : 09 MAY 1987 : 983 : 29 MAY 2022 : 51
+SRI : W.B.R.N. FERNANDO : javelin-throw :  : 979 : 23 APR 2022 : 52
+IND : Arun BABY : javelin-throw : 30 APR 1993 : 979 : 05 MAR 2022 : 53
+JAM : Rajheim CARBY : javelin-throw :  : 975 : 08 MAY 2022 : 54
+IND : Jay KUMAR : javelin-throw : 10 OCT 2002 : 972 : 04 JAN 2022 : 55
+IND : Ankit KUMAR : javelin-throw :  : 966 : 13 MAR 2022 : 56
+KEN : Methusellah KIPROP : javelin-throw : 1991 : 963 : 28 APR 2022 : 57
+IND : Anmol RANA : javelin-throw : 22 APR 1999 : 963 : 07 JAN 2022 : 58
+AUS : Michael CRITICOS : javelin-throw : 26 JAN 1995 : 962 : 02 APR 2022 : 59
+KEN : Duncan Kinyanchui MONG'ARE : javelin-throw : 07 JAN 1996 : 961 : 15 APR 2022 : 60
+GHA : John AMPOMAH : javelin-throw : 11 JUL 1990 : 961 : 30 APR 2022 : 61
+IND : Vivek KUMAR SINGH : javelin-throw : 28 MAR 2003 : 959 : 03 JUN 2022 : 62
+SRI : Rumesh Tharanga PATHIRAGE : javelin-throw : 21 MAR 2003 : 958 : 23 APR 2022 : 63
+GBR : Benjamin PEARSON : javelin-throw : 23 MAY 1994 : 958 : 22 MAY 2022 : 63
+CAN : Joshua MATHER : javelin-throw : 1999 : 957 : 30 APR 2022 : 65
+AUS : Saxon WARD : javelin-throw : 08 DEC 1995 : 957 : 19 FEB 2022 : 66
+IND : Nikunj SINGH : javelin-throw : 18 MAY 2000 : 953 : 12 MAY 2022 : 67
+GBR : James WHITEAKER : javelin-throw : 08 OCT 1998 : 953 : 02 APR 2022 : 68
+LCA : Albert REYNOLDS : javelin-throw : 28 MAR 1988 : 952 : 27 FEB 2022 : 69
+IND : Jaswant SINGH : javelin-throw : 03 AUG 1998 : 951 : 19 MAR 2022 : 70
+RSA : Connor BARNES : javelin-throw : 02 OCT 2003 : 951 : 31 MAR 2022 : 71
+SRI : Pragathi PRASANNA : javelin-throw : 1999 : 948 : 23 APR 2022 : 72
+IND : Anil KUMAR : javelin-throw : 08 APR 1992 : 946 : 03 APR 2022 : 73
+IND : R. MATHESHWARAN : javelin-throw : 19 FEB 2000 : 946 : 14 MAY 2022 : 74
+JAM : Adrian MITCHELL : javelin-throw :  : 945 : 07 MAY 2022 : 75
+IND : Ankit RATHI : javelin-throw : 31 DEC 1997 : 944 : 24 MAY 2022 : 76
+CAN : Andy WHITE : javelin-throw : 06 DEC 1989 : 943 : 14 MAY 2022 : 77
+AUS : Oscar SULLIVAN : javelin-throw : 30 DEC 2000 : 942 : 02 APR 2022 : 78
+GBR : Greg MILLAR : javelin-throw : 19 DEC 1992 : 941 : 22 MAY 2022 : 79
+IND : Anil GUNGASE : javelin-throw : 20 MAR 1995 : 941 : 23 APR 2022 : 80
+IND : Izhar AHMAD : javelin-throw : 03 MAR 2003 : 938 : 07 JAN 2022 : 81
+SRI : E.K.C.K. PADMASIRI : javelin-throw : 1995 : 936 : 23 APR 2022 : 82
+SRI : K.G. YOGARAJ : javelin-throw :  : 936 : 23 APR 2022 : 83
+CAN : Jared O'RILEY : javelin-throw : 2000 : 930 : 25 MAY 2022 : 84
+IND : Ravi TANWAR : javelin-throw : 15 DEC 2002 : 929 : 15 MAY 2022 : 85
+IND : . GAGANDEEP : javelin-throw : 21 JAN 2001 : 927 : 09 MAY 2022 : 86
+SRI : D.C. WICKRAMARATHNE : javelin-throw :  : 927 : 10 MAR 2022 : 87
+GBR : Callum TAYLOR : javelin-throw : 29 JUN 2004 : 926 : 14 MAY 2022 : 88
+IND : M. ARAFATH : javelin-throw : 13 DEC 1999 : 926 : 14 MAY 2022 : 88
+IND : . NAVEEN : javelin-throw :  : 926 : 04 JAN 2022 : 90
+IND : AVG KRISHNAMA : javelin-throw :  : 925 : 04 JAN 2022 : 91
+SRI : R. RATHUSHAN : javelin-throw :  : 923 : 23 APR 2022 : 92
+AUS : Christian PAYNTER : javelin-throw : 23 APR 1997 : 919 : 08 JUN 2022 : 93
+AUS : Oliver BLACKBURN : javelin-throw : 19 JUL 2002 : 918 : 19 MAR 2022 : 94
+AUS : Haddi EL SHORBAGY : javelin-throw : 2004 : 917 : 10 JUN 2022 : 95
+IND : Manbir SINGH : javelin-throw : 20 DEC 2002 : 916 : 08 MAY 2022 : 96
+CAN : Callan SALDUTTO : javelin-throw : 20 FEB 2002 : 916 : 25 MAR 2022 : 97
+AUS : Jonathan BELL : javelin-throw : 20 NOV 2000 : 916 : 02 APR 2022 : 98
+FIJ : Eliot LECARPENTIER : javelin-throw : 17 NOV 1998 : 913 : 15 JAN 2022 : 99
+RSA : Jan DU TOIT : javelin-throw : 04 DEC 2003 : 911 : 06 APR 2022 : 100

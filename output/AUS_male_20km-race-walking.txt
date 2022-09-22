@@ -4,6 +4,6 @@ Declan TINGAY : 20km-race-walking : 06 FEB 1999 : 1202 : 3 : 1175 : 1096 : 1120 
 Will THOMPSON : 20km-race-walking : 18 NOV 2002 : 1089 : 4 : 1092 : 1073 : 1014 :  :  : 13 FEB 2022 : 30 MAR 2022 : 05 MAR 2022 :  : 
 Carl GIBBONS : 20km-race-walking : 19 JUN 1996 : 1080 : 5 : 1054 : 1036 : 1016 :  :  : 13 FEB 2022 : 27 MAR 2021 : 02 MAY 2021 :  : 
 Tyler JONES : 20km-race-walking : 08 APR 1998 : 1054 : 6 : 1102 : 985 : 968 :  :  : 13 FEB 2022 : 30 MAR 2022 : 02 MAY 2021 :  : 
-Mitchell BAKER : 20km-race-walking : 06 JUL 2001 : 1027 : 7 : 1027 : 974 : 984 :  :  : 27 MAR 2021 : 13 FEB 2022 : 12 JUN 2021 :  : 
-Tim FRASER : 20km-race-walking : 2000 : 1016 : 8 : 1038 : 974 : 939 :  :  : 13 FEB 2022 : 30 MAR 2022 : 27 MAR 2021 :  : 
-Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 962 : 9 : 959 : 967 : 888 :  :  : 13 FEB 2022 : 30 MAR 2022 : 27 MAR 2021 :  : 
+Tim FRASER : 20km-race-walking : 2000 : 1042 : 7 : 1038 : 1047 : 974 :  :  : 13 FEB 2022 : 15 MAY 2022 : 30 MAR 2022 :  : 
+Mitchell BAKER : 20km-race-walking : 06 JUL 2001 : 1027 : 8 : 1027 : 974 : 984 :  :  : 27 MAR 2021 : 13 FEB 2022 : 12 JUN 2021 :  : 
+Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 977 : 9 : 967 : 959 : 964 :  :  : 30 MAR 2022 : 13 FEB 2022 : 15 MAY 2022 :  : 

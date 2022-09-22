@@ -12,12 +12,12 @@ IND : Sharmila KUMARI : javelin-throw : 02 MAR 1995 : 1021 : 20 AUG 2021 : 11
 BAH : Rhema OTABOR : javelin-throw : 03 DEC 2002 : 987 : 19 AUG 2021 : 12
 NGR : Kelechi NWANAGA : javelin-throw : 24 DEC 1997 : 984 : 14 MAY 2021 : 13
 AUS : Mackenzie MIELCZAREK : javelin-throw : 06 FEB 2003 : 984 : 15 APR 2021 : 14
-RSA : Mckayla VAN DER WESTHUIZEN : javelin-throw : 11 MAR 2004 : 983 : 19 JUN 2021 : 15
+RSA : Mckyla VAN DER WESTHUIZEN : javelin-throw : 11 MAR 2004 : 983 : 19 JUN 2021 : 15
 GBR : Freya JONES : javelin-throw : 13 NOV 1993 : 982 : 23 MAY 2021 : 16
 AUS : Lianna DAVIDSON : javelin-throw : 08 NOV 2002 : 979 : 06 MAR 2021 : 17
 AUS : Jess BELL : javelin-throw : 13 JAN 2000 : 978 : 27 MAR 2021 : 18
 IND : Sanjana CHOUDHARY : javelin-throw : 09 JUL 1999 : 977 : 15 MAR 2021 : 19
-GBR : Rebekah WALTON : javelin-throw : 20 SEP 1999 : 972 : 09 JUL 2021 : 20
+GBR : Bekah WALTON : javelin-throw : 20 SEP 1999 : 972 : 09 JUL 2021 : 20
 RSA : Jana VAN SCHALKWYK : javelin-throw : 07 MAR 2001 : 967 : 15 APR 2021 : 21
 SRI : Nadeeka LAKMALI : javelin-throw : 18 SEP 1981 : 962 : 15 JUN 2021 : 22
 AUS : Mia GORDON : javelin-throw : 23 OCT 2002 : 954 : 15 APR 2021 : 23
@@ -46,7 +46,7 @@ SRI : Dayana HARSHANI MADUWANTHI : javelin-throw : 06 MAR 1991 : 884 : 07 APR 20
 IND : Karishma SANIL : javelin-throw : 04 JUN 2000 : 880 : 28 JUN 2021 : 46
 IND : . DEEPIKA : javelin-throw : 21 NOV 2005 : 880 : 02 AUG 2021 : 47
 KEN : Damacline Mwango NYAKERERI : javelin-throw : 18 OCT 1993 : 874 : 13 MAR 2021 : 48
-RSA : Heike DE NYSSCHEN : javelin-throw :  : 873 : 15 APR 2021 : 49
+RSA : Heike DE NYSSCHEN : javelin-throw : 01 FEB 2002 : 873 : 15 APR 2021 : 49
 CAN : Kaylee CLARK : javelin-throw : 2003 : 870 : 16 JUL 2021 : 50
 IND : Shilpa RANI : javelin-throw : 15 JUN 1996 : 870 : 21 JUN 2021 : 51
 CAN : Georgia ELLENWOOD : javelin-throw : 05 AUG 1995 : 867 : 20 JUN 2021 : 52
@@ -67,7 +67,7 @@ GBR : Hannah JOHNSON : javelin-throw : 14 JUN 1994 : 843 : 06 JUN 2021 : 66
 JAM : Ayesha CHAMPAGNIE : javelin-throw : 10 MAR 1996 : 842 : 19 MAR 2021 : 67
 GBR : Sophie HAMILTON : javelin-throw : 06 MAY 2004 : 842 : 09 JUL 2021 : 67
 RSA : Chane VAN ZYL : javelin-throw : 08 AUG 2002 : 839 : 26 MAR 2021 : 69
-AUS : Phoebe MARSH : javelin-throw : 2003 : 837 : 15 APR 2021 : 70
+AUS : Phoebe MARSH : javelin-throw : 16 APR 2004 : 837 : 15 APR 2021 : 70
 IND : Uma CHOUDHARY : javelin-throw : 04 OCT 1999 : 836 : 08 SEP 2021 : 71
 IND : Hemamalini NEELAKANDAN : javelin-throw : 12 APR 2000 : 836 : 15 MAR 2021 : 72
 CYP : Christiana ELLINA : javelin-throw : 18 DEC 2004 : 836 : 14 APR 2021 : 72

@@ -2,28 +2,51 @@ AUS : Declan TINGAY : 20km-race-walking : 06 FEB 1999 : 1170 : 22 JAN 2022 : 1
 AUS : Kyle SWAN : 20km-race-walking : 28 MAR 1999 : 1155 : 22 JAN 2022 : 2
 AUS : Rhydian COWLEY : 20km-race-walking : 04 JAN 1991 : 1108 : 22 JAN 2022 : 3
 NZL : Quentin REW : 20km-race-walking : 16 JUL 1984 : 1103 : 15 JAN 2022 : 4
-AUS : Will THOMPSON : 20km-race-walking : 18 NOV 2002 : 1085 : 22 JAN 2022 : 5
-AUS : Mitchell BAKER : 20km-race-walking : 06 JUL 2001 : 1064 : 22 JAN 2022 : 6
-AUS : Tyler JONES : 20km-race-walking : 08 APR 1998 : 1058 : 22 JAN 2022 : 7
-AUS : Carl GIBBONS : 20km-race-walking : 19 JUN 1996 : 1025 : 15 JAN 2022 : 8
-GBR : Cameron CORBISHLEY : 20km-race-walking : 31 MAR 1997 : 1009 : 19 MAR 2022 : 9
-AUS : Tim FRASER : 20km-race-walking : 2000 : 1003 : 22 JAN 2022 : 10
-GBR : Christopher SNOOK : 20km-race-walking : 14 JAN 2000 : 984 : 05 FEB 2022 : 11
-GBR : Tom PARTINGTON : 20km-race-walking : 08 JUL 1999 : 975 : 27 MAR 2022 : 12
-AUS : Tristan CAMILLERI : 20km-race-walking : 14 FEB 2001 : 974 : 22 JAN 2022 : 13
-AUS : Corey DICKSON : 20km-race-walking : 19 JUL 2002 : 968 : 22 JAN 2022 : 14
-AUS : Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 967 : 30 MAR 2022 : 15
-AUS : Kim MOTTROM : 20km-race-walking : 27 SEP 1984 : 965 : 20 FEB 2022 : 16
-KEN : Derrick WANJOHI : 20km-race-walking : 30 AUG 2001 : 946 : 05 MAR 2022 : 17
-KEN : Stephen MUTUKU : 20km-race-walking :  : 945 : 05 MAR 2022 : 18
-KEN : Nichodemus MUSAU : 20km-race-walking :  : 921 : 05 MAR 2022 : 19
-GBR : Guy THOMAS : 20km-race-walking : 01 JUL 1997 : 921 : 19 MAR 2022 : 20
-KEN : Eric Maugo SIKUKU : 20km-race-walking : 1984 : 898 : 05 MAR 2022 : 21
-KEN : Stephen NDANGILI : 20km-race-walking :  : 897 : 05 MAR 2022 : 22
-IND : Rahul SATBIR : 20km-race-walking :  : 895 : 13 MAR 2022 : 23
-IND : Sahil VAJEER : 20km-race-walking :  : 880 : 13 MAR 2022 : 24
-CAN : Evan DUNFEE : 20km-race-walking : 28 SEP 1990 : 870 : 05 FEB 2022 : 25
-GBR : George WILKINSON : 20km-race-walking : 25 APR 2002 : 868 : 19 MAR 2022 : 26
-KEN : David KINGORI : 20km-race-walking :  : 864 : 05 MAR 2022 : 27
-IND : Aaryan SINGH : 20km-race-walking : 2003 : 862 : 13 MAR 2022 : 28
-AUS : Jack MCGINNISKIN : 20km-race-walking : 26 DEC 2002 : 852 : 30 MAR 2022 : 29
+GBR : Tom BOSWORTH : 20km-race-walking : 17 JAN 1990 : 1095 : 08 JUN 2022 : 5
+AUS : Will THOMPSON : 20km-race-walking : 18 NOV 2002 : 1085 : 22 JAN 2022 : 6
+AUS : Mitchell BAKER : 20km-race-walking : 06 JUL 2001 : 1064 : 22 JAN 2022 : 7
+AUS : Tyler JONES : 20km-race-walking : 08 APR 1998 : 1058 : 22 JAN 2022 : 8
+AUS : Carl GIBBONS : 20km-race-walking : 19 JUN 1996 : 1025 : 15 JAN 2022 : 9
+IND : Servin SEBASTIAN : 20km-race-walking : 26 DEC 1999 : 1010 : 14 MAY 2022 : 10
+GBR : Cameron CORBISHLEY : 20km-race-walking : 31 MAR 1997 : 1009 : 19 MAR 2022 : 11
+KEN : Samuel Kireri GATHIMBA : 20km-race-walking : 26 OCT 1987 : 1004 : 09 APR 2022 : 12
+AUS : Tim FRASER : 20km-race-walking : 2000 : 1003 : 22 JAN 2022 : 13
+IND : Rohitkumar VINODKUMAR : 20km-race-walking : 02 JAN 2004 : 998 : 03 JUN 2022 : 14
+IND : Barjod BABUBHAI : 20km-race-walking : 01 JUN 2004 : 997 : 03 JUN 2022 : 15
+GBR : Christopher SNOOK : 20km-race-walking : 14 JAN 2000 : 984 : 05 FEB 2022 : 16
+GBR : Tom PARTINGTON : 20km-race-walking : 08 JUL 1999 : 975 : 27 MAR 2022 : 17
+AUS : Tristan CAMILLERI : 20km-race-walking : 14 FEB 2001 : 974 : 22 JAN 2022 : 18
+IND : Sachin SINGH : 20km-race-walking : 22 MAR 2003 : 973 : 03 JUN 2022 : 19
+AUS : Corey DICKSON : 20km-race-walking : 19 JUL 2002 : 968 : 22 JAN 2022 : 20
+AUS : Dylan RICHARDSON : 20km-race-walking : 17 OCT 2000 : 967 : 30 MAR 2022 : 21
+AUS : Kim MOTTROM : 20km-race-walking : 27 SEP 1984 : 965 : 20 FEB 2022 : 22
+IND : . ROHIT : 20km-race-walking : 01 JAN 2005 : 954 : 03 JUN 2022 : 23
+IND : . ARYAN : 20km-race-walking : 15 DEC 2003 : 952 : 03 JUN 2022 : 24
+KEN : Derrick WANJOHI : 20km-race-walking : 30 AUG 2001 : 946 : 05 MAR 2022 : 25
+KEN : Stephen MUTUKU : 20km-race-walking :  : 945 : 05 MAR 2022 : 26
+KEN : Simon WACHIRA : 20km-race-walking : 06 MAY 1984 : 936 : 22 APR 2022 : 27
+IND : Chandra PRAKASH : 20km-race-walking : 20 MAY 2003 : 926 : 03 JUN 2022 : 28
+KEN : Nichodemus MUSAU : 20km-race-walking :  : 921 : 05 MAR 2022 : 29
+KEN : Heristone Wanyonyi WAFULA : 20km-race-walking : 30 JUN 2003 : 921 : 15 APR 2022 : 30
+GBR : Guy THOMAS : 20km-race-walking : 01 JUL 1997 : 921 : 19 MAR 2022 : 31
+IND : Himanshu KUMAR : 20km-race-walking : 05 DEC 2006 : 912 : 03 JUN 2022 : 32
+IND : Sachin RISHIPAL : 20km-race-walking :  : 911 : 22 APR 2022 : 33
+IND : Deepender SINGH : 20km-race-walking : 12 JUN 2003 : 899 : 03 JUN 2022 : 34
+IND : Vivek RATHI : 20km-race-walking : 05 FEB 2003 : 899 : 03 JUN 2022 : 35
+KEN : Eric Maugo SIKUKU : 20km-race-walking : 1984 : 898 : 05 MAR 2022 : 36
+KEN : Stephen NDANGILI : 20km-race-walking :  : 897 : 05 MAR 2022 : 37
+IND : Rahul SATBIR : 20km-race-walking :  : 895 : 13 MAR 2022 : 38
+IND : Sahil VAJEER : 20km-race-walking :  : 880 : 13 MAR 2022 : 39
+KEN : Shadrack MWANZIA : 20km-race-walking :  : 878 : 09 APR 2022 : 40
+CAN : Evan DUNFEE : 20km-race-walking : 28 SEP 1990 : 870 : 05 FEB 2022 : 41
+GBR : George WILKINSON : 20km-race-walking : 25 APR 2002 : 868 : 19 MAR 2022 : 42
+KEN : David KINGORI : 20km-race-walking :  : 864 : 05 MAR 2022 : 43
+IND : Babendra SINGH : 20km-race-walking : 04 AUG 2006 : 863 : 03 JUN 2022 : 44
+IND : Aaryan SINGH : 20km-race-walking : 2003 : 862 : 13 MAR 2022 : 45
+IND : Raj MISHRA : 20km-race-walking : 05 JUL 2004 : 856 : 15 MAY 2022 : 46
+RSA : Antonio FARMER : 20km-race-walking : 21 DEC 2000 : 852 : 11 MAR 2022 : 47
+AUS : Jack MCGINNISKIN : 20km-race-walking : 26 DEC 2002 : 852 : 30 MAR 2022 : 48
+CAN : Alger LIANG : 20km-race-walking : 17 FEB 1998 : 850 : 14 MAY 2022 : 49
+IND : G SARATHY : 20km-race-walking : 23 NOV 2003 : 849 : 03 JUN 2022 : 50
+IND : Avinesh ANTHONY : 20km-race-walking : 30 APR 2002 : 847 : 14 MAY 2022 : 51
+KEN : Nehemiah KIPRONO : 20km-race-walking :  : 847 : 09 APR 2022 : 52

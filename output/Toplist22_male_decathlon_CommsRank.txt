@@ -1,10 +1,38 @@
-AUS : Cedric DUBLER : decathlon : 13 JAN 1995 : 1187 : 02 APR 2022 : 1
-AUS : Alec DIAMOND : decathlon : 09 AUG 1997 : 1127 : 02 APR 2022 : 2
-JAM : Asani HYLTON : decathlon : 01 JUN 1997 : 1075 : 24 MAR 2022 : 3
-AUS : Christian PAYNTER : decathlon : 23 APR 1997 : 1036 : 09 JAN 2022 : 4
-NZL : Aaron BOOTH : decathlon : 12 SEP 1996 : 1024 : 06 MAR 2022 : 5
-NZL : Max ATTWELL : decathlon : 14 SEP 1996 : 991 : 27 MAR 2022 : 6
-AUS : Martin CLARK : decathlon : 24 NOV 1992 : 961 : 02 APR 2022 : 7
-RSA : Fredriech PRETORIUS : decathlon : 04 AUG 1995 : 928 : 12 MAR 2022 : 8
-AUS : Riley HIGGINS : decathlon : 15 APR 2002 : 927 : 02 APR 2022 : 9
-AUS : Dean PASTRELLO : decathlon : 05 MAY 1999 : 907 : 09 JAN 2022 : 10
+CAN : Damian WARNER : decathlon : 04 NOV 1989 : 1250 : 29 MAY 2022 : 1
+AUS : Cedric DUBLER : decathlon : 13 JAN 1995 : 1187 : 02 APR 2022 : 2
+AUS : Alec DIAMOND : decathlon : 09 AUG 1997 : 1127 : 02 APR 2022 : 3
+GBR : Harry KENDALL : decathlon : 04 OCT 1996 : 1102 : 29 MAY 2022 : 4
+BAH : Kendrick THOMPSON : decathlon : 28 AUG 1997 : 1093 : 30 MAY 2022 : 5
+GBR : Lewis CHURCH : decathlon : 27 SEP 1996 : 1091 : 01 MAY 2022 : 6
+JAM : Asani HYLTON : decathlon : 01 JUN 1997 : 1087 : 09 JUN 2022 : 7
+GBR : Sam TALBOT : decathlon : 17 FEB 1999 : 1079 : 29 MAY 2022 : 8
+BAH : Ken MULLINGS : decathlon : 28 APR 1997 : 1073 : 09 APR 2022 : 9
+NZL : Max ATTWELL : decathlon : 14 SEP 1996 : 1070 : 08 JUN 2022 : 10
+GBR : Ollie THORNER : decathlon : 16 MAR 2001 : 1065 : 14 APR 2022 : 11
+IND : Tejaswin SHANKAR : decathlon : 21 DEC 1998 : 1063 : 14 MAY 2022 : 12
+CYP : Elvis KRYUKOV : decathlon : 01 MAR 1992 : 1060 : 27 MAY 2022 : 13
+NZL : Ben COLLERTON : decathlon : 22 APR 1998 : 1055 : 16 APR 2022 : 14
+RSA : Fredriech PRETORIUS : decathlon : 04 AUG 1995 : 1050 : 11 JUN 2022 : 15
+AUS : Christian PAYNTER : decathlon : 23 APR 1997 : 1036 : 09 JAN 2022 : 16
+RSA : Jesse PEREZ : decathlon : 09 NOV 1997 : 1033 : 11 JUN 2022 : 17
+GBR : Caius JOSEPH : decathlon : 24 JUL 1999 : 1031 : 29 MAY 2022 : 18
+AUS : Liam GILBERT : decathlon : 08 FEB 2002 : 1029 : 08 JUN 2022 : 19
+NZL : Aaron BOOTH : decathlon : 12 SEP 1996 : 1024 : 06 MAR 2022 : 20
+AUS : Gary HAASBROEK : decathlon : 15 MAR 1999 : 995 : 14 MAY 2022 : 21
+GBR : Nicolas GEROME : decathlon : 07 NOV 1999 : 994 : 29 MAY 2022 : 22
+GBR : Jami SCHLUETER : decathlon : 26 OCT 2002 : 994 : 14 APR 2022 : 23
+BAR : Aaron WORRELL : decathlon :  : 978 : 14 MAY 2022 : 24
+KEN : Edwin Kipmutai TOO : decathlon : 14 APR 1995 : 974 : 11 JUN 2022 : 25
+AUS : Martin CLARK : decathlon : 24 NOV 1992 : 961 : 02 APR 2022 : 26
+GBR : Charlie ROE : decathlon : 28 APR 1992 : 960 : 29 MAY 2022 : 27
+GBR : Tom CHANDLER : decathlon : 19 SEP 1997 : 959 : 29 MAY 2022 : 28
+JAM : David EDMONDSON : decathlon : 17 NOV 2000 : 956 : 13 MAY 2022 : 29
+KEN : Gilbert KOECH : decathlon : 12 AUG 1989 : 945 : 11 JUN 2022 : 30
+CAN : Cole WILSON : decathlon :  : 943 : 26 MAY 2022 : 31
+JAM : Andrew BETTON : decathlon : 06 SEP 1999 : 930 : 20 MAY 2022 : 32
+AUS : Riley HIGGINS : decathlon : 15 APR 2002 : 927 : 02 APR 2022 : 33
+CYP : Georgios KANARIS : decathlon : 04 OCT 2000 : 909 : 22 MAY 2022 : 34
+AUS : Dean PASTRELLO : decathlon : 05 MAY 1999 : 907 : 09 JAN 2022 : 35
+NAM : Timon DRESSELHAUS : decathlon : 1998 : 899 : 13 MAY 2022 : 36
+CAN : Shawn BEAUDOIN : decathlon : 21 FEB 1994 : 889 : 15 MAY 2022 : 37
+CAN : Ryan EVANS : decathlon : 1999 : 882 : 14 APR 2022 : 38

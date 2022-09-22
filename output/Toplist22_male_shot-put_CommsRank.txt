@@ -1,100 +1,100 @@
-NZL : Tomas WALSH : shot-put : 01 MAR 1992 : 1214 : 05 MAR 2022 : 1
+NZL : Tom WALSH : shot-put : 01 MAR 1992 : 1259 : 05 JUN 2022 : 1
 NZL : Jacko GILL : shot-put : 20 DEC 1994 : 1193 : 05 MAR 2022 : 2
-RSA : Jason VAN ROOYEN : shot-put : 04 FEB 1997 : 1159 : 16 MAR 2022 : 3
-RSA : Kyle BLIGNAUT : shot-put : 09 NOV 1999 : 1147 : 16 MAR 2022 : 4
-GBR : Scott LINCOLN : shot-put : 07 MAY 1993 : 1126 : 13 MAR 2022 : 5
-IND : Tajinderpal Singh TOOR : shot-put : 13 NOV 1994 : 1117 : 27 FEB 2022 : 6
-JAM : O'Dayne RICHARDS : shot-put : 14 DEC 1988 : 1110 : 19 MAR 2022 : 7
-AUS : Alexander KOLESNIKOFF : shot-put : 30 SEP 2000 : 1073 : 26 MAR 2022 : 8
-IND : Karanveer SINGH : shot-put : 24 JUL 1997 : 1071 : 27 FEB 2022 : 9
-NZL : Nick PALMER : shot-put : 12 JUN 2000 : 1064 : 05 MAR 2022 : 10
-NZL : Ryan BALLANTYNE : shot-put : 08 JAN 1999 : 1056 : 20 FEB 2022 : 11
-IVB : Djimon GUMBS : shot-put : 13 SEP 2000 : 1053 : 19 MAR 2022 : 12
-NGR : Dotun OGUNDEJI : shot-put : 24 FEB 1996 : 1038 : 01 APR 2022 : 13
-AUS : Aiden HARVEY : shot-put : 16 APR 1999 : 1030 : 02 APR 2022 : 14
-AUS : Damien BIRKINHEAD : shot-put : 08 APR 1993 : 1024 : 19 MAR 2022 : 15
-JAM : Fedrick DACRES : shot-put : 28 FEB 1994 : 1015 : 29 JAN 2022 : 16
-JAM : Kyle MITCHELL : shot-put : 16 JUL 1998 : 1015 : 19 MAR 2022 : 17
-JAM : Ralford MULLINGS : shot-put : 22 NOV 2002 : 1010 : 19 MAR 2022 : 18
-IND : Shivam CHOUDHARY : shot-put : 25 AUG 1997 : 1007 : 04 JAN 2022 : 19
-JAM : Kevin NEDRICK : shot-put : 11 JAN 1998 : 1007 : 19 MAR 2022 : 19
-IND : Vanam SHARMA : shot-put : 13 APR 1998 : 1003 : 05 JAN 2022 : 21
-IND : Ashish BHALOTHIA : shot-put : 11 NOV 1999 : 1002 : 12 MAR 2022 : 22
-IND : Antil NARESH : shot-put : 20 MAR 1991 : 1002 : 04 APR 2022 : 22
-IND : Chetan KAPOOR : shot-put : 23 DEC 1993 : 989 : 04 APR 2022 : 24
-JAM : Kobe LAWRENCE : shot-put : 12 FEB 2004 : 987 : 29 JAN 2022 : 25
-IND : Davinder SINGH : shot-put : 30 OCT 1992 : 985 : 04 APR 2022 : 26
-RSA : Chris VAN NIEKERK : shot-put : 30 AUG 2000 : 983 : 26 MAR 2022 : 27
-IND : Sahib SINGH : shot-put : 05 NOV 2000 : 983 : 05 JAN 2022 : 28
-IND : . ANIKET : shot-put : 05 NOV 2001 : 980 : 27 FEB 2022 : 29
-IND : Sawa SOMBIR : shot-put : 2004 : 973 : 12 MAR 2022 : 30
-JAM : Warren BARRETT : shot-put : 09 SEP 1997 : 969 : 25 MAR 2022 : 31
-JAM : Deandre LEITH : shot-put : 10 DEC 1998 : 956 : 26 MAR 2022 : 32
-JAM : Moses PARKINSON : shot-put : 15 OCT 1998 : 955 : 02 APR 2022 : 33
-JAM : Chad WRIGHT : shot-put : 25 MAR 1991 : 953 : 29 JAN 2022 : 34
-JAM : Brandon LLOYD : shot-put : 28 NOV 2001 : 953 : 02 APR 2022 : 34
-NGR : Chisom ENEKWECHI : shot-put :  : 952 : 26 MAR 2022 : 36
-IND : Abhilash SAXENA : shot-put : 05 JUL 1993 : 944 : 29 MAR 2022 : 37
-IND : Sanyam SANJAY : shot-put : 2003 : 943 : 12 MAR 2022 : 38
-IND : Sagar SANJAY : shot-put :  : 940 : 12 MAR 2022 : 39
-SRI : Samith Madusanka FERNANDO : shot-put : 09 APR 1998 : 939 : 10 FEB 2022 : 40
-CYP : Petros MICHAELIDES : shot-put : 14 JAN 2000 : 936 : 04 MAR 2022 : 41
-IND : Bhagat SINGH : shot-put : 25 DEC 2002 : 936 : 12 MAR 2022 : 41
-IND : . AKSHAY : shot-put : 28 DEC 1998 : 934 : 04 APR 2022 : 43
-IND : Mankirat SINGH : shot-put : 26 MAY 1998 : 933 : 05 JAN 2022 : 44
-RSA : Willem COERTZEN : shot-put : 30 APR 2002 : 933 : 26 MAR 2022 : 44
-JAM : Rasheed DOWNER : shot-put : 1999 : 932 : 29 JAN 2022 : 46
-JAM : Zackery DILLON : shot-put : 07 MAR 2002 : 930 : 26 MAR 2022 : 47
-IND : Adhish GHILDYAL : shot-put : 21 MAY 2002 : 930 : 27 FEB 2022 : 48
-IND : B. MANUSH : shot-put : 03 AUG 2000 : 929 : 05 JAN 2022 : 49
-CYP : Konstantinos ALEXIADIS : shot-put : 03 JUN 2002 : 928 : 04 MAR 2022 : 50
-AUS : Daniel GREEN : shot-put : 04 DEC 1996 : 928 : 02 APR 2022 : 50
-MAS : Farm LOONG : shot-put : 09 FEB 2000 : 927 : 06 MAR 2022 : 52
-JAM : Javon OSBOURNE : shot-put : 14 MAY 2002 : 926 : 19 MAR 2022 : 53
-IVB : Diamante GUMBS : shot-put : 13 SEP 2000 : 925 : 19 MAR 2022 : 54
-JAM : Danree DELANCEY : shot-put : 19 MAY 1999 : 924 : 19 MAR 2022 : 55
-RSA : DJ LIEBENBERG : shot-put : 18 FEB 2003 : 924 : 16 MAR 2022 : 56
-IND : Aryan TYAGI : shot-put : 14 AUG 2001 : 921 : 05 JAN 2022 : 57
-CAN : Dennis ADU : shot-put : 28 SEP 2000 : 918 : 02 APR 2022 : 58
-IND : . SANYAM : shot-put : 05 OCT 2003 : 917 : 05 JAN 2022 : 59
-TTO : Shaquille SINGUINEAU : shot-put : 1996 : 914 : 19 MAR 2022 : 60
-IND : Amandeep Singh DHALIWAL : shot-put : 16 MAY 2002 : 912 : 27 FEB 2022 : 61
-JAM : Zico CAMPBELL : shot-put : 30 SEP 1999 : 911 : 18 MAR 2022 : 62
-IND : Samardeep SINGH : shot-put : 03 JAN 2001 : 910 : 05 JAN 2022 : 63
-AUS : Courtney HEINZE : shot-put : 14 JAN 1991 : 909 : 07 JAN 2022 : 64
-BAH : Johnie JEAN-JACQUES : shot-put :  : 905 : 26 MAR 2022 : 65
-IND : Iqbal SINGH : shot-put : 13 NOV 1999 : 902 : 27 FEB 2022 : 66
-TTO : Christopher CRAWFORD : shot-put : 2001 : 901 : 13 FEB 2022 : 67
-MAS : Mohd ZIYAD ZULKIFLI : shot-put : 15 MAR 1990 : 899 : 06 MAR 2022 : 68
-IND : Thorat PRAFULL : shot-put :  : 898 : 05 JAN 2022 : 69
-IND : Amit BHAINI : shot-put : 20 OCT 1997 : 896 : 27 FEB 2022 : 70
-SAM : Nathaniel SULUPO : shot-put : 18 FEB 1998 : 891 : 30 JAN 2022 : 71
-JAM : Deandre FYFFE : shot-put : 18 JUN 1999 : 887 : 26 MAR 2022 : 72
-IND : Shakti SOLANKI : shot-put : 17 DEC 1996 : 886 : 29 MAR 2022 : 73
-KEN : Peter Kamau MWANGI : shot-put : 11 OCT 1983 : 885 : 04 FEB 2022 : 74
-CAN : Brandon OVINGTON : shot-put : 2001 : 883 : 02 APR 2022 : 75
-JAM : Cobe GRAHAM : shot-put : 22 JAN 2000 : 879 : 26 MAR 2022 : 76
-JAM : Christopher BROWN : shot-put : 06 NOV 2000 : 879 : 02 APR 2022 : 77
-IND : Akash GREHWAL : shot-put : 01 SEP 2001 : 878 : 04 JAN 2022 : 78
-AUS : Shane CARSTAIRS : shot-put : 27 OCT 1988 : 877 : 05 FEB 2022 : 79
-CAN : Tom NEDOW : shot-put : 1998 : 873 : 12 MAR 2022 : 80
-IND : . NIKET : shot-put : 10 JAN 2002 : 870 : 04 APR 2022 : 81
-JAM : Donroy BROWN : shot-put : 21 OCT 2000 : 868 : 19 MAR 2022 : 82
-IND : Parth LAKRA : shot-put : 26 JAN 2000 : 864 : 04 JAN 2022 : 83
-AUS : Todd HODGETTS : shot-put : 23 MAR 1988 : 863 : 12 MAR 2022 : 84
-MAS : Jonah Chang ANAK RIGAN : shot-put :  : 863 : 06 MAR 2022 : 85
-GBR : Andrew KNIGHT : shot-put : 10 NOV 2001 : 862 : 26 MAR 2022 : 86
-KEN : Benson MAINA : shot-put : 1992 : 861 : 04 FEB 2022 : 87
-AUS : Etienne ROUSSEAU : shot-put : 28 FEB 2003 : 860 : 20 FEB 2022 : 88
-IND : . VIKASH : shot-put :  : 860 : 04 JAN 2022 : 89
-IND : . SAGAR : shot-put :  : 858 : 04 JAN 2022 : 90
-NGR : Chibuike ODOEMENE : shot-put :  : 856 : 26 MAR 2022 : 91
-IND : Adil Sher SINGH : shot-put : 08 JUL 1998 : 854 : 04 JAN 2022 : 92
-AUS : Christian PAYNTER : shot-put : 23 APR 1997 : 854 : 08 JAN 2022 : 92
-IND : Sana CHAUDHARY : shot-put :  : 852 : 04 JAN 2022 : 94
-CMR : Billy Jospen TAKOUGOUM KUITCHE : shot-put : 10 JAN 1997 : 851 : 12 FEB 2022 : 95
-BAH : Tarajh HUDSON : shot-put : 29 NOV 2002 : 851 : 19 MAR 2022 : 96
-AUS : Jason PARMAXIDIS : shot-put : 07 NOV 2003 : 850 : 02 APR 2022 : 97
-NZL : Liam NGCHOK-WULF : shot-put : 27 JUN 2003 : 845 : 20 FEB 2022 : 98
-IND : Rahul KASHYAP : shot-put : 16 NOV 2000 : 844 : 04 JAN 2022 : 99
-IND : Aadarsh KHANNA : shot-put :  : 844 : 04 JAN 2022 : 99
+NGR : Chukwuebuka Cornnell ENEKWECHI : shot-put : 28 JAN 1993 : 1192 : 27 APR 2022 : 3
+GBR : Scott LINCOLN : shot-put : 07 MAY 1993 : 1176 : 21 MAY 2022 : 4
+NGR : Issac ODUGBESAN : shot-put :  : 1172 : 25 MAY 2022 : 5
+RSA : Jason VAN ROOYEN : shot-put : 04 FEB 1997 : 1159 : 16 MAR 2022 : 6
+RSA : Kyle BLIGNAUT : shot-put : 09 NOV 1999 : 1147 : 16 MAR 2022 : 7
+IND : Tajinderpal Singh TOOR : shot-put : 13 NOV 1994 : 1117 : 27 FEB 2022 : 8
+JAM : O'Dayne RICHARDS : shot-put : 14 DEC 1988 : 1116 : 12 MAY 2022 : 9
+IVB : Eldred HENRY : shot-put : 18 SEP 1994 : 1111 : 19 MAY 2022 : 10
+RSA : Burger LAMBRECHTS JR. : shot-put : 06 AUG 1998 : 1108 : 22 APR 2022 : 11
+NGR : Dotun OGUNDEJI : shot-put : 24 FEB 1996 : 1105 : 09 APR 2022 : 12
+IND : Karanveer SINGH : shot-put : 24 JUL 1997 : 1101 : 21 MAY 2022 : 13
+AUS : Damien BIRKINHEAD : shot-put : 08 APR 1993 : 1078 : 09 APR 2022 : 14
+IVB : Djimon GUMBS : shot-put : 13 SEP 2000 : 1074 : 25 MAY 2022 : 15
+AUS : Alexander KOLESNIKOFF : shot-put : 30 SEP 2000 : 1073 : 26 MAR 2022 : 16
+JAM : Courtney LAWRENCE : shot-put : 22 SEP 1999 : 1067 : 30 APR 2022 : 17
+AUS : Aiden HARVEY : shot-put : 16 APR 1999 : 1064 : 09 APR 2022 : 18
+NZL : Nick PALMER : shot-put : 12 JUN 2000 : 1064 : 05 MAR 2022 : 19
+NZL : Ryan BALLANTYNE : shot-put : 08 JAN 1999 : 1056 : 20 FEB 2022 : 20
+GBR : Youcef ZATAT : shot-put : 13 APR 1994 : 1030 : 22 MAY 2022 : 21
+JAM : Kevin NEDRICK : shot-put : 11 JAN 1998 : 1030 : 25 MAY 2022 : 22
+JAM : Roje STONA : shot-put : 26 FEB 1999 : 1028 : 30 APR 2022 : 23
+CAN : Mark BUJNOWSKI : shot-put : 01 APR 1998 : 1027 : 21 MAY 2022 : 24
+JAM : Kyle MITCHELL : shot-put : 16 JUL 1998 : 1027 : 09 APR 2022 : 25
+JAM : Warren BARRETT : shot-put : 09 SEP 1997 : 1017 : 25 MAY 2022 : 26
+JAM : Fedrick DACRES : shot-put : 28 FEB 1994 : 1015 : 29 JAN 2022 : 27
+JAM : Brandon LLOYD : shot-put : 28 NOV 2001 : 1011 : 07 MAY 2022 : 28
+JAM : Ralford MULLINGS : shot-put : 22 NOV 2002 : 1010 : 19 MAR 2022 : 29
+CAN : Dennis ADU : shot-put : 28 SEP 2000 : 1010 : 20 MAY 2022 : 29
+RSA : Chris VAN NIEKERK : shot-put : 30 AUG 2000 : 1009 : 23 APR 2022 : 31
+IND : Shivam CHOUDHARY : shot-put : 25 AUG 1997 : 1007 : 04 JAN 2022 : 32
+IND : Vanam SHARMA : shot-put : 13 APR 1998 : 1003 : 05 JAN 2022 : 33
+IND : Inderjeet SINGH : shot-put : 19 APR 1988 : 1003 : 14 MAY 2022 : 33
+IND : Ashish BHALOTHIA : shot-put : 11 NOV 1999 : 1002 : 12 MAR 2022 : 35
+IND : Antil NARESH : shot-put : 20 MAR 1991 : 1002 : 04 APR 2022 : 35
+IND : Sahib SINGH : shot-put : 05 NOV 2000 : 1000 : 02 MAY 2022 : 37
+NGR : Chisom ENEKWECHI : shot-put :  : 996 : 07 MAY 2022 : 38
+IND : Dhanvir SINGH : shot-put : 28 DEC 2002 : 994 : 21 MAY 2022 : 39
+IND : Sanyam SANJAY : shot-put : 05 OCT 2003 : 990 : 14 MAY 2022 : 40
+MRI : Henry Bernard BAPTISTE : shot-put : 12 MAR 1989 : 990 : 29 MAY 2022 : 40
+IND : Chetan KAPOOR : shot-put : 23 DEC 1993 : 989 : 04 APR 2022 : 42
+JAM : Danree DELANCEY : shot-put : 19 MAY 1999 : 987 : 07 MAY 2022 : 43
+JAM : Kobe LAWRENCE : shot-put : 12 FEB 2004 : 987 : 29 JAN 2022 : 44
+IND : Davinder SINGH : shot-put : 30 OCT 1992 : 985 : 04 APR 2022 : 45
+IVB : Diamante GUMBS : shot-put : 13 SEP 2000 : 984 : 15 MAY 2022 : 46
+IND : . ANIKET : shot-put : 05 NOV 2001 : 980 : 27 FEB 2022 : 47
+GBR : Patrick SWAN : shot-put : 14 SEP 1997 : 978 : 07 MAY 2022 : 48
+DMA : Gracien JULES : shot-put : 07 JUL 1999 : 976 : 23 APR 2022 : 49
+IND : Sawa SOMBIR : shot-put : 28 NOV 2004 : 973 : 12 MAR 2022 : 50
+RSA : Cian DE VILLIERS : shot-put : 15 JAN 2004 : 973 : 22 APR 2022 : 50
+JAM : Javon OSBOURNE : shot-put : 14 MAY 2002 : 973 : 23 APR 2022 : 50
+RSA : Willem COERTZEN : shot-put : 30 APR 2002 : 967 : 13 MAY 2022 : 53
+GBR : Lewis BYNG : shot-put : 29 SEP 2001 : 965 : 22 MAY 2022 : 54
+CAN : Mathieu MASSE-PELLETIER : shot-put :  : 961 : 16 APR 2022 : 55
+CYP : Petros MICHAELIDES : shot-put : 14 JAN 2000 : 960 : 25 MAR 2022 : 56
+RSA : Aiden SMITH : shot-put : 11 OCT 2004 : 959 : 06 APR 2022 : 57
+GRN : Johann JEREMIAH : shot-put : 03 OCT 2000 : 958 : 08 APR 2022 : 58
+JAM : Deandre LEITH : shot-put : 10 DEC 1998 : 956 : 26 MAR 2022 : 59
+JAM : Moses PARKINSON : shot-put : 15 OCT 1998 : 955 : 02 APR 2022 : 60
+MAS : Mohd ZIYAD ZULKIFLI : shot-put : 15 MAR 1990 : 954 : 15 MAY 2022 : 61
+JAM : Chad WRIGHT : shot-put : 25 MAR 1991 : 953 : 29 JAN 2022 : 62
+IND : Samardeep GILL : shot-put : 03 JAN 2001 : 945 : 02 MAY 2022 : 63
+AUS : Daniel GREEN : shot-put : 04 DEC 1996 : 945 : 07 JUN 2022 : 64
+CAN : Eric BRAITHWAITE : shot-put : 1991 : 945 : 08 JUN 2022 : 64
+IND : Abhilash SAXENA : shot-put : 05 JUL 1993 : 944 : 29 MAR 2022 : 66
+IND : . SANYAM : shot-put : 05 OCT 2003 : 944 : 02 MAY 2022 : 66
+IND : Sagar SANJAY : shot-put :  : 940 : 12 MAR 2022 : 68
+SRI : Samith Madusanka FERNANDO : shot-put : 09 APR 1998 : 939 : 10 FEB 2022 : 69
+IND : Bhagat SINGH : shot-put : 25 DEC 2002 : 936 : 12 MAR 2022 : 70
+RSA : DJ LIEBENBERG : shot-put : 18 FEB 2003 : 936 : 06 APR 2022 : 70
+IND : Mankirat SINGH : shot-put : 26 MAY 1998 : 935 : 02 MAY 2022 : 72
+IND : . AKSHAY : shot-put : 28 DEC 1998 : 934 : 04 APR 2022 : 73
+JAM : Rasheed DOWNER : shot-put : 1999 : 932 : 29 JAN 2022 : 74
+JAM : Zackery DILLON : shot-put : 07 MAR 2002 : 930 : 26 MAR 2022 : 75
+IND : Adhish GHILDYAL : shot-put : 21 MAY 2002 : 930 : 27 FEB 2022 : 76
+MAS : Farm LOONG : shot-put : 09 FEB 2000 : 930 : 27 MAR 2022 : 76
+CAN : Brandon OVINGTON : shot-put : 2001 : 930 : 23 APR 2022 : 76
+IND : B. MANUSH : shot-put : 03 AUG 2000 : 929 : 05 JAN 2022 : 79
+CYP : Konstantinos ALEXIADIS : shot-put : 03 JUN 2002 : 928 : 04 MAR 2022 : 80
+CYP : Giorgos KONIARAKIS : shot-put : 07 FEB 1999 : 926 : 22 MAY 2022 : 81
+IND : Aryan TYAGI : shot-put : 14 AUG 2001 : 921 : 05 JAN 2022 : 82
+IND : Thorat PRAFULL : shot-put :  : 921 : 02 MAY 2022 : 83
+JAM : Cobe GRAHAM : shot-put : 22 JAN 2000 : 920 : 23 APR 2022 : 84
+GBR : George HYDE : shot-put : 30 MAR 2001 : 919 : 30 APR 2022 : 85
+GBR : Kane AUBREY : shot-put : 04 NOV 2002 : 919 : 11 MAY 2022 : 85
+TTO : Shaquille SINGUINEAU : shot-put : 1996 : 914 : 19 MAR 2022 : 87
+JAM : Travis ROBINSON : shot-put : 15 JAN 2000 : 914 : 08 MAY 2022 : 87
+FIJ : Mustafa William FALL : shot-put : 11 APR 1995 : 914 : 14 MAY 2022 : 89
+IND : Amandeep Singh DHALIWAL : shot-put : 16 MAY 2002 : 912 : 27 FEB 2022 : 90
+JAM : Zico CAMPBELL : shot-put : 30 SEP 1999 : 911 : 18 MAR 2022 : 91
+GBR : Rhys ALLEN : shot-put : 30 AUG 2004 : 911 : 07 MAY 2022 : 91
+IND : Samardeep SINGH : shot-put : 03 JAN 2001 : 910 : 05 JAN 2022 : 93
+AUS : Courtney HEINZE : shot-put : 14 JAN 1991 : 909 : 07 JAN 2022 : 94
+IND : Parveen DAHIYA : shot-put : 10 OCT 1993 : 909 : 14 MAY 2022 : 94
+BAH : Johnie JEAN-JACQUES : shot-put :  : 905 : 26 MAR 2022 : 96
+CAN : Tom NEDOW : shot-put : 1998 : 904 : 23 APR 2022 : 97
+KEN : Peter Kamau MWANGI : shot-put : 11 OCT 1983 : 903 : 08 APR 2022 : 98
+IND : Iqbal SINGH : shot-put : 13 NOV 1999 : 902 : 27 FEB 2022 : 99
+TTO : Christopher CRAWFORD : shot-put : 2001 : 901 : 13 FEB 2022 : 100

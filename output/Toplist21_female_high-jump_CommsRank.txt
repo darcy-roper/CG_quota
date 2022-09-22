@@ -11,7 +11,7 @@ JAM : Kimberly WILLIAMSON : high-jump : 02 OCT 1993 : 1111 : 19 JUN 2021 : 10
 NGR : Esther ISA : high-jump : 09 SEP 1999 : 1111 : 24 JUN 2021 : 10
 CYP : Styliana IOANNIDOU : high-jump : 17 DEC 2003 : 1091 : 22 AUG 2021 : 12
 GBR : Katarina JOHNSON-THOMPSON : high-jump : 09 JAN 1993 : 1082 : 04 AUG 2021 : 13
-SGP : Michelle SNG : high-jump : 19 MAY 1987 : 1082 : 30 OCT 2021 : 13
+SGP : Suat Li Michelle SNG : high-jump : 19 MAY 1987 : 1082 : 30 OCT 2021 : 13
 NZL : Josie TAYLOR : high-jump : 13 DEC 2002 : 1072 : 27 JAN 2021 : 15
 AUS : Emily WHELAN : high-jump : 10 JAN 2000 : 1072 : 13 FEB 2021 : 15
 ANT : Priscilla FREDERICK : high-jump : 14 FEB 1989 : 1072 : 25 MAY 2021 : 15
@@ -28,7 +28,7 @@ AUS : Rosie TOZER : high-jump : 07 MAY 2002 : 1043 : 30 JAN 2021 : 27
 IND : Swapna BARMAN : high-jump : 29 OCT 1996 : 1043 : 17 MAR 2021 : 27
 RSA : Kristi SNYMAN : high-jump : 15 DEC 2000 : 1043 : 29 MAY 2021 : 27
 CAN : Barbara BITCHOKA : high-jump : 1996 : 1043 : 29 JUN 2021 : 27
-AUS : Toby STOLBERG : high-jump : 2006 : 1043 : 17 OCT 2021 : 27
+AUS : Toby STOLBERG : high-jump : 15 MAY 2006 : 1043 : 17 OCT 2021 : 27
 NZL : Imogen SKELTON : high-jump : 15 OCT 2000 : 1033 : 20 NOV 2021 : 32
 NZL : Keeley O'HAGAN : high-jump : 11 MAR 1994 : 1023 : 20 FEB 2021 : 33
 AUS : Alysha BURNETT : high-jump : 04 JAN 1997 : 1023 : 11 MAR 2021 : 33
@@ -52,7 +52,7 @@ AUS : Brianna LEUNG : high-jump : 2005 : 1004 : 17 APR 2021 : 50
 JAM : Daniella ANGLIN : high-jump : 15 NOV 2001 : 1004 : 11 MAY 2021 : 50
 GBR : Carmen NEAT : high-jump : 23 OCT 2001 : 1004 : 31 MAY 2021 : 50
 CAN : Lara DENBOW : high-jump : 2003 : 1004 : 24 JUL 2021 : 50
-AUS : Taneille CRASE : high-jump : 16 OCT 1994 : 1004 : 18 DEC 2021 : 50
+AUS : Taneille CRASE : high-jump : 06 OCT 1994 : 1004 : 18 DEC 2021 : 50
 NGR : Hope ARUYA : high-jump : 07 AUG 1989 : 994 : 10 APR 2021 : 56
 GBR : Bernice COULSON : high-jump : 25 APR 1998 : 994 : 11 SEP 2021 : 56
 GBR : Eloise HIND : high-jump : 2004 : 994 : 18 SEP 2021 : 56

@@ -1,75 +1,100 @@
 AUS : Nina KENNEDY : pole-vault : 05 APR 1997 : 1177 : 28 JAN 2022 : 1
-NZL : Olivia MCTAGGART : pole-vault : 09 JAN 2000 : 1161 : 05 MAR 2022 : 2
-NZL : Imogen AYRIS : pole-vault : 12 DEC 2000 : 1099 : 19 JAN 2022 : 3
-GBR : Sophie COOK : pole-vault : 12 SEP 1994 : 1055 : 18 FEB 2022 : 4
-AUS : Courtney SMALLACOMBE : pole-vault : 18 JAN 1991 : 1021 : 29 JAN 2022 : 5
-AUS : Elizaveta PARNOVA : pole-vault : 09 MAY 1994 : 1021 : 11 MAR 2022 : 5
-AUS : Jamie SCROOP : pole-vault : 29 MAR 1988 : 1021 : 01 APR 2022 : 5
-CAN : Heather ABADIE : pole-vault : 21 FEB 2003 : 1006 : 24 MAR 2022 : 8
-AUS : Raphaela CORNEY : pole-vault : 10 MAR 2001 : 994 : 21 JAN 2022 : 9
-AUS : Cassidy BRADSHAW : pole-vault : 06 OCT 2003 : 990 : 08 JAN 2022 : 10
-AUS : Madeline LAWSON : pole-vault : 23 FEB 1996 : 975 : 29 JAN 2022 : 11
-CAN : Anicka NEWELL : pole-vault : 05 AUG 1993 : 975 : 25 MAR 2022 : 11
-AUS : Olivia GROSS : pole-vault : 29 AUG 2002 : 975 : 01 APR 2022 : 11
-CAN : Sara WAGENVELD : pole-vault : 1998 : 972 : 26 MAR 2022 : 14
-GBR : Jessica ROBINSON : pole-vault : 26 JUN 1999 : 963 : 13 MAR 2022 : 15
-GBR : Jade SPENCER-SMITH : pole-vault : 08 NOV 2001 : 963 : 13 MAR 2022 : 15
-AUS : Georgia TAYLER : pole-vault : 09 AUG 2004 : 960 : 22 JAN 2022 : 17
-IND : Vengatesh PAVITHRA : pole-vault : 08 DEC 2001 : 960 : 23 FEB 2022 : 17
-AUS : Ellie PARSONS : pole-vault : 04 APR 2004 : 960 : 11 MAR 2022 : 17
-IND : P. Rosy MEENA : pole-vault : 28 OCT 1997 : 960 : 02 APR 2022 : 17
-AUS : Elizabeth BARAL : pole-vault : 30 JAN 1998 : 944 : 16 JAN 2022 : 21
-IND : . POOJA : pole-vault : 09 MAR 2003 : 944 : 23 FEB 2022 : 21
-GBR : Felicia MILORO : pole-vault : 05 JAN 2001 : 932 : 30 JAN 2022 : 23
-GBR : Sophie ASHURST : pole-vault : 26 APR 2003 : 932 : 30 JAN 2022 : 23
-RSA : Nicole JANSE VAN RENSBURG : pole-vault :  : 929 : 18 MAR 2022 : 25
-IND : Baranica ELANGOAN : pole-vault : 03 FEB 1997 : 929 : 02 APR 2022 : 25
-GBR : Courtney MACGUIRE : pole-vault : 30 APR 1990 : 917 : 13 MAR 2022 : 27
-IND : Divya MOHAN : pole-vault : 28 JUL 1999 : 914 : 06 MAR 2022 : 28
-GBR : Megan BAILEY : pole-vault : 22 JAN 1998 : 902 : 18 FEB 2022 : 29
-AUS : Grace BATH : pole-vault : 18 NOV 1994 : 898 : 08 JAN 2022 : 30
-IND : . POOJA : pole-vault : 05 SEP 2001 : 898 : 02 APR 2022 : 30
-GBR : Imogen SMITH : pole-vault : 02 SEP 1999 : 886 : 30 JAN 2022 : 32
-IND : . SATHYA : pole-vault : 02 MAY 2001 : 883 : 23 FEB 2022 : 33
-NZL : Aria RHODES : pole-vault : 04 JUL 2002 : 883 : 05 MAR 2022 : 33
-AUS : Isabella MURRELL : pole-vault : 30 DEC 1998 : 883 : 05 MAR 2022 : 33
-GBR : Isabel THOMAS : pole-vault : 01 MAR 2004 : 871 : 13 MAR 2022 : 36
-GBR : Nemiah MUNIR : pole-vault :  : 871 : 13 MAR 2022 : 36
-AUS : Leila BARKER : pole-vault : 2005 : 868 : 14 JAN 2022 : 38
-AUS : Felicity JOUVELET : pole-vault : 25 MAY 2003 : 868 : 22 JAN 2022 : 38
-AUS : Jade ARNUTHNOT : pole-vault : 2004 : 868 : 05 FEB 2022 : 38
-NZL : Hannah ADYE : pole-vault : 30 APR 2003 : 868 : 05 FEB 2022 : 38
-AUS : Tryphena HEWETT : pole-vault : 22 OCT 2005 : 868 : 12 FEB 2022 : 38
-AUS : Tamara MANCUSO : pole-vault : 08 FEB 1996 : 868 : 17 FEB 2022 : 38
-AUS : Kate ABFALTER : pole-vault : 21 AUG 1999 : 868 : 06 MAR 2022 : 38
-SRI : Sachini KAUSHALYA : pole-vault :  : 868 : 11 MAR 2022 : 38
-IND : Vanshika KUMAR : pole-vault : 2005 : 868 : 13 MAR 2022 : 38
-IND : Rachan KRISHNA : pole-vault : 24 MAY 1994 : 868 : 29 MAR 2022 : 38
-AUS : Lara WITTEY : pole-vault : 15 JAN 2004 : 853 : 26 JAN 2022 : 48
-RSA : Mirè REINSTORF : pole-vault : 05 JUN 2002 : 844 : 28 JAN 2022 : 49
-GBR : Elizabeth EDDEN : pole-vault : 29 JUN 1994 : 841 : 30 JAN 2022 : 50
-GBR : Jasmine CAREY : pole-vault : 13 SEP 2002 : 841 : 30 JAN 2022 : 50
-NZL : Alisha LOVRICH : pole-vault : 19 JUL 1993 : 838 : 05 FEB 2022 : 52
-MLT : Peppijna DALLI : pole-vault : 16 JAN 1998 : 838 : 19 FEB 2022 : 52
-IND : Jaison MARIYA : pole-vault : 23 SEP 1997 : 838 : 01 MAR 2022 : 52
-IND : Reshma RAVEENDRAN : pole-vault : 20 FEB 1996 : 838 : 06 MAR 2022 : 52
-GBR : Natasha PURCHAS : pole-vault : 12 JAN 2001 : 838 : 12 MAR 2022 : 52
-RSA : Erica MOOLMAN : pole-vault : 03 NOV 2001 : 838 : 19 MAR 2022 : 52
-NZL : Eliza MEEKINGS : pole-vault : 12 MAY 2002 : 838 : 23 MAR 2022 : 52
-GBR : Carys JONES : pole-vault : 17 DEC 1998 : 825 : 13 MAR 2022 : 59
-GBR : Mariette HILBORNE : pole-vault : 10 DEC 1984 : 810 : 30 JAN 2022 : 60
-GBR : Manon BAINES : pole-vault :  : 810 : 30 JAN 2022 : 60
-GBR : Emily SCRIVENER : pole-vault : 29 JUL 2003 : 810 : 30 JAN 2022 : 60
-GBR : Nyree PERRY : pole-vault :  : 810 : 13 MAR 2022 : 60
-GBR : Kaliska NOWERS : pole-vault :  : 810 : 13 MAR 2022 : 60
-AUS : Megan SEVE : pole-vault : 08 SEP 1996 : 807 : 29 JAN 2022 : 65
-AUS : Haneefa RANE : pole-vault : 24 MAR 2006 : 807 : 05 FEB 2022 : 65
-IND : B. BALANISHA : pole-vault : 26 JAN 2002 : 807 : 23 FEB 2022 : 65
-IND : Babita PATEL : pole-vault : 12 AUG 2000 : 807 : 23 FEB 2022 : 65
-AUS : Anais FITZPATRICK : pole-vault : 2006 : 807 : 25 FEB 2022 : 65
-IND : Preethika ANANDHAN : pole-vault : 06 JUN 1998 : 807 : 01 MAR 2022 : 65
-IND : K. Arsha BABU : pole-vault : 18 MAR 1999 : 807 : 06 MAR 2022 : 65
-SRI : K.A.K. LAKRANI PERERA : pole-vault : 1986 : 807 : 11 MAR 2022 : 65
-AUS : Nicola SLADE : pole-vault : 2003 : 807 : 26 MAR 2022 : 65
-IND : Vanshika GHANGHAS : pole-vault : 10 AUG 2005 : 807 : 02 APR 2022 : 65
-IND : G. SINDHUSHREE : pole-vault : 23 OCT 2000 : 807 : 02 APR 2022 : 65
+CAN : Alysha NEWMAN : pole-vault : 29 JUN 1994 : 1177 : 08 JUN 2022 : 1
+NZL : Olivia MCTAGGART : pole-vault : 09 JAN 2000 : 1161 : 05 MAR 2022 : 3
+GBR : Holly BRADSHAW : pole-vault : 02 NOV 1991 : 1145 : 25 MAY 2022 : 4
+GBR : Molly CAUDERY : pole-vault : 17 MAR 2000 : 1145 : 25 MAY 2022 : 4
+NZL : Imogen AYRIS : pole-vault : 12 DEC 2000 : 1099 : 19 JAN 2022 : 6
+GBR : Sophie COOK : pole-vault : 12 SEP 1994 : 1099 : 21 MAY 2022 : 6
+CAN : Anicka NEWELL : pole-vault : 05 AUG 1993 : 1083 : 29 MAY 2022 : 8
+CAN : Rachel HYINK : pole-vault : 1998 : 1052 : 14 MAY 2022 : 9
+AUS : Courtney SMALLACOMBE : pole-vault : 18 JAN 1991 : 1021 : 29 JAN 2022 : 10
+AUS : Elizaveta PARNOVA : pole-vault : 09 MAY 1994 : 1021 : 11 MAR 2022 : 10
+AUS : Jamie SCROOP : pole-vault : 29 MAR 1988 : 1021 : 01 APR 2022 : 10
+CAN : Heather ABADIE : pole-vault : 21 FEB 2003 : 1021 : 30 APR 2022 : 10
+GBR : Jade IVE : pole-vault : 22 JAN 1992 : 1021 : 15 MAY 2022 : 10
+GBR : Sophie ASHURST : pole-vault : 26 APR 2003 : 1006 : 22 MAY 2022 : 15
+GBR : Jade SPENCER-SMITH : pole-vault : 08 NOV 2001 : 1006 : 22 MAY 2022 : 15
+CAN : Erika FIEDLER : pole-vault : 1991 : 1006 : 08 JUN 2022 : 15
+AUS : Raphaela CORNEY : pole-vault : 10 MAR 2001 : 994 : 21 JAN 2022 : 18
+AUS : Cassidy BRADSHAW : pole-vault : 06 OCT 2003 : 990 : 08 JAN 2022 : 19
+CAN : Robin BONE : pole-vault : 13 FEB 1994 : 990 : 22 APR 2022 : 19
+IND : Vengatesh PAVITHRA : pole-vault : 08 DEC 2001 : 990 : 13 MAY 2022 : 19
+CAN : Paige COCKS : pole-vault : 1992 : 978 : 16 APR 2022 : 22
+AUS : Madeline LAWSON : pole-vault : 23 FEB 1996 : 975 : 29 JAN 2022 : 23
+AUS : Olivia GROSS : pole-vault : 29 AUG 2002 : 975 : 01 APR 2022 : 23
+GBR : Felicia MILORO : pole-vault : 05 JAN 2001 : 975 : 22 MAY 2022 : 23
+GBR : Jessica ROBINSON : pole-vault : 26 JUN 1999 : 975 : 22 MAY 2022 : 23
+IND : Baranica ELANGOAN : pole-vault : 03 FEB 1997 : 975 : 24 MAY 2022 : 23
+CAN : Sara WAGENVELD : pole-vault : 1998 : 972 : 26 MAR 2022 : 28
+GBR : Kate WATSON : pole-vault : 31 OCT 1999 : 969 : 23 APR 2022 : 29
+GBR : Megan BAILEY : pole-vault : 22 JAN 1998 : 963 : 14 MAY 2022 : 30
+AUS : Georgia TAYLER : pole-vault : 09 AUG 2004 : 960 : 22 JAN 2022 : 31
+AUS : Ellie PARSONS : pole-vault : 04 APR 2004 : 960 : 11 MAR 2022 : 31
+IND : P. Rosy MEENA : pole-vault : 28 OCT 1997 : 960 : 02 APR 2022 : 31
+RSA : Mirè REINSTORF : pole-vault : 05 JUN 2002 : 960 : 21 APR 2022 : 31
+MAS : Nor Sarah ADI : pole-vault : 20 AUG 2000 : 960 : 16 MAY 2022 : 31
+GBR : Rebecca CESAR DE SA : pole-vault :  : 960 : 01 JUN 2022 : 31
+RSA : Nicole JANSE VAN RENSBURG : pole-vault : 2001 : 954 : 15 MAY 2022 : 37
+AUS : Elizabeth BARAL : pole-vault : 30 JAN 1998 : 944 : 16 JAN 2022 : 38
+IND : . POOJA : pole-vault : 09 MAR 2003 : 944 : 23 FEB 2022 : 38
+GBR : Gemma TUTTON : pole-vault : 08 NOV 2004 : 944 : 22 MAY 2022 : 38
+GBR : Courtney MACGUIRE : pole-vault : 30 APR 1990 : 944 : 22 MAY 2022 : 38
+CAN : Alexzandra THRONDSON : pole-vault : 08 APR 2001 : 929 : 29 MAY 2022 : 42
+CAN : Katy MAGOFFIN : pole-vault : 1999 : 929 : 29 MAY 2022 : 42
+CAN : Mia RODNEY : pole-vault : 2001 : 929 : 29 MAY 2022 : 42
+CAN : Meghan LIM : pole-vault : 1997 : 929 : 08 JUN 2022 : 42
+CAN : Emily BLACKNER : pole-vault : 1997 : 929 : 08 JUN 2022 : 42
+CAN : Jennifer ELIZAROV : pole-vault : 2003 : 929 : 08 JUN 2022 : 42
+GBR : Natasha PURCHAS : pole-vault : 12 JAN 2001 : 923 : 15 MAY 2022 : 48
+CAN : Sonya URBANOWICZ : pole-vault : 2004 : 920 : 22 APR 2022 : 49
+IND : Divya MOHAN : pole-vault : 28 JUL 1999 : 914 : 06 MAR 2022 : 50
+AUS : Grace BATH : pole-vault : 18 NOV 1994 : 898 : 08 JAN 2022 : 51
+IND : . POOJA : pole-vault : 05 SEP 2001 : 898 : 02 APR 2022 : 51
+RSA : Tonet TALLIE : pole-vault : 26 MAR 2002 : 898 : 06 MAY 2022 : 51
+GBR : Sophie DOWSON : pole-vault : 24 NOV 1998 : 898 : 07 MAY 2022 : 51
+GBR : Carys JONES : pole-vault : 17 DEC 1998 : 898 : 07 MAY 2022 : 51
+CYP : Andrea VASOU : pole-vault : 25 JUN 2003 : 898 : 07 MAY 2022 : 51
+RSA : Erica MOOLMAN : pole-vault : 03 NOV 2001 : 889 : 08 APR 2022 : 57
+GBR : Imogen SMITH : pole-vault : 02 SEP 1999 : 886 : 30 JAN 2022 : 58
+IND : . SATHYA : pole-vault : 02 MAY 2001 : 883 : 23 FEB 2022 : 59
+NZL : Aria RHODES : pole-vault : 04 JUL 2002 : 883 : 05 MAR 2022 : 59
+AUS : Isabella MURRELL : pole-vault : 30 DEC 1998 : 883 : 05 MAR 2022 : 59
+GBR : Lois WARDEN : pole-vault : 26 MAR 2002 : 883 : 14 APR 2022 : 59
+CAN : Lynton LAM : pole-vault : 1998 : 883 : 29 MAY 2022 : 59
+GBR : Isabel THOMAS : pole-vault : 01 MAR 2004 : 871 : 13 MAR 2022 : 64
+GBR : Nemiah MUNIR : pole-vault :  : 871 : 13 MAR 2022 : 64
+SRI : Sachini KAUSHALYA : pole-vault :  : 871 : 09 APR 2022 : 64
+AUS : Leila BARKER : pole-vault : 2005 : 868 : 14 JAN 2022 : 67
+AUS : Felicity JOUVELET : pole-vault : 25 MAY 2003 : 868 : 22 JAN 2022 : 67
+AUS : Jade ARNUTHNOT : pole-vault : 2004 : 868 : 05 FEB 2022 : 67
+NZL : Hannah ADYE : pole-vault : 30 APR 2003 : 868 : 05 FEB 2022 : 67
+AUS : Tryphena HEWETT : pole-vault : 22 OCT 2005 : 868 : 12 FEB 2022 : 67
+AUS : Tamara MANCUSO : pole-vault : 08 FEB 1996 : 868 : 17 FEB 2022 : 67
+AUS : Kate ABFALTER : pole-vault : 21 AUG 1999 : 868 : 06 MAR 2022 : 67
+IND : Vanshika KUMAR : pole-vault : 2005 : 868 : 13 MAR 2022 : 67
+IND : Rachan KRISHNA : pole-vault : 24 MAY 1994 : 868 : 29 MAR 2022 : 67
+IND : Jaison MARIYA : pole-vault : 23 SEP 1997 : 868 : 14 MAY 2022 : 67
+AUS : Lara WITTEY : pole-vault : 15 JAN 2004 : 853 : 26 JAN 2022 : 77
+CAN : Sage STOYKA KAY : pole-vault :  : 853 : 13 MAY 2022 : 77
+GBR : Elizabeth EDDEN : pole-vault : 29 JUN 1994 : 841 : 30 JAN 2022 : 79
+GBR : Jasmine CAREY : pole-vault : 13 SEP 2002 : 841 : 30 JAN 2022 : 79
+CAN : Sophia SLOVENSKI : pole-vault : 1999 : 841 : 19 MAY 2022 : 79
+NZL : Alisha LOVRICH : pole-vault : 19 JUL 1993 : 838 : 05 FEB 2022 : 82
+MLT : Peppijna DALLI : pole-vault : 16 JAN 1998 : 838 : 19 FEB 2022 : 82
+IND : Reshma RAVEENDRAN : pole-vault : 20 FEB 1996 : 838 : 06 MAR 2022 : 82
+NZL : Eliza MEEKINGS : pole-vault : 12 MAY 2002 : 838 : 23 MAR 2022 : 82
+SGP : Rachel YANG : pole-vault : 28 FEB 1982 : 838 : 17 APR 2022 : 82
+GBR : Sara BARBOUR : pole-vault :  : 838 : 07 MAY 2022 : 82
+IND : B. BALANISHA : pole-vault : 26 JAN 2002 : 838 : 13 MAY 2022 : 82
+GBR : Manon BAINES : pole-vault : 18 JAN 2005 : 838 : 28 MAY 2022 : 82
+CAN : Quinn MILLER : pole-vault : 2003 : 838 : 29 MAY 2022 : 82
+CAN : Monica GRIGORE : pole-vault : 2002 : 838 : 08 JUN 2022 : 82
+GBR : Jessica SWANNACK : pole-vault : 26 SEP 1998 : 831 : 14 MAY 2022 : 92
+GBR : Mariette HILBORNE : pole-vault : 10 DEC 1984 : 822 : 15 MAY 2022 : 93
+CAN : Daniela BECKETT : pole-vault : 2004 : 822 : 28 MAY 2022 : 93
+GBR : Emily SCRIVENER : pole-vault : 29 JUL 2003 : 810 : 30 JAN 2022 : 95
+GBR : Nyree PERRY : pole-vault :  : 810 : 13 MAR 2022 : 95
+GBR : Kaliska NOWERS : pole-vault :  : 810 : 13 MAR 2022 : 95
+AUS : Megan SEVE : pole-vault : 08 SEP 1996 : 807 : 29 JAN 2022 : 98
+AUS : Haneefa RANE : pole-vault : 24 MAR 2006 : 807 : 05 FEB 2022 : 98
+IND : Babita PATEL : pole-vault : 12 AUG 2000 : 807 : 23 FEB 2022 : 98

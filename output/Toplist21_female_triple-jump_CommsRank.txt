@@ -95,6 +95,6 @@ CAN : Izzy GOUDROS : triple-jump : 12 AUG 2003 : 969 : 06 JUL 2021 : 93
 BAR : Aria SMALL : triple-jump : 23 JUL 1999 : 968 : 03 APR 2021 : 95
 GBR : Angela BARRETT : triple-jump : 25 DEC 1985 : 968 : 28 AUG 2021 : 95
 GBR : Eavion RICHARDSON : triple-jump : 17 JUN 1998 : 967 : 03 APR 2021 : 97
-NGR : Fejiro Praise DJOMA : triple-jump : 18 MAY 2006 : 966 : 12 MAR 2021 : 98
+NGR : Fejiro Praise ODJOMA : triple-jump : 18 MAY 2006 : 966 : 12 MAR 2021 : 98
 GHA : Jacqueline POKUAAH : triple-jump :  : 966 : 08 MAY 2021 : 98
 BAH : Bria SANDS : triple-jump :  : 966 : 27 MAY 2021 : 98
