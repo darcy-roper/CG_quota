@@ -1,5 +1,5 @@
 # CG_quota
-Selenium dependent program for scraping the world athletics webpage to determine Australia's top athletes eligible for selection in the 2022 Birmingham Commonwealth Games. - Note the webscraping bot developed as part of this project has been superseded by an API based graphQL fetching bot which can be found in [link]
+Selenium dependent program for scraping the world athletics webpage to determine Australia's top athletes eligible for selection in the 2022 Birmingham Commonwealth Games. - Note the webscraping bot developed as part of this project has been superseded by an API based graphQL fetching bot which can be found in https://github.com/darcy-roper/results-webanalytics/blob/main/plotly_aths_dashboard/WebScrape2.0-API.py 
 
 Main program files should install chrome driver if not found. If error:
 Download links are available here: https://chromedriver.chromium.org/downloads
